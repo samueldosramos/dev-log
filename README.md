@@ -4,4 +4,8 @@
 <br>
 <br>
 <br>
-Inspired in: [Eric Douglas Dev-log](https://github.com/ericdouglas/dev-log)
+Inspired in:   
+
+* [Eric Douglas Dev-log](https://github.com/ericdouglas/dev-log)
+
+
