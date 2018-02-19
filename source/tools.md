@@ -159,6 +159,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/)
 * [Unicode Table](https://unicode-table.com/)
 * [Iconogen](http://digitalagencyrankings.com/iconogen/)
+* [Favic-o-Matic - Ultimate favicon generator](http://www.favicomatic.com/)
 
 
 ## Imagens/Vídeos
