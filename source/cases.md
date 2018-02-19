@@ -1,0 +1,17 @@
+# Cases
+
+* [A User Research Case Study on Slack: Phase 1, User Interviews](https://medium.com/@samihah/part-1-a-user-research-case-study-on-slack-84a55c44ec69)
+* [A User Research Case Study on Slack: Phase 2, Usability Studies](https://medium.com/@samihah/a-user-research-case-study-on-slack-phase-2-usability-studies-41226485447c)
+* [Introducing feedly’s New Explore Experience](https://medium.com/feedly-behind-the-curtain/introducing-feedly-s-new-explore-experience-5cb5aa843cec)
+* [Music Player: From UI Proposal to Code](https://stories.uplabs.com/music-player-3a85864d6df7)
+* [Código Aberto – Carol Baracat, Head of Marketing, Spotify](http://www.b9.com.br/64537/codigo-aberto-carol-baracat-head-of-marketing-spotify/)
+* [Começando uma Startup com um MVP Concierge](https://helabs.com/artigos/2013/07/18/comecando-com-um-mvp-concierge/)
+* [Week 10 – GNOME usability test results (Part 1)](https://ginadobrescu.wordpress.com/outreachy-program/week-10-gnome-usability-test-results-part-1/)
+* [Experiências na construção de um home broker](https://medium.com/tableless/experi%C3%AAncias-na-constru%C3%A7%C3%A3o-de-um-home-broker-a863a25edb05)
+* [Design no Nubank](https://medium.com/fjord-fala/design-no-nubank-2159d67b3848?ref=fb.com%2Fuilabschool%2F)
+* [How we designed our bank account: NuConta — Part I](https://nubank.design/how-we-designed-our-bank-account-nuconta-part-i-18105b8d3dfe)
+* [Processo front-end na Locaweb](https://tableless.com.br/processo-front-end-na-locaweb/)
+* [A stack front-end da Cubos](https://medium.com/blog-da-cubos/a-stack-front-end-da-cubos-221966b5698f)
+* [Conheça a stack da HE:labs, Parte 1](https://helabs.com/artigos/2014/08/08/conheca-a-stack-da-he-labs-parte-1/)
+* [Conheça a stack da HE:labs - parte 2](https://helabs.com/artigos/2015/01/09/conheca-a-stack-da-he-labs-parte-2/)
+* [Setup Loop Infinito](http://setup.loopinfinito.com.br/)

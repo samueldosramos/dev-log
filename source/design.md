@@ -1,0 +1,89 @@
+# Design
+
+##  Geral
+* [10 maneiras de se tornar um melhor designer](https://chocoladesign.com/10-maneiras-de-se-tornar-um-melhor-designer-9784c2d991fb)
+* [Don Norman e seus princípios de design](https://uxdesign.blog.br/don-norman-e-seus-princ%C3%ADpios-de-design-fe063669184d)
+* [Os princípios do design em User Interface](https://medium.com/ui-lab-school/os-princ%C3%ADpios-do-design-em-user-interface-80f300cb81e0)
+* [Design versus arte - A diferença e sua importância](http://idesigns.com.br/blog/129-design-versus-arte-a-diferenca-e-sua-importancia)
+* [Os entregáveis da Arquitetura de Informação](https://brasil.uxdesign.cc/os-entreg%C3%A1veis-da-arquitetura-de-informa%C3%A7%C3%A3o-ff03baf3ba45)
+* [Portfólio: a importância de ter e como fazer um](https://blog.wedologos.com.br/expandir-negocio/portfolio-a-importancia-de-ter-e-como-fazer-um/)
+* [10 Fases para Criar uma Identidade Visual](http://www.designculture.com.br/10-fases-para-criar-uma-identidade-visual/)
+* [Design e consistência](https://helabs.com/artigos/2015/05/13/design-e-consistencia/)
+* [Design é Como Funciona](https://helabs.com/artigos/2014/06/11/design-e-como-funciona/)
+* [Aprendendo Material Design](http://designontherocks.blog.br/aprendendo-sobre-material-design/)
+* [Flat design: a nova tendência dos gradientes](https://tableless.com.br/flat-design-nova-tendencia-dos-gradientes/)
+* [O guia definitivo sobre Design para Conversão](https://medium.com/aela/o-guia-definitivo-sobre-design-para-convers%C3%A3o-b55b5e336529)
+* [Digital Product design Principles](http://wouterdebr.es/posts/digital-product-design-principles.html)
+* [A aproximação entre Designers e Desenvolvedores (e alguns links úteis caso você esteja interessado)](https://brasil.uxdesign.cc/a-aproxima%C3%A7%C3%A3o-entre-designers-e-desenvolvedores-e-alguns-links-%C3%BAteis-caso-voc%C3%AA-esteja-interessado-b720ba829ee7)
+* [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
+* [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
+
+
+## Tipografia
+* [Você sabe usar tipografia em UI Design?](https://medium.com/ui-lab-school/voc%C3%AA-sabe-usar-tipografia-em-ui-design-9ce4ccdbab43)
+* [10 Tips On Typography in Web Design](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)
+* [Tipografia: Guia Sobre Tipos – Escolhendo a fonte certa [parte 01]](https://www.chiefofdesign.com.br/tipografia/)
+* [Tipografia: Guia Sobre Tipos – Escolhendo a fonte certa [parte 02]](https://www.chiefofdesign.com.br/guia-tipografia-parte-02/)
+* [Tipografia: Guia Sobre Tipos – Escolhendo a fonte certa [parte 03]](https://www.chiefofdesign.com.br/guia-tipografia-parte-03/)
+* [Tipografia básica #5 – A anatomia dos tipos](https://clube.design/2015/tipografia-basica-5-a-anatomia-dos-tipos/)
+* [Tipografia para web – Parte 01](https://www.chiefofdesign.com.br/tipografia-para-web-parte-01/)
+* [Tipografia para web – Parte 02](https://www.chiefofdesign.com.br/tipografia-para-web-parte-02/)
+* [Como usar a Tipografia para melhorar a Conversão de seus projetos?](https://www.chiefofdesign.com.br/tipografia-para-conversao/)
+* [Como escolher a tipografia ideal para o seu projeto?](https://blog.wedologos.com.br/expandir-negocio/a-tipografia-ideal/)
+
+
+## Cores
+* [Manual do Designer: Quando e Como usar Contraste de Cor](http://www.des1gnon.com/2017/11/usar-contraste-de-cor/)
+* [O Significado das Cores](http://www.pinceladasdaweb.com.br/blog/2011/08/16/o-significado-das-cores/)
+* [Contraste de cores – Acessibilidade na web](https://tableless.com.br/contraste-de-cores-acessibilidade-na-web/)
+* [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
+
+
+## UX
+* [Por onde começar na área de UX?](https://uxdesign.blog.br/por-onde-come%C3%A7ar-na-%C3%A1rea-de-ux-49237cc7de90)
+* [O que é UX — User Experience e como começar nessa carreira](https://chocoladesign.com/o-que-%C3%A9-ux-user-experience-e-como-come%C3%A7ar-nessa-carreira-81b766f9103)
+* [Guia De UX Para Iniciantes](https://pt.wix.com/blog/2015/05/guia-para-iniciantes-ux/)
+* [Ux Para Gps](https://brasil.uxdesign.cc/tagged/ux-para-gps)
+* [O que é UX e como posso ser um UX Designer?](https://www.estudarti.com.br/o-que-e-ux-e-como-posso-ser-um-ux-designer/)
+* [Por que UX? — por Emerson Niide](https://brasil.uxdesign.cc/por-que-ux-por-emerson-niide-1c58a861435e)
+* [Dívida de UX](http://glauberramos.com/divida-ux.html)
+* [Famosas leis aplicadas à Experiência do Usuário](https://ux123.wordpress.com/2013/07/18/famosas-leis-na-experiencia-do-usuario)
+* [As funções responsáveis por projetar a Experiência do Usuário (UX)](https://www.ecommercebrasil.com.br/artigos/funcoes-responsaveis-por-projetar-experiencia-usuario-ux/)
+* [Métricas de UX, o que são e como definir](https://medium.com/skillsweb/m%C3%A9tricas-de-ux-o-que-s%C3%A3o-e-como-definir-a9fbb920411)
+* [Usando os microtextos a favor da experiência do usuário](https://brasil.uxdesign.cc/usando-os-microtextos-a-favor-da-experi%C3%AAncia-do-usu%C3%A1rio-79cf7082bf43)
+* [A diferença entre Lean UX e Agile UX (e a importância dos protótipos no design)](https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-lean-ux-e-agile-ux-e-a-import%C3%A2ncia-dos-prot%C3%B3tipos-no-design-85607e43a882)
+* [Os papéis em um time de UX](https://imasters.com.br/design-ux/user-experience-design/os-papeis-em-um-time-de-ux/)
+* [Dicas de UX para o seu website](http://www.designculture.com.br/dicas-de-ux-para-o-seu-website/)
+* [5 detalhes de UX que a maioria dos websites se esquecem](http://www.designculture.com.br/5-detalhes-de-ux-que-a-maioria-dos-websites-se-esquecem/)
+* [50 boas práticas de UX](https://brasil.uxdesign.cc/50-boas-pr%C3%A1ticas-de-ux-76824745aa88)
+* [A Revolução dos Micro-Momentos: como eles estão mudando as regras](https://www.thinkwithgoogle.com/intl/pt-br/marketing-resources/micro-momentos/how-micromoments-are-changing-rules/)
+* [O quanto UX é importante em seu projeto](https://helabs.com/artigos/2015/01/15/o-quanto-ux-e-importante-em-seu-projeto/)
+* [Usabilidade: Entenda os benefícios de treinar sua equipe em UX](http://blog.caelum.com.br/usabilidade-beneficios-treinar-equipe-ux/)
+* [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
+* [Análise heurística: como fazer e os benefícios para o projeto](https://brasil.uxdesign.cc/an%C3%A1lise-heur%C3%ADstica-o-que-%C3%A9-como-fazer-e-os-benef%C3%ADcios-para-o-projeto-161f3d94436b)
+* [Um link para UX Designers que estão precisando de inspiração](https://brasil.uxdesign.cc/um-link-para-ux-designers-que-est%C3%A3o-precisando-de-inspira%C3%A7%C3%A3o-8525fda38e97)
+* [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/)
+* [UX Tools for every step in your design process](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+* [The steps of our UX design process](https://uxstudioteam.com/ux-blog/ux-design-process-steps/)
+* [UX e Roadmaps: do macro ao detalhe](https://brasil.uxdesign.cc/ux-e-roadmaps-do-macro-ao-detalhe-1541978d970c)
+* [Desenhando para usuários mais velhos](https://brasil.uxdesign.cc/desenhando-para-usu%C3%A1rios-mais-velhos-68bfc64f1c53)
+
+
+## UI
+* [Usabilidade: 10 regras para você desenvolver interfaces agradáveis aos usuários](http://thiagonasc.com/usabilidade/usabilidade-10-regras-desenvolver-interfaces-agradaveis)
+* [7 regras para criar UIs incríveis (parte 1)](https://medium.com/nogs-blog/7-regras-para-criar-uis-incriveis-parte-1-a7e302862b24)
+* [As oito regras de ouro do design de interfaces](https://imasters.com.br/design-ux/usabilidade/as-oito-regras-de-ouro-do-design-de-interfaces/)
+* [Aplicando um Plano de Usabilidade – Parte 1](https://tableless.com.br/aplicando-um-plano-de-usabilidade-parte-1/)
+* [Princípios Básicos do NUI (Natural User Interface) Design](https://uxdesign.blog.br/princ%C3%ADpios-b%C3%A1sicos-do-nui-natural-user-interface-design-7b924d06c152)
+* [Meu Checklist de tarefas para um teste de Usabilidade](https://chocoladesign.com/meu-checklist-de-tarefas-para-um-teste-de-usabilidade-2c5e552ce259)
+* [Sistemas de Design para Interfaces](https://coletivoux.com/sistemas-de-design-para-interfaces-6f846e0067e?ref=uilab.com.br)
+* [Basic UI color guide](https://blog.prototypr.io/basic-ui-color-guide-7612075cc71a)
+* [Button Design Tips: Simple, Small and Vitally Important](https://designshack.net/articles/graphics/button-design-tips/)
+* [Usabilidade: excluir, deletar, apagar, remover ou cancelar?](http://thiagonasc.com/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar)
+* [Game of Thrones Inspired Line Art Logos in Illustrator](https://blog.spoongraphics.co.uk/tutorials/game-of-thrones-inspired-line-art-logos-in-illustrator)
+
+
+
+## Utilidades
+* [UX Project Checklist](https://uxchecklist.github.io/)
+* [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
