@@ -2,7 +2,7 @@
 
 * [Definindo APIs com o API Blueprint](http://eltonminetto.net/post/2017-06-29-definindo-apis-com-api-blueprint/)
 * [Uma abordagem de desenvolvimento API-First](http://blog.rivendel.com.br/2016/11/25/uma-abordagem-de-desenvolvimento-api-first)
-* [Wordpress sem PHP? Bem-vindo ao conceito de API](https://medium.com/the-lab-of-codes/wordpress-sem-php-bem-vindo-ao-conceito-de-api-156cb80de167Wordpress sem PHP? Bem-vindo ao conceito de API)
+* [Wordpress sem PHP? Bem-vindo ao conceito de API](https://medium.com/the-lab-of-codes/wordpress-sem-php-bem-vindo-ao-conceito-de-api-156cb80de167)
 * [REST não é simplesmente retornar JSON: indo além com APIs REST](https://www.treinaweb.com.br/blog/rest-nao-e-simplesmente-retornar-json-indo-alem-com-apis-rest/)
 * [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 * [Features que sua API REST precisa ter desde o início](https://tableless.com.br/features-que-sua-api-rest-precisa-ter-desde-o-inicio/)
