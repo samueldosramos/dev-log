@@ -105,6 +105,9 @@
 * [FontBase - Font management](https://fontba.se/)
 * [CSS Font Stack - Web safe fonts](https://www.cssfontstack.com/)
 * [Nerd Fonts](https://nerdfonts.com/)
+* [Google Noto Fonts](https://www.google.com/get/noto/)
+* [Open Source Design Fonts](https://github.com/opensourcedesign/fonts)
+* [Programming Fonts](http://programmingfonts.org/)
 
 
 ## Frameworks
