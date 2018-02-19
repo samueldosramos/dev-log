@@ -14,6 +14,7 @@
 * [Testando sua API web com Postman](https://codigosimples.net/2018/02/15/testando-sua-api-web-com-postman/)
 * [Hands On GraphQL: Faça sua primeira API!](https://medium.com/equals-lab/hands-on-graphql-minha-primeira-api-170125ef84f6)
 * [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
+* [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 
 
 ## GET e POST
