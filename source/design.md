@@ -84,6 +84,24 @@
 * [Game of Thrones Inspired Line Art Logos in Illustrator](https://blog.spoongraphics.co.uk/tutorials/game-of-thrones-inspired-line-art-logos-in-illustrator)
 
 
+## Arquitetura de Informação
+* [Arquitetura da Informação – Planejando um Web Site](http://www.andrebuzzo.com.br/arquitetura-da-informacao-planejando-um-web-site/#.Vbc-lTZRHYA)
+* [Introdução à Arquitetura de Informação](http://www.pinceladasdaweb.com.br/blog/2010/02/18/introducao-arquitetura-de-informacao/)
+* [10 princípios heurísticos de Arquitetura de Informação](https://brasil.uxdesign.cc/10-princ%C3%ADpios-heur%C3%ADsticos-de-arquitetura-de-informa%C3%A7%C3%A3o-7c034d04e736)
+* [Introdução à Arquitetura de Informação](https://pt.slideshare.net/faberludens/intro-ai)
+* [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
+* [Vamos Ligar e Partilhar? – Introdução à Web Semântica](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-web-semantica/)
+* [Vamos Ligar e Partilhar? – Introdução ao RDF](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdf/)
+* [Vamos Ligar e Partilhar? – Introdução ao RDFS (Parte I)](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdfs-parte-i/)
+* [Vamos Ligar e Partilhar? – Introdução ao RDFS (Parte II)](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdfs-parte-ii/)
+* [Vamos Ligar e Partilhar? – Introdução ao SPARQL](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-sparql/)
+* [Vamos Ligar e Partilhar? – Introdução às Ontologias](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-as-ontologias/)
+* [Vamos Ligar e Partilhar? – Visão Geral sobre OWL](http://pplware.sapo.pt/internet/vamos-ligar-e-partilhar-visao-geral-sobre-owl/)
+* [O que é arquitetura da informação e como pode ser útil para negócios?](http://surfedigital.io/blog/o-que-e-arquitetura-da-informacao-e-como-pode-ser-util-para-negocios/)
+* [Arquitetura de Informação e o seu propósito](https://coletivoux.com/arquitetura-de-informa%C3%A7%C3%A3o-e-o-seu-prop%C3%B3sito-29cd278ebdfe)
+* [O que faz o Arquiteto de Informação?](http://fabricio.work/como-comecar-em-ux-design/)
+* [Arquitetura de informação](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/5-paradigmas-de-interacao/8-arquitetura-de-informacao/)
+
 
 ## Utilidades
 * [UX Project Checklist](https://uxchecklist.github.io/)
