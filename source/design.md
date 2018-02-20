@@ -67,6 +67,7 @@
 * [The steps of our UX design process](https://uxstudioteam.com/ux-blog/ux-design-process-steps/)
 * [UX e Roadmaps: do macro ao detalhe](https://brasil.uxdesign.cc/ux-e-roadmaps-do-macro-ao-detalhe-1541978d970c)
 * [Desenhando para usuários mais velhos](https://brasil.uxdesign.cc/desenhando-para-usu%C3%A1rios-mais-velhos-68bfc64f1c53)
+* [Especial Carreiras do Futuro: UX Designer no Mundo Digital](http://somostera.com/blog/especial-carreiras-do-futuro-ux-designer-no-mundo-digital/)
 
 
 ## UI
