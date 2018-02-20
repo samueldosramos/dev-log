@@ -19,18 +19,4 @@
 * [Dicas profissionais para os iniciantes em web](http://www.pinceladasdaweb.com.br/blog/2011/07/20/dicas-profissionais-para-os-iniciantes-em-web/)
 
 
-## Arquitetura de Informação
-* [Arquitetura da Informação – Planejando um Web Site](http://www.andrebuzzo.com.br/arquitetura-da-informacao-planejando-um-web-site/#.Vbc-lTZRHYA)
-* [Introdução à Arquitetura de Informação](http://www.pinceladasdaweb.com.br/blog/2010/02/18/introducao-arquitetura-de-informacao/)
-* [10 princípios heurísticos de Arquitetura de Informação](https://brasil.uxdesign.cc/10-princ%C3%ADpios-heur%C3%ADsticos-de-arquitetura-de-informa%C3%A7%C3%A3o-7c034d04e736)
-* [Introdução à Arquitetura de Informação](https://pt.slideshare.net/faberludens/intro-ai)
-* [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
-* [Vamos Ligar e Partilhar? – Introdução à Web Semântica](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-web-semantica/)
-* [Vamos Ligar e Partilhar? – Introdução ao RDF](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdf/)
-* [Vamos Ligar e Partilhar? – Introdução ao RDFS (Parte I)](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdfs-parte-i/)
-* [Vamos Ligar e Partilhar? – Introdução ao RDFS (Parte II)](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-rdfs-parte-ii/)
-* [Vamos Ligar e Partilhar? – Introdução ao SPARQL](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-ao-sparql/)
-* [Vamos Ligar e Partilhar? – Introdução às Ontologias](http://pplware.sapo.pt/internet/ligar-partilhar-introducao-as-ontologias/)
-* [Vamos Ligar e Partilhar? – Visão Geral sobre OWL](http://pplware.sapo.pt/internet/vamos-ligar-e-partilhar-visao-geral-sobre-owl/)
-
 
