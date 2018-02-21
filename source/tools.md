@@ -44,6 +44,7 @@
 * [file.io](https://www.file.io/)
 * [Send Firefox](https://send.firefox.com/)
 * [Wetransfer](https://wetransfer.com/)
+* [Send AnyWhere](https://send-anywhere.com/)
 
 
 ## Cores:
