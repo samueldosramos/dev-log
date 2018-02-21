@@ -9,4 +9,4 @@
 * [Controlling color with Sass color functions](https://robots.thoughtbot.com/controlling-color-with-sass-color-functions)
 * [Mixins Better for Performance](https://csswizardry.com/2016/02/mixins-better-for-performance/)
 * [Sass Guidelines](https://sass-guidelin.es/)
-* [Gulp para iniciantes – como compilar e minificar Sass](https://devheroes.io/gulp-iniciantes-compilar-minificar-sass/Gulp para iniciantes – como compilar e minificar Sass)
+* [Gulp para iniciantes – como compilar e minificar Sass](https://devheroes.io/gulp-iniciantes-compilar-minificar-sass/)
