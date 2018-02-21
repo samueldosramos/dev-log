@@ -92,7 +92,7 @@
 
 
 ## Pré-processadores
-* [CSS on Steroids](https://tableless.com.br/css-steroids/()
+* [CSS on Steroids](https://tableless.com.br/css-steroids/)
 * [ CSS on Steroids: A Era dos Pré-processadores](https://jcemer.com/css-on-steroids-a-era-dos-pos-processadores.html)
 
 
