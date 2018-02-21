@@ -99,6 +99,7 @@
 ## Utilidades
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Moment.js](http://momentjs.com/)
+* [Hyperapp](https://hyperapp.js.org)
 
 
 ## Dataviz
