@@ -268,6 +268,7 @@
 * [Tech Stacks](https://stackshare.io/stacks)
 * [Website Downloader](https://websitedownloader.io/)
 * [Photoshop Etiquette ](http://photoshopetiquette.com/)
+* [SweetAlert](https://sweetalert2.github.io)
 
 
 ## Inspiração
@@ -279,5 +280,6 @@
 * [Land Book](https://land-book.com/)
 * [Uplabs](https://www.uplabs.com/)
 * [Bestfolios](http://bestfolios.com/home)
+* [Logopond](https://logopond.com/)
 
 
