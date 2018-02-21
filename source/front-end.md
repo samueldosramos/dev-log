@@ -2,7 +2,7 @@
 
 ## Guias
 * [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
-*[O que um bom desenvolvedor Front-End precisa saber?](https://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber)
+* [O que um bom desenvolvedor Front-End precisa saber?](https://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber)
 * [Do Zero a Herói Front-End (Parte I)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1)
 * [Do Zero a Herói Front-End (Parte II)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)
 * [Um comovente guia de estudo para desenvolvedores front end](https://leandrooriente.com/guia-de-estudo-front-end/)
