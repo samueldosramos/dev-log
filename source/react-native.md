@@ -12,3 +12,4 @@
 * [NativeBase - UI components](https://nativebase.io/)
 * [React (Web + Native) Starter Kit](https://github.com/mcnamee/react-native-starter-kit)
 * [Awesome React Native](https://github.com/jondot/awesome-react-native)
+* [React Native for Web](https://github.com/necolas/react-native-web)
