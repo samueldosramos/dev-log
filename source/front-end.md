@@ -33,6 +33,7 @@
 * [The Code Behind Our New Video Homepage](https://wistia.com/blog/fullscreen-video-homepage)
 * [Initializr – Comece Seu Projeto HTML5 Em 15 Segundos!](http://flaviosilveira.com/2011/initializr-comece-seu-projeto-html5-em-15-segundos/)
 * [Google Web Starter Kit](https://tableless.com.br/google-web-starter-kit/)
+* [Front-end Style Guides](https://24ways.org/2011/front-end-style-guides/)
 
 
 ## Console / DevTools
