@@ -67,6 +67,8 @@
 * [Web Developer Checklist](http://webdevchecklist.com/)
 * [Can I use](https://caniuse.com/)
 * [NavNav](http://navnav.co/)
+* [Browserl.ist](http://browserl.ist/)
+* [Modernizr](https://modernizr.com/)
 * [Diagrama](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development)
 * [Resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 * [The Front-End Checklist](https://frontendchecklist.io/)
