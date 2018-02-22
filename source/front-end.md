@@ -83,3 +83,4 @@
 * [Front End Career](https://github.com/woliveiras/front-end-career)
 * [Web Developer Checklist](https://github.com/ligershark/webdevchecklist.com)
 * [The best of JavaScript, HTML and CSS](https://bestof.js.org/)
+* [Stunning hover effects with CSS variables](https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330)
