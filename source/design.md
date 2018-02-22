@@ -82,6 +82,7 @@
 * [Button Design Tips: Simple, Small and Vitally Important](https://designshack.net/articles/graphics/button-design-tips/)
 * [Usabilidade: excluir, deletar, apagar, remover ou cancelar?](http://thiagonasc.com/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar)
 * [Game of Thrones Inspired Line Art Logos in Illustrator](https://blog.spoongraphics.co.uk/tutorials/game-of-thrones-inspired-line-art-logos-in-illustrator)
+* [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 
 ## Arquitetura de Informação
