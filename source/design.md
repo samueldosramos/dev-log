@@ -17,6 +17,7 @@
 * [A aproximação entre Designers e Desenvolvedores (e alguns links úteis caso você esteja interessado)](https://brasil.uxdesign.cc/a-aproxima%C3%A7%C3%A3o-entre-designers-e-desenvolvedores-e-alguns-links-%C3%BAteis-caso-voc%C3%AA-esteja-interessado-b720ba829ee7)
 * [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
 * [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
+* [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 
 
 ## Tipografia
@@ -37,7 +38,6 @@
 * [O Significado das Cores](http://www.pinceladasdaweb.com.br/blog/2011/08/16/o-significado-das-cores/)
 * [Contraste de cores – Acessibilidade na web](https://tableless.com.br/contraste-de-cores-acessibilidade-na-web/)
 * [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
-* [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 
 
 ## UX
