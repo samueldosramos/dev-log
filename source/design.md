@@ -37,6 +37,7 @@
 * [O Significado das Cores](http://www.pinceladasdaweb.com.br/blog/2011/08/16/o-significado-das-cores/)
 * [Contraste de cores – Acessibilidade na web](https://tableless.com.br/contraste-de-cores-acessibilidade-na-web/)
 * [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
+* [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 
 
 ## UX
