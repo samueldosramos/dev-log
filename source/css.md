@@ -69,6 +69,7 @@
 ## Flexbox
 * [Guia Flexbox Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 * [Documentação: CSS3 Flexbox: Funcionamento e propriedades](https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532)
+* [Repensando Layouts com Flexbox](http://lucasmaiaesilva.com.br/posts/repensando-layouts-com-flexbox)
 * [Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)
 * [Flexbox – Organizando seu layout](https://tableless.com.br/flexbox-organizando-seu-layout/)
 * [Um guia visual para Flexbox](https://edsonjunior.com/um-guia-visual-para-flexbox/)
