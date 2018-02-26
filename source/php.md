@@ -5,6 +5,7 @@
 * [PHP é a melhor opção pra começar](http://www.phpit.com.br/artigos/php-e-a-melhor-opcao-pra-comecar.phpit)
 * [Os benefícios e as vantagens do PHP](http://elias.praciano.com/2014/02/15-beneficios-e-vantagens-do-php/)
 * [PHP não presta?!](https://imasters.com.br/linguagens/php/php-nao-presta/)
+* [O que é PHP e porque você precisa aprender HOJE!](https://becode.com.br/o-que-e-php/)
 
 
 ## Manuais
@@ -76,6 +77,7 @@
 * [10 Melhores Frameworks PHP para projetos Web](http://cienciacomputacao.com.br/desenvolvimento/10-melhores-frameworks-php-para-projetos-web/)
 * [Frameworks no PHP: O que, quando, porque e qual?](http://blog.thiagobelem.net/frameworks-no-php-o-que-quando-porque-e-qual)
 * [Frameworks PHP – Qual é o melhor pra você?](http://www.phpit.com.br/artigos/frameworks-php-qual-e-o-melhor-pra-voce.phpit)
+* [6 frameworks PHP que você precisa conhecer!](https://becode.com.br/frameworks-php-que-voce-precisa-conhecer/)
 
 
 ## Ferramentas
