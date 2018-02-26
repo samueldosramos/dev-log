@@ -15,6 +15,7 @@
 * [Hands On GraphQL: Faça sua primeira API!](https://medium.com/equals-lab/hands-on-graphql-minha-primeira-api-170125ef84f6)
 * [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
 * [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
+* [O que é API? REST e RESTful? Conheça as definições e diferenças!](https://becode.com.br/o-que-e-api-rest-e-restful/)
 
 
 ## GET e POST
