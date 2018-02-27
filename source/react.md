@@ -34,6 +34,7 @@
 * [Crafting more reusable react components](https://medium.com/the-ideal-system/react-meta-ui-components-23839fdcd8d9)
 * [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 * [Um Ensaio sobre Arquitetura Fractal usando Webpack e React](https://blog.taller.net.br/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/)
+* [React - Estruturando projetos e nomeando componentes](https://medium.com/@viniciusdacal/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11)
 
 
 ## Utilidades
