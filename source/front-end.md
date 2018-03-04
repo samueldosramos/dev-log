@@ -59,6 +59,7 @@
 * [Saiba como ser um melhor programador!](http://pplware.sapo.pt/informacao/opiniao/saiba-como-ser-um-melhor-programador/)
 * [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
 * [Java - Padrões de Projeto](http://fernandoanselmo.blogspot.com.br/2015/10/java-padroes-de-projeto.html)
+* [Devtranslate](https://devtranslate.github.io/)
 
 
 ## Utilidades
