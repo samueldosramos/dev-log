@@ -286,5 +286,7 @@
 * [Uplabs](https://www.uplabs.com/)
 * [Bestfolios](http://bestfolios.com/home)
 * [Logopond](https://logopond.com/)
+* [XD Guru](https://www.xdguru.com/)
+* [Awwwards](https://www.awwwards.com/)
 
 
