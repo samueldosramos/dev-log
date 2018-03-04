@@ -51,6 +51,7 @@
 * [Apps nativas vs Web apps: Quais devo escolher?](http://pplware.sapo.pt/internet/apps-nativas-vs-web-apps-quais-devo-escolher/)
 * [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
+* [CSS Diner](https://flukeout.github.io/)
 
 
 ## Organização
