@@ -104,6 +104,7 @@
 * [10 boas práticas para seus formulários](https://www.designerd.com.br/10-boas-praticas-para-seus-formularios/)
 * [7 dicas de design para o site do seu projeto ou empresa](https://www.designerd.com.br/7-dicas-de-design-para-o-site-do-seu-projeto-empresa/)
 * [Dicas profissionais para os iniciantes em web](http://www.pinceladasdaweb.com.br/blog/2011/07/20/dicas-profissionais-para-os-iniciantes-em-web/)
+* [A Comprehensive Guide to Web Design](https://theblog.adobe.com/a-comprehensive-guide-to-web-design/)
 
 
 ## Arquitetura de Informação
