@@ -26,6 +26,7 @@
 * [Introdução ao PostCSS](https://blog.umbler.com/br/introducao-ao-postcss/)
 * [Conhecendo o @supports do CSS](https://tableless.com.br/conhecendo-regra-support-css/)
 * [Entendendo o DOM (Document Object Model)](https://tableless.com.br/entendendo-o-dom-document-object-model/)
+* [CSS Diner](https://flukeout.github.io/)
 
 
 ## Mobile
@@ -51,7 +52,7 @@
 * [Apps nativas vs Web apps: Quais devo escolher?](http://pplware.sapo.pt/internet/apps-nativas-vs-web-apps-quais-devo-escolher/)
 * [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
-* [CSS Diner](https://flukeout.github.io/)
+* [Mobile Design Best Practices](https://theblog.adobe.com/mobile-design-best-practices/)
 
 
 ## Organização
