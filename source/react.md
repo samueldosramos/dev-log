@@ -50,6 +50,7 @@
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [react-input-enhancements](http://alexkuz.github.io/react-input-enhancements/)
+* [React Select](http://jedwatson.github.io/react-select/)
 
 
 ## React Dataviz
