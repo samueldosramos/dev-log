@@ -6,6 +6,6 @@
 * [Webpack é complexo, mas só um pouquinho!](https://coderweb.com.br/webpack-e-complexo-mas-so-um-pouquinho/)
 * [Começando um projeto com Webpack 2](https://barraponto.blog.br/2017/01/12/comecando-um-projeto-com-webpack-2/)
 * [Webpack sem Medo — Parte 1: Introdução](https://blog.dmatoso.com/webpack-sem-medo-introducao-af889eb659e7)
-* [.A.R.V.I.S. - A very intelligent browser based Webpack dashboard](https://github.com/zouhir/jarvis)
+* [J.A.R.V.I.S. - A very intelligent browser based Webpack dashboard](https://github.com/zouhir/jarvis)
 * [Entendendo webpack e criando uma aplicação em React com ele](http://felipegalvao.com.br/blog/2017/03/29/entendendo-webpack-e-criando-uma-aplicacao-em-react-com-ele/)
 * [Webpack e React — Entendendo o processo de deploy](https://medium.com/@oieduardorabelo/webpack-e-react-entendendo-o-processo-de-deploy-5991aa285d1a)
