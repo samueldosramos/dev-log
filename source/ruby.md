@@ -9,6 +9,8 @@
 * [Por que devo aprender Ruby on Rails? Veja 9 razões!](https://becode.com.br/por-que-aprender-ruby-on-rails/)
 * [Why Ruby on Rails is still the best choice?](https://reinteractive.com/posts/320-why-ruby-on-rails-is-still-the-best-choice)
 * [Beautiful Ruby on Rails Series](https://medium.com/the-renaissance-developer/beautiful-ruby-series-d9e4be28e038)
+* [Ruby on Rails: 5 Reasons to Choose It for Your Website](https://tubikstudio.com/ruby-on-rails-5-reasons-to-choose-it-for-your-website/)
+* [Why You Should Write Your Project with Ruby On Rails](https://yalantis.com/blog/why-you-should-write-your-project-with-ruby-on-rails/)
 
 ## Manuais
 * [Documentação](https://www.ruby-lang.org/pt/documentation/ )
