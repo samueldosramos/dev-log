@@ -16,6 +16,7 @@
 * [AOS - Animate On Scroll Library](http://michalsnik.github.io/aos/)
 * [Headroom.js - Hide your header](http://wicky.nillia.ms/headroom.js/)
 * [CSShake](https://elrumordelaluz.github.io/csshake/)
+* [CSSPIN](https://webkul.github.io/csspin/)
 
 
 ## Boilerplates
@@ -70,7 +71,6 @@
 * [On/Off FlipSwitch](https://proto.io/freebies/onoff/)
 * [CSS Arrow Please](http://www.cssarrowplease.com/)
 * [Awesomplete](http://leaverou.github.io/awesomplete/)
-* [Styled Components](https://www.styled-components.com/)
 * [Flexbox Grid](http://flexboxgrid.com)
 * [-prefix-free](http://leaverou.github.io/prefixfree/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
@@ -146,6 +146,7 @@
 * [Coolhue](https://webkul.github.io/coolhue/)
 * [Grabient](https://www.grabient.com/)
 * [Shade](http://jxnblk.com/shade/)
+* [CSS Gradient](https://cssgradient.io/)
 
 
 ## Ícones
