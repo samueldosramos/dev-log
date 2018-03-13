@@ -36,6 +36,7 @@
 * [Um Ensaio sobre Arquitetura Fractal usando Webpack e React](https://blog.taller.net.br/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/)
 * [React - Estruturando projetos e nomeando componentes](https://medium.com/@viniciusdacal/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11)
 * [Functional Components vs. Stateless Functional Components vs. Stateless Components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/)
+* [10 obstáculos frequentes encontrados pelos novos tripulantes do React](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58)
 
 
 ## Utilidades
