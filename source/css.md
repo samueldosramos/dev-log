@@ -92,6 +92,7 @@
 * [Conceitos básicos de Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 * [CSS grid: isso muda tudo de novo](http://loopinfinito.com.br/2013/10/08/css-grid-isso-muda-tudo-de-novo/)
 * [CSS Grid Layout – Guia introdutório](https://www.chiefofdesign.com.br/css-grid-layout/)
+* [Porque CSS Grid é melhor que Bootstrap para criar layouts](http://desenvolvimentoparaweb.com/css/css-grid-melhor-que-bootstrap/)
 
 
 ## Pré-processadores
