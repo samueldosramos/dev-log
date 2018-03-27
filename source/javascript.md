@@ -43,6 +43,7 @@
 * [Desmistificando o destructuring do JavaScript ES6/ES7](https://blog.taller.net.br/desmistificando-o-destructuring-do-javascript-es6es7/)
 * [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1)
 * [5 truques bacanas do JavaScript ES6+](https://medium.com/code-prestige/5-hacks-para-desenvolvedores-js-es6-5d3747d3c10b)
+* [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
 
 
 ## Funcional
