@@ -204,6 +204,7 @@
 * [Escobar Generator](http://pablipsum.com/)
 * [Samuel L. Ipsum](http://slipsum.com/)
 * [JS Ipsum](https://jsipsum.lunarlogic.io/)
+* [Lorem Action](http://loremaction.com)
 * [Real content for all your designs](https://www.lists.design/)
 * [Realistic Data Generator](https://www.mockaroo.com/)
 * [Faker - A library for generating fake data](https://github.com/stympy/faker)
