@@ -38,7 +38,7 @@
 * [Functional Components vs. Stateless Functional Components vs. Stateless Components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/)
 * [10 obstáculos frequentes encontrados pelos novos tripulantes do React](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58)
 * [Entendendo create-react-app](https://rafaell-lycan.com/2016/entendendo-create-react-app/)
-
+* [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 
 ## Utilidades
 * [Tyler Courses](https://tylermcginnis.com/courses/)
