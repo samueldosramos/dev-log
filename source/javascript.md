@@ -87,6 +87,7 @@
 
 
 ## Tutoriais/Livros
+* [JavaScriptt - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [JavaScript - The Right Way](http://jstherightway.org/pt-br/)
 * [The Modern JavaScript Tutorial](http://javascript.info/)
 * [Superhero.js](http://superherojs.com/)
