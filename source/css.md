@@ -1,7 +1,7 @@
 # CSS
 
 ## Introdução
-* [Guia CSS para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS)
+* [Guia CSS para desenvolvedores - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS)
 * [Site do Maujor - Site sobre CSS e Padrões Web](http://www.maujor.com)
 * [CSS-Tricks](https://css-tricks.com/)
 * [CSS Reference](http://cssreference.io/)
