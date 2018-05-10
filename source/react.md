@@ -1,5 +1,7 @@
 # React.js
 
+* [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
+* [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 * [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
 * [#2 - Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
 * [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
@@ -53,6 +55,7 @@
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [react-input-enhancements](http://alexkuz.github.io/react-input-enhancements/)
 * [React Select](http://jedwatson.github.io/react-select/)
+* [React Boilerplate](https://www.reactboilerplate.com/)
 
 
 ## React Dataviz
