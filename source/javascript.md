@@ -7,6 +7,7 @@
 * [Ecossistema JavaScript — Parte 04: Transpilers](https://blog.codecasts.com.br/ecossistema-javascript-parte-04-transpilers-734f77422316)
 * [Ecossistema JavaScript — Parte 05: Bundlers (Builders)](https://blog.codecasts.com.br/ecossistema-javascript-parte-05-bundlers-builders-6809b17ddcf8)
 * [Ecossistema JavaScript — Parte 06: Template Engines](https://blog.codecasts.com.br/ecossistema-javascript-parte-06-template-engines-b41a41178dce)
+* [O que se pode fazer com JavaScript hoje em dia?](https://www.treinaweb.com.br/blog/o-que-se-pode-fazer-com-javascript-hoje-em-dia/)
 * [Orientação a objetos em JavaScript, o básico](https://giovannireisnunes.wordpress.com/2016/12/23/orientacao-a-objetos-em-javascript-o-basico/#more-29950)
 * [Utilizando Classes em Javascript ECMAScript 5](https://medium.com/@fabioantoniocastrosani/classes-em-javascript-es6-b68f2d12061)
 * [Trabalhando com serviços no Javascript](https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c)
