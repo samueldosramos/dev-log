@@ -41,6 +41,7 @@
 * [10 obstáculos frequentes encontrados pelos novos tripulantes do React](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58)
 * [Entendendo create-react-app](https://rafaell-lycan.com/2016/entendendo-create-react-app/)
 * [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+* [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 
 ## Utilidades
 * [Tyler Courses](https://tylermcginnis.com/courses/)
