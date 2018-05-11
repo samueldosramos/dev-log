@@ -55,6 +55,7 @@
 * [PHP e o Princípio da Responsabilidade Única](https://medium.com/tableless/php-e-o-princ%C3%ADpio-da-responsabilidade-%C3%BAnica-9811b729faa1)
 * [PHP e o Princípio da Substituição de Liskov](https://medium.com/tableless/php-e-o-princ%C3%ADpio-da-substitui%C3%A7%C3%A3o-de-liskov-714f2c6282e6)
 * [Padrões de desenvolvimento em PHP com PSRs](https://medium.com/@andrechavesg/padr%C3%B5es-de-desenvolvimento-em-php-com-psrs-34c4204f13f)
+* [PSR - Seguindo Padrões em PHP](https://tableless.com.br/psr-padrao-para-codigo-php/)
 * [Pacote Notável PHP: Bate-papo seguro PHP](https://imasters.com.br/desenvolvimento/pacote-notavel-php-bate-papo-seguro-php/)
 * [Além do MVC [Pt.01] — Qual o problema do MVC?](https://medium.com/by-vinicius-reis/al%C3%A9m-do-mvc-pt-01-qual-o-problema-do-mvc-e615160f1100)
 * [Soluções de proteção para código-fonte PHP – PHP Application Packer package](https://imasters.com.br/linguagens/php/solucoes-de-protecao-para-codigo-fonte-php-php-application-packer-package/)
