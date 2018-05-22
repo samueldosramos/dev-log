@@ -78,6 +78,7 @@
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 * [Fukol Grids](https://github.com/Heydon/fukol-grids)
 * [TWBSColor - Generate your own Bootstrap navbar](https://work.smarchal.com/twbscolor/)
+* [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/)
 
 
 ## Documentação offline
