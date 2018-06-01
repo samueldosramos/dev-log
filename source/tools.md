@@ -121,6 +121,7 @@
 
 ## Frameworks
 * [Bootstrap](http://getbootstrap.com/)
+* [Fire UI Kit](http://fire.uxtheme.net/)
 * [Material-UI](http://www.material-ui.com/#/)
 * [Bulma](https://bulma.io/)
 * [AMP](https://www.ampproject.org/)
@@ -135,7 +136,6 @@
 ## Git
 * [Astral - Organize Your Github Stars](https://astralapp.com/)
 * [Gitignore.io](https://www.gitignore.io/)
-* [keep a changelog](http://keepachangelog.com/)
 * [Git Sketch Plugin](http://mathieudutour.github.io/git-sketch-plugin/)
 * [GitHub Desktop - GUI client](https://desktop.github.com/)
 * [GitKraken - GUI client](https://www.gitkraken.com/)
@@ -241,6 +241,8 @@
 * [Atomic Docs](http://atomicdocs.io/)
 * [Photoshop Etiquette](http://photoshopetiquette.com/)
 * [EditorConfig](http://editorconfig.org/)
+* [keep a changelog](http://keepachangelog.com/)
+* [Semantic Versioning](https://semver.org/)
 
 
 ## Template
