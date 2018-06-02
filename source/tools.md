@@ -171,6 +171,7 @@
 * [Unicode Table](https://unicode-table.com/)
 * [Iconogen](http://digitalagencyrankings.com/iconogen/)
 * [Favic-o-Matic - Ultimate favicon generator](http://www.favicomatic.com/)
+* [Linea](http://linea.io/)
 
 
 ## Imagens/Vídeos
@@ -211,6 +212,7 @@
 * [Real content for all your designs](https://www.lists.design/)
 * [Realistic Data Generator](https://www.mockaroo.com/)
 * [Faker - A library for generating fake data](https://github.com/stympy/faker)
+* [Data for AdobeXD Repeat Grid](https://www.repeatgrid.com/)
 
 
 ## Otimizadores de mídias
