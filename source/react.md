@@ -57,6 +57,7 @@
 * [react-input-enhancements](http://alexkuz.github.io/react-input-enhancements/)
 * [React Select](http://jedwatson.github.io/react-select/)
 * [React Boilerplate](https://www.reactboilerplate.com/)
+* [Smooth UI](https://smooth-ui.smooth-code.com/)
 
 
 ## React Dataviz
