@@ -17,6 +17,7 @@
 * [Headroom.js - Hide your header](http://wicky.nillia.ms/headroom.js/)
 * [CSShake](https://elrumordelaluz.github.io/csshake/)
 * [CSSPIN](https://webkul.github.io/csspin/)
+* [SVGator](https://www.svgator.com/)
 
 
 ## Boilerplates
@@ -46,6 +47,7 @@
 * [Send Firefox](https://send.firefox.com/)
 * [Wetransfer](https://wetransfer.com/)
 * [Send AnyWhere](https://send-anywhere.com/)
+* [Carbon](https://carbon.now.sh/)
 
 
 ## Cores:
@@ -200,6 +202,8 @@
 * [pngtree](https://pt.pngtree.com/)
 * [NASA](https://images.nasa.gov/)
 * [Coverr - Homepage videos](http://coverr.co/)
+* [Cool Backgrounds](https://coolbackgrounds.io/)
+* [Heropatterns](http://www.heropatterns.com/)
 
 
 ## Lorem Ipsum/Dados
@@ -279,7 +283,6 @@
 
 
 ## Outros
-* [Heropatterns](http://www.heropatterns.com/)
 * [Better Error Pages](https://better-error-pages.statuspage.io/)
 * [Outdated Browser](http://outdatedbrowser.com/pt-br)
 * [Tech Stacks](https://stackshare.io/stacks)
