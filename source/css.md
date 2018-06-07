@@ -97,6 +97,7 @@
 * [CSS Grid Layout – Guia introdutório](https://www.chiefofdesign.com.br/css-grid-layout/)
 * [Porque CSS Grid é melhor que Bootstrap para criar layouts](http://desenvolvimentoparaweb.com/css/css-grid-melhor-que-bootstrap/)
 * [Diquinhas marotas de CSS Grid (parte 1)](http://desenvolvimentoparaweb.com/css/css-grid-dicas-parte-1/)
+* [CSS Grid — Responsive layouts and components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)
 
 
 ## Pré-processadores
