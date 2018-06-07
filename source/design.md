@@ -18,6 +18,7 @@
 * [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
 * [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
 * [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
+* [Short, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/useful-ui-ux-design-tips/)
 
 
 ## Tipografia
@@ -105,6 +106,7 @@
 * [7 dicas de design para o site do seu projeto ou empresa](https://www.designerd.com.br/7-dicas-de-design-para-o-site-do-seu-projeto-empresa/)
 * [Dicas profissionais para os iniciantes em web](http://www.pinceladasdaweb.com.br/blog/2011/07/20/dicas-profissionais-para-os-iniciantes-em-web/)
 * [A Comprehensive Guide to Web Design](https://theblog.adobe.com/a-comprehensive-guide-to-web-design/)
+* [Guia Completo de Prototipação em UX Design](https://awari.com.br/blog/guia-prototipos-ux-design)
 
 
 ## Arquitetura de Informação
