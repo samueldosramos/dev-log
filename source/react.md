@@ -43,6 +43,8 @@
 * [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 * [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 * [PropTypes no React](https://medium.com/@fannyvieira/proptypes-in-react-eb5f9d417fb)
+* [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
+
 
 ## Utilidades
 * [Tyler Courses](https://tylermcginnis.com/courses/)
