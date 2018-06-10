@@ -18,6 +18,7 @@
 * [CSShake](https://elrumordelaluz.github.io/csshake/)
 * [CSSPIN](https://webkul.github.io/csspin/)
 * [SVGator](https://www.svgator.com/)
+* [Lottie](https://airbnb.design/lottie/)
 
 
 ## Boilerplates
@@ -83,11 +84,12 @@
 * [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/)
 
 
-## Documentação offline
+## Documentação
 * [Dash](https://kapeli.com/dash)
 * [Zeal](https://zealdocs.org/)
 * [DevDocs](http://devdocs.io/)
 * [DevDocs Desktop](https://devdocs.egoist.moe/)
+* [DevHints - cheatsheets](https://devhints.io/)
 
 
 ## Editores de código online:
@@ -252,6 +254,13 @@
 * [Semantic Versioning](https://semver.org/)
 
 
+## Tecnologia utilizadas
+* [Tech Stacks](https://stackshare.io/stacks)
+* [Website Downloader](https://websitedownloader.io/)
+* [Wappalyzer](https://www.wappalyzer.com/)
+* [WhatRuns](https://www.whatruns.com/)
+
+
 ## Template
 * [HTML5 UP](https://html5up.net/)
 * [Templated](https://templated.co/)
@@ -259,6 +268,7 @@
 * [Free themes for Bootstrap](https://bootswatch.com/)
 * [Start Bootstrap](https://startbootstrap.com/)
 * [Bootstrap Zero](https://www.bootstrapzero.com/)
+* [Froala Design Blocks](https://www.froala.com/design-blocks)
 
 
 ## Testes
@@ -285,8 +295,6 @@
 ## Outros
 * [Better Error Pages](https://better-error-pages.statuspage.io/)
 * [Outdated Browser](http://outdatedbrowser.com/pt-br)
-* [Tech Stacks](https://stackshare.io/stacks)
-* [Website Downloader](https://websitedownloader.io/)
 * [Photoshop Etiquette ](http://photoshopetiquette.com/)
 * [SweetAlert](https://sweetalert2.github.io)
 
