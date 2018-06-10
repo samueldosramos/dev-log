@@ -6,8 +6,6 @@
 * [REST não é simplesmente retornar JSON: indo além com APIs REST](https://www.treinaweb.com.br/blog/rest-nao-e-simplesmente-retornar-json-indo-alem-com-apis-rest/)
 * [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 * [Features que sua API REST precisa ter desde o início](https://tableless.com.br/features-que-sua-api-rest-precisa-ter-desde-o-inicio/)
-* [99APIs - Maior Hub brasileiro de APIs abertas](http://99apis.com/home)
-* [Public APIs](https://github.com/toddmotto/public-apis)
 * [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
 * [Consumindo API com o Fetch](http://igoroliveira.me/blog/consumindo-api-com-fetch/)
 * [JSON Web Tokens: explicado](https://medium.com/@luisfelipezaguini/json-web-tokens-explicado-dba4ae3a9579)
@@ -23,3 +21,9 @@
 * [Como funcionam os métodos GET e POST](http://www.devfuria.com.br/php/como-funcionam-os-metodos-get-e-post/)
 * [Principais diferenças entre os métodos http GET e POST](http://www.marceloweb.info/principais-diferencas-entre-os-metodos-http-get-e-post)
 * [Requisições GET e POST – Principais diferenças](http://tecnologiaeinovacao.com.br/blog/2016/07/24/requisicoes-get-e-post-principais-diferencas/)
+
+
+## Utilidades
+* [99APIs - Maior Hub brasileiro de APIs abertas](http://99apis.com/home)
+* [Public APIs](https://github.com/toddmotto/public-apis)
+* [RapidAPI Marketplace](https://rapidapi.com/RapidAPI Marketplace)
