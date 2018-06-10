@@ -26,4 +26,4 @@
 ## Utilidades
 * [99APIs - Maior Hub brasileiro de APIs abertas](http://99apis.com/home)
 * [Public APIs](https://github.com/toddmotto/public-apis)
-* [RapidAPI Marketplace](https://rapidapi.com/RapidAPI Marketplace)
+* [RapidAPI Marketplace](https://rapidapi.com/)
