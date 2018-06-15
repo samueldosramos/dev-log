@@ -104,6 +104,7 @@
 * [Moment.js](http://momentjs.com/)
 * [Hyperapp](https://hyperapp.js.org)
 * [Code To Go](https://codetogo.io/)
+* [JavaScript Charts & Maps](https://www.amcharts.com/)
 
 
 ## Dataviz
