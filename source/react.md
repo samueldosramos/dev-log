@@ -44,6 +44,7 @@
 * [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 * [PropTypes no React](https://medium.com/@fannyvieira/proptypes-in-react-eb5f9d417fb)
 * [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
+* [Entendendo estado de componentes com React na prática](https://imasters.com.br/front-end/entendendo-estado-de-componentes-com-react-na-pratica)
 
 
 ## Utilidades
