@@ -177,6 +177,7 @@
 * [Iconogen](http://digitalagencyrankings.com/iconogen/)
 * [Favic-o-Matic - Ultimate favicon generator](http://www.favicomatic.com/)
 * [Linea](http://linea.io/)
+* [Vivid](https://webkul.github.io/vivid/)
 
 
 ## Imagens/Vídeos
