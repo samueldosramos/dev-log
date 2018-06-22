@@ -313,5 +313,6 @@
 * [XD Guru](https://www.xdguru.com/)
 * [Awwwards](https://www.awwwards.com/)
 * [Lapa Ninja - Landing Page](https://www.lapa.ninja/)
-
+* [Design Patterns](https://codepen.io/patterns)
+* [Codrops](https://tympanus.net/codrops/)
 
