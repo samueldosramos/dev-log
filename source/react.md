@@ -38,6 +38,8 @@
 * [Um Ensaio sobre Arquitetura Fractal usando Webpack e React](https://blog.taller.net.br/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/)
 * [React - Estruturando projetos e nomeando componentes](https://medium.com/@viniciusdacal/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11)
 * [Functional Components vs. Stateless Functional Components vs. Stateless Components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/)
+* [Estado em componentes web](https://fernahh.com.br/estado-em-componentes-web/)
+* [Lidando com estados em React – Parte 01](https://imasters.com.br/desenvolvimento/lidando-com-estados-em-react-parte-01)
 * [10 obstáculos frequentes encontrados pelos novos tripulantes do React](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58)
 * [Entendendo create-react-app](https://rafaell-lycan.com/2016/entendendo-create-react-app/)
 * [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
@@ -46,6 +48,7 @@
 * [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
 * [Entendendo estado de componentes com React na prática](https://imasters.com.br/front-end/entendendo-estado-de-componentes-com-react-na-pratica)
 * [React Fragments](https://getstream.io/blog/react-fragments/)
+* [O Guia Completo od React e o Seu Ecossistema](https://www.concrete.com.br/2017/07/26/o-guia-completo-do-react-e-o-seu-ecossistema/)
 
 
 ## Utilidades
@@ -63,6 +66,7 @@
 * [React Select](http://jedwatson.github.io/react-select/)
 * [React Boilerplate](https://www.reactboilerplate.com/)
 * [Smooth UI](https://smooth-ui.smooth-code.com/)
+* [React Spinners](http://www.davidhu.io/react-spinners/)
 
 
 ## React Dataviz
