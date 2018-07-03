@@ -206,8 +206,6 @@
 * [pngtree](https://pt.pngtree.com/)
 * [NASA](https://images.nasa.gov/)
 * [Coverr - Homepage videos](http://coverr.co/)
-* [Cool Backgrounds](https://coolbackgrounds.io/)
-* [Heropatterns](http://www.heropatterns.com/)
 
 
 ## Lorem Ipsum/Dados
@@ -238,6 +236,16 @@
 * [Grid System Library](http://grid.kkuistore.com/)
 
 
+## Patterns
+* [Cool Backgrounds](https://coolbackgrounds.io/)
+* [Heropatterns](http://www.heropatterns.com/)
+* [Geopattern](https://btmills.github.io/geopattern/)
+* [Background Image Generator](http://bg.siteorigin.com/)
+* [Patternico](http://patternico.com/)
+* [Trianglify.io](https://trianglify.io/)
+* [CCBG](https://www.ccbg.io/generator)
+
+
 ## Redes de trabalhos freelancer:
 * [Prolancer](https://www.br.freelancer.com/prolancer)
 * [Workana](https://www.workana.com/)
@@ -254,6 +262,7 @@
 * [EditorConfig](http://editorconfig.org/)
 * [keep a changelog](http://keepachangelog.com/)
 * [Semantic Versioning](https://semver.org/)
+* [Malvid](https://malvid.io/)
 
 
 ## Tecnologia utilizadas
