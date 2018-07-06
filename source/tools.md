@@ -148,6 +148,7 @@
 * [Gitscout - Beautiful GitHub Issues](https://gitscout.com/)
 * [GitScrum ](https://www.gitscrum.com/)
 * [BitHubLab](https://www.bithublab.org/)
+* [Choosealicense](https://choosealicense.com/)
 
 
 ## Gradientes
