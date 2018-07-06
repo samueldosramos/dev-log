@@ -10,3 +10,4 @@
 * [Mixins Better for Performance](https://csswizardry.com/2016/02/mixins-better-for-performance/)
 * [Sass Guidelines](https://sass-guidelin.es/)
 * [Gulp para iniciantes – como compilar e minificar Sass](https://devheroes.io/gulp-iniciantes-compilar-minificar-sass/)
+* [Usando Sass com create-react-app (sem eject)](https://medium.com/tableless/usando-sass-com-create-react-app-sem-eject-56686c7f4e77)
