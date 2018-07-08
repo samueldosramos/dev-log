@@ -264,6 +264,7 @@
 * [keep a changelog](http://keepachangelog.com/)
 * [Semantic Versioning](https://semver.org/)
 * [Malvid](https://malvid.io/)
+* [Pattern Lab](http://patternlab.io/)
 
 
 ## Tecnologia utilizadas
