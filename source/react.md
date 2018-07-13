@@ -67,6 +67,7 @@
 * [React Boilerplate](https://www.reactboilerplate.com/)
 * [Smooth UI](https://smooth-ui.smooth-code.com/)
 * [React Spinners](http://www.davidhu.io/react-spinners/)
+* [Docz](https://www.docz.site/)
 
 
 ## React Dataviz
