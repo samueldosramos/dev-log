@@ -72,6 +72,7 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [Formas geométricas](https://bennettfeely.com/clippy/)
 * [Hopscotch - Add product tours to pages](http://linkedin.github.io/hopscotch/)
+* [darktooltip](http://rubentd.com/darktooltip/)
 * [AniJS - Biblioteca de animações e componentes CSS](http://anijs.github.io/)
 * [On/Off FlipSwitch](https://proto.io/freebies/onoff/)
 * [CSS Arrow Please](http://www.cssarrowplease.com/)
@@ -82,6 +83,8 @@
 * [Fukol Grids](https://github.com/Heydon/fukol-grids)
 * [TWBSColor - Generate your own Bootstrap navbar](https://work.smarchal.com/twbscolor/)
 * [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/)
+* [Summernote - Super simple WYSIWYG editor](https://summernote.org/)
+* [SweetAlert](https://sweetalert2.github.io)
 
 
 ## Documentação
@@ -309,7 +312,6 @@
 * [Better Error Pages](https://better-error-pages.statuspage.io/)
 * [Outdated Browser](http://outdatedbrowser.com/pt-br)
 * [Photoshop Etiquette ](http://photoshopetiquette.com/)
-* [SweetAlert](https://sweetalert2.github.io)
 
 
 ## Inspiração
