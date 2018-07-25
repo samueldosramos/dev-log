@@ -329,4 +329,4 @@
 * [Lapa Ninja - Landing Page](https://www.lapa.ninja/)
 * [Design Patterns](https://codepen.io/patterns)
 * [Codrops](https://tympanus.net/codrops/)
-
+* [Ui Goodies](https://uigoodies.com/)
