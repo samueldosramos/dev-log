@@ -268,6 +268,7 @@
 * [Semantic Versioning](https://semver.org/)
 * [Malvid](https://malvid.io/)
 * [Pattern Lab](http://patternlab.io/)
+* [Storybook](https://storybook.js.org/)
 
 
 ## Tecnologia utilizadas
