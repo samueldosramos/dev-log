@@ -46,6 +46,7 @@
 * [5 truques bacanas do JavaScript ES6+](https://medium.com/code-prestige/5-hacks-para-desenvolvedores-js-es6-5d3747d3c10b)
 * [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
 * [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
+* [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
 
 
 ## Funcional
