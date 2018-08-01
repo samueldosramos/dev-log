@@ -70,6 +70,7 @@
 * [UX e Roadmaps: do macro ao detalhe](https://brasil.uxdesign.cc/ux-e-roadmaps-do-macro-ao-detalhe-1541978d970c)
 * [Desenhando para usuários mais velhos](https://brasil.uxdesign.cc/desenhando-para-usu%C3%A1rios-mais-velhos-68bfc64f1c53)
 * [Especial Carreiras do Futuro: UX Designer no Mundo Digital](http://somostera.com/blog/especial-carreiras-do-futuro-ux-designer-no-mundo-digital/)
+* [As leis da psicologia voltadas para UI/UX design em aplicativos móveis](https://medium.com/ui-lab-school/as-leis-da-psicologia-voltadas-para-ui-ux-design-em-aplicativos-m%C3%B3veis-30f06e1de2d3)
 
 
 ## UI
@@ -107,6 +108,7 @@
 * [Dicas profissionais para os iniciantes em web](http://www.pinceladasdaweb.com.br/blog/2011/07/20/dicas-profissionais-para-os-iniciantes-em-web/)
 * [A Comprehensive Guide to Web Design](https://theblog.adobe.com/a-comprehensive-guide-to-web-design/)
 * [Guia Completo de Prototipação em UX Design](https://awari.com.br/blog/guia-prototipos-ux-design)
+* [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b)
 
 
 ## Arquitetura de Informação
