@@ -87,6 +87,8 @@
 * [Learn CSS Layout - Flexbox](http://learnlayout.com/flexbox.html)
 * [Flexbox Patterns](http://www.flexboxpatterns.com/)
 * [Flexbugs](https://github.com/philipwalton/flexbugs)
+* [O poder de flex-grow em Flexbox](http://desenvolvimentoparaweb.com/css/flex-grow-flexbox-poder/)
+* [hack flex-grow 9999](http://desenvolvimentoparaweb.com/css/flexbox-hack-flex-grow-9999/)
 
 
 ## Grid Layout
