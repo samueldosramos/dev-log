@@ -89,6 +89,7 @@
 * [Flexbugs](https://github.com/philipwalton/flexbugs)
 * [O poder de flex-grow em Flexbox](http://desenvolvimentoparaweb.com/css/flex-grow-flexbox-poder/)
 * [hack flex-grow 9999](http://desenvolvimentoparaweb.com/css/flexbox-hack-flex-grow-9999/)
+* [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
 
 ## Grid Layout
