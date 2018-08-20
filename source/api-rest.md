@@ -23,6 +23,12 @@
 * [Requisições GET e POST – Principais diferenças](http://tecnologiaeinovacao.com.br/blog/2016/07/24/requisicoes-get-e-post-principais-diferencas/)
 
 
+## JSON Server
+* [JSON Server](https://blog.eleven-labs.com/en/json-server/)
+* [Basic Authentication for json-server](https://dzone.com/articles/basic-authentication-for-json-server)
+* [Building a Fake and JWT Protected REST API with json-server](https://www.techiediaries.com/fake-api-jwt-json-server/)
+
+
 ## Utilidades
 * [99APIs - Maior Hub brasileiro de APIs abertas](http://99apis.com/home)
 * [Public APIs](https://github.com/toddmotto/public-apis)
