@@ -86,3 +86,5 @@
 * [Web Developer Checklist](https://github.com/ligershark/webdevchecklist.com)
 * [The best of JavaScript, HTML and CSS](https://bestof.js.org/)
 * [Stunning hover effects with CSS variables](https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330)
+* [SSL For Free](https://www.sslforfree.com/)
+* [Let’s Encrypt](https://letsencrypt.org/)
