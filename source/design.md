@@ -136,3 +136,4 @@
 * [Open Source Design](http://opensourcedesign.net/)
 * [Acessibilidade Toolkit](http://acessibilida.de/toolkit/)
 * [Design Principles](https://principles.design/)
+* [UIPatternHub](http://www.uipatternhub.com/)
