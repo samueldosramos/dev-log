@@ -161,7 +161,7 @@
 * [Grabient](https://www.grabient.com/)
 * [Shade](http://jxnblk.com/shade/)
 * [CSS Gradient](https://cssgradient.io/)
-
+* [Easing Gradients](https://larsenwork.com/easing-gradients/)
 
 ## Ícones
 * [Material Icons](https://material.io/icons/)
