@@ -49,7 +49,7 @@
 * [Entendendo estado de componentes com React na prática](https://imasters.com.br/front-end/entendendo-estado-de-componentes-com-react-na-pratica)
 * [React Fragments](https://getstream.io/blog/react-fragments/)
 * [O Guia Completo od React e o Seu Ecossistema](https://www.concrete.com.br/2017/07/26/o-guia-completo-do-react-e-o-seu-ecossistema/)
-
+* [Implementing Infinite Scroll Into a React Component](https://alligator.io/react/react-infinite-scroll/)
 
 ## Utilidades
 * [Tyler Courses](https://tylermcginnis.com/courses/)
