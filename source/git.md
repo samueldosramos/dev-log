@@ -53,6 +53,7 @@
 * [Ganhando tempo com git aliases](http://blog.superquadra.co/produtividade/ganhando-tempo-com-git-aliases/)
 * [Git: Auto completar nomes de branches e tags no terminal](https://blog.dmatoso.com/git-auto-completar-nomes-de-branches-e-tags-no-terminal-35e3cb47340c)
 * [Migrate your code with the GitHub Importer](https://github.com/blog/2110-migrate-your-code-with-the-github-importer)
+* [GIT: 5 comandos que todo desenvolvedor deveria conhecer](https://blog.umbler.com/br/comandos-do-git-para-desenvolvedores/)
 
 
 ## Tutoriais
