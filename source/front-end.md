@@ -53,6 +53,7 @@
 * [Book of Speed](http://www.bookofspeed.com/)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
+* [Progressive Tooling](https://progressivetooling.com/)
 
 
 ## Outros
