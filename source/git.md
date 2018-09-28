@@ -97,3 +97,14 @@
 * [Como colaborar com projetos open-source](https://helabs.com/artigos/2013/07/31/como-colaborar-com-projetos-open-source/)
 * [Você deveria usar gist para compartilhar problemas no seu código](https://imasters.com.br/desenvolvimento/voce-deveria-usar-gist-para-compartilhar-problemas-no-seu-codigo/?platform=hootsuite)
 * [Boas práticas na criação de milestones, tarefas, pull requests e commits](http://eltonminetto.net/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
+
+
+# SSH
+* [Tutorial como criar chave SSH (SSH key) pro gitlab ou github no mac osx ou linux](https://viniciuspaes.com/mac-osx/tutorial-criar-chave-ssh-key-gitlab-github-mac-osx-linux-ubuntu/)
+* [Evitando Informar Usuário e Senha a cada Push para o GitHub](https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a-cada-push-para-o-github-d8edbb5c6de4)
+* [Como ter duas chaves SSH no Linux](http://www.brunonardini.com.br/desenv-back-end/como-ter-duas-chaves-ssh-no-linux)
+* [Setting up a seperate Github and Bitbucket account](https://gist.github.com/rosswd/e1afd2b0b0d515517eac)
+* [Is it possible to use GitHub and GitLab on one machine?](https://stackoverflow.com/questions/40549348/is-it-possible-to-use-github-and-gitlab-on-one-machine)
+* [Gerenciando múltiplas chaves SSH no Linux](http://blog.locaweb.com.br/artigos/desenvolvimento-artigos/gerenciando-multiplas-chaves-ssh-no-linux/)
+* [ssh com multiplas chaves no osx](http://gutocarvalho.net/octopress/2014/06/08/osx-ssh-multiplas-chaves/)
+* [Criar SSH Keys em sistemas UNIX](https://adrianorosa.com/blog/seguranca/como-criar-ssh-key-pair-unix.html)
