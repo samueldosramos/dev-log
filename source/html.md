@@ -10,5 +10,5 @@
 * [HTML5: entendendo a estrutura e a semântica](https://medium.com/@eduagni/html5-entendendo-a-estrutura-e-a-sem%C3%A2ntica-db5f17808c7)
 * [Novidades do HTML 5.2](https://www.treinaweb.com.br/blog/novidades-html-5-2/)
 * [Material Design na barra de navegação & status do Chrome](https://tableless.com.br/material-design-na-barra-de-navegacao-status-chrome/)
-
+* [Você está usando <em> errado!](https://desenvolvimentoparaweb.com/html/como-usar-tag-em-italico-corretamente/)
 
