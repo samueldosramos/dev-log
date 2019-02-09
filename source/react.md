@@ -54,9 +54,10 @@
 * [Otimizando o desempenho de aplicações react /react-native](https://medium.com/@dellean.santos/otimizando-o-desempenho-de-aplicações-react-react-native-7b2de33e261)
 * [Métodos do ciclo de vida de componentes ReactJS — Um mergulho profundo!](https://medium.com/@edmo_/métodos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
 * [CRUD Example - Material Dashboard React](https://github.com/rafaelrend/react_materialize_crud?fbclid=IwAR3YAEpMd8iw1_CKD1IwlgBUsqQElrdXRUrlm2Prdbs7BlpQErA3t1r5-4g)
-* [React Hooks](https://showmethecode.com.br/react-hooks/)
-* [How to Learn React.js, Part 1: The React Road Map for Modern Web Developers](https://dzone.com/articles/how-to-learn-react-js-the-react-roadmap-for-modern?edition=423198)
 * [(React + this + bind) = só sei que é assim](https://tableless.com.br/react-this-bind-so-sei-que-assim/)
+* [React Hooks](https://showmethecode.com.br/react-hooks/)
+* [Habemus React Hooks](https://willianjusten.com.br/habemus-react-hooks/)
+* [How to Learn React.js, Part 1: The React Road Map for Modern Web Developers](https://dzone.com/articles/how-to-learn-react-js-the-react-roadmap-for-modern?edition=423198)
 
 
 ## Context API
