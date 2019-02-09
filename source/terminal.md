@@ -45,6 +45,7 @@
 * [Como criar um dotfile no Vim](https://www.webartigos.com/artigos/como-criar-um-dotfile-no-vim/146343/)
 * [dotfiles.io - Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
 * [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
+* [./hacker-tools lectures - Dotfiles](https://hacker-tools.github.io/dotfiles/)
 
 
 ## ZSH
