@@ -109,11 +109,11 @@
 
 ## Utilidades
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-* [Moment.js](http://momentjs.com/)
 * [Hyperapp](https://hyperapp.js.org)
 * [Code To Go](https://codetogo.io/)
 * [JavaScript Charts & Maps](https://www.amcharts.com/)
 * [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
+* [Cypress](https://www.cypress.io)
 
 
 ## Dataviz
