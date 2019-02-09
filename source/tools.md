@@ -36,6 +36,7 @@
 * [bttn.css - Awesome buttons for awesome projects!](https://bttn.surge.sh/)
 * [pretty checkbox](https://lokesh-coder.github.io/pretty-checkbox/)
 * [Buttons](http://unicorn-ui.com/buttons/)
+* [Accessibility Buttons](https://tiagoporto.github.io/accessibility-buttons/)
 
 
 ## Calculadora:
@@ -106,11 +107,13 @@
 * [JSON Editor](https://jsoneditoronline.org/)
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/#)
 * [Dillinger - Editor de Markdown](https://dillinger.io/)
+* [Coder](https://coder.com)
 
 
 ## Editores de imagens
 * [Canva - Editor de foto](https://www.canva.com/photo-editor/)
 * [Pablo - Criação de imagens para redes sociais](https://pablo.buffer.com/)
+* [Photopea](https://www.photopea.com)
 
 
 ## Fonts
@@ -183,6 +186,7 @@
 * [Favic-o-Matic - Ultimate favicon generator](http://www.favicomatic.com/)
 * [Linea](http://linea.io/)
 * [Vivid](https://webkul.github.io/vivid/)
+* [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
 
 ## Imagens/Vídeos
@@ -211,6 +215,8 @@
 * [pngtree](https://pt.pngtree.com/)
 * [NASA](https://images.nasa.gov/)
 * [Coverr - Homepage videos](http://coverr.co/)
+* [Humaaans - Mix-&-match illustrations library](https://www.humaaans.com)
+* [Ouch! - Free illustrations](https://icons8.com/ouch?)
 
 
 ## Lorem Ipsum/Dados
@@ -231,6 +237,7 @@
 * [Convert any image format into optimized JPEG](https://www.jpeg.io/)
 * [Awesome JPG PNG Image Compression](https://www.img64.com/)
 * [Optimize video files online](https://compressify.herokuapp.com/)
+* [Squoosh!](https://squoosh.app)
 
 
 ## Molde para Wireframe
@@ -308,6 +315,7 @@
 * [Artillery](https://artillery.io/)
 * [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
 * [Sonarwhal (segurança)](https://sonarwhal.com/)
+* [webhint](https://webhint.io/)
 
 
 ## Outros
@@ -332,3 +340,5 @@
 * [Design Patterns](https://codepen.io/patterns)
 * [Codrops](https://tympanus.net/codrops/)
 * [Ui Goodies](https://uigoodies.com/)
+* [50 Graphics](http://50graphics.com)
+
