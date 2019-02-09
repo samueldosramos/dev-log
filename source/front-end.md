@@ -36,6 +36,7 @@
 * [Initializr – Comece Seu Projeto HTML5 Em 15 Segundos!](http://flaviosilveira.com/2011/initializr-comece-seu-projeto-html5-em-15-segundos/)
 * [Google Web Starter Kit](https://tableless.com.br/google-web-starter-kit/)
 * [Front-end Style Guides](https://24ways.org/2011/front-end-style-guides/)
+* [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 
 ## Console / DevTools
