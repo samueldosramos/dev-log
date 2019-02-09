@@ -39,6 +39,8 @@
 * [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 * [Oh shit, git!](http://ohshitgit.com/)
 * [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
+* [Git Command Explorer](https://gitexplorer.com)
+* [Learn Git Branching](https://learngitbranching.js.org)
 
 
 ## Dicas
