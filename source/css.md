@@ -31,6 +31,7 @@
 * [Recomendações e diretrizes para escrever CSS](http://maujor.com/tutorial/guia-para-escrever-css.php)
 * [LinkedIn anuncia CSS Blocks, o novo otimizador de CSS](http://desenvolvimentoparaweb.com/css/css-blocks-linkedin-otimizador-css/)
 * [CSS Blocks: introdução à API](http://desenvolvimentoparaweb.com/css/css-blocks-api-introducao/)
+* [Truques de como selecionar o n-ésimo item com CSS usando a pseudo-classe :nth-child](https://www.treinaweb.com.br/blog/truques-de-como-selecionar-o-n-esimo-item-com-css-usando-a-pseudo-classe-nth-child/)
 
 
 ## Mobile
@@ -118,6 +119,3 @@
 * [CSS4 Rocks](http://css4.rocks/)
 * [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 * [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
-
-
-
