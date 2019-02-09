@@ -14,6 +14,8 @@
 * [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
 * [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 * [O que é API? REST e RESTful? Conheça as definições e diferenças!](https://becode.com.br/o-que-e-api-rest-e-restful/)
+* [Tutorial: Criar API RESTful com autenticação em apenas 5 minutos (P1)](https://pplware.sapo.pt/truques-dicas/tutorial-criacao-de-uma-api-restful/)
+* [Tutorial: Criar API RESTful com autenticação em apenas 5 minutos (P2)](https://pplware.sapo.pt/tutoriais/tutorial-criar-api-restful-com-autenticacao-em-apenas-5-minutos-p2/)
 
 
 ## GET e POST
