@@ -50,6 +50,7 @@
 * [JavaScript: métodos de Arrays que você precisa conhecer](https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer/)
 * [10 dicas de JavaScript em 10 minutos para você se mostrar no trabalho](https://medium.com/@gabrielchiconi/10-dicas-de-javascript-em-10-minutos-para-você-se-mostrar-no-trabalho-33876b63e125)
 * [Funcionalidades do JavaScript Moderno](https://medium.com/collabcode/coisas-do-javascript-moderno-925144b96a7f)
+* [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 
 
 ## Funcional
