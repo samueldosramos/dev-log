@@ -27,6 +27,7 @@
 * [Desenhando tabelas fáceis de usar](https://brasil.uxdesign.cc/desenhando-tabelas-fáceis-de-usar-d97f220e0b16)
 * [The Best Way to Display Text Fields](https://uxmovement.com/forms/the-best-way-to-display-text-fields/)
 * [Why You Should Use a Text Area for Address Form Fields](https://uxmovement.com/forms/why-you-should-use-a-text-area-for-address-form-fields/)
+* [Signifiers: os melhores amigos dos designers](https://brasil.uxdesign.cc/signifiers-os-melhores-amigos-dos-designers-25e52a73dcfc)
 
 
 ## Tipografia
