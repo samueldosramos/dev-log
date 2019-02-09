@@ -51,6 +51,8 @@
 * [10 dicas de JavaScript em 10 minutos para você se mostrar no trabalho](https://medium.com/@gabrielchiconi/10-dicas-de-javascript-em-10-minutos-para-você-se-mostrar-no-trabalho-33876b63e125)
 * [Funcionalidades do JavaScript Moderno](https://medium.com/collabcode/coisas-do-javascript-moderno-925144b96a7f)
 * [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
+* [Dicas úteis sobre function do JavaScript](https://imasters.com.br/desenvolvimento/dicas-uteis-sobre-function-javascript)
+* [4 Dicas úteis de strings para JavaScript](https://medium.com/@crp_underground/4-dicas-úteis-de-strings-para-javascript-78cd20954cf2)
 
 
 ## Funcional
