@@ -59,6 +59,7 @@
 * [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
 * [Mobile Design Best Practices](https://theblog.adobe.com/mobile-design-best-practices/)
+* [Mobile Icon Design for Faster Visual Search](https://uxmovement.com/mobile/mobile-icon-design-for-faster-visual-search/)
 
 
 ## Organização
