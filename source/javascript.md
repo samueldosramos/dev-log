@@ -85,6 +85,7 @@
 
 
 ## Patterns
+* [Uma introdução aos Padrões de Projeto](http://igti.com.br/blog/uma-introducao-aos-padroes-de-projeto/)
 * [Design Patterns em JavaScript](http://frontinbrazil.com.br/design-patterns-em-javascript/)
 * [Design Patterns em JavaScript – Parte 2 ( Constructor Pattern )](http://frontinbrazil.com.br/desing-patterns-em-javascript-parte-2-constructor-pattern/)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines)
