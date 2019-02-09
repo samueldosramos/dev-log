@@ -50,6 +50,22 @@
 * [React Fragments](https://getstream.io/blog/react-fragments/)
 * [O Guia Completo od React e o Seu Ecossistema](https://www.concrete.com.br/2017/07/26/o-guia-completo-do-react-e-o-seu-ecossistema/)
 * [Implementing Infinite Scroll Into a React Component](https://alligator.io/react/react-infinite-scroll/)
+* [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+* [Otimizando o desempenho de aplicações react /react-native](https://medium.com/@dellean.santos/otimizando-o-desempenho-de-aplicações-react-react-native-7b2de33e261)
+* [Métodos do ciclo de vida de componentes ReactJS — Um mergulho profundo!](https://medium.com/@edmo_/métodos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
+* [CRUD Example - Material Dashboard React](https://github.com/rafaelrend/react_materialize_crud?fbclid=IwAR3YAEpMd8iw1_CKD1IwlgBUsqQElrdXRUrlm2Prdbs7BlpQErA3t1r5-4g)
+* [React Hooks](https://showmethecode.com.br/react-hooks/)
+* [How to Learn React.js, Part 1: The React Road Map for Modern Web Developers](https://dzone.com/articles/how-to-learn-react-js-the-react-roadmap-for-modern?edition=423198)
+* [(React + this + bind) = só sei que é assim](https://tableless.com.br/react-this-bind-so-sei-que-assim/)
+
+
+## Context API
+* [Novo Ciclo de vida de um componente React. O que mudou?](https://medium.com/@larymagal/novo-ciclo-de-vida-de-um-componente-react-o-que-mudou-13ac809ce540)
+* [Context API do React 16.3.0 e métodos de ciclo de vida](https://blog.rocketseat.com.br/context-api-react-16-ciclo-de-vida/)
+* [React 16.3 e a nova API de Contexto](https://blog.novatics.com.br/react-16-3-e-a-nova-api-de-contexto-a3b5281157f8)
+* [Entendendo a Context API do React: criando um componente de loading](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7)
+* [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
+
 
 ## Utilidades
 * [Tyler Courses](https://tylermcginnis.com/courses/)
@@ -68,6 +84,14 @@
 * [Smooth UI](https://smooth-ui.smooth-code.com/)
 * [React Spinners](http://www.davidhu.io/react-spinners/)
 * [Docz](https://www.docz.site/)
+* [React Final Form](https://github.com/final-form/react-final-form)
+* [MobX React Form](https://github.com/foxhound87/mobx-react-form)
+* [react-spring](http://react-spring.surge.sh/)
+* [react-dropzone](https://react-dropzone.js.org)
+* [React Icons](https://react-icons.netlify.com/)
+* [React Router](https://reacttraining.com/react-router)
+* [Reach Router](https://reach.tech/router)
+* [React documentation website in Portuguese (Brazil)](https://github.com/reactjs/pt-BR.reactjs.org)
 
 
 ## React Dataviz
