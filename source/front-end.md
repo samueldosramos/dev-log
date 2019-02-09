@@ -57,6 +57,7 @@
 * [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
 * [Progressive Tooling](https://progressivetooling.com/)
 * [Otimize seu site com SSL, CDN, HTTP2 e Brotli via Cloudflare](https://ayltoninacio.com.br/blog/otimize-seu-site-com-ssl-cdn-http2-brotli-via-cloudflare)
+* [Fast load times](https://web.dev/fast)
 
 
 ## Outros
@@ -92,3 +93,5 @@
 * [Stunning hover effects with CSS variables](https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330)
 * [SSL For Free](https://www.sslforfree.com/)
 * [Let’s Encrypt](https://letsencrypt.org/)
+* [Shadow with image colors](https://codepen.io/anon/pen/PVpXXG?editors=0100)
+
