@@ -322,6 +322,8 @@
 * [Better Error Pages](https://better-error-pages.statuspage.io/)
 * [Outdated Browser](http://outdatedbrowser.com/pt-br)
 * [Photoshop Etiquette ](http://photoshopetiquette.com/)
+* [freeCodeCamp Guide](https://guide.freecodecamp.org)
+* [Remote Tools](https://remote.tools)
 
 
 ## Inspiração
