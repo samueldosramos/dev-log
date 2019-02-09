@@ -28,6 +28,7 @@
 * [The Best Way to Display Text Fields](https://uxmovement.com/forms/the-best-way-to-display-text-fields/)
 * [Why You Should Use a Text Area for Address Form Fields](https://uxmovement.com/forms/why-you-should-use-a-text-area-for-address-form-fields/)
 * [Signifiers: os melhores amigos dos designers](https://brasil.uxdesign.cc/signifiers-os-melhores-amigos-dos-designers-25e52a73dcfc)
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 
 
 ## Tipografia
