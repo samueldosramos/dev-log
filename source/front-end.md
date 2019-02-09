@@ -18,6 +18,8 @@
 * [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 * [O kit do desenvolvedor Front-end](https://tableless.com.br/o-kit-do-desenvolvedor-front-end/)
 * [Web Fundamentals Google](https://developers.google.com/web/fundamentals/?hl=pt-br)
+* [100 dicas sobre desenvolvimento Front-end](https://medium.com/@lfeh/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7)
+* [100 dicas de front-end (parte 1)](https://serfrontend.com/blog/100-dicas-de-front-end-parte-1/)
 
 
 ## Artigos
@@ -54,6 +56,7 @@
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
 * [Progressive Tooling](https://progressivetooling.com/)
+* [Otimize seu site com SSL, CDN, HTTP2 e Brotli via Cloudflare](https://ayltoninacio.com.br/blog/otimize-seu-site-com-ssl-cdn-http2-brotli-via-cloudflare)
 
 
 ## Outros
