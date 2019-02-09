@@ -48,6 +48,8 @@
 * [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
 * [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
 * [JavaScript: métodos de Arrays que você precisa conhecer](https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer/)
+* [10 dicas de JavaScript em 10 minutos para você se mostrar no trabalho](https://medium.com/@gabrielchiconi/10-dicas-de-javascript-em-10-minutos-para-você-se-mostrar-no-trabalho-33876b63e125)
+* [Funcionalidades do JavaScript Moderno](https://medium.com/collabcode/coisas-do-javascript-moderno-925144b96a7f)
 
 
 ## Funcional
@@ -66,6 +68,7 @@
 * [Do Front-End ao Node.js #01: Introdução, Módulos e File System](https://codepen.io/afonsopacifer/post/do-front-end-ao-node-js-01-introducao)
 * [Estrutura de diretórios e arquivos em projetos Node.js](http://walde.co/2016/10/24/estrutura-de-diretorios-e-arquivos-em-projetos-node-js/)
 * [Tudo o que você precisa saber para rodar Node.js com Docker](http://walde.co/2016/08/30/tudo-que-voce-precisa-saber-para-rodar-sua-aplicacao-nodejs-com-docker/)
+* [Workflow Node.js](https://workflow-node.netlify.com)
 
 
 # Style/Clean code
@@ -88,6 +91,7 @@
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
 * [Arquitetura de Software em JavaScript — Ports, Interfaces e Interactors](https://medium.com/@oieduardorabelo/arquitetura-de-software-em-javascript-ports-interfaces-e-interactors-d6e826b9d3aa)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Understanding Design Patterns in JavaScript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
 
 ## Tutoriais/Livros
@@ -100,6 +104,7 @@
 * [You might not need jQuery](http://youmightnotneedjquery.com/)
 * [You might not need JavaScript](http://youmightnotneedjs.com/)
 * [Tudo o que você precisa saber sobre JavaScript a partir do zero](http://www.devfuria.com.br/javascript/)
+* [Criando um filtro de busca customizável com JavaScript funcional — Parte 2: Organização é tudo](https://medium.com/@gabrielchiconi/criando-um-filtro-de-busca-customizável-com-javascript-funcional-parte-2-organização-é-tudo-a9e827249ad9)
 
 
 ## Utilidades
