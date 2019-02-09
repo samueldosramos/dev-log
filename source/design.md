@@ -141,5 +141,4 @@
 * [Design Principles](https://principles.design/)
 * [UIPatternHub](http://www.uipatternhub.com/)
 * [Can't Unsee](https://cantunsee.space)
-* [Accessibility Buttons](https://tiagoporto.github.io/accessibility-buttons/)
 * [DesignBase](https://www.felixjoy.co/designbase)
