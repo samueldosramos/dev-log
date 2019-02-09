@@ -19,6 +19,9 @@
 * [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
 * [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 * [Short, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/useful-ui-ux-design-tips/)
+* [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
+* [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
+* [Como estruturar um case para portfólio de UX/UI e impressionar recrutadores](https://brasil.uxdesign.cc/como-estruturar-um-case-para-portfólio-de-ux-ui-e-impressionar-recrutadores-62266ee50839)
 
 
 ## Tipografia
@@ -137,3 +140,6 @@
 * [Acessibilidade Toolkit](http://acessibilida.de/toolkit/)
 * [Design Principles](https://principles.design/)
 * [UIPatternHub](http://www.uipatternhub.com/)
+* [Can't Unsee](https://cantunsee.space)
+* [Accessibility Buttons](https://tiagoporto.github.io/accessibility-buttons/)
+* [DesignBase](https://www.felixjoy.co/designbase)
