@@ -41,6 +41,7 @@
 * [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
 * [Git Command Explorer](https://gitexplorer.com)
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [Awesome Git](https://github.com/dictcp/awesome-git)
 
 
 ## Dicas
