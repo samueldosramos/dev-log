@@ -126,3 +126,4 @@
 * [CSS4 Rocks](http://css4.rocks/)
 * [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 * [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
+* [30 seconds of CSS - Curated collection of useful CSS snippets](https://30-seconds.github.io/30-seconds-of-css/)
