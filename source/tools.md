@@ -156,6 +156,8 @@
 * [GitScrum ](https://www.gitscrum.com/)
 * [BitHubLab](https://www.bithublab.org/)
 * [Choosealicense](https://choosealicense.com/)
+* [Git History](https://githistory.xyz)
+* [Personal Website Generator](https://github.dev)
 
 
 ## Gradientes
