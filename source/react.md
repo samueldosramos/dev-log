@@ -97,7 +97,7 @@
 * [React documentation website in Portuguese (Brazil)](https://github.com/reactjs/pt-BR.reactjs.org)
 * [React.js Examples](https://reactjsexample.com)
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
-* [30 seconds of code - Curated collection of useful React snippets](https://github.com/30-seconds/30-seconds-of-react)
+* [30 seconds of React - Curated collection of useful React snippets](https://github.com/30-seconds/30-seconds-of-react)
 
 
 ## React Dataviz
