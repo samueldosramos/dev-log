@@ -62,6 +62,7 @@
 * [Workshop JS Funcional](https://github.com/Webschool-io/workshop-js-funcional-free)
 * [Lambda JS Intro](https://github.com/pagarme/lambda/blob/master/javascript.js)
 * [Ramda](https://github.com/pagarme/lambda/blob/master/ramda.md)
+* [Javascript Funcional — Meu guia de estudos — Parte 1](https://medium.com/matheus-rossi/javascript-funcional-meu-guia-de-estudos-parte-1-32c430d29c38)
 
 
 ## Node
