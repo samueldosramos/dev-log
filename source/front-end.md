@@ -50,6 +50,7 @@
 * [Por uma Web mais rápida: 26 técnicas de otimização de Sites](http://blog.caelum.com.br/por-uma-web-mais-rapida-26-tecnicas-de-otimizacao-de-sites/#l2)
 * [5 maneiras de tornar o seu site menor e mais rápido](https://imasters.com.br/front-end/css/5-maneiras-de-tornar-o-seu-site-menor-e-mais-rapido/)
 * [Performance Web no mundo real: porque o site da Alura voa](http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/)
+* [35 dicas rápidas para melhorar a performance do seu site](https://brasil.uxdesign.cc/35-dicas-rápidas-de-web-performance-59f38057e318)
 * [101 Ways to Make Your Website More Awesome](https://www.bundlifyapp.com/blog/make-website-awesome-checklist)
 * [Designers Guide to Web Performance Optimization](https://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/)
 * [Como Melhorar a Velocidade do Seu Site - Guia Completo](http://www.webperf.com.br/)
