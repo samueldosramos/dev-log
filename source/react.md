@@ -96,6 +96,8 @@
 * [Reach UI](https://ui.reach.tech)
 * [React documentation website in Portuguese (Brazil)](https://github.com/reactjs/pt-BR.reactjs.org)
 * [React.js Examples](https://reactjsexample.com)
+* [React Components & Libraries](https://github.com/brillout/awesome-react-components)
+
 
 ## React Dataviz
 * [React-Vis](https://uber.github.io/react-vis/)
