@@ -63,6 +63,8 @@
 * [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
 * [Mobile Design Best Practices](https://theblog.adobe.com/mobile-design-best-practices/)
 * [Mobile Icon Design for Faster Visual Search](https://uxmovement.com/mobile/mobile-icon-design-for-faster-visual-search/)
+* [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
+* [Solid Vs. Outline Icons: Which Are Faster to Recognize?](https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/)
 
 
 ## Organização
