@@ -75,6 +75,12 @@
 * [Workflow Node.js](https://workflow-node.netlify.com)
 
 
+## TypeScript
+* [TypeScript: O guia definitivo](https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc)
+* [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
+* [React + TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
+
+
 # Style/Clean code
 * [Escrevendo JavaScript melhor - Parte 1](https://udgwebdev.com/escrevendo-javascript-melhor-parte-1/)
 * [Escrevendo JavaScript melhor - Parte 2](https://udgwebdev.com/escrevendo-javascript-melhor-parte-2/)
@@ -97,6 +103,7 @@
 * [Arquitetura de Software em JavaScript — Ports, Interfaces e Interactors](https://medium.com/@oieduardorabelo/arquitetura-de-software-em-javascript-ports-interfaces-e-interactors-d6e826b9d3aa)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Understanding Design Patterns in JavaScript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
+* [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
 
 
 ## Tutoriais/Livros
@@ -119,6 +126,7 @@
 * [JavaScript Charts & Maps](https://www.amcharts.com/)
 * [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
 * [Cypress](https://www.cypress.io)
+* [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
 
 
 ## Dataviz
