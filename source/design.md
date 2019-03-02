@@ -29,6 +29,9 @@
 * [Why You Should Use a Text Area for Address Form Fields](https://uxmovement.com/forms/why-you-should-use-a-text-area-for-address-form-fields/)
 * [Signifiers: os melhores amigos dos designers](https://brasil.uxdesign.cc/signifiers-os-melhores-amigos-dos-designers-25e52a73dcfc)
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+* [Design Tips](https://twitter.com/i/moments/994601867987619840)
+* [Práticas Simples de Design que Podem Aumentar as Conversões de Um Site](https://medium.com/ui-lab-school/práticas-simples-de-design-que-podem-aumentar-as-conversões-de-um-site-9fb378fef2a)
+* []()
 
 
 ## Tipografia
@@ -42,6 +45,7 @@
 * [Tipografia para web – Parte 02](https://www.chiefofdesign.com.br/tipografia-para-web-parte-02/)
 * [Como usar a Tipografia para melhorar a Conversão de seus projetos?](https://www.chiefofdesign.com.br/tipografia-para-conversao/)
 * [Como escolher a tipografia ideal para o seu projeto?](https://blog.wedologos.com.br/expandir-negocio/a-tipografia-ideal/)
+* [Guia Tipo Assim - Elias Bitencourt](https://www.yumpu.com/es/document/view/15157587/guia-tipo-assim-elias-bitencourt/2)
 
 
 ## Cores
@@ -96,6 +100,7 @@
 * [Usabilidade: excluir, deletar, apagar, remover ou cancelar?](http://thiagonasc.com/usabilidade/usabilidade-excluir-deletar-apagar-remover-ou-cancelar)
 * [Game of Thrones Inspired Line Art Logos in Illustrator](https://blog.spoongraphics.co.uk/tutorials/game-of-thrones-inspired-line-art-logos-in-illustrator)
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [19 princípios de User Interface Design](https://desenvolvimentoparaweb.com/ux/19-principios-user-interface-design/)
 
 
 ## Web Design
