@@ -23,6 +23,7 @@
 * [Como usar variáveis no CSS de forma nativa](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/)
 * [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)
 * [CSS: 4 recursos incríveis que você já pode usar!](https://blog.umbler.com/br/css-4-recursos-incriveis-que-voce-ja-pode-usar/)
+* [Variáveis CSS: um guia prático](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
 * [Nem Sass, nem LESS, nem Stylus: PostCSS!](https://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/)
 * [Introdução ao PostCSS](https://blog.umbler.com/br/introducao-ao-postcss/)
 * [Conhecendo o @supports do CSS](https://tableless.com.br/conhecendo-regra-support-css/)
@@ -33,6 +34,8 @@
 * [CSS Blocks: introdução à API](http://desenvolvimentoparaweb.com/css/css-blocks-api-introducao/)
 * [Truques de como selecionar o n-ésimo item com CSS usando a pseudo-classe :nth-child](https://www.treinaweb.com.br/blog/truques-de-como-selecionar-o-n-esimo-item-com-css-usando-a-pseudo-classe-nth-child/)
 * [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
+* [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
+* []()
 
 
 ## Mobile
