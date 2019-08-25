@@ -21,6 +21,7 @@
 - [SVGator](https://www.svgator.com/)
 - [Lottie](https://airbnb.design/lottie/)
 - [ui interactions](https://raphaelfabeni.com/ui-interactions/)
+- [Popmotion](https://popmotion.io)
 
 ## Boilerplates
 
@@ -310,6 +311,7 @@
 - [Start Bootstrap](https://startbootstrap.com/)
 - [Bootstrap Zero](https://www.bootstrapzero.com/)
 - [Froala Design Blocks](https://www.froala.com/design-blocks)
+- [BeTheme](https://themes.muffingroup.com/be/splash/)
 
 ## Testes
 

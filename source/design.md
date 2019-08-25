@@ -45,6 +45,8 @@
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)
+- [Grids #1: O que é layout e o que é grid?](https://clubedodesign.com/2018/grids-1-o-que-layout-e-o-que-e-grid/)
+- [Grids #2: A história do grid no design gráfico](https://clubedodesign.com/2018/grids-2-a-historia-do-grid-no-design-grafico/)
 
 ## Tipografia
 
@@ -56,6 +58,7 @@
 - [Tipografia básica #5 – A anatomia dos tipos](https://clube.design/2015/tipografia-basica-5-a-anatomia-dos-tipos/)
 - [Tipografia para web – Parte 01](https://www.chiefofdesign.com.br/tipografia-para-web-parte-01/)
 - [Tipografia para web – Parte 02](https://www.chiefofdesign.com.br/tipografia-para-web-parte-02/)
+- [Série especial dedicada ao estudo da tipografia](https://clubedodesign.com/tag/tipografia-basica/)
 - [Como usar a Tipografia para melhorar a Conversão de seus projetos?](https://www.chiefofdesign.com.br/tipografia-para-conversao/)
 - [Como escolher a tipografia ideal para o seu projeto?](https://blog.wedologos.com.br/expandir-negocio/a-tipografia-ideal/)
 - [Guia Tipo Assim - Elias Bitencourt](https://www.yumpu.com/es/document/view/15157587/guia-tipo-assim-elias-bitencourt/2)

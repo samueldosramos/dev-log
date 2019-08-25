@@ -60,6 +60,7 @@
 - [GIT: 5 comandos que todo desenvolvedor deveria conhecer](https://blog.umbler.com/br/comandos-do-git-para-desenvolvedores/)
 - [Comandos do Git que você precisa conhecer – Parte 1](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
 - [Comandos do Git que você precisa conhecer – Parte 2 – Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos/)
+- [Transfer git repositories from GitLab to GitHub](https://stackoverflow.com/questions/22265837/transfer-git-repositories-from-gitlab-to-github-can-we-how-to-and-pitfalls-i)
 
 ## Tutoriais
 
@@ -103,6 +104,7 @@
 - [Como colaborar com projetos open-source](https://helabs.com/artigos/2013/07/31/como-colaborar-com-projetos-open-source/)
 - [Você deveria usar gist para compartilhar problemas no seu código](https://imasters.com.br/desenvolvimento/voce-deveria-usar-gist-para-compartilhar-problemas-no-seu-codigo/?platform=hootsuite)
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](http://eltonminetto.net/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
+- [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
 
 # SSH
 
