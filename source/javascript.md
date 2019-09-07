@@ -104,6 +104,7 @@
 - [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 - [Observer Pattern - Design Patterns com Typescript](https://meneguite.com/2019/06/23/design-patterns-com-typescript-observer/)
 - [5 TypeScript tips to improve your applications](https://nehalist.io/5-typescript-tips-to-improve-your-architecture/)
+- [Introdução a TypeScript](https://intro-typescript.victorhfmag.now.sh/)
 
 # Style/Clean code
 
