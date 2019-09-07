@@ -25,6 +25,8 @@
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
 - [Como estruturar um case para portfólio de UX/UI e impressionar recrutadores](https://brasil.uxdesign.cc/como-estruturar-um-case-para-portfólio-de-ux-ui-e-impressionar-recrutadores-62266ee50839)
 - [Porque é importante pensar em documentar as decisões de UX, UI, desenvolvimento, produto, interação, etc.?](https://brasil.uxdesign.cc/design-system-documentar-pra-que-3e14f3c04625)
+- [Criando um design system](https://brasil.uxdesign.cc/criando-um-design-system-8e222f5659d0)
+- [Why design systems are a single point of failure](https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2)
 - [Desenhando cards: boas práticas](https://brasil.uxdesign.cc/https-brasil-uxdesign-cc-cards-boas-praticas-6ae813acf8cf)
 - [Desenhando tabelas fáceis de usar](https://brasil.uxdesign.cc/desenhando-tabelas-fáceis-de-usar-d97f220e0b16)
 - [The Best Way to Display Text Fields](https://uxmovement.com/forms/the-best-way-to-display-text-fields/)

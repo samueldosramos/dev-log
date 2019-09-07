@@ -14,6 +14,7 @@
 - [Why You Should Write Your Project with Ruby On Rails](https://yalantis.com/blog/why-you-should-write-your-project-with-ruby-on-rails/)
 - [Choosing Ruby on Rails For Your Next Web Development Project](https://ideamotive.co/ruby-on-rails-development-guide/?in-2019)
 - [Rails numa Casca de Noz](https://blog.novatics.com.br/rails-numa-casca-de-noz-95f9bf7f8612)
+- [Ruby Não é Somente Rails, Carai!](http://www.fidelis.work/ruby-nao-e-somente-rails-caraleo/)
 
 ## Manuais
 

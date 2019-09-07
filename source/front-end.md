@@ -52,6 +52,7 @@
 - [Conheça todo o poder do Console](https://showmethecode.com.br/2017/06/02/console/)
 - [Você conhece o verdadeiro poder do console do seu navegador?](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
 - [Dark Theme no DevTools](https://www.felipefialho.com/blog/2016/dark-theme-no-dev-tools)
+- [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 
 ## Otimização
 

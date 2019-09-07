@@ -21,6 +21,7 @@
 - [Entenda a diferença entre var, let e const no JavaScript](http://blog.alura.com.br/entenda-diferenca-entre-var-let-e-const-no-javascript/)
 - [Entendendo o uso de escopo no JavaScript](https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba)
 - [Macros no JavaScript](https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c)
+- [Laços de repetição: for, for...in, for...of](https://woliveiras.com.br/posts/laços-de-repetição-for-for-in-for-of/)
 - [Algoritmos de ordenação e o seu JavaScript](https://medium.com/tableless/algoritmos-de-ordena%C3%A7%C3%A3o-e-o-seu-javascript-65d50723ae57)
 - [Melhorando a performance do Javascript](http://letanure.github.io/javascript/2015/02/25/melhorando-a-performance-do-javascript/)
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
@@ -90,6 +91,7 @@
 - [Debugando projetos NodeJS no VSCode](https://www.alura.com.br/artigos/debugando-projetos-nodejs-no-vscode)
 - [10 Truques do NPM – Você conhece todos?](https://www.treinaweb.com.br/blog/10-truques-do-npm-voce-conhece-todos/)
 - [Instalando e gerenciando várias versões do Node.js com NVM](https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm/)
+- [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 
 ## TypeScript
 

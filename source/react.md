@@ -61,6 +61,7 @@
 - [Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 - [Como transformar sua aplicação ReactJs em um PWA (e será que você deve fazer isso?)](https://medium.com/@victorsilvamatheus.i/como-transformar-sua-aplicação-reactjs-em-um-pwa-e-será-que-você-deve-fazer-isso-567a8552c96d)
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
+- [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
 
 ## React Hooks
 
@@ -71,6 +72,7 @@
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
 - [Formik com Hooks - Simplicidade na integração — useFormik()! Parte 1](https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-potềncia-useformik-parte-1-d518fec52dae)
 - [React.useMemo na prática](https://medium.com/reactbrasil/react-usememo-na-prática-692110771c01)
+- [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
 
 ## Context API
 
@@ -131,3 +133,4 @@
 
 - [Overreacted](https://overreacted.io)
 - [scotch.io](https://scotch.io/tag/react)
+- [Aprenda React](https://www.aprendareact.com.br)
