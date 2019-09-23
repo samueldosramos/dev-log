@@ -31,6 +31,7 @@
 - [Learn once, route anywhere - React Router](https://reacttraining.com/react-router/)
 - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 - [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
+- [Routing and Navigation in React](https://medium.com/swlh/routing-and-navigation-in-react-cffc26e8a389)
 - [CSS Modules + React: conceitos básicos](https://blog.taller.net.br/css-modules-react-conceitos-basicos/)
 - [Organizando uma aplicação com React](https://medium.com/tableless/organizando-uma-aplica%C3%A7%C3%A3o-com-react-5b8ea9075596)
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure/)
@@ -73,6 +74,7 @@
 - [Formik com Hooks - Simplicidade na integração — useFormik()! Parte 1](https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-potềncia-useformik-parte-1-d518fec52dae)
 - [React.useMemo na prática](https://medium.com/reactbrasil/react-usememo-na-prática-692110771c01)
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
+- [https://robertoachar.dev/blog/react-hooks](https://robertoachar.dev/blog/react-hooks)
 
 ## Context API
 

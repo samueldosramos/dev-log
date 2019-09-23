@@ -81,6 +81,7 @@
 - [Criando uma API completa com Rails](https://onebitcode.com/api-completa-rails/)
 - [Vim básico para trabalhar com Ruby ](http://ideia.me/vim-basico-para-ruby)
 - [Setup Ruby On Rails on macOS 10.13 High Sierra](https://gorails.com/setup/osx/10.13-high-sierra)
+- [Aprendendo Ruby como um Dev JavaScript parte 1](https://dev.to/codecasts/aprendendo-ruby-como-um-dev-javascript-parte-1-5hio)
 
 ## IDE/Editor
 

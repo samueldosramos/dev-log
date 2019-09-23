@@ -342,6 +342,7 @@
 - [Photoshop Etiquette ](http://photoshopetiquette.com/)
 - [freeCodeCamp Guide](https://guide.freecodecamp.org)
 - [Remote Tools](https://remote.tools)
+- [Codacy - Automate your code quality](https://www.codacy.com)
 
 ## Inspiração
 
@@ -361,3 +362,7 @@
 - [Codrops](https://tympanus.net/codrops/)
 - [Ui Goodies](https://uigoodies.com/)
 - [50 Graphics](http://50graphics.com)
+- [Webdesign Inspiration](https://www.webdesign-inspiration.com)
+- [One Page Love](https://onepagelove.com)
+- [UI Movement](https://uimovement.com)
+- [Clubedodesign - Portfólio do leitor](https://clubedodesign.com/tag/portfolio-do-leitor/)

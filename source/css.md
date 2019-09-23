@@ -77,6 +77,7 @@
 - [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
 - [Solid Vs. Outline Icons: Which Are Faster to Recognize?](https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/)
 - [10 heuristic principles for mobile interfaces](https://uxdesign.cc/heuristic-principles-for-mobile-interfaces-c226fbaa1d16)
+- [9 dicas básicas de web design responsivo](https://desenvolvimentoparaweb.com/css/9-dicas-basicas-web-design-responsivo/)
 
 ## Organização
 
@@ -133,6 +134,7 @@
 - [CSS Grid: o jeito certo](https://desenvolvimentoparaweb.com/css/css-grid-o-jeito-certo/)
 - [Como criar templates com CSS Grid](https://desenvolvimentoparaweb.com/css/css-grid-como-criar-templates/)
 - [Creating Simple Layout Templates with CSS Grid](https://teamgaslight.com/blog/creating-simple-layout-templates-with-css-grid/)
+- [CSS Grid intrinsecamente responsiva com minmax() e min()](https://desenvolvimentoparaweb.com/css/css-grid-intrinsecamente-responsiva-minmax-min/)
 
 ## Pré-processadores
 

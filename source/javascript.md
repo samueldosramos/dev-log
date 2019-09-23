@@ -92,6 +92,7 @@
 - [10 Truques do NPM – Você conhece todos?](https://www.treinaweb.com.br/blog/10-truques-do-npm-voce-conhece-todos/)
 - [Instalando e gerenciando várias versões do Node.js com NVM](https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm/)
 - [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
+- [[Passo-a-Passo] Criando uma aplicação com NodeJS, usando Express, Mongo, Docker e Babel](https://emersonbroga.com/passo-a-passo-criando-uma-aplicacao-com-nodejs-usando-express-mongo-docker-e-babel/)
 
 ## TypeScript
 
@@ -163,6 +164,7 @@
 - [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
 - [Cypress](https://www.cypress.io)
 - [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
+- [Regex Cross­word](https://regexcrossword.com)
 
 ## Dataviz
 
