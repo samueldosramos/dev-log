@@ -27,6 +27,7 @@
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
 - [4 Regras para Entender o ‘this’ no JavaScript](https://blog.dmatoso.com/javascript-this-71dd763aad52)
 - [Explorando o javascript. filter, forEach, map, reduce, every e some](http://clovisdasilvaneto.github.io/explorando-javascript-filter-reduce-map-every-some-e-foreach/)
+- [Entendendo map, filter, reduce e lambda](https://beatrizuezu.github.io/entendendo-map-filter-reduce-lambda/)
 - [JavaScript — O poder da negação](https://medium.com/@osuissa/javascript-o-poder-da-negacao-3a70ec369b63)
 - [10 Essential DOM Methods & Techniques for Practical JavaScript](https://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/)
 - [Entendendo módulos ES6](https://medium.com/trainingcenter/entendendo-m%C3%B3dulos-no-javascript-73bce1d64dbf)
@@ -53,6 +54,7 @@
 - [How to use the Drag and Drop API](https://flaviocopes.com/drag-and-drop/)
 - [Practical Ways to Write Better JavaScript](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4/)
 - [Javascript: Entendendo Async Iterators](https://dev.to/khaosdoctor/entendendo-async-iterators-1opo)
+- [JavaScript: Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0)
 
 ## Dicas
 
@@ -83,6 +85,7 @@
 
 - [Por que aprender Node.js? 8 Casos reais!](http://www.luiztools.com.br/post/por-que-aprender-nodejs/)
 - [Por que Node.js para Web?](https://medium.com/@badskan/porque-node-js-para-web-b45afbf66c31)
+- [API HTTP + REST – Conceito e exemplo em Node.js](https://imasters.com.br/back-end/api-http-rest-conceito-e-exemplo-em-node-js)
 - [Node.js: Aprenda a criar um servidor web em menos de 1 minuto](https://pplware.sapo.pt/tutoriais/node-js-aprenda-criar-um-servidor-web-menos-1-minuto/)
 - [Do Front-End ao Node.js #01: Introdução, Módulos e File System](https://codepen.io/afonsopacifer/post/do-front-end-ao-node-js-01-introducao)
 - [Estrutura de diretórios e arquivos em projetos Node.js](http://walde.co/2016/10/24/estrutura-de-diretorios-e-arquivos-em-projetos-node-js/)
@@ -93,6 +96,7 @@
 - [Instalando e gerenciando várias versões do Node.js com NVM](https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm/)
 - [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 - [[Passo-a-Passo] Criando uma aplicação com NodeJS, usando Express, Mongo, Docker e Babel](https://emersonbroga.com/passo-a-passo-criando-uma-aplicacao-com-nodejs-usando-express-mongo-docker-e-babel/)
+- [Use cases for Node workers](https://blog.logrocket.com/use-cases-for-node-workers/)
 
 ## TypeScript
 

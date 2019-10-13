@@ -63,6 +63,7 @@
 - [Como transformar sua aplicação ReactJs em um PWA (e será que você deve fazer isso?)](https://medium.com/@victorsilvamatheus.i/como-transformar-sua-aplicação-reactjs-em-um-pwa-e-será-que-você-deve-fazer-isso-567a8552c96d)
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
 - [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
+- [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 
 ## React Hooks
 
@@ -74,6 +75,7 @@
 - [Formik com Hooks - Simplicidade na integração — useFormik()! Parte 1](https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-potềncia-useformik-parte-1-d518fec52dae)
 - [React.useMemo na prática](https://medium.com/reactbrasil/react-usememo-na-prática-692110771c01)
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
+- [React: Conheça o Poder dos Hooks](https://www.treinaweb.com.br/blog/react-conheca-o-poder-dos-hooks/)
 - [https://robertoachar.dev/blog/react-hooks](https://robertoachar.dev/blog/react-hooks)
 
 ## Context API
@@ -136,3 +138,5 @@
 - [Overreacted](https://overreacted.io)
 - [scotch.io](https://scotch.io/tag/react)
 - [Aprenda React](https://www.aprendareact.com.br)
+- [Roberto Achar](https://robertoachar.dev)
+- [Good Practices - ReactJs](https://github.com/mensonones/goodpracticesreact)

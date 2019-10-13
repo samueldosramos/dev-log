@@ -47,6 +47,8 @@
 - [State of CSS 2019](https://2019.stateofcss.com)
 - [A mentalidade CSS](https://desenvolvimentoparaweb.com/css/mentalidade-css/)
 - [The CSS background-image property as an anti-pattern](https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern)
+- [CSS rules that will make your life easier](https://www.freecodecamp.org/news/css-rules-to-live-by-962a051e1eb2/)
+- [Vulnerabilidades de segurança CSS](https://desenvolvimentoparaweb.com/css/vulnerabilidades-de-seguranca-css/)
 
 ## Mobile
 
@@ -78,6 +80,7 @@
 - [Solid Vs. Outline Icons: Which Are Faster to Recognize?](https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/)
 - [10 heuristic principles for mobile interfaces](https://uxdesign.cc/heuristic-principles-for-mobile-interfaces-c226fbaa1d16)
 - [9 dicas básicas de web design responsivo](https://desenvolvimentoparaweb.com/css/9-dicas-basicas-web-design-responsivo/)
+- [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
 
 ## Organização
 
@@ -135,6 +138,7 @@
 - [Como criar templates com CSS Grid](https://desenvolvimentoparaweb.com/css/css-grid-como-criar-templates/)
 - [Creating Simple Layout Templates with CSS Grid](https://teamgaslight.com/blog/creating-simple-layout-templates-with-css-grid/)
 - [CSS Grid intrinsecamente responsiva com minmax() e min()](https://desenvolvimentoparaweb.com/css/css-grid-intrinsecamente-responsiva-minmax-min/)
+- [Do Sass e BEM ao CSS-in-JS: A (re)evolução do CSS ao longo da história](https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/)
 
 ## Pré-processadores
 

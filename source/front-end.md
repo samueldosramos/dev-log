@@ -3,7 +3,7 @@
 ## Guias
 
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
-- [O que um bom desenvolvedor Front-End precisa saber?](https://www.felipefialho.com/blog/2013/o-que-um-bom-desenvolvedor-front-end-precisa-saber)
+- [O que Front-end Developers precisam saber](https://www.felipefialho.com/blog/o-que-front-end-developers-precisam-saber/)
 - [Do Zero a Herói Front-End (Parte I)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1)
 - [Do Zero a Herói Front-End (Parte II)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)
 - [Um comovente guia de estudo para desenvolvedores front end](https://leandrooriente.com/guia-de-estudo-front-end/)
@@ -20,7 +20,7 @@
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [O kit do desenvolvedor Front-end](https://tableless.com.br/o-kit-do-desenvolvedor-front-end/)
 - [Web Fundamentals Google](https://developers.google.com/web/fundamentals/?hl=pt-br)
-- [100 dicas sobre desenvolvimento Front-end](https://medium.com/@lfeh/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7)
+- [100 dicas sobre desenvolvimento Front-end](https://www.felipefialho.com/blog/100-dicas-sobre-desenvolvimento-front-end/)
 - [100 dicas de front-end (parte 1)](https://serfrontend.com/blog/100-dicas-de-front-end-parte-1/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [The Power of Serveless for Front-end Developers](https://serverless.css-tricks.com)

@@ -89,6 +89,7 @@
 - [10 ferramentas para o desenvolvimento PHP moderno](http://www.phpit.com.br/artigos/10-ferramentas-para-o-desenvolvimento-php-moderno.phpit)
 - [25 classes e bibliotecas PHP para desenvolvimento eficiente](http://www.phpit.com.br/artigos/25-classes-e-bibliotecas-php-para-desenvolvimento-eficiente.phpit)
 - [Vourto: a ferramenta que todo desenvolvedor deve conhecer](https://bugginhoacademy.com.br/blog/vourto-a-ferramenta-que-todo-desenvolvedor-deve-conhecer/)
+- [Ferramentas essenciais para um projeto PHP](https://www.treinaweb.com.br/blog/ferramentas-essenciais-para-um-projeto-php/)
 - [Packagist](https://packagist.org/)
 - [PHPBench](http://www.phpbench.com/)
 - [Xdebug extension for PHP](https://xdebug.org/)

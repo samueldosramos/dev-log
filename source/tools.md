@@ -294,6 +294,7 @@
 - [Malvid](https://malvid.io/)
 - [Pattern Lab](http://patternlab.io/)
 - [Storybook](https://storybook.js.org/)
+- [DSM - Design System Manager](https://www.invisionapp.com/design-system-manager)
 
 ## Tecnologia utilizadas
 
@@ -334,6 +335,7 @@
 - [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
 - [Sonarwhal (segurança)](https://sonarwhal.com/)
 - [webhint](https://webhint.io/)
+- [Percy - Visual testing](https://percy.io/)
 
 ## Outros
 

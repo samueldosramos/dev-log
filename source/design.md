@@ -43,6 +43,7 @@
 - [The Confusing State of Toggle Switches](https://uxmovement.com/mobile/the-confusing-state-of-toggle-switches/)
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/)
 - [Why Toggle Buttons Are Confusing](https://uxmovement.com/buttons/why-toggle-buttons-are-confusing/)
+- [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
