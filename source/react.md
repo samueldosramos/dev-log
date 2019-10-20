@@ -64,6 +64,7 @@
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
 - [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
 - [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
+- [React State](https://www.robinwieruch.de/react-state)
 
 ## React Hooks
 
@@ -77,6 +78,7 @@
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
 - [React: Conheça o Poder dos Hooks](https://www.treinaweb.com.br/blog/react-conheca-o-poder-dos-hooks/)
 - [https://robertoachar.dev/blog/react-hooks](https://robertoachar.dev/blog/react-hooks)
+- [useParams — Extraia parâmetros da URL em uma linha](https://medium.com/@helloncanella/useparams-extraia-parâmetros-da-url-em-uma-linha-f4a0511ed195)
 
 ## Context API
 
