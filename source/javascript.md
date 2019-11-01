@@ -65,6 +65,7 @@
 - [5 truques bacanas do JavaScript ES6+](https://medium.com/code-prestige/5-hacks-para-desenvolvedores-js-es6-5d3747d3c10b)
 - [Como implementar o blockchain em JavaScript](https://www.concrete.com.br/2018/02/07/como-implementar-o-blockchain-em-javascript/)
 - [10 dicas de JavaScript em 10 minutos para você se mostrar no trabalho](https://medium.com/@gabrielchiconi/10-dicas-de-javascript-em-10-minutos-para-você-se-mostrar-no-trabalho-33876b63e125)
+- [10 Dicas para se Tornar Ninja em JavaScript!](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1)
 - [Dicas úteis sobre function do JavaScript](https://imasters.com.br/desenvolvimento/dicas-uteis-sobre-function-javascript)
 - [4 Dicas úteis de strings para JavaScript](https://medium.com/@crp_underground/4-dicas-úteis-de-strings-para-javascript-78cd20954cf2)
 - [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks)
@@ -157,6 +158,7 @@
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [You might not need JavaScript](http://youmightnotneedjs.com/)
 - [Tudo o que você precisa saber sobre JavaScript a partir do zero](http://www.devfuria.com.br/javascript/)
+- [JavaScript antes do Framework 0101](https://origamid.com/slide/youtube/#/0101-javascript-antes-do-framework/)
 - [Criando um filtro de busca customizável com JavaScript funcional — Parte 2: Organização é tudo](https://medium.com/@gabrielchiconi/criando-um-filtro-de-busca-customizável-com-javascript-funcional-parte-2-organização-é-tudo-a9e827249ad9)
 
 ## Utilidades

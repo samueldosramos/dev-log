@@ -13,6 +13,7 @@
 - [Principais comandos SQL](https://www.treinaweb.com.br/blog/principais-comandos-sql/)
 - [Resumo de comandos úteis do PostgreSQL](https://www.lucascaton.com.br/2010/05/23/resumo-de-comandos-uteis-do-postgresql/)
 - [Mastery with SQL](https://www.masterywithsql.com)
+- [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
 
 ## Para seguir
 

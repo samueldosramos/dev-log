@@ -49,6 +49,7 @@
 - [The CSS background-image property as an anti-pattern](https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern)
 - [CSS rules that will make your life easier](https://www.freecodecamp.org/news/css-rules-to-live-by-962a051e1eb2/)
 - [Vulnerabilidades de segurança CSS](https://desenvolvimentoparaweb.com/css/vulnerabilidades-de-seguranca-css/)
+- [CSS element()](https://desenvolvimentoparaweb.com/css/css-element/)
 
 ## Mobile
 

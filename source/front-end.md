@@ -53,6 +53,7 @@
 - [Você conhece o verdadeiro poder do console do seu navegador?](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
 - [Dark Theme no DevTools](https://www.felipefialho.com/blog/2016/dark-theme-no-dev-tools)
 - [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
+- [Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
 
 ## Otimização
 

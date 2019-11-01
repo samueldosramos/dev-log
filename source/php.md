@@ -164,6 +164,7 @@
 - [Quanto você conhece de PHP?](http://blog.ultimatephp.com.br/quanto-voce-conhece-de-php/)
 - [Venha aprender PHP de graça](https://www.todoespacoonline.com/w/2015/09/venha-aprender-php-de-graca/)
 - [Formulário de contato em PHP: Simples e Funcional](http://www.pinceladasdaweb.com.br/blog/2013/09/09/formulario-de-contato-em-php-simples-e-funcional/)
+- [Integração contínua para aplicações PHP usando Github Actions](https://www.treinaweb.com.br/blog/integracao-continua-para-aplicacoes-php-usando-github-actions/)
 
 ## Informações
 
