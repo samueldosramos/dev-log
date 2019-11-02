@@ -50,6 +50,7 @@
 - [CSS rules that will make your life easier](https://www.freecodecamp.org/news/css-rules-to-live-by-962a051e1eb2/)
 - [Vulnerabilidades de segurança CSS](https://desenvolvimentoparaweb.com/css/vulnerabilidades-de-seguranca-css/)
 - [CSS element()](https://desenvolvimentoparaweb.com/css/css-element/)
+- [CSS Custom Properties Explained](https://pawelgrzybek.com/css-custom-properties-explained/)
 
 ## Mobile
 

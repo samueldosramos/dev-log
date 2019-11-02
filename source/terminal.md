@@ -73,3 +73,7 @@
 - [MacTerm](https://www.macterm.net/)
 - [Cathode](http://www.secretgeometry.com/apps/cathode)
 - [wsl-terminal](https://goreliu.github.io/wsl-terminal/)
+
+# Utilidades
+
+- [Bash scripting cheatsheet](https://devhints.io/bash)
