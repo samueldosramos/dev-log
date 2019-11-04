@@ -55,6 +55,7 @@
 - [Practical Ways to Write Better JavaScript](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4/)
 - [Javascript: Entendendo Async Iterators](https://dev.to/khaosdoctor/entendendo-async-iterators-1opo)
 - [JavaScript: Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0)
+- [JavaScript: Map vs Object, quando e como usar?](https://medium.com/@oieduardorabelo/javascript-map-vs-object-quando-e-como-usar-5457677b001b)
 
 ## Dicas
 
@@ -66,6 +67,7 @@
 - [Como implementar o blockchain em JavaScript](https://www.concrete.com.br/2018/02/07/como-implementar-o-blockchain-em-javascript/)
 - [10 dicas de JavaScript em 10 minutos para você se mostrar no trabalho](https://medium.com/@gabrielchiconi/10-dicas-de-javascript-em-10-minutos-para-você-se-mostrar-no-trabalho-33876b63e125)
 - [10 Dicas para se Tornar Ninja em JavaScript!](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1)
+- [15 dicas e truques da linguagem JavaScript](https://imasters.com.br/back-end/15-dicas-e-truques-da-linguagem-javascript)
 - [Dicas úteis sobre function do JavaScript](https://imasters.com.br/desenvolvimento/dicas-uteis-sobre-function-javascript)
 - [4 Dicas úteis de strings para JavaScript](https://medium.com/@crp_underground/4-dicas-úteis-de-strings-para-javascript-78cd20954cf2)
 - [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks)
@@ -98,6 +100,7 @@
 - [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 - [[Passo-a-Passo] Criando uma aplicação com NodeJS, usando Express, Mongo, Docker e Babel](https://emersonbroga.com/passo-a-passo-criando-uma-aplicacao-com-nodejs-usando-express-mongo-docker-e-babel/)
 - [Use cases for Node workers](https://blog.logrocket.com/use-cases-for-node-workers/)
+- [Designing API Methods in JavaScript](https://jsmanifest.com/designing-api-methods-in-javascript/)
 
 ## TypeScript
 
@@ -136,6 +139,10 @@
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Understanding Design Patterns in JavaScript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
+- [The Mediator Pattern in JavaScript](https://jsmanifest.com/the-mediator-pattern-in-javascript/)
+- [The Publish/Subscribe Pattern in JavaScript](https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/)
+- [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
+- [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
 
 ## Testes
 

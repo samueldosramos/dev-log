@@ -65,6 +65,9 @@
 - [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
 - [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 - [React State](https://www.robinwieruch.de/react-state)
+- [10 Things NOT To Do When Building React Applications](https://jsmanifest.com/10-things-not-to-do-when-building-react-apps/)
+- [8 Practices In React That Will Crash Your App In The Future](https://jsmanifest.com/8-practices-in-react-that-will-crash-your-app-in-the-future/)
+- [Enhance Your React App With Undo and Reset Abilities](https://jsmanifest.com/enhance-your-react-app-with-undo-reset-abilities/)
 
 ## React Hooks
 
@@ -79,6 +82,7 @@
 - [React: Conheça o Poder dos Hooks](https://www.treinaweb.com.br/blog/react-conheca-o-poder-dos-hooks/)
 - [https://robertoachar.dev/blog/react-hooks](https://robertoachar.dev/blog/react-hooks)
 - [useParams — Extraia parâmetros da URL em uma linha](https://medium.com/@helloncanella/useparams-extraia-parâmetros-da-url-em-uma-linha-f4a0511ed195)
+- [The Power of React Hooks](https://jsmanifest.com/build-an-app-with-just-react-hooks/)
 
 ## Context API
 
@@ -93,6 +97,7 @@
 - [A Better File Structure For React/Redux Applications](https://marmelab.com/blog/2015/12/17/react-directory-structure.html)
 - [redux com react para iniciantes](https://medium.com/@tapmorales/redux-com-react-para-iniciantes-1e0411199ea0)
 - [Redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)
+- [12 Things NOT To Do When Building React Apps With Redux](https://jsmanifest.com/12-things-not-to-do-when-building-react-redux-apps/)
 
 ## Utilidades
 
@@ -125,7 +130,7 @@
 - [React.js Examples](https://reactjsexample.com)
 - [React Components & Libraries](https://github.com/brillout/awesome-react-components)
 - [30 seconds of React - Curated collection of useful React snippets](https://github.com/30-seconds/30-seconds-of-react)
-- [React v16+ Cheat Sheet](https://jsmanifest.com/react-cheatsheet/)
+- [React v16+ Cheat Sheet](https://jsmanifest.com/this-react-cheatsheet-includes-all-of-v16-features/)
 - [Divjoy - The React codebase generator](https://divjoy.com)
 
 ## React Dataviz

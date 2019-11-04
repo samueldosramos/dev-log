@@ -35,6 +35,7 @@
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Design Tips](https://twitter.com/i/moments/994601867987619840)
 - [Práticas Simples de Design que Podem Aumentar as Conversões de Um Site](https://medium.com/ui-lab-school/práticas-simples-de-design-que-podem-aumentar-as-conversões-de-um-site-9fb378fef2a)
+- [Design better buttons](https://uxdesign.cc/design-better-buttons-a5c90a113280)
 - [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/)
 - [Why Cancel Buttons Should Never Have a Color](https://uxmovement.com/buttons/why-cancel-buttons-should-never-have-a-color/)
 - [UX em botões Cancelar](https://desenvolvimentoparaweb.com/ux/ux-em-botoes-cancelar/)
