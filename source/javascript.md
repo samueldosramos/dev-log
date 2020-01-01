@@ -41,13 +41,15 @@
 - [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
 - [Desmistificando o destructuring do JavaScript ES6/ES7](https://blog.taller.net.br/desmistificando-o-destructuring-do-javascript-es6es7/)
 - [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
+- [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
+- [JavaScript — Injeção de Dependências com Closures](https://medium.com/@osuissa/javascript-closures-700e8abbc7a)
 - [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
+- [Operadores Spread e Rest Javascript](https://medium.com/@ildaneta/operadores-spread-e-rest-javascript-c90ccf6962f1)
 - [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
 - [JavaScript: métodos de Arrays que você precisa conhecer](https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer/)
 - [Funcionalidades do JavaScript Moderno](https://medium.com/collabcode/coisas-do-javascript-moderno-925144b96a7f)
 - [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 - [ES10 e o futuro do JavaScript](https://imasters.com.br/desenvolvimento/es10-e-o-futuro-javascript)
-- [How to Use CSS Logical Properties to Control Layout](https://webdesign.tutsplus.com/tutorials/how-to-use-css-logical-properties--cms-33024)
 - [O lado escuro do JavaScript](https://imasters.com.br/desenvolvimento/o-lado-escuro-javascript)
 - [Guia fácil para usar localStorage com Javascript](https://tableless.com.br/guia-fácil-sobre-usar-localstorage-com-javascript/)
 - [Entendendo funções callback em JavaScript](https://medium.com/totvsdevelopers/entendendo-funções-callback-em-javascript-7b500dc7fa22)
@@ -56,6 +58,9 @@
 - [Javascript: Entendendo Async Iterators](https://dev.to/khaosdoctor/entendendo-async-iterators-1opo)
 - [JavaScript: Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0)
 - [JavaScript: Map vs Object, quando e como usar?](https://medium.com/@oieduardorabelo/javascript-map-vs-object-quando-e-como-usar-5457677b001b)
+- [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [JavaScript — Filter — Padrão para criação de filtros genéricos para valores numéricos](https://medium.com/@osuissa/javascript-filter-padrao-para-criacao-de-filtros-genericos-para-valores-numericos-4d2376362573)
+- [Conheça as novidades do Javascript em 2020](https://devporai.com.br/conheca-as-novidades-do-javascript-em-2020/)
 
 ## Dicas
 
@@ -77,22 +82,26 @@
 ## Funcional
 
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
+- [Começando com Programação Funcional](https://medium.com/trainingcenter/começando-com-programação-funcional-de389de2b8fe)
 - [Programação funcional – parte 1](https://blog.taller.net.br/programacao-funcional-parte1/)
 - [Programação funcional – parte 2](https://blog.taller.net.br/programacao-funcional-parte-2/)
 - [Workshop JS Funcional](https://github.com/Webschool-io/workshop-js-funcional-free)
 - [Lambda JS Intro](https://github.com/pagarme/lambda/blob/master/javascript.js)
 - [Ramda](https://github.com/pagarme/lambda/blob/master/ramda.md)
 - [Javascript Funcional — Meu guia de estudos — Parte 1](https://medium.com/matheus-rossi/javascript-funcional-meu-guia-de-estudos-parte-1-32c430d29c38)
+- [Conceitos de linguagens funcionais: o que é currying?](https://www.treinaweb.com.br/blog/conceitos-de-linguagens-funcionais-o-que-e-currying/)
+- [Programação Funcional: código limpo e padrões de projeto](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
 
 ## Node
 
+- [Node.js - Compilado de posts](https://udgwebdev.com/nodejs/)
 - [Por que aprender Node.js? 8 Casos reais!](http://www.luiztools.com.br/post/por-que-aprender-nodejs/)
 - [Por que Node.js para Web?](https://medium.com/@badskan/porque-node-js-para-web-b45afbf66c31)
+- [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
 - [API HTTP + REST – Conceito e exemplo em Node.js](https://imasters.com.br/back-end/api-http-rest-conceito-e-exemplo-em-node-js)
 - [Node.js: Aprenda a criar um servidor web em menos de 1 minuto](https://pplware.sapo.pt/tutoriais/node-js-aprenda-criar-um-servidor-web-menos-1-minuto/)
 - [Do Front-End ao Node.js #01: Introdução, Módulos e File System](https://codepen.io/afonsopacifer/post/do-front-end-ao-node-js-01-introducao)
 - [Estrutura de diretórios e arquivos em projetos Node.js](http://walde.co/2016/10/24/estrutura-de-diretorios-e-arquivos-em-projetos-node-js/)
-- [Tudo o que você precisa saber para rodar Node.js com Docker](http://walde.co/2016/08/30/tudo-que-voce-precisa-saber-para-rodar-sua-aplicacao-nodejs-com-docker/)
 - [Workflow Node.js](https://workflow-node.netlify.com)
 - [Debugando projetos NodeJS no VSCode](https://www.alura.com.br/artigos/debugando-projetos-nodejs-no-vscode)
 - [10 Truques do NPM – Você conhece todos?](https://www.treinaweb.com.br/blog/10-truques-do-npm-voce-conhece-todos/)
@@ -101,6 +110,14 @@
 - [[Passo-a-Passo] Criando uma aplicação com NodeJS, usando Express, Mongo, Docker e Babel](https://emersonbroga.com/passo-a-passo-criando-uma-aplicacao-com-nodejs-usando-express-mongo-docker-e-babel/)
 - [Use cases for Node workers](https://blog.logrocket.com/use-cases-for-node-workers/)
 - [Designing API Methods in JavaScript](https://jsmanifest.com/designing-api-methods-in-javascript/)
+- [Node.js Por Baixo dos Panos #1 - Conhecendo nossas ferramentas](https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-1-conhecendo-nossas-ferramentas-34b6)
+- [Node JS Architecture – Single Threaded Event Loop](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
+- [Implementing Role-Based Access Control in a Node.js application](https://blog.soshace.com/en/javascript/implementing-role-based-access-control-in-a-node-js-application/)
+- [Node.js: How even quick async functions can block the Event-Loop, starve I/O](https://snyk.io/blog/nodejs-how-even-quick-async-functions-can-block-the-event-loop-starve-io/)
+- [How to scale a Nodejs app based on number of users](https://adrianmejia.com/how-to-scale-a-nodejs-app-based-on-number-of-users/)
+- [How I built an app with 500,000 users in 5 days on a \$100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
+- [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+- [Upload de arquivos com Nodejs](https://www.maiconsilva.com/node-files-upload/)
 
 ## TypeScript
 
@@ -143,16 +160,18 @@
 - [The Publish/Subscribe Pattern in JavaScript](https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/)
 - [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
 - [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
+- [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
+
+## Regex
+
+- [Regex Cross­word](https://regexcrossword.com)
+- [Expressões Regulares - Guia de Consulta Rápida](https://aurelio.net/regex/guia/)
 
 ## Testes
 
 - [Jest: Escrever testes nunca foi tão divertido](https://medium.com/@oieduardorabelo/jest-escrever-testes-nunca-foi-t%C3%A3o-divertido-5f0e1950ba10)
 - [Um Overview sobre Cypress.io — Framework de Automação de Testes end-to-end](https://medium.com/@faelbercam/um-overview-sobre-cypress-io-framework-de-automação-de-testes-end-to-end-dc438b9ee7a1)
 - [Testes end-to-end com Cypress.io](https://blog.novatics.com.br/teste-end-to-end-com-cypress-io-358576dc05c3)
-
-## Outros
-
-- [JSON: JavaScript Object Notation](https://desenvolvimentoparaweb.com/javascript/json-javascript-object-notation/)
 
 ## Tutoriais/Livros
 
@@ -167,6 +186,7 @@
 - [Tudo o que você precisa saber sobre JavaScript a partir do zero](http://www.devfuria.com.br/javascript/)
 - [JavaScript antes do Framework 0101](https://origamid.com/slide/youtube/#/0101-javascript-antes-do-framework/)
 - [Criando um filtro de busca customizável com JavaScript funcional — Parte 2: Organização é tudo](https://medium.com/@gabrielchiconi/criando-um-filtro-de-busca-customizável-com-javascript-funcional-parte-2-organização-é-tudo-a9e827249ad9)
+- [ECMAScript notes](https://github.com/EricDosReis/es-notes)
 
 ## Utilidades
 
@@ -177,7 +197,6 @@
 - [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
 - [Cypress](https://www.cypress.io)
 - [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
-- [Regex Cross­word](https://regexcrossword.com)
 
 ## Dataviz
 

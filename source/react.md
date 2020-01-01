@@ -27,12 +27,8 @@
 - [React Guide](https://scotch.io/guides/react)
 - [Chega de divs desnecessárias nos seus componentes, use Fragments!](https://medium.com/@lucasfrosty/chega-de-divs-desnecess%C3%A1rias-nos-seus-componentes-use-fragments-c87906c7a7c6)
 - [Debugando React com o VSCode](https://medium.com/code-prestige/debugando-react-com-o-vscode-efffc6f08233)
-- [All About React Router 4](https://css-tricks.com/react-router-4/)
-- [Learn once, route anywhere - React Router](https://reacttraining.com/react-router/)
-- [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
-- [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
-- [Routing and Navigation in React](https://medium.com/swlh/routing-and-navigation-in-react-cffc26e8a389)
 - [CSS Modules + React: conceitos básicos](https://blog.taller.net.br/css-modules-react-conceitos-basicos/)
+- [How to use CSS Modules in React?](https://www.robinwieruch.de/react-css-modules)
 - [Organizando uma aplicação com React](https://medium.com/tableless/organizando-uma-aplica%C3%A7%C3%A3o-com-react-5b8ea9075596)
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure/)
 - [Crafting more reusable react components](https://medium.com/the-ideal-system/react-meta-ui-components-23839fdcd8d9)
@@ -44,7 +40,6 @@
 - [Lidando com estados em React – Parte 01](https://imasters.com.br/desenvolvimento/lidando-com-estados-em-react-parte-01)
 - [10 obstáculos frequentes encontrados pelos novos tripulantes do React](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58)
 - [Entendendo create-react-app](https://rafaell-lycan.com/2016/entendendo-create-react-app/)
-- [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 - [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 - [PropTypes no React](https://medium.com/@fannyvieira/proptypes-in-react-eb5f9d417fb)
 - [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
@@ -68,6 +63,14 @@
 - [10 Things NOT To Do When Building React Applications](https://jsmanifest.com/10-things-not-to-do-when-building-react-apps/)
 - [8 Practices In React That Will Crash Your App In The Future](https://jsmanifest.com/8-practices-in-react-that-will-crash-your-app-in-the-future/)
 - [Enhance Your React App With Undo and Reset Abilities](https://jsmanifest.com/enhance-your-react-app-with-undo-reset-abilities/)
+- [Iniciando com ReactJS: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/reactjs-autenticacao/)
+- [How to use the React Developer Tools](https://flaviocopes.com/react-developer-tools/)
+- [Automatically generate your own React components with plop.js](https://blog.logrocket.com/automatically-generate-your-own-react-components-with-plop-js-2da3b39914f3/)
+- [Implementing the Prefetch Pattern in React Concurrent Mode](https://medium.com/better-programming/implementing-the-prefetch-pattern-in-react-concurrent-mode-c10c9813e2e7)
+- [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+- [8 Ways to Style React Components Compared](https://www.sitepoint.com/react-components-styling-options/)
+- [Por Que Nós Escrevemos super(props)?](https://overreacted.io/pt-br/why-do-we-write-super-props/)
+- [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
 
 ## React Hooks
 
@@ -83,6 +86,7 @@
 - [https://robertoachar.dev/blog/react-hooks](https://robertoachar.dev/blog/react-hooks)
 - [useParams — Extraia parâmetros da URL em uma linha](https://medium.com/@helloncanella/useparams-extraia-parâmetros-da-url-em-uma-linha-f4a0511ed195)
 - [The Power of React Hooks](https://jsmanifest.com/build-an-app-with-just-react-hooks/)
+- [Consumindo API Através do Hook | React](https://medium.com/@dinhoescreve/transformando-chamada-get-em-hook-react-cd9a93cab8ac)
 
 ## Context API
 
@@ -92,6 +96,14 @@
 - [Entendendo a Context API do React: criando um componente de loading](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7)
 - [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
 
+## React Router
+
+- [All About React Router 4](https://css-tricks.com/react-router-4/)
+- [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
+- [Routing and Navigation in React](https://medium.com/swlh/routing-and-navigation-in-react-cffc26e8a389)
+- [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
+
 ## Redux
 
 - [A Better File Structure For React/Redux Applications](https://marmelab.com/blog/2015/12/17/react-directory-structure.html)
@@ -99,8 +111,14 @@
 - [Redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)
 - [12 Things NOT To Do When Building React Apps With Redux](https://jsmanifest.com/12-things-not-to-do-when-building-react-redux-apps/)
 
+- ## React e Firebase
+- [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
+- [How we use Firebase instead of Redux (with React)](https://pragli.com/blog/how-we-use-firebase-instead-of-redux-with-react/)
+
 ## Utilidades
 
+- [React](https://pt-br.reactjs.org)
+- [React para iniciantes](https://origamid.com/slide/youtube/#/0102-react-para-iniciantes/1)
 - [Tyler Courses](https://tylermcginnis.com/courses/)
 - [React Table](https://react-table.js.org)
 - [HTML to React components](http://roman01la.github.io/html-to-react-components/)
@@ -132,6 +150,7 @@
 - [30 seconds of React - Curated collection of useful React snippets](https://github.com/30-seconds/30-seconds-of-react)
 - [React v16+ Cheat Sheet](https://jsmanifest.com/this-react-cheatsheet-includes-all-of-v16-features/)
 - [Divjoy - The React codebase generator](https://divjoy.com)
+- [react-fake-props](https://github.com/typicode/react-fake-props)
 
 ## React Dataviz
 

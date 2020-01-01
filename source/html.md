@@ -15,8 +15,15 @@
 - [Você está usando <em> errado!](https://desenvolvimentoparaweb.com/html/como-usar-tag-em-italico-corretamente/)
 - [Lazy loading nativo de imagens e iframes](https://desenvolvimentoparaweb.com/html/lazy-loading-nativo-imagem-iframe/)
 - [10 elementos HTML que você não sabia que precisava](https://desenvolvimentoparaweb.com/html/10-elementos-html-que-voce-nao-sabia-que-precisava/)
+- [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
 
 ## Para seguir
 
 - [HTML Moderno](https://htmlmoderno.com.br)
+
+## Utilidades
+
+- [HTMHell](https://www.htmhell.dev)
+- [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+- [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)

@@ -7,6 +7,9 @@
 - [Animações no React-Native com Haiku e Lottie](https://medium.com/@ronal2do/anima%C3%A7%C3%B5es-no-react-native-com-haiku-e-lottie-e5bc0c4f38ad)
 - [React Native e TypeScript](https://medium.com/trainingcenter/react-native-e-typescript-6c794a158327)
 - [Configurando React Native no macOS Mojave](https://nandovieira.com.br/configurando-react-native-no-macos-mojave)
+- [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502)
+- [Tornando um aplicativo acessível com React Native](https://blog.novatics.com.br/tornando-um-aplicativo-acessivel-com-react-native-68524176b4bd)
+- [Dark Mode no React Native: O guia definitivo](https://medium.com/@hliojnior_34681/dark-mode-no-react-native-o-guia-definitivo-9cc1265a7693)
 
 # Utilidades
 

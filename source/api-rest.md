@@ -1,20 +1,27 @@
 # API & REST
 
+- [Entendendo REST API](https://raccoon.ninja/pt/dev-pt/entendendo-rest-api/)
 - [Definindo APIs com o API Blueprint](http://eltonminetto.net/post/2017-06-29-definindo-apis-com-api-blueprint/)
+- [Design de APIs modernas](https://coderi.com.br/2018/01/11/design-de-apis-modernas/)
 - [Uma abordagem de desenvolvimento API-First](http://blog.rivendel.com.br/2016/11/25/uma-abordagem-de-desenvolvimento-api-first)
 - [Wordpress sem PHP? Bem-vindo ao conceito de API](https://medium.com/the-lab-of-codes/wordpress-sem-php-bem-vindo-ao-conceito-de-api-156cb80de167)
 - [REST não é simplesmente retornar JSON: indo além com APIs REST](https://www.treinaweb.com.br/blog/rest-nao-e-simplesmente-retornar-json-indo-alem-com-apis-rest/)
 - [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 - [Features que sua API REST precisa ter desde o início](https://tableless.com.br/features-que-sua-api-rest-precisa-ter-desde-o-inicio/)
-- [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
 - [Consumindo API com o Fetch](http://igoroliveira.me/blog/consumindo-api-com-fetch/)
 - [JSON Web Tokens: explicado](https://medium.com/@luisfelipezaguini/json-web-tokens-explicado-dba4ae3a9579)
-- [Testando sua API web com Postman](https://codigosimples.net/2018/02/15/testando-sua-api-web-com-postman/)
-- [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
-- [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 - [O que é API? REST e RESTful? Conheça as definições e diferenças!](https://becode.com.br/o-que-e-api-rest-e-restful/)
 - [Tutorial: Criar API RESTful com autenticação em apenas 5 minutos (P1)](https://pplware.sapo.pt/truques-dicas/tutorial-criacao-de-uma-api-restful/)
 - [Tutorial: Criar API RESTful com autenticação em apenas 5 minutos (P2)](https://pplware.sapo.pt/tutoriais/tutorial-criar-api-restful-com-autenticacao-em-apenas-5-minutos-p2/)
+- [Protegendo sua API Rest via Shared Key Authentication](https://blog.caelum.com.br/protegendo-sua-api-rest-via-shared-key-authentication/)
+- [Autenticando uma API em NodeJs com JSON web Tokens](http://tsdn.tecnospeed.com.br/blog-da-consultoria-tecnica-tecnospeed/post/autenticando-uma-api-em-nodejs-com-json-web-tokens/sap/1)
+
+## JavaScript
+
+- [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
+  [Setting Up Swagger to API Test In a JavaScript Application](https://itnext.io/setting-up-swagger-in-a-node-js-application-d3c4d7aa56d4)
+- [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
+- [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
 
 ## GET e POST
 
@@ -29,11 +36,22 @@
 - [GraphQL](https://blog.novatics.com.br/graphql-655896c8faed)
 - [GraphQL + NodeJS](https://blog.novatics.com.br/graphql-nodejs-669d082d547b)
 
+## Postman
+
+- [Testando sua API web com Postman](https://codigosimples.net/2018/02/15/testando-sua-api-web-com-postman/)
+- [Automatizando testes de sua API com Postman](https://medium.com/assertqualityassurance/automatizando-sua-api-com-postman-64a72185e1e6)
+- [Indo além com Postman](https://medium.com/trainingcenter/indo-além-com-postman-3f95726e0bb4)
+
 ## JSON Server
 
 - [JSON Server](https://blog.eleven-labs.com/en/json-server/)
 - [Basic Authentication for json-server](https://dzone.com/articles/basic-authentication-for-json-server)
 - [Building a Fake and JWT Protected REST API with json-server](https://www.techiediaries.com/fake-api-jwt-json-server/)
+- [Criando uma API REST Falsa Com json-server](https://code.tutsplus.com/pt/tutorials/fake-rest-api-up-and-running-using-json-server--cms-27871)
+- [JSON Server - Uma Rest API falsa](https://rogeriofontespsi.wordpress.com/2018/02/26/json-server-uma-rest-api-falsa/)
+- [JSON-SERVER para mocks de APIs](https://medium.com/@flaviofagundes/mocks-de-apis-com-json-server-d4d180ec80c7)
+- [CRUD básico com Vue.js e json-server #1](https://vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-parte-1/)
+- [My JSON Server](https://my-json-server.typicode.com)
 
 ## Utilidades
 
@@ -46,3 +64,6 @@
 - [Mockoon](https://mockoon.com)
 - [Sheetson](https://sheetson.com)
 - [Stein](https://steinhq.com)
+- [Faker](https://github.com/faker-ruby/faker)
+- [Faker.js](https://github.com/Marak/Faker.js)
+- [react-fake-props](https://github.com/typicode/react-fake-props)

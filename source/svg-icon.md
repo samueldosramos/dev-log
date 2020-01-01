@@ -7,3 +7,7 @@
 - [Por que parei de utilizar ícones como fontes](https://medium.com/dev-interior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4)
 - [Icon fonts: usando fontes como imagens adaptáveis](https://guilhermemuller.com.br/pt/posts/13/icon-fonts-usando-fontes-como-imagens-adaptaveis)
 - [SVG inline… Com cache!](https://desenvolvimentoparaweb.com/javascript/inline-svg-cache/)
+- [Começando com SVG no Front-End – Parte 1](https://www.treinaweb.com.br/blog/comecando-com-svg-no-front-end-parte-1/)
+- [Começando com SVG no Front-End – Parte 2](https://www.treinaweb.com.br/blog/comecando-com-svg-no-front-end-parte-2-trabalhando-com-inkscape/)
+- [Começando com SVG no Front-End – Parte 3 – Animações com mo.js (Motion Graphics)](https://www.treinaweb.com.br/blog/comecando-com-svg-no-front-end-parte-3-animacoes-com-mo-js-motion-graphics/)
+- [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)

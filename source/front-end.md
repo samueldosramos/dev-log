@@ -25,6 +25,7 @@
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [The Power of Serveless for Front-end Developers](https://serverless.css-tricks.com)
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+- [Stencil JS compilador para Web Components](https://medium.com/@larymagal/stencil-js-compilador-para-web-components-cd32b472c7e1)
 
 ## Artigos
 
@@ -32,6 +33,8 @@
 - [Como Funcionam as Comunicações Web](http://webdevacademy.com.br/artigos/como-funcionam-comunicacoes-web/)
 - [Básico de HTTP para Desenvolvedores Frontend](https://blog.dmatoso.com/b%C3%A1sico-de-http-para-desenvolvedores-frontend-954fa3688c87)
 - [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
+- [HTTP Status Codes](https://httpstatuses.com)
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [Falando de Front-end: Entendendo o processo para renderizar uma página web](https://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/)
 - [Single Page Applications: Onde vivem e o que comem](https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de)
 - [Conselhos essenciais em HTML5, CSS, Responsivo e SEO](https://imasters.com.br/front-end/css/conselhos-essenciais-em-html5-css-responsivo-e-seo/)
@@ -45,6 +48,9 @@
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Botões-fantasma (Ghost Buttons)](https://desenvolvimentoparaweb.com/design/botoes-fantasma-ghost-buttons/)
+- [Footer Links Should be Divided into Distinct Semantic Sections (13% of Sites Don’t)](https://baymard.com/blog/footer-links-ecommerce)
+- [Smoosh Gate – A lição que precisamos aprender](https://imasters.com.br/desenvolvimento/smoosh-gate-licao-que-precisamos-aprender)
+- [Gerando certificados SSL gratuitos com Certbot](https://www.treinaweb.com.br/blog/gerando-certificados-ssl-gratuitos-com-certbot/)
 
 ## Console / DevTools
 
@@ -119,3 +125,6 @@
 - [LottaTools - Some free tools for your browser](https://lottatools.com)
 - [Conheça o DevTools: ferramentas para desenvolvedores](https://www.treinaweb.com.br/ferramentas-para-desenvolvedores)
 - [Style Guide - Manual de desenvolvimento](http://styleguide.sogo.com.br)
+- [Pingy CLI](https://pin.gy/cli/)
+- [Web Tools - An awesome list of hosted tools for web development.](https://github.com/lvwzhen/tools)
+- [Web Almanac](https://almanac.httparchive.org/en/2019/)

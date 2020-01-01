@@ -15,6 +15,7 @@
 - [12 regras CSS que poucos conhecem](http://glauberramos.com/12-regras-css-poucos-conhecem.html)
 - [20 Essential CSS Tricks Every Designer Should Know](https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/)
 - [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
+- [CSS com unidades de medida modernas](https://coderi.com.br/2016/03/12/css-com-unidades-de-medida-modernas/)
 - [O Incrível Em & Layouts Elásticos com CSS](https://codeinbrasil.wordpress.com/2013/05/08/o-incrivel-em-layouts-elasticos-com-css/)
 - [Não use Placeholder no lugar da Label](https://www.felipefialho.com/blog/2014/nao-use-placeholder-no-lugar-da-label)
 - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not)
@@ -26,7 +27,6 @@
 - [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)
 - [CSS: 4 recursos incríveis que você já pode usar!](https://blog.umbler.com/br/css-4-recursos-incriveis-que-voce-ja-pode-usar/)
 - [Variáveis CSS: um guia prático](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
-- [Nem Sass, nem LESS, nem Stylus: PostCSS!](https://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/)
 - [Introdução ao PostCSS](https://blog.umbler.com/br/introducao-ao-postcss/)
 - [Conhecendo o @supports do CSS](https://tableless.com.br/conhecendo-regra-support-css/)
 - [Entendendo o DOM (Document Object Model)](https://tableless.com.br/entendendo-o-dom-document-object-model/)
@@ -38,7 +38,6 @@
 - [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
 - [Tabela de Referência de Seletores de CSS](https://tableless.com.br/referencia-seletores-css/)
 - [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
-- [Variáveis CSS são melhores que loops de Sass?](https://desenvolvimentoparaweb.com/css/variaveis-css-loops-sass/)
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
 - [Combinação de seletores CSS](https://desenvolvimentoparaweb.com/css/combinacao-seletores-css/)
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
@@ -51,6 +50,13 @@
 - [Vulnerabilidades de segurança CSS](https://desenvolvimentoparaweb.com/css/vulnerabilidades-de-seguranca-css/)
 - [CSS element()](https://desenvolvimentoparaweb.com/css/css-element/)
 - [CSS Custom Properties Explained](https://pawelgrzybek.com/css-custom-properties-explained/)
+- [Finally, it Will Be Easy to Change the Color of List Bullets](https://css-tricks.com/finally-it-will-be-easy-to-change-the-color-of-list-bullets/)
+- [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)
+- [CSS Quickies: text-indent](https://dev.to/lampewebdev/css-quickies-text-indent-1b28)
+- [How to Use CSS Logical Properties to Control Layout](https://webdesign.tutsplus.com/tutorials/how-to-use-css-logical-properties--cms-33024)
+- [Desenhos em CSS na vida real: útil ou só diversão?](https://dev.to/giuliacardieri/desenhos-em-css-na-vida-real-util-ou-so-diversao-4pm)
+- [The Order of CSS Classes in HTML Doesn’t Matter](https://css-tricks.com/the-order-of-css-classes-in-html-doesnt-matter/)
+- [Pensando em CSS](https://pensando-em-css.netlify.com/#1)
 
 ## Mobile
 
@@ -76,6 +82,7 @@
 - [Apps nativas vs Web apps: Quais devo escolher?](http://pplware.sapo.pt/internet/apps-nativas-vs-web-apps-quais-devo-escolher/)
 - [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 - [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
+- [Algumas coisas que você deve saber ao trabalhar com unidades de viewport](https://desenvolvimentoparaweb.com/css/algumas-coisas-que-voce-deve-saber-ao-trabalhar-com-unidades-de-viewport/)
 - [Mobile Design Best Practices](https://theblog.adobe.com/mobile-design-best-practices/)
 - [Mobile Icon Design for Faster Visual Search](https://uxmovement.com/mobile/mobile-icon-design-for-faster-visual-search/)
 - [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
@@ -83,6 +90,7 @@
 - [10 heuristic principles for mobile interfaces](https://uxdesign.cc/heuristic-principles-for-mobile-interfaces-c226fbaa1d16)
 - [9 dicas básicas de web design responsivo](https://desenvolvimentoparaweb.com/css/9-dicas-basicas-web-design-responsivo/)
 - [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
+- [O macete para unidades de viewport em mobile](https://desenvolvimentoparaweb.com/css/o-macete-para-unidades-de-viewport-em-mobile/)
 
 ## Organização
 
@@ -97,6 +105,7 @@
 - [CodePen's CSS](https://codepen.io/chriscoyier/post/codepens-css)
 - [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/)
 - [CSS Architecture — Folders & Files Structure](https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b)
+- [6 vantagens em usar BEM ao escrever CSS](https://desenvolvimentoparaweb.com/css/6-vantagens-em-usar-bem-ao-escrever-css/)
 
 ## Flexbox
 
@@ -140,12 +149,14 @@
 - [Como criar templates com CSS Grid](https://desenvolvimentoparaweb.com/css/css-grid-como-criar-templates/)
 - [Creating Simple Layout Templates with CSS Grid](https://teamgaslight.com/blog/creating-simple-layout-templates-with-css-grid/)
 - [CSS Grid intrinsecamente responsiva com minmax() e min()](https://desenvolvimentoparaweb.com/css/css-grid-intrinsecamente-responsiva-minmax-min/)
-- [Do Sass e BEM ao CSS-in-JS: A (re)evolução do CSS ao longo da história](https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/)
 
 ## Pré-processadores
 
 - [CSS on Steroids](https://tableless.com.br/css-steroids/)
 - [CSS on Steroids: A Era dos Pré-processadores](https://jcemer.com/css-on-steroids-a-era-dos-pos-processadores.html)
+- [CSS menos sofrido com Sass](https://blog.caelum.com.br/css-menos-sofrido-com-sass/)
+- [Variáveis CSS são melhores que loops de Sass?](https://desenvolvimentoparaweb.com/css/variaveis-css-loops-sass/)
+- [Nem Sass, nem LESS, nem Stylus: PostCSS!](https://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/)
 
 ## Utilidades
 

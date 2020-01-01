@@ -26,6 +26,7 @@
 - [Mac CLI](https://github.com/guarinogabriel/Mac-CLI)
 - [How To Update Apple OS X Using Command Line Software Update Tool](https://www.cyberciti.biz/faq/apple-mac-os-x-update-softwareupdate-bash-shell-command/)
 - [Instalando o Homebrew no seu Mac OS X](http://tecknow.com.br/instalando-o-homebrew-no-seu-mac-os-x/)
+- [A practical guide to Homebrew](https://flaviocopes.com/homebrew/)
 - [Removendo o MacPorts e instalando o HomeBrew no Mac OS X](https://craftmind.wordpress.com/2012/08/14/removendo-o-macports-e-instalando-o-brew-no-mac-os-x/)
 - [Instalando versões antigas de fórmulas no brew](http://substanciando.blogspot.com.br/2015/07/instalando-versoes-antigas-de-formulas.html)
 - [Homebrew — The Best Friend Of The Macos User](https://pawelgrzybek.com/homebrew-the-best-friend-of-the-macos-user/)

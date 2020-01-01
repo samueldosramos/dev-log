@@ -31,7 +31,7 @@
 - [Harvest](http://www.ryanbensonmedia.com/harvest)
 - [A curated directory of boilerplates](http://www.boilrplate.com/)
 
-## Botões
+## BotõesCom
 
 - [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
 - [Sticky Elements](http://design.iamvdo.me/stickyElements/)
@@ -163,6 +163,7 @@
 - [GitScrum ](https://www.gitscrum.com/)
 - [BitHubLab](https://www.bithublab.org/)
 - [Choosealicense](https://choosealicense.com/)
+- [Escolhaumalicenca](http://escolhaumalicenca.com.br)
 - [Git History](https://githistory.xyz)
 - [Personal Website Generator](https://github.dev)
 - [Gitstalk](https://gitstalk.netlify.com)
@@ -204,6 +205,7 @@
 - [Mini Icons Pack](https://thesquid.ink/mini-icons/)
 - [Material Icons Library](https://icons.pixsellz.io)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
+- [css.gg](https://css.gg)
 
 ## Imagens/Vídeos
 
@@ -244,6 +246,7 @@
 - [Samuel L. Ipsum](http://slipsum.com/)
 - [JS Ipsum](https://jsipsum.lunarlogic.io/)
 - [Lorem Action](http://loremaction.com)
+- [DEVs Ipsum](https://ipsum-community.github.io/devipsum/)
 - [Real content for all your designs](https://www.lists.design/)
 - [Realistic Data Generator](https://www.mockaroo.com/)
 - [Faker - A library for generating fake data](https://github.com/stympy/faker)

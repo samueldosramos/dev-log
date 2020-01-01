@@ -11,6 +11,7 @@
 
 - [Pro Git book](https://git-scm.com/book/pt-br/v1)
 - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Aprenda Git](http://aprenda.vidageek.net/aprenda/git)
 - [Aprenda a usar o Git](http://cafeinacodificada.com.br/github/)
 - [Git simples e rápido](http://www.linuxpro.com.br/2017/04/git-simples-e-rapido/)
 - [Um Pouco de Git para Designers](https://helabs.com/artigos/2014/05/26/um-pouco-de-git-para-designers/)
@@ -61,6 +62,10 @@
 - [Comandos do Git que você precisa conhecer – Parte 1](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
 - [Comandos do Git que você precisa conhecer – Parte 2 – Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos/)
 - [Transfer git repositories from GitLab to GitHub](https://stackoverflow.com/questions/22265837/transfer-git-repositories-from-gitlab-to-github-can-we-how-to-and-pitfalls-i)
+- [Como utilizar a técnica do stash para manter um trabalho com modificações seguras](https://imasters.com.br/desenvolvimento/como-utilizar-a-tecnica-do-stash-para-manter-um-trabalho-com-modificacoes-seguras)
+- [Como Git Stash seu trabalho – a maneira correta](https://www.agatetepe.com.br/como-git-stash-seu-trabalho-a-maneira-correta/)
+- [Truques úteis que você pode não saber sobre o Git Stash](https://www.agatetepe.com.br/truques-uteis-que-voce-pode-nao-saber-sobre-o-git-stash/)
+- [Git Stash: Conhecendo e utilizando um dos comandos mais práticos para o versionamento de seu código](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-práticos-para-o-versionamento-de-seu-código-a4dab3ac70da)
 
 ## Tutoriais
 
@@ -106,7 +111,7 @@
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](http://eltonminetto.net/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 - [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
 
-# SSH
+## SSH
 
 - [Tutorial como criar chave SSH (SSH key) pro gitlab ou github no mac osx ou linux](https://viniciuspaes.com/mac-osx/tutorial-criar-chave-ssh-key-gitlab-github-mac-osx-linux-ubuntu/)
 - [Evitando Informar Usuário e Senha a cada Push para o GitHub](https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a-cada-push-para-o-github-d8edbb5c6de4)
@@ -116,3 +121,12 @@
 - [Gerenciando múltiplas chaves SSH no Linux](http://blog.locaweb.com.br/artigos/desenvolvimento-artigos/gerenciando-multiplas-chaves-ssh-no-linux/)
 - [ssh com multiplas chaves no osx](http://gutocarvalho.net/octopress/2014/06/08/osx-ssh-multiplas-chaves/)
 - [Criar SSH Keys em sistemas UNIX](https://adrianorosa.com/blog/seguranca/como-criar-ssh-key-pair-unix.html)
+- [Upgrade Your SSH Key to Ed25519](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
+- [SSH-keygen - Generate a new SSH key](https://www.ssh.com/ssh/keygen/)
+
+## GPG
+
+- [Como usar GPG para criptografar e assinar mensagens via terminal](https://www.mariscotron.libertar.org/2017/05/19/como-usar-gpg-para-encriptar-e-assinar-mensagens-via-terminal/)
+- [Trabalhando com assinaturas de commits utilizando GPG](https://medium.com/@igordcsouza/trabalhando-com-assinaturas-de-commits-utilizando-gpg-fb842dea71da)
+- [Assinando commits no Git com GPG](https://coderi.com.br/2018/01/13/assinando-commits-no-git-com-gpg/)
+- [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)

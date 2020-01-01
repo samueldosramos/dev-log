@@ -24,9 +24,6 @@
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
 - [Como estruturar um case para portfólio de UX/UI e impressionar recrutadores](https://brasil.uxdesign.cc/como-estruturar-um-case-para-portfólio-de-ux-ui-e-impressionar-recrutadores-62266ee50839)
-- [Porque é importante pensar em documentar as decisões de UX, UI, desenvolvimento, produto, interação, etc.?](https://brasil.uxdesign.cc/design-system-documentar-pra-que-3e14f3c04625)
-- [Criando um design system](https://brasil.uxdesign.cc/criando-um-design-system-8e222f5659d0)
-- [Why design systems are a single point of failure](https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2)
 - [Desenhando cards: boas práticas](https://brasil.uxdesign.cc/https-brasil-uxdesign-cc-cards-boas-praticas-6ae813acf8cf)
 - [Desenhando tabelas fáceis de usar](https://brasil.uxdesign.cc/desenhando-tabelas-fáceis-de-usar-d97f220e0b16)
 - [The Best Way to Display Text Fields](https://uxmovement.com/forms/the-best-way-to-display-text-fields/)
@@ -49,12 +46,13 @@
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
-- [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)
 - [Grids #1: O que é layout e o que é grid?](https://clubedodesign.com/2018/grids-1-o-que-layout-e-o-que-e-grid/)
 - [Grids #2: A história do grid no design gráfico](https://clubedodesign.com/2018/grids-2-a-historia-do-grid-no-design-grafico/)
+- [Melhores práticas para input Telefone](https://desenvolvimentoparaweb.com/ux/melhores-praticas-para-input-telefone/)
+- [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
 
 ## Tipografia
 
@@ -72,6 +70,7 @@
 - [Guia Tipo Assim - Elias Bitencourt](https://www.yumpu.com/es/document/view/15157587/guia-tipo-assim-elias-bitencourt/2)
 - [Tipografia: um processo para escolher fontes](https://desenvolvimentoparaweb.com/design/tipografia-processo-escolher-fontes/)
 - [font-display: controle de exibição de fontes para ajuste em performance](https://desenvolvimentoparaweb.com/css/font-display-controle-de-exibicao-de-fontes-para-ajuste-em-performance/)
+- [Um breve manual de hierarquia visual para tipos](https://www.designerd.com.br/hierarquia-visual-para-tipos/)
 
 ## Cores
 
@@ -102,7 +101,6 @@
 - [A Revolução dos Micro-Momentos: como eles estão mudando as regras](https://www.thinkwithgoogle.com/intl/pt-br/marketing-resources/micro-momentos/how-micromoments-are-changing-rules/)
 - [O quanto UX é importante em seu projeto](https://helabs.com/artigos/2015/01/15/o-quanto-ux-e-importante-em-seu-projeto/)
 - [Usabilidade: Entenda os benefícios de treinar sua equipe em UX](http://blog.caelum.com.br/usabilidade-beneficios-treinar-equipe-ux/)
-- [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
 - [Análise heurística: como fazer e os benefícios para o projeto](https://brasil.uxdesign.cc/an%C3%A1lise-heur%C3%ADstica-o-que-%C3%A9-como-fazer-e-os-benef%C3%ADcios-para-o-projeto-161f3d94436b)
 - [Um link para UX Designers que estão precisando de inspiração](https://brasil.uxdesign.cc/um-link-para-ux-designers-que-est%C3%A3o-precisando-de-inspira%C3%A7%C3%A3o-8525fda38e97)
 - [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/)
@@ -130,6 +128,8 @@
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [19 princípios de User Interface Design](https://desenvolvimentoparaweb.com/ux/19-principios-user-interface-design/)
 - [A Designer's Guide to Animating Icons with CSS](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations)
+- [UI Style Guide — Definindo a Abordagem Visual](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e)
+- []()
 
 ## Web Design
 
@@ -174,16 +174,32 @@
 - [O que faz o Arquiteto de Informação?](http://fabricio.work/como-comecar-em-ux-design/)
 - [Arquitetura de informação](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/5-paradigmas-de-interacao/8-arquitetura-de-informacao/)
 
+## Design System
+
+- [Afinal, o que é Design System?](https://brasil.uxdesign.cc/afinal-o-que-é-design-system-448c257b0021)
+- [Porque é importante pensar em documentar as decisões de UX, UI, desenvolvimento, produto, interação, etc.?](https://brasil.uxdesign.cc/design-system-documentar-pra-que-3e14f3c04625)
+- [Criando um design system](https://brasil.uxdesign.cc/criando-um-design-system-8e222f5659d0)
+- [Why design systems are a single point of failure](https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2)
+- [Design System: o primeiro passo para escalar o design do seu produto.](https://medium.com/@thiago_hassu/design-system-o-primeiro-passo-para-escalar-o-design-do-seu-produto-3fa23dc8c8d9)
+- [Design Systems, preparation: Software, services and plugins](https://medium.com/sketch-app-sources/design-systems-preparation-software-services-and-plugins-e269c05db20)
+- [Design System: envolvendo pessoas chaves no processo de construção](https://brasil.uxdesign.cc/design-system-envolvendo-pessoas-chaves-no-processo-de-construção-3021e951b30a)
+- [Adele - The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
+
+## UX Research
+
+- [Entrevista motivacional é a ferramenta de UX Research que você nunca ouviu falar sobre](https://brasil.uxdesign.cc/entrevista-motivacional-é-a-ferramenta-de-ux-research-que-você-nunca-ouviu-falar-sobre-eb0bb7b3dd49)
+
 ## Utilidades
 
 - [Checklist Design](https://www.checklist.design)
 - [UX Project Checklist](https://uxchecklist.github.io/)
 - [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
 - [Open Source Design](http://opensourcedesign.net/)
-- [Acessibilidade Toolkit](http://acessibilida.de/toolkit/)
 - [Design Principles](https://principles.design/)
 - [UIPatternHub](http://www.uipatternhub.com/)
 - [Can't Unsee](https://cantunsee.space)
 - [DesignBase](https://www.felixjoy.co/designbase)
 - [Awesome Design Tools](https://flawlessapp.io/designtools)
 - [User Inyerface - A challenging exploration of user interactions and design patterns](https://userinyerface.com)
+- [Meus links favoritos UX & UI](https://coletivoux.com/meus-links-favoritos-ux-ui-16bd3c036fde)
+- [Diez - The Design Language Framework](https://diez.org)

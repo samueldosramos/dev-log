@@ -21,6 +21,8 @@
 - [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 - [>\_.bashrc PS1 generator](http://bashrcgenerator.com/)
 - [The Fuck - Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
+- [Criando funções em scripts bash (Linux/Bash)](https://raccoon.ninja/pt/dev-pt/criando-funcoes-em-scripts-bash-linux-bash/)
+- [Recuperando argumentos passados para um script shell (Linux/Bash)](https://raccoon.ninja/pt/dev-pt/recuperando-argumentos-passados-para-um-script-shell-linux-bash/)
 
 ## macOS
 
