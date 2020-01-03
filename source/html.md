@@ -27,3 +27,4 @@
 - [HTMHell](https://www.htmhell.dev)
 - [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 - [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)
+- [HTML Reference - A free visual guide to HTML](https://htmlreference.io)

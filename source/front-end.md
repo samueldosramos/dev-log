@@ -26,6 +26,8 @@
 - [The Power of Serveless for Front-end Developers](https://serverless.css-tricks.com)
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 - [Stencil JS compilador para Web Components](https://medium.com/@larymagal/stencil-js-compilador-para-web-components-cd32b472c7e1)
+- [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
+- [Preparing your website for the iPhone X](http://chrisltd.com/blog/2017/09/preparing-your-website-for-the-iphone-x)
 
 ## Artigos
 
@@ -128,3 +130,4 @@
 - [Pingy CLI](https://pin.gy/cli/)
 - [Web Tools - An awesome list of hosted tools for web development.](https://github.com/lvwzhen/tools)
 - [Web Almanac](https://almanac.httparchive.org/en/2019/)
+- [MarkSheet - A free HTML & CSS tutorial](https://marksheet.io)

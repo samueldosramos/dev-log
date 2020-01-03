@@ -82,7 +82,8 @@
 ## UX
 
 - [Por onde começar na área de UX?](https://uxdesign.blog.br/por-onde-come%C3%A7ar-na-%C3%A1rea-de-ux-49237cc7de90)
-- [O que é UX — User Experience e como começar nessa carreira](https://chocoladesign.com/o-que-%C3%A9-ux-user-experience-e-como-come%C3%A7ar-nessa-carreira-81b766f9103)
+- [Como começar em UX design — um guia completo](https://brasil.uxdesign.cc/como-migrar-para-ux-design-comecar-guia-completo-875db7cc3b4)
+- [O que é UX — User Experience e como começar nessa carreira](https://medium.com/chocoladesign/o-que-é-ux-user-experience-e-como-começar-nessa-carreira-81b766f9103)
 - [Guia De UX Para Iniciantes](https://pt.wix.com/blog/2015/05/guia-para-iniciantes-ux/)
 - [Ux Para Gps](https://brasil.uxdesign.cc/tagged/ux-para-gps)
 - [O que é UX e como posso ser um UX Designer?](https://www.estudarti.com.br/o-que-e-ux-e-como-posso-ser-um-ux-designer/)

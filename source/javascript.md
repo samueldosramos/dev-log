@@ -61,6 +61,7 @@
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [JavaScript — Filter — Padrão para criação de filtros genéricos para valores numéricos](https://medium.com/@osuissa/javascript-filter-padrao-para-criacao-de-filtros-genericos-para-valores-numericos-4d2376362573)
 - [Conheça as novidades do Javascript em 2020](https://devporai.com.br/conheca-as-novidades-do-javascript-em-2020/)
+- [Gráficos Dinâmicos com Eventos – Chart.js](http://www.mundojs.com.br/2018/07/12/graficos-dinamicos-com-eventos-chart-js/#page-content)
 
 ## Dicas
 

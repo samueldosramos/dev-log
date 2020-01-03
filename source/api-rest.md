@@ -15,6 +15,7 @@
 - [Tutorial: Criar API RESTful com autenticação em apenas 5 minutos (P2)](https://pplware.sapo.pt/tutoriais/tutorial-criar-api-restful-com-autenticacao-em-apenas-5-minutos-p2/)
 - [Protegendo sua API Rest via Shared Key Authentication](https://blog.caelum.com.br/protegendo-sua-api-rest-via-shared-key-authentication/)
 - [Autenticando uma API em NodeJs com JSON web Tokens](http://tsdn.tecnospeed.com.br/blog-da-consultoria-tecnica-tecnospeed/post/autenticando-uma-api-em-nodejs-com-json-web-tokens/sap/1)
+- [Google Sheets API com Python + Sql Server](https://imasters.com.br/apis-microsservicos/google-sheets-api-com-python-sql-server)
 
 ## JavaScript
 
