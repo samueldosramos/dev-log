@@ -53,6 +53,8 @@
 - [Grids #2: A história do grid no design gráfico](https://clubedodesign.com/2018/grids-2-a-historia-do-grid-no-design-grafico/)
 - [Melhores práticas para input Telefone](https://desenvolvimentoparaweb.com/ux/melhores-praticas-para-input-telefone/)
 - [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
+- [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
+- [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
 
 ## Tipografia
 
@@ -130,7 +132,7 @@
 - [19 princípios de User Interface Design](https://desenvolvimentoparaweb.com/ux/19-principios-user-interface-design/)
 - [A Designer's Guide to Animating Icons with CSS](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations)
 - [UI Style Guide — Definindo a Abordagem Visual](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e)
-- []()
+- [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
 
 ## Web Design
 

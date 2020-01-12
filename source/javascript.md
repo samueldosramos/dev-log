@@ -62,6 +62,8 @@
 - [JavaScript — Filter — Padrão para criação de filtros genéricos para valores numéricos](https://medium.com/@osuissa/javascript-filter-padrao-para-criacao-de-filtros-genericos-para-valores-numericos-4d2376362573)
 - [Conheça as novidades do Javascript em 2020](https://devporai.com.br/conheca-as-novidades-do-javascript-em-2020/)
 - [Gráficos Dinâmicos com Eventos – Chart.js](http://www.mundojs.com.br/2018/07/12/graficos-dinamicos-com-eventos-chart-js/#page-content)
+- [First Class Objects, High-Order functions, Funções Anônimas e Closures no JavaScript](https://medium.com/lfdev-blog/me-explica-96651fc2c105)
+- [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
 
 ## Dicas
 
@@ -196,8 +198,8 @@
 - [Code To Go](https://codetogo.io/)
 - [JavaScript Charts & Maps](https://www.amcharts.com/)
 - [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
-- [Cypress](https://www.cypress.io)
 - [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
+- [Just JavaScript](https://justjavascript.com)
 
 ## Dataviz
 

@@ -206,6 +206,7 @@
 - [Material Icons Library](https://icons.pixsellz.io)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [css.gg](https://css.gg)
+- [CoreUI](https://coreui.io/icons/)
 
 ## Imagens/Vídeos
 

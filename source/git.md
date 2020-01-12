@@ -66,6 +66,7 @@
 - [Como Git Stash seu trabalho – a maneira correta](https://www.agatetepe.com.br/como-git-stash-seu-trabalho-a-maneira-correta/)
 - [Truques úteis que você pode não saber sobre o Git Stash](https://www.agatetepe.com.br/truques-uteis-que-voce-pode-nao-saber-sobre-o-git-stash/)
 - [Git Stash: Conhecendo e utilizando um dos comandos mais práticos para o versionamento de seu código](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-práticos-para-o-versionamento-de-seu-código-a4dab3ac70da)
+- [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
 
 ## Tutoriais
 
