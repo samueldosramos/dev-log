@@ -72,6 +72,7 @@
 - [Por Que Nós Escrevemos super(props)?](https://overreacted.io/pt-br/why-do-we-write-super-props/)
 - [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
+- [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
 
 ## React Hooks
 
@@ -104,6 +105,7 @@
 - [Roteamento no React com os poderes do React Router v4](https://medium.com/collabcode/roteamento-no-react-com-os-poderes-do-react-router-v4-fbc191b9937d)
 - [Routing and Navigation in React](https://medium.com/swlh/routing-and-navigation-in-react-cffc26e8a389)
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
+- [Driving towards a universal navigation strategy in React](https://dev.to/ythecombinator/driving-towards-a-universal-navigation-strategy-in-react-j60)
 
 ## Redux
 

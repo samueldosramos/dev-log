@@ -43,6 +43,7 @@
 - [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
 - [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 - [JavaScript — Injeção de Dependências com Closures](https://medium.com/@osuissa/javascript-closures-700e8abbc7a)
+- [JavaScript: O que são Closures](http://www.mateuspaduaweb.com.br/javascript-o-que-sao-closures/)
 - [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
 - [Operadores Spread e Rest Javascript](https://medium.com/@ildaneta/operadores-spread-e-rest-javascript-c90ccf6962f1)
 - [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
@@ -64,6 +65,7 @@
 - [Gráficos Dinâmicos com Eventos – Chart.js](http://www.mundojs.com.br/2018/07/12/graficos-dinamicos-com-eventos-chart-js/#page-content)
 - [First Class Objects, High-Order functions, Funções Anônimas e Closures no JavaScript](https://medium.com/lfdev-blog/me-explica-96651fc2c105)
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
+- [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
 
 ## Dicas
 
@@ -94,6 +96,7 @@
 - [Javascript Funcional — Meu guia de estudos — Parte 1](https://medium.com/matheus-rossi/javascript-funcional-meu-guia-de-estudos-parte-1-32c430d29c38)
 - [Conceitos de linguagens funcionais: o que é currying?](https://www.treinaweb.com.br/blog/conceitos-de-linguagens-funcionais-o-que-e-currying/)
 - [Programação Funcional: código limpo e padrões de projeto](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
+- [Aventuras funcionais ocasionais em JavaScript](https://medium.com/@osuissa/aventuras-funcionais-ocasionais-em-javascript-54d3e168c4da)
 
 ## Node
 
@@ -147,6 +150,7 @@
 - [Guias de estilo para projetos JavaScript — Airbnb, Google e GitHub](https://medium.com/code-prestige/guias-de-estilo-para-projetos-javascript-airbnb-google-e-github-eec4f4ee7dc0)
 - [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)
 - [Meu workflow Javascript com Module Pattern](https://blog.da2k.com.br/2014/03/18/meu-workflow-javascript-com-module-pattern/)
+- [Funções Puras e imutabilidade, um pouco sobre código limpo e qualidade](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 
 ## Patterns
 

@@ -16,6 +16,7 @@
 - [Protegendo sua API Rest via Shared Key Authentication](https://blog.caelum.com.br/protegendo-sua-api-rest-via-shared-key-authentication/)
 - [Autenticando uma API em NodeJs com JSON web Tokens](http://tsdn.tecnospeed.com.br/blog-da-consultoria-tecnica-tecnospeed/post/autenticando-uma-api-em-nodejs-com-json-web-tokens/sap/1)
 - [Google Sheets API com Python + Sql Server](https://imasters.com.br/apis-microsservicos/google-sheets-api-com-python-sql-server)
+- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ## JavaScript
 
@@ -23,6 +24,7 @@
   [Setting Up Swagger to API Test In a JavaScript Application](https://itnext.io/setting-up-swagger-in-a-node-js-application-d3c4d7aa56d4)
 - [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 - [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
+- [How to send the authorization header using Axios](https://flaviocopes.com/axios-send-authorization-header/)
 
 ## GET e POST
 

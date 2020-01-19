@@ -46,6 +46,7 @@
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
+- [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)
@@ -55,6 +56,7 @@
 - [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
 - [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
 - [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
+- [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
 
 ## Tipografia
 
@@ -80,6 +82,7 @@
 - [O Significado das Cores](http://www.pinceladasdaweb.com.br/blog/2011/08/16/o-significado-das-cores/)
 - [Contraste de cores – Acessibilidade na web](https://tableless.com.br/contraste-de-cores-acessibilidade-na-web/)
 - [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
+- [Psicologia das cores não é o que você esta pensando](https://brasil.uxdesign.cc/psicologia-das-cores-não-é-o-que-você-esta-pensando-619ca796c336)
 
 ## UX
 

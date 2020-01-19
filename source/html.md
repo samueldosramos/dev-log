@@ -17,6 +17,8 @@
 - [10 elementos HTML que você não sabia que precisava](https://desenvolvimentoparaweb.com/html/10-elementos-html-que-voce-nao-sabia-que-precisava/)
 - [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
+- [Atributo lang: pequeno mas poderoso](https://www.brunopulis.com/a11y/atributo-lang-pequeno-mas-poderoso/)
+- [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
 
 ## Para seguir
 
@@ -25,6 +27,5 @@
 ## Utilidades
 
 - [HTMHell](https://www.htmhell.dev)
-- [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 - [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)
 - [HTML Reference - A free visual guide to HTML](https://htmlreference.io)
