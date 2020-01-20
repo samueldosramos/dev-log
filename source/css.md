@@ -58,6 +58,7 @@
 - [The Order of CSS Classes in HTML Doesn’t Matter](https://css-tricks.com/the-order-of-css-classes-in-html-doesnt-matter/)
 - [Pensando em CSS](https://pensando-em-css.netlify.com/#1)
 - [CSS – Altura automática proporcional à largura sem JavaScript](https://www.treinaweb.com.br/blog/css-altura-automatica-proporcional-a-largura-sem-javascript/)
+- [CSS – Definindo o cálculo de dimensões com box-sizing](https://www.treinaweb.com.br/blog/css-definindo-o-calculo-de-dimensoes-com-box-sizing/)
 
 ## Mobile
 

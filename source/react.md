@@ -76,6 +76,7 @@
 
 ## React Hooks
 
+- [Why React Hooks?](https://tylermcginnis.com/why-react-hooks/)
 - [React Hooks](https://showmethecode.com.br/react-hooks/)
 - [Habemus React Hooks](https://willianjusten.com.br/habemus-react-hooks/)
 - [Learn React Hooks by building a game](https://react.games)

@@ -66,6 +66,7 @@
 - [First Class Objects, High-Order functions, Funções Anônimas e Closures no JavaScript](https://medium.com/lfdev-blog/me-explica-96651fc2c105)
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
 - [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
+- [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
 
 ## Dicas
 
@@ -179,6 +180,7 @@
 - [Jest: Escrever testes nunca foi tão divertido](https://medium.com/@oieduardorabelo/jest-escrever-testes-nunca-foi-t%C3%A3o-divertido-5f0e1950ba10)
 - [Um Overview sobre Cypress.io — Framework de Automação de Testes end-to-end](https://medium.com/@faelbercam/um-overview-sobre-cypress-io-framework-de-automação-de-testes-end-to-end-dc438b9ee7a1)
 - [Testes end-to-end com Cypress.io](https://blog.novatics.com.br/teste-end-to-end-com-cypress-io-358576dc05c3)
+- [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
 
 ## Tutoriais/Livros
 

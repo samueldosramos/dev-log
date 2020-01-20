@@ -12,6 +12,8 @@
 - [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
 - [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [Guia completo para a produção de conteúdo acessivel](https://abradi.com.br/guia-completo-para-a-producao-de-conteudo-acessivel/)
+- [Accessibility drives aesthetics](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
+- [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)
 
 ## Utilidades
 
@@ -31,3 +33,4 @@
 - [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org)
 - [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/)
 - [UserWay's Accessibility Widget](https://userway.org)
+- [web para todos](https://mwpt.com.br)
