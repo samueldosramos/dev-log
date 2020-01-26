@@ -152,6 +152,7 @@
 - [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)
 - [Meu workflow Javascript com Module Pattern](https://blog.da2k.com.br/2014/03/18/meu-workflow-javascript-com-module-pattern/)
 - [Funções Puras e imutabilidade, um pouco sobre código limpo e qualidade](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
+- [JavaScript Clean Code — Naming](https://levelup.gitconnected.com/javascript-clean-code-naming-9a8308843a17)
 
 ## Patterns
 

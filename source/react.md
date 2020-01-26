@@ -73,6 +73,7 @@
 - [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
+- [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
 
 ## React Hooks
 

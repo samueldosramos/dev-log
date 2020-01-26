@@ -47,6 +47,7 @@
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
+- [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)
@@ -57,6 +58,7 @@
 - [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
 - [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
 - [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
+- [A Lei dos Pequenos Números e seus impactos no Design](https://brasil.uxdesign.cc/a-lei-dos-pequenos-numeros-e-seus-impactos-no-design-b637c3cb7beb)
 
 ## Tipografia
 
@@ -160,6 +162,7 @@
 - [Guia Completo de Prototipação em UX Design](https://awari.com.br/blog/guia-prototipos-ux-design)
 - [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b)
 - [Different Faces of Gamification in Web Design](https://designmodo.com/different-faces-gamification/)
+- [Noções básicas de HTML que todos os designer gráficos e da web devem saber](https://brasil.uxdesign.cc/noções-básicas-de-html-que-todos-os-designer-gráficos-e-da-web-devem-saber-59efe323d550)
 
 ## Arquitetura de Informação
 

@@ -6,6 +6,7 @@
 - [Python Brasil](https://python.org.br)
 - [Django](https://www.djangoproject.com)
 - [Linters and formatters](http://books.agiliq.com/projects/essential-python-tools/en/latest/linters.html)
+- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
 ## Dicas
 

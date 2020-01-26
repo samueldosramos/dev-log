@@ -38,6 +38,7 @@
 - [Hands On GraphQL: Faça sua primeira API!](https://medium.com/equals-lab/hands-on-graphql-minha-primeira-api-170125ef84f6)
 - [GraphQL](https://blog.novatics.com.br/graphql-655896c8faed)
 - [GraphQL + NodeJS](https://blog.novatics.com.br/graphql-nodejs-669d082d547b)
+- [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/)
 
 ## Postman
 

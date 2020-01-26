@@ -15,6 +15,7 @@
 - [Choosing Ruby on Rails For Your Next Web Development Project](https://ideamotive.co/ruby-on-rails-development-guide/?in-2019)
 - [Rails numa Casca de Noz](https://blog.novatics.com.br/rails-numa-casca-de-noz-95f9bf7f8612)
 - [Ruby Não é Somente Rails, Carai!](http://www.fidelis.work/ruby-nao-e-somente-rails-caraleo/)
+- [Yukihiro Matsumoto: "Ruby is designed for humans, not machines"](https://evrone.com/yukihiro-matsumoto-interview)
 
 ## Manuais
 

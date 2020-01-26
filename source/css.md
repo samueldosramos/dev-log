@@ -59,6 +59,8 @@
 - [Pensando em CSS](https://pensando-em-css.netlify.com/#1)
 - [CSS – Altura automática proporcional à largura sem JavaScript](https://www.treinaweb.com.br/blog/css-altura-automatica-proporcional-a-largura-sem-javascript/)
 - [CSS – Definindo o cálculo de dimensões com box-sizing](https://www.treinaweb.com.br/blog/css-definindo-o-calculo-de-dimensoes-com-box-sizing/)
+- [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
+- [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 
 ## Mobile
 
