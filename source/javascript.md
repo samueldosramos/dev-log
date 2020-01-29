@@ -67,6 +67,7 @@
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
 - [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
 - [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
+- [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
 
 ## Dicas
 
@@ -138,6 +139,7 @@
 - [Observer Pattern - Design Patterns com Typescript](https://meneguite.com/2019/06/23/design-patterns-com-typescript-observer/)
 - [5 TypeScript tips to improve your applications](https://nehalist.io/5-typescript-tips-to-improve-your-architecture/)
 - [Introdução a TypeScript](https://intro-typescript.victorhfmag.now.sh/)
+- [Diga olá ao TypeScript e adeus ao JavaScript](https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)
 
 # Style/Clean code
 
@@ -182,6 +184,7 @@
 - [Um Overview sobre Cypress.io — Framework de Automação de Testes end-to-end](https://medium.com/@faelbercam/um-overview-sobre-cypress-io-framework-de-automação-de-testes-end-to-end-dc438b9ee7a1)
 - [Testes end-to-end com Cypress.io](https://blog.novatics.com.br/teste-end-to-end-com-cypress-io-358576dc05c3)
 - [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
+- [Understanding Cypress’s command execution order and Chainables](https://medium.com/@arnonaxelrod/understanding-cypresss-command-execution-order-and-chainables-75079d82710a)
 
 ## Tutoriais/Livros
 
@@ -197,6 +200,7 @@
 - [JavaScript antes do Framework 0101](https://origamid.com/slide/youtube/#/0101-javascript-antes-do-framework/)
 - [Criando um filtro de busca customizável com JavaScript funcional — Parte 2: Organização é tudo](https://medium.com/@gabrielchiconi/criando-um-filtro-de-busca-customizável-com-javascript-funcional-parte-2-organização-é-tudo-a9e827249ad9)
 - [ECMAScript notes](https://github.com/EricDosReis/es-notes)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Utilidades
 
@@ -207,6 +211,7 @@
 - [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)
 - [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
 - [Just JavaScript](https://justjavascript.com)
+- [Introducing Design Systems CLI](https://medium.com/swlh/introducing-design-systems-cli-af9593cd67d6)
 
 ## Dataviz
 

@@ -25,6 +25,7 @@
 - [Black – Gerando código limpo em Python](https://cadernodelaboratorio.com.br/2019/04/02/black-gerando-codigo-limpo-em-python/)
 - [How to make pylint, flake8 or pycodestyle to automatically correct errors?](https://stackoverflow.com/questions/54836680/how-to-make-pylint-flake8-or-pycodestyle-to-automatically-correct-errors)
 - [Auto formatters for Python](https://www.kevinpeters.net/auto-formatters-for-python)
+- [Welcome to Python for Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
 
 ## Django
 

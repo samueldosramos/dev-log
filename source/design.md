@@ -55,8 +55,6 @@
 - [Grids #2: A história do grid no design gráfico](https://clubedodesign.com/2018/grids-2-a-historia-do-grid-no-design-grafico/)
 - [Melhores práticas para input Telefone](https://desenvolvimentoparaweb.com/ux/melhores-praticas-para-input-telefone/)
 - [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
-- [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
-- [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
 - [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
 - [A Lei dos Pequenos Números e seus impactos no Design](https://brasil.uxdesign.cc/a-lei-dos-pequenos-numeros-e-seus-impactos-no-design-b637c3cb7beb)
 
@@ -193,6 +191,12 @@
 - [Design Systems, preparation: Software, services and plugins](https://medium.com/sketch-app-sources/design-systems-preparation-software-services-and-plugins-e269c05db20)
 - [Design System: envolvendo pessoas chaves no processo de construção](https://brasil.uxdesign.cc/design-system-envolvendo-pessoas-chaves-no-processo-de-construção-3021e951b30a)
 - [Adele - The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
+
+## Atomic Design
+
+- [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
+- [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
+- [Atomic Design Extended — Bósons e Quarks](https://medium.com/@osuissa/atomic-design-extended-bósons-e-quarks-550106dfbd99)
 
 ## UX Research
 

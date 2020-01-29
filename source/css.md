@@ -61,6 +61,7 @@
 - [CSS – Definindo o cálculo de dimensões com box-sizing](https://www.treinaweb.com.br/blog/css-definindo-o-calculo-de-dimensoes-com-box-sizing/)
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
+- [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
 
 ## Mobile
 

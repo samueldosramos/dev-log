@@ -32,7 +32,6 @@
 - [Organizando uma aplicação com React](https://medium.com/tableless/organizando-uma-aplica%C3%A7%C3%A3o-com-react-5b8ea9075596)
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure/)
 - [Crafting more reusable react components](https://medium.com/the-ideal-system/react-meta-ui-components-23839fdcd8d9)
-- [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 - [Um Ensaio sobre Arquitetura Fractal usando Webpack e React](https://blog.taller.net.br/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/)
 - [React - Estruturando projetos e nomeando componentes](https://medium.com/@viniciusdacal/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11)
 - [Functional Components vs. Stateless Functional Components vs. Stateless Components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/)
@@ -115,6 +114,7 @@
 - [redux com react para iniciantes](https://medium.com/@tapmorales/redux-com-react-para-iniciantes-1e0411199ea0)
 - [Redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)
 - [12 Things NOT To Do When Building React Apps With Redux](https://jsmanifest.com/12-things-not-to-do-when-building-react-redux-apps/)
+- [React + MobX, lições aprendidas](https://medium.com/@caiovaccaro/react-mobx-lições-aprendidas-656b5232dec)
 
 - ## React e Firebase
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
@@ -156,6 +156,13 @@
 - [React v16+ Cheat Sheet](https://jsmanifest.com/this-react-cheatsheet-includes-all-of-v16-features/)
 - [Divjoy - The React codebase generator](https://divjoy.com)
 - [react-fake-props](https://github.com/typicode/react-fake-props)
+
+## Design System
+
+- [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
+- [How to build a design system out of React components](https://uxdesign.cc/building-a-design-system-out-of-react-components-cef6014ef290)
+- [Design Systems - Biblioteca de Componentes Reutilizáveis com React](https://slides.com/marcelodapper/reusable-component-library-with-react#/)
+- [React Components Library - Demo](https://github.com/mdapper/react-components-library)
 
 ## React Dataviz
 

@@ -86,7 +86,6 @@
 - [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
 - [Java - Padrões de Projeto](http://fernandoanselmo.blogspot.com.br/2015/10/java-padroes-de-projeto.html)
 - [Devtranslate](https://devtranslate.github.io/)
-- [Movimento Web para Todos](http://mwpt.com.br/)
 
 ## Utilidades
 
@@ -132,3 +131,4 @@
 - [Web Almanac](https://almanac.httparchive.org/en/2019/)
 - [MarkSheet - A free HTML & CSS tutorial](https://marksheet.io)
 - [Frontend Mentor](https://www.frontendmentor.io)
+- [Recursos front end para criar sites incríveis com HTML, CSS e JavaScript](https://recursosfrontend.desenvolvimentoparaweb.com)

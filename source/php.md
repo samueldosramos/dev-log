@@ -8,6 +8,7 @@
 - [PHP não presta?!](https://imasters.com.br/linguagens/php/php-nao-presta/)
 - [O que é PHP e porque você precisa aprender HOJE!](https://becode.com.br/o-que-e-php/)
 - [PHP in 2019](https://stitcher.io/blog/php-in-2019)
+- [O que são as PSRs do PHP](https://www.treinaweb.com.br/blog/o-que-sao-as-psrs-do-php/)
 
 ## Manuais
 
