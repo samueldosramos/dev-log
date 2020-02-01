@@ -57,6 +57,7 @@
 - [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
 - [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
 - [A Lei dos Pequenos Números e seus impactos no Design](https://brasil.uxdesign.cc/a-lei-dos-pequenos-numeros-e-seus-impactos-no-design-b637c3cb7beb)
+- [2 ferramentas para criar o que as pessoas amam ver](https://brasil.uxdesign.cc/2-ferramentas-para-criar-o-que-as-pessoas-amam-ver-cf674e0368f1)
 
 ## Tipografia
 

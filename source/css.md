@@ -62,6 +62,8 @@
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
+- [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
+- [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
 
 ## Mobile
 

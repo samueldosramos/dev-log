@@ -153,8 +153,9 @@
 - [Guias de estilo para projetos JavaScript — Airbnb, Google e GitHub](https://medium.com/code-prestige/guias-de-estilo-para-projetos-javascript-airbnb-google-e-github-eec4f4ee7dc0)
 - [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)
 - [Meu workflow Javascript com Module Pattern](https://blog.da2k.com.br/2014/03/18/meu-workflow-javascript-com-module-pattern/)
-- [Funções Puras e imutabilidade, um pouco sobre código limpo e qualidade](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 - [JavaScript Clean Code — Naming](https://levelup.gitconnected.com/javascript-clean-code-naming-9a8308843a17)
+- [Funções Puras e imutabilidade, um pouco sobre código limpo e qualidade](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
+- [Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 
 ## Patterns
 
