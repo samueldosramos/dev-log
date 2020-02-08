@@ -7,6 +7,7 @@
 - [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Reference](http://cssreference.io/)
+- [A list of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
 - [Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS)
 - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [70 dicas para escrever CSS](http://www.maujor.com/blog/2007/05/29/70-dicas-para-escrever-css/)

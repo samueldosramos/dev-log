@@ -26,6 +26,8 @@
 - [How to make pylint, flake8 or pycodestyle to automatically correct errors?](https://stackoverflow.com/questions/54836680/how-to-make-pylint-flake8-or-pycodestyle-to-automatically-correct-errors)
 - [Auto formatters for Python](https://www.kevinpeters.net/auto-formatters-for-python)
 - [Welcome to Python for Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
+- [Principais Estruturas de Dados no Python](https://www.treinaweb.com.br/blog/principais-estruturas-de-dados-no-python/)
+- [Manipulando dicionários no Python](https://www.treinaweb.com.br/blog/manipulando-dicionarios-no-python/)
 
 ## Django
 

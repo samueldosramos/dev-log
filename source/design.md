@@ -118,6 +118,7 @@
 - [Especial Carreiras do Futuro: UX Designer no Mundo Digital](http://somostera.com/blog/especial-carreiras-do-futuro-ux-designer-no-mundo-digital/)
 - [As leis da psicologia voltadas para UI/UX design em aplicativos móveis](https://medium.com/ui-lab-school/as-leis-da-psicologia-voltadas-para-ui-ux-design-em-aplicativos-m%C3%B3veis-30f06e1de2d3)
 - [Termos, Condições Legais e a experiência do usuário (UX)](https://brasil.uxdesign.cc/termos-condições-legais-e-a-experiência-do-usuário-ux-3deb8c6fcb11)
+- [Experiência de usuário aplicada na construção de um relatório de pesquisa](https://brasil.uxdesign.cc/relatórios-de-pesquisa-são-chatos-e-ninguém-gosta-de-ler-68a208df348b)
 
 ## UI
 
@@ -181,6 +182,7 @@
 - [Arquitetura de Informação e o seu propósito](https://coletivoux.com/arquitetura-de-informa%C3%A7%C3%A3o-e-o-seu-prop%C3%B3sito-29cd278ebdfe)
 - [O que faz o Arquiteto de Informação?](http://fabricio.work/como-comecar-em-ux-design/)
 - [Arquitetura de informação](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/5-paradigmas-de-interacao/8-arquitetura-de-informacao/)
+- [Escalando consistência e boas práticas de arquitetura da informação](https://brasil.uxdesign.cc/escalando-consistência-e-arquitetura-da-informação-57392ba11ad0)
 
 ## Design System
 

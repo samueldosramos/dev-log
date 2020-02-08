@@ -29,3 +29,4 @@
 - [HTMHell](https://www.htmhell.dev)
 - [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)
 - [HTML Reference - A free visual guide to HTML](https://htmlreference.io)
+- [Canvas HTML5: do Alpha ao Z-Index](https://github.com/LuisAraujo/Livro-Canvas-HTML5-do-Alpha-ao-Z-index/blob/master/cap1-Introducao/README.md#12---a-chegada-do-canvas)

@@ -73,6 +73,7 @@
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
+- [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
 
 ## React Hooks
 
@@ -90,6 +91,7 @@
 - [useParams — Extraia parâmetros da URL em uma linha](https://medium.com/@helloncanella/useparams-extraia-parâmetros-da-url-em-uma-linha-f4a0511ed195)
 - [The Power of React Hooks](https://jsmanifest.com/build-an-app-with-just-react-hooks/)
 - [Consumindo API Através do Hook | React](https://medium.com/@dinhoescreve/transformando-chamada-get-em-hook-react-cd9a93cab8ac)
+- [Injetando código no carregamento de um componente usando Hooks](https://01dev.codes/didmount-hooks-react/)
 
 ## Context API
 
@@ -98,6 +100,7 @@
 - [React 16.3 e a nova API de Contexto](https://blog.novatics.com.br/react-16-3-e-a-nova-api-de-contexto-a3b5281157f8)
 - [Entendendo a Context API do React: criando um componente de loading](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7)
 - [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
+- [Tudo que você precisa saber sobre Context API no React](https://01dev.codes/tudo-sobre-context-api-react/)
 
 ## React Router
 
@@ -116,7 +119,8 @@
 - [12 Things NOT To Do When Building React Apps With Redux](https://jsmanifest.com/12-things-not-to-do-when-building-react-redux-apps/)
 - [React + MobX, lições aprendidas](https://medium.com/@caiovaccaro/react-mobx-lições-aprendidas-656b5232dec)
 
-- ## React e Firebase
+## React e Firebase
+
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
 - [How we use Firebase instead of Redux (with React)](https://pragli.com/blog/how-we-use-firebase-instead-of-redux-with-react/)
 

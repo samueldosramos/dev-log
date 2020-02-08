@@ -56,12 +56,14 @@
 - [Entendendo funções callback em JavaScript](https://medium.com/totvsdevelopers/entendendo-funções-callback-em-javascript-7b500dc7fa22)
 - [How to use the Drag and Drop API](https://flaviocopes.com/drag-and-drop/)
 - [Practical Ways to Write Better JavaScript](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4/)
+- [Async/Await com JavaScript](https://01dev.codes/async-await-com-javascript/)
 - [Javascript: Entendendo Async Iterators](https://dev.to/khaosdoctor/entendendo-async-iterators-1opo)
 - [JavaScript: Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0)
 - [JavaScript: Map vs Object, quando e como usar?](https://medium.com/@oieduardorabelo/javascript-map-vs-object-quando-e-como-usar-5457677b001b)
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [JavaScript — Filter — Padrão para criação de filtros genéricos para valores numéricos](https://medium.com/@osuissa/javascript-filter-padrao-para-criacao-de-filtros-genericos-para-valores-numericos-4d2376362573)
 - [Conheça as novidades do Javascript em 2020](https://devporai.com.br/conheca-as-novidades-do-javascript-em-2020/)
+- [JavaScript em 2020: O que esperar](https://imasters.com.br/javascript/javascript-em-2020-o-que-esperar)
 - [Gráficos Dinâmicos com Eventos – Chart.js](http://www.mundojs.com.br/2018/07/12/graficos-dinamicos-com-eventos-chart-js/#page-content)
 - [First Class Objects, High-Order functions, Funções Anônimas e Closures no JavaScript](https://medium.com/lfdev-blog/me-explica-96651fc2c105)
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
@@ -99,6 +101,7 @@
 - [Conceitos de linguagens funcionais: o que é currying?](https://www.treinaweb.com.br/blog/conceitos-de-linguagens-funcionais-o-que-e-currying/)
 - [Programação Funcional: código limpo e padrões de projeto](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
 - [Aventuras funcionais ocasionais em JavaScript](https://medium.com/@osuissa/aventuras-funcionais-ocasionais-em-javascript-54d3e168c4da)
+- [Na Prática: Programação Funcional com JavaScript](https://01dev.codes/na-pratica-programacao-funcional-js/)
 
 ## Node
 
