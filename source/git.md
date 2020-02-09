@@ -112,6 +112,7 @@
 - [Você deveria usar gist para compartilhar problemas no seu código](https://imasters.com.br/desenvolvimento/voce-deveria-usar-gist-para-compartilhar-problemas-no-seu-codigo/?platform=hootsuite)
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](http://eltonminetto.net/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 - [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
+- [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 
 ## SSH
 
