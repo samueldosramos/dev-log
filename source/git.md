@@ -68,6 +68,7 @@
 - [Git Stash: Conhecendo e utilizando um dos comandos mais práticos para o versionamento de seu código](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-práticos-para-o-versionamento-de-seu-código-a4dab3ac70da)
 - [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
 - [Criando release no GitHub](https://www.treinaweb.com.br/blog/criando-release-no-github/)
+- [Github: Pare com as senhas e utilize Tokens de Acesso](https://www.treinaweb.com.br/blog/github-pare-com-as-senhas-e-utilize-tokens-de-acesso/)
 
 ## Tutoriais
 
