@@ -23,6 +23,7 @@
 - [O Poder do CSS 3 — Desenhando Formas](https://journal.helabs.com/o-poder-do-css-3-desenhando-formas-ce1d3402037b)
 - [Pare de usar javascript para tudo](http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/)
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
+- [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
 - [Variáveis no CSS](https://braziljs.org/blog/variaveis-no-css/)
 - [Como usar variáveis no CSS de forma nativa](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/)
 - [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)

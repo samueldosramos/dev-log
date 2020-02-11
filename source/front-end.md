@@ -37,6 +37,7 @@
 - [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
 - [HTTP Status Codes](https://httpstatuses.com)
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [Falando de Front-end: Entendendo o processo para renderizar uma página web](https://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/)
 - [Single Page Applications: Onde vivem e o que comem](https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de)
 - [Conselhos essenciais em HTML5, CSS, Responsivo e SEO](https://imasters.com.br/front-end/css/conselhos-essenciais-em-html5-css-responsivo-e-seo/)
