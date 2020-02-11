@@ -134,3 +134,4 @@
 - [Trabalhando com assinaturas de commits utilizando GPG](https://medium.com/@igordcsouza/trabalhando-com-assinaturas-de-commits-utilizando-gpg-fb842dea71da)
 - [Assinando commits no Git com GPG](https://coderi.com.br/2018/01/13/assinando-commits-no-git-com-gpg/)
 - [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)
+- [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
