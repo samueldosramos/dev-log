@@ -17,6 +17,7 @@
 - [Autenticando uma API em NodeJs com JSON web Tokens](http://tsdn.tecnospeed.com.br/blog-da-consultoria-tecnica-tecnospeed/post/autenticando-uma-api-em-nodejs-com-json-web-tokens/sap/1)
 - [Google Sheets API com Python + Sql Server](https://imasters.com.br/apis-microsservicos/google-sheets-api-com-python-sql-server)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [HATEOAS Driven REST APIs](https://restfulapi.net/hateoas/)
 
 ## JavaScript
 

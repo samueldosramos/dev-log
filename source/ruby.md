@@ -99,8 +99,9 @@
 - [Nando Vieira](https://nandovieira.com.br/)
 - [HE:Blog](https://helabs.com/blog/)
 - [Welcome to the new Ruby Toolbox!]()
-- [https://rubyonrailsbrasil.com.br/](Ruby on Rails Brasil)
+- [Ruby on Rails Brasil](https://rubyonrailsbrasil.com.br/)
 - [Ruby Toolbox](https://www.ruby-toolbox.com/)
+- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What’s News?](https://planetruby.github.io/calendar/ruby3x3)
 
 ## Comparação
 
