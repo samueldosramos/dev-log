@@ -7,8 +7,9 @@
 - [Os benefícios e as vantagens do PHP](http://elias.praciano.com/2014/02/15-beneficios-e-vantagens-do-php/)
 - [PHP não presta?!](https://imasters.com.br/linguagens/php/php-nao-presta/)
 - [O que é PHP e porque você precisa aprender HOJE!](https://becode.com.br/o-que-e-php/)
-- [PHP in 2019](https://stitcher.io/blog/php-in-2019)
 - [O que são as PSRs do PHP](https://www.treinaweb.com.br/blog/o-que-sao-as-psrs-do-php/)
+- [PHP in 2019](https://stitcher.io/blog/php-in-2019)
+- [PHP in 2020](https://stitcher.io/blog/php-in-2020)
 
 ## Manuais
 
@@ -185,3 +186,4 @@
 - [Carreira Programador PHP](https://www.devmedia.com.br/guia/carreira-programador-php/38193)
 - [Blog School of Net](https://blog.schoolofnet.com/)
 - [Open Laravel](https://openlaravel.com/)
+- [stitcher.io](https://stitcher.io)
