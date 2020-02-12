@@ -28,16 +28,8 @@
 - [Stencil JS compilador para Web Components](https://medium.com/@larymagal/stencil-js-compilador-para-web-components-cd32b472c7e1)
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 - [Preparing your website for the iPhone X](http://chrisltd.com/blog/2017/09/preparing-your-website-for-the-iphone-x)
-
-## Artigos
-
 - [Tecnologia web para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web)
 - [Como Funcionam as Comunicações Web](http://webdevacademy.com.br/artigos/como-funcionam-comunicacoes-web/)
-- [Básico de HTTP para Desenvolvedores Frontend](https://blog.dmatoso.com/b%C3%A1sico-de-http-para-desenvolvedores-frontend-954fa3688c87)
-- [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
-- [HTTP Status Codes](https://httpstatuses.com)
-- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [Falando de Front-end: Entendendo o processo para renderizar uma página web](https://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/)
 - [Single Page Applications: Onde vivem e o que comem](https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de)
 - [Conselhos essenciais em HTML5, CSS, Responsivo e SEO](https://imasters.com.br/front-end/css/conselhos-essenciais-em-html5-css-responsivo-e-seo/)
@@ -49,11 +41,20 @@
 - [Google Web Starter Kit](https://tableless.com.br/google-web-starter-kit/)
 - [Front-end Style Guides](https://24ways.org/2011/front-end-style-guides/)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
-- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Botões-fantasma (Ghost Buttons)](https://desenvolvimentoparaweb.com/design/botoes-fantasma-ghost-buttons/)
 - [Footer Links Should be Divided into Distinct Semantic Sections (13% of Sites Don’t)](https://baymard.com/blog/footer-links-ecommerce)
 - [Smoosh Gate – A lição que precisamos aprender](https://imasters.com.br/desenvolvimento/smoosh-gate-licao-que-precisamos-aprender)
 - [Gerando certificados SSL gratuitos com Certbot](https://www.treinaweb.com.br/blog/gerando-certificados-ssl-gratuitos-com-certbot/)
+
+## HTTP
+
+- [Básico de HTTP para Desenvolvedores Frontend](https://blog.dmatoso.com/b%C3%A1sico-de-http-para-desenvolvedores-frontend-954fa3688c87)
+- [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
+- [HTTP Status Codes](https://httpstatuses.com)
+- [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
 ## Console / DevTools
 
