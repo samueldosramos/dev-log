@@ -31,7 +31,7 @@
 - [Harvest](http://www.ryanbensonmedia.com/harvest)
 - [A curated directory of boilerplates](http://www.boilrplate.com/)
 
-## BotõesCom
+## Botões
 
 - [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
 - [Sticky Elements](http://design.iamvdo.me/stickyElements/)
