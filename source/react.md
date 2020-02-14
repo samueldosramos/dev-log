@@ -74,6 +74,7 @@
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
 - [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
+- [React: Usando Tabela virtual para lidar com grandes quantidades de dados](https://medium.com/@alexandreservian/react-usando-tabela-virtual-para-lidar-com-grandes-quantidades-de-dados-bade2f1c3b02)
 
 ## React Hooks
 
