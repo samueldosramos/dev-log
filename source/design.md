@@ -61,6 +61,7 @@
 
 ## Tipografia
 
+- [Elementos da Tipografia que todo designer precisa saber](https://www.des1gnon.com/2020/02/elementos-da-tipografia/)
 - [Você sabe usar tipografia em UI Design?](https://medium.com/ui-lab-school/voc%C3%AA-sabe-usar-tipografia-em-ui-design-9ce4ccdbab43)
 - [10 Tips On Typography in Web Design](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)
 - [Tipografia: Guia Sobre Tipos – Escolhendo a fonte certa [parte 01]](https://www.chiefofdesign.com.br/tipografia/)
