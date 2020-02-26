@@ -114,6 +114,7 @@
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](http://eltonminetto.net/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 - [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
 - [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
+- [Git: criando tags](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be)
 
 ## SSH
 
@@ -135,3 +136,4 @@
 - [Assinando commits no Git com GPG](https://coderi.com.br/2018/01/13/assinando-commits-no-git-com-gpg/)
 - [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)
 - [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
+- [Signing your Git Commits using GPG on MacOS Sierra/High Sierra Raw](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e)

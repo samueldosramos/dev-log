@@ -4,6 +4,7 @@
 
 - [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
+- [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
 - [#2 - Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
 - [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)

@@ -57,6 +57,7 @@
 - [How to use the Drag and Drop API](https://flaviocopes.com/drag-and-drop/)
 - [Practical Ways to Write Better JavaScript](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4/)
 - [Async/Await com JavaScript](https://01dev.codes/async-await-com-javascript/)
+- [Asynchronous Javascript using Async - Await](https://scotch.io/tutorials/asynchronous-javascript-using-async-await)
 - [Javascript: Entendendo Async Iterators](https://dev.to/khaosdoctor/entendendo-async-iterators-1opo)
 - [JavaScript: Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0)
 - [JavaScript: Map vs Object, quando e como usar?](https://medium.com/@oieduardorabelo/javascript-map-vs-object-quando-e-como-usar-5457677b001b)
@@ -74,6 +75,7 @@
 ## Dicas
 
 - [JavaScript: Dicas de bolso – parte 1](https://tableless.com.br/dicas-de-bolso-de-javascript-parte-1/)
+- [Dicas e boas práticas com JavaScript](https://dtidigital.com.br/blog/dicas-e-boas-praticas-com-javascript/)
 - [Desenvolvedor JavaScript — do Brasil à Europa](https://medium.com/trainingcenter/dev-js-do-brasil-a-europa-ato-5-p1-35b0c858e1fc)
 - [O mundo das bibliotecas de JS](https://pt.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/the-world-of-js-libraries)
 - [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1)
@@ -143,6 +145,8 @@
 - [5 TypeScript tips to improve your applications](https://nehalist.io/5-typescript-tips-to-improve-your-architecture/)
 - [Introdução a TypeScript](https://intro-typescript.victorhfmag.now.sh/)
 - [Diga olá ao TypeScript e adeus ao JavaScript](https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)
+- [Por que usar TypeScript no seu próximo projeto](https://01dev.codes/por-que-usar-typescript-no-seu-proximo-projeto/)
+- [TypeScript: O que são Interfaces e como usá-las](https://01dev.codes/usando-typescript-interfaces/)
 
 # Style/Clean code
 
@@ -176,11 +180,6 @@
 - [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
 - [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
-
-## Regex
-
-- [Regex Cross­word](https://regexcrossword.com)
-- [Expressões Regulares - Guia de Consulta Rápida](https://aurelio.net/regex/guia/)
 
 ## Testes
 

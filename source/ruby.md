@@ -50,6 +50,7 @@
 
 - [Livro: Introdução à Computação: Da Lógica aos jogos com Ruby](http://www.akitaonrails.com/2015/06/27/casa-do-codigo-livro-introducao-a-computacao-da-logica-aos-jogos-com-ruby)
 - [Introdução a linguagem Ruby](http://ideia.me/introducao-linguagem-ruby)
+- [Conheça os tipos de dados do Ruby](https://01dev.codes/conheca-os-tipos-de-dados-do-ruby/)
 - [Orientação a objetos em Ruby, o básico](https://giovannireisnunes.wordpress.com/2016/10/07/orientacao-a-objetos-em-ruby-o-basico/)
 - [40 boas práticas de Ruby - Parte 2](http://shipit.resultadosdigitais.com.br/blog/40-boas-praticas-de-ruby-parte-2/)
 - [Dicas de Design Orientado a Objetos com Ruby - Parte 3](http://shipit.resultadosdigitais.com.br/blog/dicas-de-design-orientado-a-objetos-com-ruby-parte-3/)

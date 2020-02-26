@@ -2,6 +2,7 @@
 
 ## Guias
 
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
 - [O que Front-end Developers precisam saber](https://www.felipefialho.com/blog/o-que-front-end-developers-precisam-saber/)
 - [Do Zero a Herói Front-End (Parte I)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1)
@@ -19,7 +20,6 @@
 - [Por que um desenvolvedor front-end é importante na equipe?](https://helabs.com/artigos/2013/09/24/porque-um-desenvolvedor-frontend-e-importante-na-equipe/)
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [O kit do desenvolvedor Front-end](https://tableless.com.br/o-kit-do-desenvolvedor-front-end/)
-- [Web Fundamentals Google](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [100 dicas sobre desenvolvimento Front-end](https://www.felipefialho.com/blog/100-dicas-sobre-desenvolvimento-front-end/)
 - [100 dicas de front-end (parte 1)](https://serfrontend.com/blog/100-dicas-de-front-end-parte-1/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
@@ -82,12 +82,34 @@
 - [Fast load times](https://web.dev/fast)
 - [Priorização de recursos – Como o navegador pode ajudar você](https://developers.google.com/web/fundamentals/performance/resource-prioritization?hl=pt-br)
 
-## Outros
+## Web Components
 
-- [Saiba como ser um melhor programador!](http://pplware.sapo.pt/informacao/opiniao/saiba-como-ser-um-melhor-programador/)
-- [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
-- [Java - Padrões de Projeto](http://fernandoanselmo.blogspot.com.br/2015/10/java-padroes-de-projeto.html)
-- [Devtranslate](https://devtranslate.github.io/)
+- [Web Components - Web Fundamentals](https://developers.google.com/web/fundamentals/web-components?hl=pt-br)
+- [Web Components - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/Web_Components)
+- [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+- [Web Components atingem a maturidade](https://www.infoq.com/br/news/2019/11/web-components-mainstream/)
+- [Web Components na prática](https://www.devmedia.com.br/web-components-na-pratica/32476)
+- [Web Components & Polymer: porque ele vai facilitar sua vida](https://dtidigital.com.br/blog/web-components-e-polymer-porque-ele-vai-facilitar-sua-vida/)
+- [Web Components! Hoje!](https://betomuniz.com/blog/web-components-hoje/)
+- [Web Components é uma Revolução?](https://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao)
+- [The problem with web components](https://adamsilver.io/articles/the-problem-with-web-components/)
+- [Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+- [Chega de frameworks! Vamos ao natural com Web Components!](https://medium.com/@dudousxd/chega-de-frameworks-vamos-ao-natural-com-web-components-d19db2717e84)
+- [Guia prático para criação de componentes perfeitos](https://speakerdeck.com/larissaabreu/guia-pratico-para-criacao-de-componentes-perfeitos)
+- [webcomponents.org](https://www.webcomponents.org)
+- [Polymer Project](https://www.polymer-project.org)
+- [Stencil](https://stenciljs.com)
+- [Web Components no React](https://pt-br.reactjs.org/docs/web-components.html)
+
+## WebSockets
+
+- [WebSockets - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/WebSockets)
+- [Apresentando WebSockets: trazendo soquetes para a web](https://www.html5rocks.com/pt/tutorials/websockets/basics/)
+- [Uso de WebSockets e HTML5](https://www.devmedia.com.br/uso-de-websockets-e-html5/32267)
+- [Via de mão dupla com WebSockets](https://www.devmedia.com.br/via-de-mao-dupla-com-websockets/28281)
+- [Como o JavaScript funciona: Aprofundando em WebSockets e HTTP/2 com SSE + como escolher o caminho certo](https://medium.com/reactbrasil/como-o-javascript-funciona-aprofundando-em-websockets-e-http-2-com-sse-como-escolher-o-caminho-d4639995ef85)
+- [webSockets.org](https://www.websocket.org)
 
 ## Utilidades
 

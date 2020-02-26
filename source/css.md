@@ -40,6 +40,7 @@
 - [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
 - [Tabela de Referência de Seletores de CSS](https://tableless.com.br/referencia-seletores-css/)
 - [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
+- [Usando styled-components no React](https://01dev.codes/usando-styled-components-react/)
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
 - [Combinação de seletores CSS](https://desenvolvimentoparaweb.com/css/combinacao-seletores-css/)
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
@@ -66,6 +67,7 @@
 - [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
 - [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
+- [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 
 ## Mobile
 
@@ -73,6 +75,7 @@
 - [CSS Modular com Mobile First](https://www.felipefialho.com/blog/2014/css-modular-com-mobile-first)
 - [Componentes responsivos](http://www.raphaelfabeni.com.br/componentes-responsivos/)
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
+- [O básico sobre Media Queries](https://desenvolvimentoparaweb.com/css/media-queries/)
 - [Como usar o CSS3 media queries para que seu site atenda a diferentes resoluções de tela](https://www.chiefofdesign.com.br/media-queries-css-introducao-a-diferentes-resolucoes-de-tela/)
 - [Otimizando e Organizando as Media Queries](https://www.felipefialho.com/blog/2015/otimizando-e-organizando-as-media-queries)
 - [Design Responsivo Parte III: Viewports](https://helabs.com/artigos/2013/09/11/design-responsivo-parte-iii-viewports/)
