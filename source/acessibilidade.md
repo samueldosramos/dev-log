@@ -14,6 +14,7 @@
 - [Guia completo para a produção de conteúdo acessivel](https://abradi.com.br/guia-completo-para-a-producao-de-conteudo-acessivel/)
 - [Accessibility drives aesthetics](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
 - [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)
+- [Precisamos de profissionais focados em acessibilidade dentro das empresas](https://uxdesign.blog.br/precisamos-de-profissionais-focados-em-acessibilidade-dentro-das-empresas-e6f4cde69df9)
 
 ## Utilidades
 

@@ -1,5 +1,7 @@
 # API & REST
 
+## Introdução
+
 - [Entendendo REST API](https://raccoon.ninja/pt/dev-pt/entendendo-rest-api/)
 - [Definindo APIs com o API Blueprint](http://eltonminetto.net/post/2017-06-29-definindo-apis-com-api-blueprint/)
 - [Design de APIs modernas](https://coderi.com.br/2018/01/11/design-de-apis-modernas/)
@@ -18,6 +20,7 @@
 - [Google Sheets API com Python + Sql Server](https://imasters.com.br/apis-microsservicos/google-sheets-api-com-python-sql-server)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [HATEOAS Driven REST APIs](https://restfulapi.net/hateoas/)
+- [O que é OAuth 2?](https://www.treinaweb.com.br/blog/o-que-e-oauth-2/)
 
 ## JavaScript
 

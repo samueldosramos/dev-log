@@ -71,6 +71,8 @@
 - [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
 - [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
 - [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
+- [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
+- [JavaScript – Ordenando Elementos por Cores](https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/)
 
 ## Dicas
 
@@ -131,6 +133,7 @@
 - [How I built an app with 500,000 users in 5 days on a \$100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
 - [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 - [Upload de arquivos com Nodejs](https://www.maiconsilva.com/node-files-upload/)
+- [The Node Core Modules](https://flaviocopes.com/node-core-modules/)
 
 ## TypeScript
 
@@ -204,11 +207,11 @@
 - [Criando um filtro de busca customizável com JavaScript funcional — Parte 2: Organização é tudo](https://medium.com/@gabrielchiconi/criando-um-filtro-de-busca-customizável-com-javascript-funcional-parte-2-organização-é-tudo-a9e827249ad9)
 - [ECMAScript notes](https://github.com/EricDosReis/es-notes)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Interactive JavaScript Quiz #1](https://dev.to/lydiahallie/interactive-javascript-quiz-1-1flc)
 
 ## Utilidades
 
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Hyperapp](https://hyperapp.js.org)
 - [Code To Go](https://codetogo.io/)
 - [JavaScript Charts & Maps](https://www.amcharts.com/)
 - [Utils - Javascript utility functions](https://bitsrc.io/bit/utils)

@@ -20,13 +20,11 @@
 - [Atributo lang: pequeno mas poderoso](https://www.brunopulis.com/a11y/atributo-lang-pequeno-mas-poderoso/)
 - [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
 
-## Para seguir
-
-- [HTML Moderno](https://htmlmoderno.com.br)
-
 ## Utilidades
 
+- [HTML Moderno](https://htmlmoderno.com.br)
 - [HTMHell](https://www.htmhell.dev)
 - [HTML: The Living Standard](https://html.spec.whatwg.org/dev/)
 - [HTML Reference - A free visual guide to HTML](https://htmlreference.io)
 - [Canvas HTML5: do Alpha ao Z-Index](https://github.com/LuisAraujo/Livro-Canvas-HTML5-do-Alpha-ao-Z-index/blob/master/cap1-Introducao/README.md#12---a-chegada-do-canvas)
+- [HEAD - A free guide to HTML5 <head> elements](https://htmlhead.dev)

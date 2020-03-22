@@ -43,6 +43,7 @@
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/)
 - [Why Toggle Buttons Are Confusing](https://uxmovement.com/buttons/why-toggle-buttons-are-confusing/)
 - [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
+- [Why Radio Buttons and Checkboxes Can’t Co-Exist](https://uxmovement.com/forms/why-radio-buttons-and-checkboxes-cant-co-exist/)
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
@@ -58,6 +59,7 @@
 - [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
 - [A Lei dos Pequenos Números e seus impactos no Design](https://brasil.uxdesign.cc/a-lei-dos-pequenos-numeros-e-seus-impactos-no-design-b637c3cb7beb)
 - [2 ferramentas para criar o que as pessoas amam ver](https://brasil.uxdesign.cc/2-ferramentas-para-criar-o-que-as-pessoas-amam-ver-cf674e0368f1)
+- [Por que designers devem ser bons contadores de histórias](https://brasil.uxdesign.cc/porque-designers-devem-ser-bons-contadores-de-histórias-bcc451b813cb)
 
 ## Tipografia
 
@@ -112,6 +114,7 @@
 - [Análise heurística: como fazer e os benefícios para o projeto](https://brasil.uxdesign.cc/an%C3%A1lise-heur%C3%ADstica-o-que-%C3%A9-como-fazer-e-os-benef%C3%ADcios-para-o-projeto-161f3d94436b)
 - [Um link para UX Designers que estão precisando de inspiração](https://brasil.uxdesign.cc/um-link-para-ux-designers-que-est%C3%A3o-precisando-de-inspira%C3%A7%C3%A3o-8525fda38e97)
 - [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/)
+- [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
 - [UX Tools for every step in your design process](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 - [The steps of our UX design process](https://uxstudioteam.com/ux-blog/ux-design-process-steps/)
 - [UX e Roadmaps: do macro ao detalhe](https://brasil.uxdesign.cc/ux-e-roadmaps-do-macro-ao-detalhe-1541978d970c)
@@ -164,6 +167,7 @@
 - [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b)
 - [Different Faces of Gamification in Web Design](https://designmodo.com/different-faces-gamification/)
 - [Noções básicas de HTML que todos os designer gráficos e da web devem saber](https://brasil.uxdesign.cc/noções-básicas-de-html-que-todos-os-designer-gráficos-e-da-web-devem-saber-59efe323d550)
+- [Coisas que você pode fazer pra ser melhor amigo do Front End](https://brasil.uxdesign.cc/coisas-que-você-pode-fazer-pra-ser-melhor-amigo-do-front-end-24096db7888b)
 
 ## Arquitetura de Informação
 
@@ -195,6 +199,7 @@
 - [Design Systems, preparation: Software, services and plugins](https://medium.com/sketch-app-sources/design-systems-preparation-software-services-and-plugins-e269c05db20)
 - [Design System: envolvendo pessoas chaves no processo de construção](https://brasil.uxdesign.cc/design-system-envolvendo-pessoas-chaves-no-processo-de-construção-3021e951b30a)
 - [Adele - The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
+- [Design Systems in 2020: What’s Your Source of Truth?](https://medium.com/sketch-app-sources/what-is-your-design-system-really-c7a927d7bf92)
 
 ## Atomic Design
 
@@ -220,3 +225,4 @@
 - [User Inyerface - A challenging exploration of user interactions and design patterns](https://userinyerface.com)
 - [Meus links favoritos UX & UI](https://coletivoux.com/meus-links-favoritos-ux-ui-16bd3c036fde)
 - [Diez - The Design Language Framework](https://diez.org)
+- [Lexicon - An Experience Language for Crafting Beautiful UI](https://liferay.design/lexicon/)

@@ -40,7 +40,6 @@
 - [Git - Useful Tips](https://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/)
 - [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Oh shit, git!](http://ohshitgit.com/)
-- [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
 - [Git Command Explorer](https://gitexplorer.com)
 - [Learn Git Branching](https://learngitbranching.js.org)
 - [Awesome Git](https://github.com/dictcp/awesome-git)
@@ -69,6 +68,7 @@
 - [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
 - [Criando release no GitHub](https://www.treinaweb.com.br/blog/criando-release-no-github/)
 - [Github: Pare com as senhas e utilize Tokens de Acesso](https://www.treinaweb.com.br/blog/github-pare-com-as-senhas-e-utilize-tokens-de-acesso/)
+- [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
 
 ## Tutoriais
 
@@ -137,3 +137,8 @@
 - [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)
 - [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
 - [Signing your Git Commits using GPG on MacOS Sierra/High Sierra Raw](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e)
+
+## Utilidades
+
+- [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
+- [Shields.io](https://shields.io)

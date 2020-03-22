@@ -24,6 +24,7 @@
 - [Pare de usar javascript para tudo](http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/)
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
 - [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
+- [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 - [Variáveis no CSS](https://braziljs.org/blog/variaveis-no-css/)
 - [Como usar variáveis no CSS de forma nativa](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/)
 - [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)
@@ -67,7 +68,6 @@
 - [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
 - [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
-- [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 
 ## Mobile
 
@@ -183,3 +183,4 @@
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com)
 - [Specificity Calculator](https://specificity.keegan.st)
 - [Transfonter - Modern and simple css @font-face generator](https://transfonter.org)
+- [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
