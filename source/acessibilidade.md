@@ -7,6 +7,7 @@
 - [Introduction to web accessibility](https://uxdesign.cc/introduction-to-web-accessibility-9ec856ec474c)
 - [Internet Acessível - Guia de Acessibilidade para Desenvolvedores Web](https://acessibilidade-for-devs.github.io)
 - [Acessibilidade web: por que deixar seu site acessível?](https://www.treinaweb.com.br/blog/acessibilidade-web-por-que-deixar-seu-site-acessivel/)
+- [Acessibilidade na web, o que é?](https://thiagoam.com/acessbilidade-na-web-o-que-e/)
 - [Precisamos falar sobre acessibilidade. Novamente. Mais alto. Mais forte.](https://brasil.uxdesign.cc/precisamos-falar-sobre-acessibilidade-novamente-mais-alto-mais-forte-89ac346d0a6d)
 - [Desenvolvendo apps compatíveis com vários dispositivos para torná-los acessíveis a mais usuários](https://brasil.uxdesign.cc/desenvolvendo-apps-compat%C3%ADveis-com-vários-dispositivos-para-torná-los-acess%C3%ADveis-a-mais-usuários-2114b055004)
 - [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
@@ -15,6 +16,7 @@
 - [Accessibility drives aesthetics](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
 - [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)
 - [Precisamos de profissionais focados em acessibilidade dentro das empresas](https://uxdesign.blog.br/precisamos-de-profissionais-focados-em-acessibilidade-dentro-das-empresas-e6f4cde69df9)
+- [Conheça os projetos de acessibilidade que o Google está desenvolvendo!](https://thiagoam.com/conheca-os-projetos-de-acessibilidade-que-o-google-esta-desenvolvendo/)
 
 ## Utilidades
 
@@ -35,3 +37,7 @@
 - [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/)
 - [UserWay's Accessibility Widget](https://userway.org)
 - [web para todos](https://mwpt.com.br)
+- [Curso eMAG Desenvolvedor](https://www.escolavirtual.gov.br/curso/42)
+- [Curso eMAG / Desenvolvedor](http://emag.governoeletronico.gov.br/cursodesenvolvedor/)
+- [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)
+- [Web Fundamentals - Acessibilidade](https://developers.google.com/web/fundamentals/accessibility?)
