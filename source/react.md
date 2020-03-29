@@ -115,6 +115,7 @@
 
 ## Redux
 
+- [O que é Redux?](https://www.treinaweb.com.br/blog/o-que-e-redux/)
 - [A Better File Structure For React/Redux Applications](https://marmelab.com/blog/2015/12/17/react-directory-structure.html)
 - [redux com react para iniciantes](https://medium.com/@tapmorales/redux-com-react-para-iniciantes-1e0411199ea0)
 - [Redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)

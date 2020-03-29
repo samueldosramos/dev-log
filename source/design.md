@@ -79,6 +79,7 @@
 - [Tipografia: um processo para escolher fontes](https://desenvolvimentoparaweb.com/design/tipografia-processo-escolher-fontes/)
 - [font-display: controle de exibição de fontes para ajuste em performance](https://desenvolvimentoparaweb.com/css/font-display-controle-de-exibicao-de-fontes-para-ajuste-em-performance/)
 - [Um breve manual de hierarquia visual para tipos](https://www.designerd.com.br/hierarquia-visual-para-tipos/)
+- [The Comprehensive 8pt Grid Guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 
 ## Cores
 

@@ -43,6 +43,7 @@
 - [Git Command Explorer](https://gitexplorer.com)
 - [Learn Git Branching](https://learngitbranching.js.org)
 - [Awesome Git](https://github.com/dictcp/awesome-git)
+- [Git para preguiçosos](https://yeppudaproductions.wordpress.com/2012/11/16/git-para-preguicosos/)
 
 ## Dicas
 
@@ -69,6 +70,7 @@
 - [Criando release no GitHub](https://www.treinaweb.com.br/blog/criando-release-no-github/)
 - [Github: Pare com as senhas e utilize Tokens de Acesso](https://www.treinaweb.com.br/blog/github-pare-com-as-senhas-e-utilize-tokens-de-acesso/)
 - [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
+- [Corrija apenas conflitos com git rerere](https://www.agatetepe.com.br/corrija-apenas-conflitos-com-git-rerere/)
 
 ## Tutoriais
 
