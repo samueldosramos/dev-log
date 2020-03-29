@@ -17,6 +17,7 @@
 - [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)
 - [Precisamos de profissionais focados em acessibilidade dentro das empresas](https://uxdesign.blog.br/precisamos-de-profissionais-focados-em-acessibilidade-dentro-das-empresas-e6f4cde69df9)
 - [Conheça os projetos de acessibilidade que o Google está desenvolvendo!](https://thiagoam.com/conheca-os-projetos-de-acessibilidade-que-o-google-esta-desenvolvendo/)
+- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 
 ## Utilidades
 
