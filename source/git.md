@@ -11,6 +11,7 @@
 
 - [Pro Git book](https://git-scm.com/book/pt-br/v1)
 - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Git Cheat Sheets](https://github.github.com/training-kit/)
 - [Aprenda Git](http://aprenda.vidageek.net/aprenda/git)
 - [Aprenda a usar o Git](http://cafeinacodificada.com.br/github/)
 - [Git simples e rápido](http://www.linuxpro.com.br/2017/04/git-simples-e-rapido/)
