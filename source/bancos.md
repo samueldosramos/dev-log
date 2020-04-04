@@ -5,6 +5,7 @@
 - [Como escolher o melhor banco de dados para seu website](https://codificar.com.br/blog/como-escolher-o-melhor-banco-de-dados-para-seu-website/)
 - [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
 - [O que é ORM?](https://www.treinaweb.com.br/blog/o-que-e-orm/)
+- [O que é UUID? Porque usá-lo?](https://medium.com/trainingcenter/o-que-é-uuid-porque-usá-lo-ad7a66644a2b)
 
 ## SQL
 
