@@ -19,6 +19,8 @@
 - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
 - [Atributo lang: pequeno mas poderoso](https://www.brunopulis.com/a11y/atributo-lang-pequeno-mas-poderoso/)
 - [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
+- [HTML Canvas API Tutorial](https://flaviocopes.com/canvas/)
+- [How to print a canvas to a data URL](https://flaviocopes.com/node-print-canvas-to-data-url/)
 
 ## Utilidades
 
