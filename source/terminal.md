@@ -48,6 +48,7 @@
 - [dotfiles.io - Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
 - [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [./hacker-tools lectures - Dotfiles](https://hacker-tools.github.io/dotfiles/)
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/br/git/tutorials/dotfiles)
 
 ## ZSH
 
@@ -79,3 +80,6 @@
 # Utilidades
 
 - [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Bash Functions](https://linuxize.com/post/bash-functions/)
+- [Bash Conditional Expressions](https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html)
+- [Shell Command Language](https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_02_02)
