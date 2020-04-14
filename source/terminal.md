@@ -71,11 +71,7 @@
 - [iTerm2](https://www.iterm2.com/)
 - [Tilix](https://gnunn1.github.io/tilix-web/)
 - [Terminus](https://eugeny.github.io/terminus/)
-- [upterm](https://github.com/railsware/upterm)
 - [tmux](https://github.com/tmux/tmux)
-- [MacTerm](https://www.macterm.net/)
-- [Cathode](http://www.secretgeometry.com/apps/cathode)
-- [wsl-terminal](https://goreliu.github.io/wsl-terminal/)
 
 # Utilidades
 
