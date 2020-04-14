@@ -136,6 +136,7 @@
 - [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 - [Upload de arquivos com Nodejs](https://www.maiconsilva.com/node-files-upload/)
 - [The Node Core Modules](https://flaviocopes.com/node-core-modules/)
+- [How to get the names of all the files in a folder in Node](https://flaviocopes.com/how-to-get-files-names/)
 
 ## TypeScript
 
