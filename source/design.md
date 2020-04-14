@@ -60,6 +60,7 @@
 - [A Lei dos Pequenos Números e seus impactos no Design](https://brasil.uxdesign.cc/a-lei-dos-pequenos-numeros-e-seus-impactos-no-design-b637c3cb7beb)
 - [2 ferramentas para criar o que as pessoas amam ver](https://brasil.uxdesign.cc/2-ferramentas-para-criar-o-que-as-pessoas-amam-ver-cf674e0368f1)
 - [Por que designers devem ser bons contadores de histórias](https://brasil.uxdesign.cc/porque-designers-devem-ser-bons-contadores-de-histórias-bcc451b813cb)
+- [Designers deveriam ter estilo de trabalho?](https://brasil.uxdesign.cc/designers-deveriam-ter-estilo-de-trabalho-1c08e70dab70)
 
 ## Tipografia
 
