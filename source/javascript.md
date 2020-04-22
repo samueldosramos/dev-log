@@ -70,9 +70,9 @@
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
 - [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
 - [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
-- [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
 - [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
 - [JavaScript – Ordenando Elementos por Cores](https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/)
+- [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
 
 ## Dicas
 

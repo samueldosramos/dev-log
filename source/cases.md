@@ -19,3 +19,4 @@
 - [Doce Amargo: o peso do hábito — estudo de caso de UX](https://brasil.uxdesign.cc/doce-amargo-o-peso-do-hábito-c6b6419436d6)
 - [Como Eu Usei O Cartão De Crédito Do CEO Do Trampos.co Para Pagar Minha Assinatura Premium](http://www.fidelis.work/como-eu-usei-o-cartao-de-credito-do-ceo-do-trampos-co-para-pagar-minha-assinatura-premium/)
 - [Cuide bem dos meus dados…](https://medium.com/@dobrado/segurança-na-web-d496f2eafaa0)
+- [Praticando UI Design em um redesign do aplicativo Done](https://brasil.uxdesign.cc/praticando-ui-design-em-um-redesign-do-aplicativo-done-33d1f9b741b5)

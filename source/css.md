@@ -32,7 +32,6 @@
 - [Variáveis CSS: um guia prático](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
 - [Introdução ao PostCSS](https://blog.umbler.com/br/introducao-ao-postcss/)
 - [Conhecendo o @supports do CSS](https://tableless.com.br/conhecendo-regra-support-css/)
-- [Entendendo o DOM (Document Object Model)](https://tableless.com.br/entendendo-o-dom-document-object-model/)
 - [CSS Diner](https://flukeout.github.io/)
 - [Recomendações e diretrizes para escrever CSS](http://maujor.com/tutorial/guia-para-escrever-css.php)
 - [LinkedIn anuncia CSS Blocks, o novo otimizador de CSS](http://desenvolvimentoparaweb.com/css/css-blocks-linkedin-otimizador-css/)

@@ -21,6 +21,13 @@
 - [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
 - [HTML Canvas API Tutorial](https://flaviocopes.com/canvas/)
 - [How to print a canvas to a data URL](https://flaviocopes.com/node-print-canvas-to-data-url/)
+- [O que é CORS e como resolver os principias erros](https://www.treinaweb.com.br/blog/o-que-e-cors-e-como-resolver-os-principais-erros/)
+
+## DOM
+
+- [Entendendo o DOM (Document Object Model)](https://tableless.com.br/entendendo-o-dom-document-object-model/)
+- [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
+- [O que é DOM, Virtual DOM e Shadow DOM?](https://www.treinaweb.com.br/blog/o-que-e-dom-virtual-dom-e-shadow-dom/)
 
 ## Utilidades
 

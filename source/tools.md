@@ -279,6 +279,7 @@
 - [Patternico](http://patternico.com/)
 - [Trianglify.io](https://trianglify.io/)
 - [CCBG](https://www.ccbg.io/generator)
+- [pattern.css](https://bansal.io/pattern-css)
 
 ## Redes de trabalhos freelancer:
 
@@ -296,6 +297,7 @@
 - [Photoshop Etiquette](http://photoshopetiquette.com/)
 - [EditorConfig](http://editorconfig.org/)
 - [keep a changelog](http://keepachangelog.com/)
+- [Changelog - Create a changelog site of your product](https://updates.changelog.site)
 - [Semantic Versioning](https://semver.org/)
 - [Malvid](https://malvid.io/)
 - [Pattern Lab](http://patternlab.io/)
