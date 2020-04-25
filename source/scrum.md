@@ -12,3 +12,4 @@
 - [O que aprendi como designer em um time ágil](https://www.concrete.com.br/2017/11/24/o-que-aprendi-como-designer-em-um-time-agil/)
 - [Como aumentar sua produtividade pessoal com pomodoro](https://www.concrete.com.br/2018/01/10/como-aumentar-sua-produtividade-pessoal-com-pomodoro/)
 - [DesenvolvimentoAgil.com.br](http://www.desenvolvimentoagil.com.br/)
+- [Priorizando sem trauma — como ordenar seu backlog de produto](https://code.likeagirl.io/priorizando-sem-trauma-como-ordenar-seu-backlog-de-produto-d143b6037c8d)

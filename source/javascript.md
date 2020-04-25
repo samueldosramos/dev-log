@@ -45,6 +45,7 @@
 - [JavaScript — Injeção de Dependências com Closures](https://medium.com/@osuissa/javascript-closures-700e8abbc7a)
 - [JavaScript: O que são Closures](http://www.mateuspaduaweb.com.br/javascript-o-que-sao-closures/)
 - [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
+- [Operadores Spread e Rest Javascript](https://ildaneta.netlify.app/posts/operadores-spread-e-rest-javascript/)
 - [Operadores Spread e Rest Javascript](https://medium.com/@ildaneta/operadores-spread-e-rest-javascript-c90ccf6962f1)
 - [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
 - [JavaScript: métodos de Arrays que você precisa conhecer](https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer/)
@@ -137,6 +138,7 @@
 - [Upload de arquivos com Nodejs](https://www.maiconsilva.com/node-files-upload/)
 - [The Node Core Modules](https://flaviocopes.com/node-core-modules/)
 - [How to get the names of all the files in a folder in Node](https://flaviocopes.com/how-to-get-files-names/)
+- [How to test an npm package locally](https://flaviocopes.com/npm-local-package/)
 
 ## TypeScript
 

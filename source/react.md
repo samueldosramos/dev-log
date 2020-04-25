@@ -76,6 +76,7 @@
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
 - [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
 - [React: Usando Tabela virtual para lidar com grandes quantidades de dados](https://medium.com/@alexandreservian/react-usando-tabela-virtual-para-lidar-com-grandes-quantidades-de-dados-bade2f1c3b02)
+- [How I fixed an issue with a React login form state and Browser autofill](https://flaviocopes.com/react-form-browser-autofill/)
 
 ## React Hooks
 
@@ -127,6 +128,13 @@
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
 - [How we use Firebase instead of Redux (with React)](https://pragli.com/blog/how-we-use-firebase-instead-of-redux-with-react/)
 
+## Design System
+
+- [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
+- [How to build a design system out of React components](https://uxdesign.cc/building-a-design-system-out-of-react-components-cef6014ef290)
+- [Design Systems - Biblioteca de Componentes Reutilizáveis com React](https://slides.com/marcelodapper/reusable-component-library-with-react#/)
+- [React Components Library - Demo](https://github.com/mdapper/react-components-library)
+
 ## Utilidades
 
 - [React](https://pt-br.reactjs.org)
@@ -161,15 +169,12 @@
 - [React Components & Libraries](https://github.com/brillout/awesome-react-components)
 - [30 seconds of React - Curated collection of useful React snippets](https://github.com/30-seconds/30-seconds-of-react)
 - [React v16+ Cheat Sheet](https://jsmanifest.com/this-react-cheatsheet-includes-all-of-v16-features/)
+- [React.js cheatsheet](https://devhints.io/react)
 - [Divjoy - The React codebase generator](https://divjoy.com)
 - [react-fake-props](https://github.com/typicode/react-fake-props)
-
-## Design System
-
-- [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
-- [How to build a design system out of React components](https://uxdesign.cc/building-a-design-system-out-of-react-components-cef6014ef290)
-- [Design Systems - Biblioteca de Componentes Reutilizáveis com React](https://slides.com/marcelodapper/reusable-component-library-with-react#/)
-- [React Components Library - Demo](https://github.com/mdapper/react-components-library)
+- [React Bits - A compilation of React Patterns, techniques, tips and tricks](https://vasanthk.gitbooks.io/react-bits/)
+- [React Cosmos](https://reactcosmos.org)
+- [React: 22 Ferramentas Milagrosas Para Devs](https://gama.academy/blog/desenvolvimento/react-dev-tools/)
 
 ## React Dataviz
 
