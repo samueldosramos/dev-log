@@ -81,6 +81,7 @@
 - [font-display: controle de exibição de fontes para ajuste em performance](https://desenvolvimentoparaweb.com/css/font-display-controle-de-exibicao-de-fontes-para-ajuste-em-performance/)
 - [Um breve manual de hierarquia visual para tipos](https://www.designerd.com.br/hierarquia-visual-para-tipos/)
 - [The Comprehensive 8pt Grid Guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+- [Criando Textos Responsivos com CSS](https://willianjusten.com.br/criando-textos-responsivos-com-css/)
 
 ## Cores
 
@@ -125,6 +126,7 @@
 - [As leis da psicologia voltadas para UI/UX design em aplicativos móveis](https://medium.com/ui-lab-school/as-leis-da-psicologia-voltadas-para-ui-ux-design-em-aplicativos-m%C3%B3veis-30f06e1de2d3)
 - [Termos, Condições Legais e a experiência do usuário (UX)](https://brasil.uxdesign.cc/termos-condições-legais-e-a-experiência-do-usuário-ux-3deb8c6fcb11)
 - [Experiência de usuário aplicada na construção de um relatório de pesquisa](https://brasil.uxdesign.cc/relatórios-de-pesquisa-são-chatos-e-ninguém-gosta-de-ler-68a208df348b)
+- [Heurísticas de Nielsen para Bots](https://brasil.uxdesign.cc/heur%C3%ADsticas-de-nielsen-para-bots-60363363d12)
 
 ## UI
 

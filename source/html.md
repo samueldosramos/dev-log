@@ -21,13 +21,17 @@
 - [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
 - [HTML Canvas API Tutorial](https://flaviocopes.com/canvas/)
 - [How to print a canvas to a data URL](https://flaviocopes.com/node-print-canvas-to-data-url/)
+- [How to change an HTML image URL in dark mode](https://flaviocopes.com/dark-mode-change-img-source/)
 - [O que é CORS e como resolver os principias erros](https://www.treinaweb.com.br/blog/o-que-e-cors-e-como-resolver-os-principais-erros/)
+- [Melhor forma para listas com caption?](https://desenvolvimentoparaweb.com/css/listas-com-caption-label/?utm_source=newsletter&utm_medium=email&utm_campaign=maio_2020)
+- [HTML não é tão simples quanto você pensa](https://www.brunopulis.com/dev/repensando-sobre-o-html/)
 
 ## DOM
 
 - [Entendendo o DOM (Document Object Model)](https://tableless.com.br/entendendo-o-dom-document-object-model/)
 - [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
 - [O que é DOM, Virtual DOM e Shadow DOM?](https://www.treinaweb.com.br/blog/o-que-e-dom-virtual-dom-e-shadow-dom/)
+- [How to check if an element is a descendant of another](https://flaviocopes.com/how-to-check-element-descendant/)
 
 ## Utilidades
 

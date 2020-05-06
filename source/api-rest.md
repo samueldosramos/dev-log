@@ -21,6 +21,7 @@
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [HATEOAS Driven REST APIs](https://restfulapi.net/hateoas/)
 - [O que é OAuth 2?](https://www.treinaweb.com.br/blog/o-que-e-oauth-2/)
+- [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 
 ## JavaScript
 

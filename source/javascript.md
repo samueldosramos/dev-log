@@ -196,6 +196,7 @@
 - [Testes end-to-end com Cypress.io](https://blog.novatics.com.br/teste-end-to-end-com-cypress-io-358576dc05c3)
 - [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
 - [Understanding Cypress’s command execution order and Chainables](https://medium.com/@arnonaxelrod/understanding-cypresss-command-execution-order-and-chainables-75079d82710a)
+- [Why I Never Use Shallow Rendering](https://kentcdodds.com/blog/why-i-never-use-shallow-rendering)
 
 ## Tutoriais/Livros
 

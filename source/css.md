@@ -20,11 +20,8 @@
 - [O Incrível Em & Layouts Elásticos com CSS](https://codeinbrasil.wordpress.com/2013/05/08/o-incrivel-em-layouts-elasticos-com-css/)
 - [Não use Placeholder no lugar da Label](https://www.felipefialho.com/blog/2014/nao-use-placeholder-no-lugar-da-label)
 - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not)
-- [O Poder do CSS 3 — Desenhando Formas](https://journal.helabs.com/o-poder-do-css-3-desenhando-formas-ce1d3402037b)
+- [O Poder do CSS 3 — Desenhando Formas](https://medium.com/helabs/o-poder-do-css-3-desenhando-formas-ce1d3402037b)
 - [Pare de usar javascript para tudo](http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/)
-- [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
-- [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
-- [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 - [Variáveis no CSS](https://braziljs.org/blog/variaveis-no-css/)
 - [Como usar variáveis no CSS de forma nativa](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/)
 - [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)
@@ -43,7 +40,6 @@
 - [Usando styled-components no React](https://01dev.codes/usando-styled-components-react/)
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
 - [Combinação de seletores CSS](https://desenvolvimentoparaweb.com/css/combinacao-seletores-css/)
-- [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
 - [CSS e o Contexto de Formatação de Bloco (Block Formatting Context)](https://desenvolvimentoparaweb.com/css/css-contexto-de-formatacao-de-bloco-block-formatting-context/)
 - [CSS can do that?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
 - [State of CSS 2019](https://2019.stateofcss.com)
@@ -69,6 +65,14 @@
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
 - [Entendendo especificidade em CSS](https://willianjusten.com.br/entendendo-especificidade-em-css/)
 - [Utilizando CSS Counters](https://willianjusten.com.br/utilizando-css-counters/)
+
+## Animações
+- [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
+- [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
+- [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
+- [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
+- [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
+
 
 ## Mobile
 
