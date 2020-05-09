@@ -30,6 +30,7 @@
 - [Stencil JS compilador para Web Components](https://medium.com/@larymagal/stencil-js-compilador-para-web-components-cd32b472c7e1)
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 - [Preparing your website for the iPhone X](http://chrisltd.com/blog/2017/09/preparing-your-website-for-the-iphone-x)
+- [Trabalhando com a tela útil do iPhone](https://willianjusten.com.br/trabalhando-com-a-tela-util-do-iphone/)
 - [Tecnologia web para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web)
 - [Como Funcionam as Comunicações Web](http://webdevacademy.com.br/artigos/como-funcionam-comunicacoes-web/)
 - [Falando de Front-end: Entendendo o processo para renderizar uma página web](https://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/)
