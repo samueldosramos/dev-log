@@ -27,7 +27,6 @@
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
 - [4 Regras para Entender o ‘this’ no JavaScript](https://blog.dmatoso.com/javascript-this-71dd763aad52)
 - [Explorando o javascript. filter, forEach, map, reduce, every e some](http://clovisdasilvaneto.github.io/explorando-javascript-filter-reduce-map-every-some-e-foreach/)
-- [Entendendo map, filter, reduce e lambda](https://beatrizuezu.github.io/entendendo-map-filter-reduce-lambda/)
 - [JavaScript — O poder da negação](https://medium.com/@osuissa/javascript-o-poder-da-negacao-3a70ec369b63)
 - [10 Essential DOM Methods & Techniques for Practical JavaScript](https://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/)
 - [Entendendo módulos ES6](https://medium.com/trainingcenter/entendendo-m%C3%B3dulos-no-javascript-73bce1d64dbf)

@@ -10,6 +10,7 @@
 
 ## Dicas
 
+- [Entendendo map, filter, reduce e lambda](https://beatrizuezu.github.io/entendendo-map-filter-reduce-lambda/)
 - [What Should I Learn As A Beginner: Python 2 Or Python 3?](https://learntocodewith.me/programming/python/python-2-vs-python-3/)
 - [The Right Way to Set Up Python on Your Mac](https://medium.com/faun/the-right-way-to-set-up-python-on-your-mac-e923ffe8cf8e)
 - [Guia definitivo para organizar meu ambiente Python](https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753)
