@@ -66,6 +66,7 @@
 - [Entendendo especificidade em CSS](https://willianjusten.com.br/entendendo-especificidade-em-css/)
 - [Utilizando CSS Counters](https://willianjusten.com.br/utilizando-css-counters/)
 - [CSS Overlay Techniques](https://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
+- [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 
 ## Animações
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
