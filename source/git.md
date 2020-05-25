@@ -72,6 +72,7 @@
 - [Github: Pare com as senhas e utilize Tokens de Acesso](https://www.treinaweb.com.br/blog/github-pare-com-as-senhas-e-utilize-tokens-de-acesso/)
 - [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
 - [Corrija apenas conflitos com git rerere](https://www.agatetepe.com.br/corrija-apenas-conflitos-com-git-rerere/)
+- [Squashing Git commits](https://flaviocopes.com/git-squash/)
 
 ## Tutoriais
 

@@ -82,6 +82,7 @@
 - [Um breve manual de hierarquia visual para tipos](https://www.designerd.com.br/hierarquia-visual-para-tipos/)
 - [The Comprehensive 8pt Grid Guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 - [Criando Textos Responsivos com CSS](https://willianjusten.com.br/criando-textos-responsivos-com-css/)
+- [Textos responsivos com CSS clamp()](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/)
 
 ## Cores
 
@@ -214,6 +215,7 @@
 ## UX Research
 
 - [Entrevista motivacional é a ferramenta de UX Research que você nunca ouviu falar sobre](https://brasil.uxdesign.cc/entrevista-motivacional-é-a-ferramenta-de-ux-research-que-você-nunca-ouviu-falar-sobre-eb0bb7b3dd49)
+- [Pesquisa quantitativa ou qualitativa: Qual eu devo fazer?](https://brasil.uxdesign.cc/pesquisa-quantitativa-ou-qualitativa-qual-eu-devo-fazer-e0c98757bd4)
 
 ## Utilidades
 

@@ -37,7 +37,6 @@
 - [Primeiros passos rumo ao Full-Stack com JavaScript!](https://medium.com/tableless/full-stack-developer-como-me-tornar-um-5c9d23765461)
 - [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 - [Eventos em jQuery: Diferenças entre bind, live, delegate e on](https://www.devmedia.com.br/eventos-em-jquery-diferencas-entre-bind-live-delegate-e-on/37790)
-- [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
 - [Desmistificando o destructuring do JavaScript ES6/ES7](https://blog.taller.net.br/desmistificando-o-destructuring-do-javascript-es6es7/)
 - [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
 - [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
@@ -70,7 +69,6 @@
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
 - [Please stop using Classes in JavaScript and become a better developer](https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1)
 - [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
-- [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
 - [JavaScript – Ordenando Elementos por Cores](https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/)
 - [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
 
@@ -93,6 +91,8 @@
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
 - [Stop Nesting Functions! (But Not All of Them)](https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315)
+ - [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
+ - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
 
 ## Funcional
 
@@ -138,6 +138,7 @@
 - [The Node Core Modules](https://flaviocopes.com/node-core-modules/)
 - [How to get the names of all the files in a folder in Node](https://flaviocopes.com/how-to-get-files-names/)
 - [How to test an npm package locally](https://flaviocopes.com/npm-local-package/)
+- [Deno: conheça o suposto substituto do Node.js](https://www.treinaweb.com.br/blog/deno-conheca-o-suposto-substituto-do-node-js/amp/)
 
 ## TypeScript
 
@@ -154,6 +155,7 @@
 - [Diga olá ao TypeScript e adeus ao JavaScript](https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)
 - [Por que usar TypeScript no seu próximo projeto](https://01dev.codes/por-que-usar-typescript-no-seu-proximo-projeto/)
 - [TypeScript: O que são Interfaces e como usá-las](https://01dev.codes/usando-typescript-interfaces/)
+- [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
 
 # Style/Clean code
 
@@ -170,6 +172,9 @@
 - [JavaScript Clean Code — Naming](https://levelup.gitconnected.com/javascript-clean-code-naming-9a8308843a17)
 - [Funções Puras e imutabilidade, um pouco sobre código limpo e qualidade](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 - [Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
+- [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
+- [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
+- [EditorConfig: padronização automática de estilo de código](https://desenvolvimentoparaweb.com/indicacoes/editorconfig-padronizacao-estilo-codigo/)
 
 ## Patterns
 
@@ -235,3 +240,4 @@
 - [MundoJS](http://www.mundojs.com.br/)
 - [JSRocks](http://jsrocks.org/pt-br/)
 - [Nipher.io](https://nipher.io/)
+- [Javascript4Noobs](https://github.com/ThiagoDellaNoce/javascript4noobs)

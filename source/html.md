@@ -33,6 +33,7 @@
 - [Aprenda DOM de forma simples e fácil!](https://www.codigopro.com.br/2020/01/aprenda-dom-de-forma-simples-rapido-e.html)
 - [O que é DOM, Virtual DOM e Shadow DOM?](https://www.treinaweb.com.br/blog/o-que-e-dom-virtual-dom-e-shadow-dom/)
 - [How to check if an element is a descendant of another](https://flaviocopes.com/how-to-check-element-descendant/)
+- [How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 
 ## Utilidades
 

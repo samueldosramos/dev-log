@@ -74,9 +74,12 @@
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
+- [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
 - [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
 - [React: Usando Tabela virtual para lidar com grandes quantidades de dados](https://medium.com/@alexandreservian/react-usando-tabela-virtual-para-lidar-com-grandes-quantidades-de-dados-bade2f1c3b02)
 - [How I fixed an issue with a React login form state and Browser autofill](https://flaviocopes.com/react-form-browser-autofill/)
+- [As armadilhas mais comuns do React](https://medium.com/@marcellguilherme/as-armadilhas-mais-comuns-do-react-1bd43269dac5)
+- [Começando com React App’s](https://medium.com/@bdmrusso/começando-com-react-apps-7c893ff3219e)
 
 ## React Hooks
 

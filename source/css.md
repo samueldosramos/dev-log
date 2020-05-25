@@ -65,6 +65,7 @@
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
 - [Entendendo especificidade em CSS](https://willianjusten.com.br/entendendo-especificidade-em-css/)
 - [Utilizando CSS Counters](https://willianjusten.com.br/utilizando-css-counters/)
+- [CSS Overlay Techniques](https://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
 
 ## Animações
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
@@ -72,7 +73,6 @@
 - [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
 - [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
-
 
 ## Mobile
 

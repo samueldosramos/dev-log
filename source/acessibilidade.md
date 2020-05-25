@@ -18,6 +18,8 @@
 - [Precisamos de profissionais focados em acessibilidade dentro das empresas](https://uxdesign.blog.br/precisamos-de-profissionais-focados-em-acessibilidade-dentro-das-empresas-e6f4cde69df9)
 - [Conheça os projetos de acessibilidade que o Google está desenvolvendo!](https://thiagoam.com/conheca-os-projetos-de-acessibilidade-que-o-google-esta-desenvolvendo/)
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+- [Porque o “Como começar” com acessibilidade não deveria existir?](http://liviagabos.com/2020/05/porque-o-como-comecar-com-acessibilidade-nao-deveria-existir/)
+- [Texto alternativo o guia definitivo](https://www.brunopulis.com/acessibilidade/texto-alternativo-o-guia-definitivo/)
 
 ## Utilidades
 
