@@ -321,6 +321,7 @@
 - [Bootstrap Zero](https://www.bootstrapzero.com/)
 - [Froala Design Blocks](https://www.froala.com/design-blocks)
 - [BeTheme](https://themes.muffingroup.com/be/splash/)
+- [Landing Page Template 40 Free](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp)
 
 ## Testes
 

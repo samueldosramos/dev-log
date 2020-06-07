@@ -61,6 +61,7 @@
 - [JSON-SERVER para mocks de APIs](https://medium.com/@flaviofagundes/mocks-de-apis-com-json-server-d4d180ec80c7)
 - [CRUD básico com Vue.js e json-server #1](https://vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-parte-1/)
 - [My JSON Server](https://my-json-server.typicode.com)
+- [Tw Dev Server – como ele pode te ajudar a estudar programação?](https://www.treinaweb.com.br/blog/tw-dev-server-como-ele-pode-te-ajudar-a-estudar-programacao/)
 
 ## Utilidades
 

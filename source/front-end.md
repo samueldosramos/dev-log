@@ -49,6 +49,7 @@
 - [Smoosh Gate – A lição que precisamos aprender](https://imasters.com.br/desenvolvimento/smoosh-gate-licao-que-precisamos-aprender)
 - [Gerando certificados SSL gratuitos com Certbot](https://www.treinaweb.com.br/blog/gerando-certificados-ssl-gratuitos-com-certbot/)
 - [What happens when you type a URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+- [Deslocamento de Layout (Layout Shift) e Cumulative Layout Shift (CLS): guia completo](https://desenvolvimentoparaweb.com/ux/deslocamento-layout-shift-cumulative-layout-shift-cls/)
 
 ## HTTP
 

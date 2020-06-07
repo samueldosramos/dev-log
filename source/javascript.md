@@ -71,6 +71,7 @@
 - [every(), some(), find() e includes() em JavaScript](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
 - [JavaScript – Ordenando Elementos por Cores](https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/)
 - [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
+- [Primitive types vs objects in JavaScript](https://flaviocopes.com/difference-primitive-types-objects/)
 
 ## Dicas
 
@@ -149,6 +150,7 @@
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
 - [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
+- [Design Patterns in TypeScript PT-BR](https://refactoring.guru/pt-br/design-patterns/typescript)
 - [Observer Pattern - Design Patterns com Typescript](https://meneguite.com/2019/06/23/design-patterns-com-typescript-observer/)
 - [5 TypeScript tips to improve your applications](https://nehalist.io/5-typescript-tips-to-improve-your-architecture/)
 - [Introdução a TypeScript](https://intro-typescript.victorhfmag.now.sh/)
@@ -228,6 +230,7 @@
 - [30 seconds of code - Curated collection of useful JavaScript snippets](https://30secondsofcode.org)
 - [Just JavaScript](https://justjavascript.com)
 - [Introducing Design Systems CLI](https://medium.com/swlh/introducing-design-systems-cli-af9593cd67d6)
+- [Learn JavaScript](https://learnjavascript.online)
 
 ## Dataviz
 

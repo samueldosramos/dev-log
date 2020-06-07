@@ -74,6 +74,7 @@
 - [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
 - [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
+- [Barra de progresso circular com CSS](https://desenvolvimentoparaweb.com/css/barra-progresso-circular-css/)
 
 ## Mobile
 
@@ -124,6 +125,7 @@
 - [Guia de Código do @mdo](http://diegoeis.github.io/code-guide/)
 - [CSS Architecture — Folders & Files Structure](https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b)
 - [6 vantagens em usar BEM ao escrever CSS](https://desenvolvimentoparaweb.com/css/6-vantagens-em-usar-bem-ao-escrever-css/)
+- [BEM: guia definitivo do padrão CSS mais famoso](https://desenvolvimentoparaweb.com/css/bem/)
 
 ## Flexbox
 
