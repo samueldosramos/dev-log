@@ -73,8 +73,6 @@
 - [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
-- [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
-- [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
 - [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
 - [React: Usando Tabela virtual para lidar com grandes quantidades de dados](https://medium.com/@alexandreservian/react-usando-tabela-virtual-para-lidar-com-grandes-quantidades-de-dados-bade2f1c3b02)
 - [How I fixed an issue with a React login form state and Browser autofill](https://flaviocopes.com/react-form-browser-autofill/)
@@ -131,6 +129,12 @@
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
 - [How we use Firebase instead of Redux (with React)](https://pragli.com/blog/how-we-use-firebase-instead-of-redux-with-react/)
 
+## Testes
+
+- [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
+- [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
+- [React Act Examples](https://github.com/threepointone/react-act-examples/blob/master/sync.md)
+
 ## Design System
 
 - [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
@@ -178,6 +182,8 @@
 - [React Bits - A compilation of React Patterns, techniques, tips and tricks](https://vasanthk.gitbooks.io/react-bits/)
 - [React Cosmos](https://reactcosmos.org)
 - [React: 22 Ferramentas Milagrosas Para Devs](https://gama.academy/blog/desenvolvimento/react-dev-tools/)
+- [Manual do React - The React Handbook](https://github.com/ChristySchott/manual-react)
+- [useHooks - React Hook recipes](https://usehooks.com)
 
 ## React Dataviz
 

@@ -38,6 +38,7 @@
 - [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 - [Eventos em jQuery: Diferenças entre bind, live, delegate e on](https://www.devmedia.com.br/eventos-em-jquery-diferencas-entre-bind-live-delegate-e-on/37790)
 - [Desmistificando o destructuring do JavaScript ES6/ES7](https://blog.taller.net.br/desmistificando-o-destructuring-do-javascript-es6es7/)
+- [What is object destructuring in JavaScript?](https://flaviocopes.com/javascript-object-destructuring/)
 - [Javascript: Mas afinal, o que são closures?](https://medium.com/@stephanowallace/javascript-mas-afinal-o-que-s%C3%A3o-closures-4d67863ca9fc)
 - [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 - [JavaScript — Injeção de Dependências com Closures](https://medium.com/@osuissa/javascript-closures-700e8abbc7a)
@@ -92,8 +93,9 @@
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
 - [Stop Nesting Functions! (But Not All of Them)](https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315)
- - [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
- - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
+- [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
+- [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
+- [Refactoring optional chaining into a large codebase: lessons learned](https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/)
 
 ## Funcional
 

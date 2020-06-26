@@ -16,6 +16,7 @@
 - [Lazy loading nativo de imagens e iframes](https://desenvolvimentoparaweb.com/html/lazy-loading-nativo-imagem-iframe/)
 - [10 elementos HTML que você não sabia que precisava](https://desenvolvimentoparaweb.com/html/10-elementos-html-que-voce-nao-sabia-que-precisava/)
 - [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
+- [7 alternativas à <div> para uma Web mais semântica](https://desenvolvimentoparaweb.com/html/web-semantica-7-alternativas-div/)
 - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
 - [Atributo lang: pequeno mas poderoso](https://www.brunopulis.com/a11y/atributo-lang-pequeno-mas-poderoso/)
 - [Criando links acessíveis e válidos](https://www.brunopulis.com/tutorial/criando-links-acessiveis-e-validos/)
@@ -34,6 +35,7 @@
 - [O que é DOM, Virtual DOM e Shadow DOM?](https://www.treinaweb.com.br/blog/o-que-e-dom-virtual-dom-e-shadow-dom/)
 - [How to check if an element is a descendant of another](https://flaviocopes.com/how-to-check-element-descendant/)
 - [How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
+- [The importance of timing when working with the DOM](https://flaviocopes.com/dom-timing/)
 
 ## Utilidades
 

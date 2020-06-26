@@ -48,6 +48,7 @@
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
+- [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
 - [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
@@ -83,6 +84,7 @@
 - [The Comprehensive 8pt Grid Guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 - [Criando Textos Responsivos com CSS](https://willianjusten.com.br/criando-textos-responsivos-com-css/)
 - [Textos responsivos com CSS clamp()](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/)
+- [10 Características de um bom design de logo](https://www.des1gnon.com/2020/06/10-caracteristicas-design-de-logo/)
 
 ## Cores
 

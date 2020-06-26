@@ -20,6 +20,8 @@
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Porque o “Como começar” com acessibilidade não deveria existir?](http://liviagabos.com/2020/05/porque-o-como-comecar-com-acessibilidade-nao-deveria-existir/)
 - [Texto alternativo o guia definitivo](https://www.brunopulis.com/acessibilidade/texto-alternativo-o-guia-definitivo/)
+- [Princípios do design inclusivo](http://www.designinclusivo.com)
+- [Top 10 Web Accessibility Standards Every Developer Should Know](https://dev.to/mlimonczenko/top-10-web-accessibility-standards-every-developer-should-know-5cih)
 
 ## Utilidades
 

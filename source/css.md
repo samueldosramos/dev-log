@@ -67,8 +67,10 @@
 - [Utilizando CSS Counters](https://willianjusten.com.br/utilizando-css-counters/)
 - [CSS Overlay Techniques](https://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
+- [An easy notation for grayscale colors](https://lea.verou.me/2014/07/an-easy-notation-for-grayscale-colors/)
 
 ## Animações
+
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
 - [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
 - [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
@@ -150,6 +152,7 @@
 - [CSS Flexbox – Um Guia Interativo (Parte 1 – Containers)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-1-containers/)
 - [CSS Flexbox – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-2-itens/)
 - [Flexbox: como passar para a próxima linha fácil](https://desenvolvimentoparaweb.com/css/flexbox-quebrar-proxima-linha-breakline/)
+- [CSS Flexbox para quem não sabe CSS: usando o Figma para entender os princípios](https://brasil.uxdesign.cc/css-flexbox-para-quem-não-sabe-css-usando-o-figma-para-entender-os-princ%C3%ADpios-3869e920a0c6)
 
 ## Grid Layout
 

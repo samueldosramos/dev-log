@@ -9,6 +9,7 @@
 - [Devtranslate](https://devtranslate.github.io/)
 - [The Twelve-Factor App](https://12factor.net/pt_br/)
 - [Case Styles: Camel, Pascal, Snake, and Kebab Case](https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
+- [Integração contínua no desenvolvimento de software](https://twelvestudio.tech/integracao-continua-no-desenvolvimento-de-software/)
 
 ## Regex
 
