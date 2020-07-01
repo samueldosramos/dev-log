@@ -128,6 +128,7 @@
 - [CSS Architecture — Folders & Files Structure](https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b)
 - [6 vantagens em usar BEM ao escrever CSS](https://desenvolvimentoparaweb.com/css/6-vantagens-em-usar-bem-ao-escrever-css/)
 - [BEM: guia definitivo do padrão CSS mais famoso](https://desenvolvimentoparaweb.com/css/bem/)
+- [CUBE CSS: uma nova metodologia CSS](https://desenvolvimentoparaweb.com/css/cube-css/)
 
 ## Flexbox
 
@@ -195,3 +196,4 @@
 - [Specificity Calculator](https://specificity.keegan.st)
 - [Transfonter - Modern and simple css @font-face generator](https://transfonter.org)
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
+- [Cube CSS](https://piccalil.li/cube-css/)
