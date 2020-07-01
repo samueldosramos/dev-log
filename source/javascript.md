@@ -96,6 +96,8 @@
 - [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
 - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
 - [Refactoring optional chaining into a large codebase: lessons learned](https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/)
+- [Custom errors in JavaScript](https://flaviocopes.com/javascript-custom-errors/)
+- [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 
 ## Funcional
 

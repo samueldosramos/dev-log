@@ -38,6 +38,7 @@
 - [Conselhos essenciais em HTML5, CSS, Responsivo e SEO](https://imasters.com.br/front-end/css/conselhos-essenciais-em-html5-css-responsivo-e-seo/)
 - [Emmet e a automatização no desenvolvimento](http://frontinbrazil.com.br/emmet-e-a-automatizacao-no-desenvolvimento/)
 - [O Guia da automação Front-end #1 — CODIFICAÇÃO ÁGIL COM EMMET](https://medium.com/collabcode/o-guia-da-automação-front-end-1-codificação-ágil-com-emmet-4be6af93ca9e)
+- [Emmet: escreva HTML 10x mais rápido](https://desenvolvimentoparaweb.com/html/emmet/)
 - [Browser-sync, indispensável para desenvolver sites em vários dispositivos](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/)
 - [The Code Behind Our New Video Homepage](https://wistia.com/blog/fullscreen-video-homepage)
 - [Initializr – Comece Seu Projeto HTML5 Em 15 Segundos!](http://flaviosilveira.com/2011/initializr-comece-seu-projeto-html5-em-15-segundos/)

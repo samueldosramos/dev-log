@@ -219,6 +219,7 @@
 - [Entrevista motivacional é a ferramenta de UX Research que você nunca ouviu falar sobre](https://brasil.uxdesign.cc/entrevista-motivacional-é-a-ferramenta-de-ux-research-que-você-nunca-ouviu-falar-sobre-eb0bb7b3dd49)
 - [Pesquisa quantitativa ou qualitativa: Qual eu devo fazer?](https://brasil.uxdesign.cc/pesquisa-quantitativa-ou-qualitativa-qual-eu-devo-fazer-e0c98757bd4)
 - [Planejando sua pesquisa (com template)](https://brasil.uxdesign.cc/planejando-sua-pesquisa-com-template-149f15810fc7)
+- [A LGPD e o UX Research](https://brasil.uxdesign.cc/a-lgpd-e-o-ux-research-a44113907d83)
 
 ## Utilidades
 
