@@ -55,6 +55,7 @@
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)
 - [Grids #1: O que é layout e o que é grid?](https://clubedodesign.com/2018/grids-1-o-que-layout-e-o-que-e-grid/)
 - [Grids #2: A história do grid no design gráfico](https://clubedodesign.com/2018/grids-2-a-historia-do-grid-no-design-grafico/)
+- [Boas práticas para inputs de texto](https://kevinoliveira.com.br/blog/input-boas-praticas/)
 - [Melhores práticas para input Telefone](https://desenvolvimentoparaweb.com/ux/melhores-praticas-para-input-telefone/)
 - [Habilidades esperadas de designers em ambientes de trabalho modernos](https://brasil.uxdesign.cc/habilidades-esperadas-de-designers-em-ambientes-de-trabalho-modernos-404f9d55e3d4)
 - [Comunicação não-violenta + Design Thinking: melhorando a experiência das conversas no dia a dia](https://brasil.uxdesign.cc/ux-design-thinking-comunicacao-nao-violenta-2813b60fbe35)
