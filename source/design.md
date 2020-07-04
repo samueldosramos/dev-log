@@ -86,6 +86,7 @@
 - [Criando Textos Responsivos com CSS](https://willianjusten.com.br/criando-textos-responsivos-com-css/)
 - [Textos responsivos com CSS clamp()](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/)
 - [10 Características de um bom design de logo](https://www.des1gnon.com/2020/06/10-caracteristicas-design-de-logo/)
+- [How to use Google Fonts](https://flaviocopes.com/google-fonts/)
 
 ## Cores
 
