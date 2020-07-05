@@ -164,6 +164,7 @@
 - [Por que usar TypeScript no seu próximo projeto](https://01dev.codes/por-que-usar-typescript-no-seu-proximo-projeto/)
 - [TypeScript: O que são Interfaces e como usá-las](https://01dev.codes/usando-typescript-interfaces/)
 - [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
+- [Non-Nullable Types in TypeScript](https://mariusschulz.com/blog/non-nullable-types-in-typescript)
 
 # Style/Clean code
 
