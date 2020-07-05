@@ -165,6 +165,7 @@
 - [TypeScript: O que são Interfaces e como usá-las](https://01dev.codes/usando-typescript-interfaces/)
 - [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
 - [Non-Nullable Types in TypeScript](https://mariusschulz.com/blog/non-nullable-types-in-typescript)
+- [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 
 # Style/Clean code
 
