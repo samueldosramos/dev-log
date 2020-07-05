@@ -88,6 +88,7 @@
 - [10 Dicas para se Tornar Ninja em JavaScript!](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1)
 - [15 dicas e truques da linguagem JavaScript](https://imasters.com.br/back-end/15-dicas-e-truques-da-linguagem-javascript)
 - [Dicas úteis sobre function do JavaScript](https://imasters.com.br/desenvolvimento/dicas-uteis-sobre-function-javascript)
+- [Function Definitions in JavaScript](https://mariusschulz.com/blog/function-definitions-in-javascript)
 - [4 Dicas úteis de strings para JavaScript](https://medium.com/@crp_underground/4-dicas-úteis-de-strings-para-javascript-78cd20954cf2)
 - [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks)
 - [JavaScript: Eliminando Dependências Circulares](https://dev.to/oieduardorabelo/javascript-eliminando-dependencias-circulares-3hcj)
