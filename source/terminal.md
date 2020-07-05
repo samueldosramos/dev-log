@@ -49,6 +49,7 @@
 - [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [./hacker-tools lectures - Dotfiles](https://hacker-tools.github.io/dotfiles/)
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/br/git/tutorials/dotfiles)
+- [Dotfiles — Como fazer sua vida mais fácil](https://medium.com/@angeliski/dotfiles-como-fazer-sua-vida-mais-fácil-4e0433dd0376)
 
 ## ZSH
 

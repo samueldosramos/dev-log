@@ -22,6 +22,11 @@
 - [Texto alternativo o guia definitivo](https://www.brunopulis.com/acessibilidade/texto-alternativo-o-guia-definitivo/)
 - [Princípios do design inclusivo](http://www.designinclusivo.com)
 - [Top 10 Web Accessibility Standards Every Developer Should Know](https://dev.to/mlimonczenko/top-10-web-accessibility-standards-every-developer-should-know-5cih)
+- [Escrever com “x” não é linguagem neutra](https://medium.com/qg-feminista/escrever-com-x-não-é-linguagem-neutra-f40f715c0b29)
+- [UX Writing: uma reflexão sobre linguagem inclusiva e diversidade](https://brasil.uxdesign.cc/ux-writing-uma-reflexão-sobre-linguagem-inclusiva-e-diversidade-c66a9eb47b54)
+- [Linguagem Neutra de gênero: o que é e como aplicar](https://comunidade.rockcontent.com/linguagem-neutra-de-genero/)
+- [Escreva para todas as pessoas — aqui estão dicas para um texto mais neutro e inclusivo](https://medium.com/escrita-estratégica/escreva-para-todas-as-pessoas-aqui-estão-dicas-para-um-texto-mais-neutro-e-inclusivo-2fda5738ba01)
+- [Acessibilidade para Daltônicos — Casos de falha e sucesso](https://medium.com/acessibilito/acessibilidade-para-daltônicos-casos-de-falha-e-sucesso-d76bf6e4261e)
 
 ## Utilidades
 

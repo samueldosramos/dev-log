@@ -23,6 +23,7 @@
 - [Macros no JavaScript](https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c)
 - [Laços de repetição: for, for...in, for...of](https://woliveiras.com.br/posts/laços-de-repetição-for-for-in-for-of/)
 - [Algoritmos de ordenação e o seu JavaScript](https://medium.com/tableless/algoritmos-de-ordena%C3%A7%C3%A3o-e-o-seu-javascript-65d50723ae57)
+- [EDA #01 — Array, parte 1](https://medium.com/@Dougwan/estrutura-de-dados-e-algoritmos-javascript-b961c5feb246)
 - [Melhorando a performance do Javascript](http://letanure.github.io/javascript/2015/02/25/melhorando-a-performance-do-javascript/)
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
 - [4 Regras para Entender o ‘this’ no JavaScript](https://blog.dmatoso.com/javascript-this-71dd763aad52)
@@ -98,6 +99,7 @@
 - [Refactoring optional chaining into a large codebase: lessons learned](https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/)
 - [Custom errors in JavaScript](https://flaviocopes.com/javascript-custom-errors/)
 - [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
+- [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
 
 ## Funcional
 
