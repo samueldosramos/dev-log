@@ -102,6 +102,7 @@
 - [Custom errors in JavaScript](https://flaviocopes.com/javascript-custom-errors/)
 - [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
+- [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
 
 ## Funcional
 
