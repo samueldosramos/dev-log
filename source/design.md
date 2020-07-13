@@ -132,6 +132,7 @@
 - [Termos, Condições Legais e a experiência do usuário (UX)](https://brasil.uxdesign.cc/termos-condições-legais-e-a-experiência-do-usuário-ux-3deb8c6fcb11)
 - [Experiência de usuário aplicada na construção de um relatório de pesquisa](https://brasil.uxdesign.cc/relatórios-de-pesquisa-são-chatos-e-ninguém-gosta-de-ler-68a208df348b)
 - [Heurísticas de Nielsen para Bots](https://brasil.uxdesign.cc/heur%C3%ADsticas-de-nielsen-para-bots-60363363d12)
+- [Foque na experiência, a interface deve acompanhar](https://brasil.uxdesign.cc/foque-na-experiência-a-interface-deve-acompanhar-cf73b5cf3aaa)
 
 ## UI
 

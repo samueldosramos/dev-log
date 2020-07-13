@@ -16,6 +16,7 @@
 
 [Html Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 [Email on Acid’s Boilerplate for HTML Emails](https://www.emailonacid.com/blog/article/email-development/html_boilerplate/)
+[React Email Template Builder](https://github.com/jatd/React-Email-Template-Builder)
 
 ## Guias
 

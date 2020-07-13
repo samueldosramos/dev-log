@@ -24,6 +24,7 @@
 - [Pare de usar javascript para tudo](http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/)
 - [Variáveis no CSS](https://braziljs.org/blog/variaveis-no-css/)
 - [Como usar variáveis no CSS de forma nativa](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/)
+- [Give Your CSS Superpowers with CSS Variables](https://www.monica.dev/blog/give-your-css-superpowers-with-css-variables)
 - [Use as facilidades do CSS 4 hoje](https://tableless.com.br/use-as-facilidades-do-css-4-hoje/)
 - [CSS: 4 recursos incríveis que você já pode usar!](https://blog.umbler.com/br/css-4-recursos-incriveis-que-voce-ja-pode-usar/)
 - [Variáveis CSS: um guia prático](https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
@@ -68,6 +69,7 @@
 - [CSS Overlay Techniques](https://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 - [An easy notation for grayscale colors](https://lea.verou.me/2014/07/an-easy-notation-for-grayscale-colors/)
+- [CSS no JavaScript: Aprendendo a usar styled-components](https://medium.com/trainingcenter/css-no-javascript-aprendendo-a-usar-styled-components-894ebf575c87)
 
 ## Animações
 
@@ -77,6 +79,7 @@
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
 - [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
 - [Barra de progresso circular com CSS](https://desenvolvimentoparaweb.com/css/barra-progresso-circular-css/)
+- [Como fazer animação infinita de fundo com CSS?](https://www.treinaweb.com.br/blog/como-fazer-animacao-infinita-de-fundo-com-css/)
 
 ## Mobile
 
