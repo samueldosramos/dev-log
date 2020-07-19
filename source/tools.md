@@ -239,6 +239,7 @@
 - [Ouch! - Free illustrations](https://icons8.com/ouch?)
 - [unDraw](https://undraw.co)
 - [Woobro](https://woobro.design)
+- [nappy](https://www.nappy.co)
 
 ## Lorem Ipsum/Dados
 

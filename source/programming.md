@@ -10,6 +10,8 @@
 - [The Twelve-Factor App](https://12factor.net/pt_br/)
 - [Case Styles: Camel, Pascal, Snake, and Kebab Case](https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [Integração contínua no desenvolvimento de software](https://twelvestudio.tech/integracao-continua-no-desenvolvimento-de-software/)
+- [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
+- [The difference between Frontend and Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
 
 ## Regex
 
