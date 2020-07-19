@@ -178,6 +178,7 @@
 - [Different Faces of Gamification in Web Design](https://designmodo.com/different-faces-gamification/)
 - [Noções básicas de HTML que todos os designer gráficos e da web devem saber](https://brasil.uxdesign.cc/noções-básicas-de-html-que-todos-os-designer-gráficos-e-da-web-devem-saber-59efe323d550)
 - [Coisas que você pode fazer pra ser melhor amigo do Front End](https://brasil.uxdesign.cc/coisas-que-você-pode-fazer-pra-ser-melhor-amigo-do-front-end-24096db7888b)
+- [Desenhando pra Web](https://brasil.uxdesign.cc/desenhando-pra-web-como-venho-melhorado-ao-desenhar-ui-com-specs-melhores-para-os-devs-c34c8979bbb3)
 
 ## Arquitetura de Informação
 
