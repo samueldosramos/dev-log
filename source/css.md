@@ -70,6 +70,7 @@
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 - [An easy notation for grayscale colors](https://lea.verou.me/2014/07/an-easy-notation-for-grayscale-colors/)
 - [CSS no JavaScript: Aprendendo a usar styled-components](https://medium.com/trainingcenter/css-no-javascript-aprendendo-a-usar-styled-components-894ebf575c87)
+- [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 
 ## Animações
 
@@ -192,7 +193,6 @@
 - [BEM](http://getbem.com/)
 - [Tachyons](http://tachyons.io)
 - [CSS4 Rocks](http://css4.rocks/)
-- [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 - [30 seconds of CSS - Curated collection of useful CSS snippets](https://30-seconds.github.io/30-seconds-of-css/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com)
