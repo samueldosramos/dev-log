@@ -71,6 +71,7 @@
 - [An easy notation for grayscale colors](https://lea.verou.me/2014/07/an-easy-notation-for-grayscale-colors/)
 - [CSS no JavaScript: Aprendendo a usar styled-components](https://medium.com/trainingcenter/css-no-javascript-aprendendo-a-usar-styled-components-894ebf575c87)
 - [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
+- [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 
 ## Animações
 
