@@ -152,6 +152,7 @@
 - [A Designer's Guide to Animating Icons with CSS](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations)
 - [UI Style Guide — Definindo a Abordagem Visual](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e)
 - [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
+- [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
 
 ## Web Design
 

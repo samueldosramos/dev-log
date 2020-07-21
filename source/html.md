@@ -46,3 +46,4 @@
 - [HTML Reference - A free visual guide to HTML](https://htmlreference.io)
 - [Canvas HTML5: do Alpha ao Z-Index](https://github.com/LuisAraujo/Livro-Canvas-HTML5-do-Alpha-ao-Z-index/blob/master/cap1-Introducao/README.md#12---a-chegada-do-canvas)
 - [HEAD - A free guide to HTML5 <head> elements](https://htmlhead.dev)
+- [HTML5 Periodical Table](https://websitesetup.org/html5-periodical-table/)
