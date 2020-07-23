@@ -1,5 +1,18 @@
 # E-mail
 
+## Guias
+
+- [Construa um Modelo de E-mail em HTML a Partir do Zero](https://webdesign.tutsplus.com/pt/articles/build-an-html-email-template-from-scratch--webdesign-12770)
+- [A Step-By-Step Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
+- [10 Easy Ways to Improve Your Mobile Email Design](https://www.emailonacid.com/blog/article/email-development/5_easy_ways_to_improve_your_mobile_design/)
+- [What is your email framework of choice?](https://litmus.com/community/discussions/5407-what-is-your-email-framework-of-choice)
+- [Email Client Market Share](https://emailclientmarketshare.com)
+
+## Imagens
+
+- [The Ultimate Guide To Images In HTML Email](https://email.uplers.com/blog/ultimate-guide-images-html-email/)
+- [PNG, GIF, or JPEG? Which is the Best Image Format for Email?](https://litmus.com/blog/png-gif-or-jpeg-which-ones-should-you-use-in-email)
+
 ## Resets
 
 - [Email Development Newsletter - { Issue #1 - CSS Resets }](https://julie.io/learn-email-html/issues/1-hello-css-resets/)
@@ -25,19 +38,6 @@
 - [Foundation](https://get.foundation/emails.html)
 - [React Email Editor](https://github.com/unlayer/react-email-editor)
 - [Handlebar](https://handlebarsjs.com/)
-
-## Guias
-
-- [Construa um Modelo de E-mail em HTML a Partir do Zero](https://webdesign.tutsplus.com/pt/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [A Step-By-Step Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
-- [10 Easy Ways to Improve Your Mobile Email Design](https://www.emailonacid.com/blog/article/email-development/5_easy_ways_to_improve_your_mobile_design/)
-- [What is your email framework of choice?](https://litmus.com/community/discussions/5407-what-is-your-email-framework-of-choice)
-- [Email Client Market Share](https://emailclientmarketshare.com)
-
-## Imagens
-
-- [The Ultimate Guide To Images In HTML Email](https://email.uplers.com/blog/ultimate-guide-images-html-email/)
-- [PNG, GIF, or JPEG? Which is the Best Image Format for Email?](https://litmus.com/blog/png-gif-or-jpeg-which-ones-should-you-use-in-email)
 
 ## Testes
 
