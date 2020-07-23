@@ -63,6 +63,7 @@
 - [2 ferramentas para criar o que as pessoas amam ver](https://brasil.uxdesign.cc/2-ferramentas-para-criar-o-que-as-pessoas-amam-ver-cf674e0368f1)
 - [Por que designers devem ser bons contadores de histórias](https://brasil.uxdesign.cc/porque-designers-devem-ser-bons-contadores-de-histórias-bcc451b813cb)
 - [Designers deveriam ter estilo de trabalho?](https://brasil.uxdesign.cc/designers-deveriam-ter-estilo-de-trabalho-1c08e70dab70)
+- [Além do Versionamento: como escrever commits significativos no Abstract?](https://brasil.uxdesign.cc/além-do-versionamento-pt-1-como-escrever-commits-significativos-no-abstract-57f08a31fa14)
 
 ## Tipografia
 
@@ -225,6 +226,10 @@
 - [Pesquisa quantitativa ou qualitativa: Qual eu devo fazer?](https://brasil.uxdesign.cc/pesquisa-quantitativa-ou-qualitativa-qual-eu-devo-fazer-e0c98757bd4)
 - [Planejando sua pesquisa (com template)](https://brasil.uxdesign.cc/planejando-sua-pesquisa-com-template-149f15810fc7)
 - [A LGPD e o UX Research](https://brasil.uxdesign.cc/a-lgpd-e-o-ux-research-a44113907d83)
+
+## UX Writing
+
+- [Manual despretensioso de sobrevivência em UX Writing](https://brasil.uxdesign.cc/manual-despretensioso-de-sobrevivência-em-ux-writing-c7cc3a1fd859)
 
 ## Utilidades
 

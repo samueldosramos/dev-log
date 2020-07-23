@@ -171,6 +171,7 @@
 - [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
 - [Non-Nullable Types in TypeScript](https://mariusschulz.com/blog/non-nullable-types-in-typescript)
 - [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
+- [Manual do Node.js](https://github.com/ChristySchott/manual-node)
 
 # Style/Clean code
 

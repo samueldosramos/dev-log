@@ -12,6 +12,7 @@
 - [Integração contínua no desenvolvimento de software](https://twelvestudio.tech/integracao-continua-no-desenvolvimento-de-software/)
 - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
 - [The difference between Frontend and Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 ## Regex
 
