@@ -28,6 +28,7 @@
 - [Escreva para todas as pessoas — aqui estão dicas para um texto mais neutro e inclusivo](https://medium.com/escrita-estratégica/escreva-para-todas-as-pessoas-aqui-estão-dicas-para-um-texto-mais-neutro-e-inclusivo-2fda5738ba01)
 - [Acessibilidade para Daltônicos — Casos de falha e sucesso](https://medium.com/acessibilito/acessibilidade-para-daltônicos-casos-de-falha-e-sucesso-d76bf6e4261e)
 - [Acessibilidade Digital como cultura: Daltonismo e Dislexia](https://brasil.uxdesign.cc/acessibilidade-digital-como-cultura-daltonismo-e-dislexia-16939161d517)
+- [13 ways to level up your site's accessibility](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6)
 
 ## Utilidades
 

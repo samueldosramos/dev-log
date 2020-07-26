@@ -172,6 +172,8 @@
 - [Non-Nullable Types in TypeScript](https://mariusschulz.com/blog/non-nullable-types-in-typescript)
 - [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 - [Manual do Node.js](https://github.com/ChristySchott/manual-node)
+- [Typescript - Uma breve introdução](https://www.crisgon.dev/typescript-uma-breve-introdução/)
+- [Typescript - Uma breve introdução - Tuplas, Enums e Type Assertion](https://www.crisgon.dev/typescript-uma-breve-introdução-parte-2/)
 
 # Style/Clean code
 
