@@ -73,6 +73,8 @@
 - [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 - [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 - [@property: variáveis CSS com superpoderes](https://desenvolvimentoparaweb.com/css/property-css/)
+- [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web )
+- [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
 
 ## Animações
 

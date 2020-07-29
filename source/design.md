@@ -154,6 +154,7 @@
 - [UI Style Guide — Definindo a Abordagem Visual](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e)
 - [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
 - [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
+- [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
 
 ## Web Design
 

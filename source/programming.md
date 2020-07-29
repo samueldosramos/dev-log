@@ -13,6 +13,8 @@
 - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
 - [The difference between Frontend and Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- [Clean Architecture : um compilado dos Princípios de Design](https://dev.to/psanrosa13/clean-architecture-um-compilado-dos-principios-de-design-2mla)
+- [Intro to deployment strategies: blue-green, canary, and more](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3)
 
 ## Regex
 

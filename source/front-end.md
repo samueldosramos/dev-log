@@ -111,6 +111,9 @@
 - [Polymer Project](https://www.polymer-project.org)
 - [Stencil](https://stenciljs.com)
 - [Web Components no React](https://pt-br.reactjs.org/docs/web-components.html)
+- [Bem-vindo ao Polymer 3 - #01](https://larissaabreu.dev/bem-vindo-ao-polymer-03-criando-um-elemento/)
+- [Bem-vindo ao Polymer 3 - #02](https://larissaabreu.dev/bem-vindo-ao-polymer-03-adicionando-filhos/)
+- [Bem-vindo ao Polymer 3 - #03](https://larissaabreu.dev/bem-vindo-ao-polymer-03-definindo-propriedades/)
 
 ## WebSockets
 
@@ -167,3 +170,4 @@
 - [Frontend Mentor](https://www.frontendmentor.io)
 - [Recursos front end para criar sites incríveis com HTML, CSS e JavaScript](https://recursosfrontend.desenvolvimentoparaweb.com)
 - [markapp - Building apps by authoring HTML](http://markapp.io)
+- [web.dev](https://web.dev)
