@@ -43,6 +43,7 @@
 
 - [htmlemailcheck](https://www.htmlemailcheck.com/)
 - [PutsMail](https://putsmail.com/)
+- [Debug Mail](https://debugmail.io)
 
 ## Outros
 
