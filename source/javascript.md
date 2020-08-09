@@ -248,6 +248,7 @@
 - [Just JavaScript](https://justjavascript.com)
 - [Introducing Design Systems CLI](https://medium.com/swlh/introducing-design-systems-cli-af9593cd67d6)
 - [Learn JavaScript](https://learnjavascript.online)
+- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#open-web-platform)
 
 ## Dataviz
 
