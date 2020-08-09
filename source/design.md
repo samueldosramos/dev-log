@@ -217,6 +217,7 @@
 - [Design System: envolvendo pessoas chaves no processo de construção](https://brasil.uxdesign.cc/design-system-envolvendo-pessoas-chaves-no-processo-de-construção-3021e951b30a)
 - [Adele - The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
 - [Design Systems in 2020: What’s Your Source of Truth?](https://medium.com/sketch-app-sources/what-is-your-design-system-really-c7a927d7bf92)
+- [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6)
 
 ## Atomic Design
 
