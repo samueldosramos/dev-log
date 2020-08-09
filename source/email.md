@@ -47,3 +47,4 @@
 ## Outros
 
 - [Awesome Emails](https://github.com/jonathandion/awesome-emails)
+- [react-mail-component](https://github.com/opauloh/react-mail-component)

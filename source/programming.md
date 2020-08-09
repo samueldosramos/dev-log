@@ -15,6 +15,7 @@
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Clean Architecture : um compilado dos Princípios de Design](https://dev.to/psanrosa13/clean-architecture-um-compilado-dos-principios-de-design-2mla)
 - [Intro to deployment strategies: blue-green, canary, and more](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3)
+- [Design Patterns Saga: The Beginning](https://medium.com/swlh/design-patterns-saga-the-beginning-17ea936472cc)
 
 ## Regex
 

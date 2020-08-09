@@ -54,6 +54,7 @@
 - [Deslocamento de Layout (Layout Shift) e Cumulative Layout Shift (CLS): guia completo](https://desenvolvimentoparaweb.com/ux/deslocamento-layout-shift-cumulative-layout-shift-cls/)
 - [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
 - [Free Intro to Web Development slides (with demos)](https://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/)
+- [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
 
 ## HTTP
 

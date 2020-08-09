@@ -134,6 +134,8 @@
 - [Experiência de usuário aplicada na construção de um relatório de pesquisa](https://brasil.uxdesign.cc/relatórios-de-pesquisa-são-chatos-e-ninguém-gosta-de-ler-68a208df348b)
 - [Heurísticas de Nielsen para Bots](https://brasil.uxdesign.cc/heur%C3%ADsticas-de-nielsen-para-bots-60363363d12)
 - [Foque na experiência, a interface deve acompanhar](https://brasil.uxdesign.cc/foque-na-experiência-a-interface-deve-acompanhar-cf73b5cf3aaa)
+- [Metas de Usabilidade — Como diagnosticar a usabilidade em seu produto](https://brasil.uxdesign.cc/metas-de-usabilidade-como-avaliar-e-garantir-a-usabilidade-do-seu-produto-6e720541feaf)
+- [Introducing Mercury OS](https://uxdesign.cc/introducing-mercury-os-f4de45a04289)
 
 ## UI
 
@@ -155,6 +157,7 @@
 - [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
 - [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
 - [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
+- [Um guia simplificado sobre design de ícones](https://www.designerd.com.br/guia-simplificado-design-de-icones/)
 
 ## Web Design
 
@@ -231,6 +234,7 @@
 ## UX Writing
 
 - [Manual despretensioso de sobrevivência em UX Writing](https://brasil.uxdesign.cc/manual-despretensioso-de-sobrevivência-em-ux-writing-c7cc3a1fd859)
+- [Como testar textos para produtos?](https://brasil.uxdesign.cc/como-testar-copy-para-produto-78402f919add)
 
 ## Utilidades
 

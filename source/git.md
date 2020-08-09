@@ -72,19 +72,13 @@
 - [Github: Pare com as senhas e utilize Tokens de Acesso](https://www.treinaweb.com.br/blog/github-pare-com-as-senhas-e-utilize-tokens-de-acesso/)
 - [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
 - [Corrija apenas conflitos com git rerere](https://www.agatetepe.com.br/corrija-apenas-conflitos-com-git-rerere/)
-- [Squashing Git commits](https://flaviocopes.com/git-squash/)
 
 ## Tutoriais
 
-- [Fazendo commits da maneira certa](http://walde.co/2015/06/14/fazendo-commits-da-maneira-certa/)
 - [Segredos do Github](https://blog.da2k.com.br/categories/github/)
 - [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
-- [Git: Alterando seus commits com rebase – Parte 01](https://imasters.com.br/desenvolvimento/git-alterando-seus-commits-com-rebase-parte-01/)
-- [Git: Alterando seus commits com rebase – Parte 02](https://imasters.com.br/front-end/css/git-alterando-seus-commits-com-rebase-parte-02/)
 - [Limpando Um Repositório Git](http://blog.dtmtec.com.br/blog/2013/05/limpando-repositorio/)
 - [Usando o git add interativo](http://blog.caelum.com.br/usando-o-git-add-interativo/)
-- [Que tal começar a usar commits semânticos?](https://cubos.io/blog/que-tal-comecar-a-usar-commits-semanticos/)
-- [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
 - [Usando GIT para atualizar arquivos no servidor de hospedagem](https://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem/)
 - [Usando GIT para atualizar arquivos no servidor de hospedagem II – Final](https://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/)
 - [Deploy com Git — Configurando e executando um deploy automatizado](https://medium.com/agits/deploy-com-git-configurando-e-executando-um-deploy-automatizado-156e3e1bc374)
@@ -119,6 +113,19 @@
 - [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
 - [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 - [Git: criando tags](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be)
+
+## Commits
+
+- [Fazendo commits da maneira certa](http://walde.co/2015/06/14/fazendo-commits-da-maneira-certa/)
+- [Git: Alterando seus commits com rebase – Parte 01](https://imasters.com.br/desenvolvimento/git-alterando-seus-commits-com-rebase-parte-01/)
+- [Git: Alterando seus commits com rebase – Parte 02](https://imasters.com.br/front-end/css/git-alterando-seus-commits-com-rebase-parte-02/)
+- [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
+- [Squashing Git commits](https://flaviocopes.com/git-squash/)
+- [Conventional Commits](https://www.conventionalcommits.org/pt-br)
+- [Udacity Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/)
+- [Git Commit Msg](https://karma-runner.github.io/3.0/dev/git-commit-msg.html)
+- [Que tal começar a usar commits semânticos?](https://cubos.io/blog/que-tal-comecar-a-usar-commits-semanticos/)
+- [Entendendo a importância dos Commits Semânticos](https://ildaneta.dev/posts/entendo-a-importância-dos-commits-semânticos/)
 
 ## SSH
 

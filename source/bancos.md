@@ -6,6 +6,7 @@
 - [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
 - [O que é ORM?](https://www.treinaweb.com.br/blog/o-que-e-orm/)
 - [O que é UUID? Porque usá-lo?](https://medium.com/trainingcenter/o-que-é-uuid-porque-usá-lo-ad7a66644a2b)
+- [Writing Legible SQL with Common Table Expressions](https://www.beekeeperstudio.io/blog/legible-sql)
 
 ## SQL
 
@@ -46,6 +47,7 @@
 ## NoSQL
 
 - [Um pouco de NoSQL com MongoDB](https://giovannireisnunes.wordpress.com/2015/09/25/um-pouco-de-nosql-com-mongodb/)
+- [O que é MongoDB?](https://www.treinaweb.com.br/blog/o-que-e-mongodb/)
 
 ## JSON
 

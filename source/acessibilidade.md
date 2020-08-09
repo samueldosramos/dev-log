@@ -29,6 +29,8 @@
 - [Acessibilidade para Daltônicos — Casos de falha e sucesso](https://medium.com/acessibilito/acessibilidade-para-daltônicos-casos-de-falha-e-sucesso-d76bf6e4261e)
 - [Acessibilidade Digital como cultura: Daltonismo e Dislexia](https://brasil.uxdesign.cc/acessibilidade-digital-como-cultura-daltonismo-e-dislexia-16939161d517)
 - [13 ways to level up your site's accessibility](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6)
+- [Acessibilidade em projetos web: como pensar desde o início](https://www.treinaweb.com.br/blog/acessibilidade-em-projetos-web-como-pensar-desde-o-inicio/)
+- [Primeiros passos com acessibilidade](https://brunopulis.com/drops/iniciando-em-acessibilidade/)
 
 ## Utilidades
 

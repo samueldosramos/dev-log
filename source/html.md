@@ -26,6 +26,7 @@
 - [How to change an HTML image URL in dark mode](https://flaviocopes.com/dark-mode-change-img-source/)
 - [Responsive images using `srcset`](https://flaviocopes.com/html-responsive-images-srcset/)
 - [O que é CORS e como resolver os principias erros](https://www.treinaweb.com.br/blog/o-que-e-cors-e-como-resolver-os-principais-erros/)
+- [Entenda CORS de uma vez por todas!](https://desenvolvimentoparaweb.com/miscelanea/cors/)
 - [Melhor forma para listas com caption?](https://desenvolvimentoparaweb.com/css/listas-com-caption-label/?utm_source=newsletter&utm_medium=email&utm_campaign=maio_2020)
 - [HTML não é tão simples quanto você pensa](https://www.brunopulis.com/dev/repensando-sobre-o-html/)
 

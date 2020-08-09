@@ -170,6 +170,7 @@
 - [Gitfolio](https://imfunniee.github.io/gitfolio/)
 - [hub - Use GitHub from the command-line](https://hub.github.com)
 - [CodeTriage - Open source projects on GitHub that need your help](https://www.codetriage.com)
+- [FOSSA- Open Source Management](https://fossa.com)
 
 ## Gradientes
 
@@ -207,6 +208,7 @@
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [css.gg](https://css.gg)
 - [CoreUI](https://coreui.io/icons/)
+- [System UIcons](https://systemuicons.com)
 
 ## Imagens/Vídeos
 
