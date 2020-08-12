@@ -55,6 +55,7 @@
 - [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
 - [Free Intro to Web Development slides (with demos)](https://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/)
 - [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
+- [Web Applications 101](https://www.robinwieruch.de/web-applications)
 
 ## HTTP
 
