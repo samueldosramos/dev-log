@@ -64,6 +64,7 @@
 - [Por que designers devem ser bons contadores de histórias](https://brasil.uxdesign.cc/porque-designers-devem-ser-bons-contadores-de-histórias-bcc451b813cb)
 - [Designers deveriam ter estilo de trabalho?](https://brasil.uxdesign.cc/designers-deveriam-ter-estilo-de-trabalho-1c08e70dab70)
 - [Além do Versionamento: como escrever commits significativos no Abstract?](https://brasil.uxdesign.cc/além-do-versionamento-pt-1-como-escrever-commits-significativos-no-abstract-57f08a31fa14)
+- [As habilidades (e histórias) por trás do portfólio](https://brasil.uxdesign.cc/as-habilidades-e-histórias-por-trás-do-portfólio-79ac3e3d161e)
 
 ## Tipografia
 

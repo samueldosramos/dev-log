@@ -31,6 +31,8 @@
 - [13 ways to level up your site's accessibility](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6)
 - [Acessibilidade em projetos web: como pensar desde o início](https://www.treinaweb.com.br/blog/acessibilidade-em-projetos-web-como-pensar-desde-o-inicio/)
 - [Primeiros passos com acessibilidade](https://brunopulis.com/drops/iniciando-em-acessibilidade/)
+- [Técnicas de acessibilidade para deixar o seu site mais inclusivo](https://www.treinaweb.com.br/blog/tecnicas-de-acessibilidade-para-deixar-o-seu-site-mais-inclusivo/)
+- [Introdução à ARIA para acessibilidade na Web](https://desenvolvimentoparaweb.com/miscelanea/aria-acessibilidade-web-a11y/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+desenvolvimentoparaweb+%28desenvolvimento+para+web%29)
 
 ## Utilidades
 

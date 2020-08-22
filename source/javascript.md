@@ -46,6 +46,7 @@
 - [A Simple Explanation of JavaScript Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 - [JavaScript — Injeção de Dependências com Closures](https://medium.com/@osuissa/javascript-closures-700e8abbc7a)
 - [JavaScript: O que são Closures](http://www.mateuspaduaweb.com.br/javascript-o-que-sao-closures/)
+- [O que é uma requisição AJAX?](https://www.treinaweb.com.br/blog/o-que-e-uma-requisicao-ajax/)
 - [Requisições Ajax com JavaScript](https://developertools.com.br/requisicoes-ajax-com-javascript/)
 - [Operadores Spread e Rest Javascript](https://ildaneta.netlify.app/posts/operadores-spread-e-rest-javascript/)
 - [Operadores Spread e Rest Javascript](https://medium.com/@ildaneta/operadores-spread-e-rest-javascript-c90ccf6962f1)
@@ -76,6 +77,7 @@
 - [JavaScript – Ordenando Elementos por Cores](https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/)
 - [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
 - [Primitive types vs objects in JavaScript](https://flaviocopes.com/difference-primitive-types-objects/)
+- [A Beginner's Guide to Javascript Conditionals](https://significa.co/blog/a-beginners-guide-to-javascript-conditionals)
 
 ## Dicas
 
@@ -106,6 +108,7 @@
 - [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
 - [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
+- [Plop.js – Automatize a criação de arquivos](https://www.treinaweb.com.br/blog/plop-js-automatize-a-criacao-de-arquivos/)
 
 ## Funcional
 
@@ -128,6 +131,7 @@
 - [Por que aprender Node.js? 8 Casos reais!](http://www.luiztools.com.br/post/por-que-aprender-nodejs/)
 - [Por que Node.js para Web?](https://medium.com/@badskan/porque-node-js-para-web-b45afbf66c31)
 - [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
+- [Serve an HTML page using Node.js](https://flaviocopes.com/node-serve-html-page/)
 - [API HTTP + REST – Conceito e exemplo em Node.js](https://imasters.com.br/back-end/api-http-rest-conceito-e-exemplo-em-node-js)
 - [Node.js: Aprenda a criar um servidor web em menos de 1 minuto](https://pplware.sapo.pt/tutoriais/node-js-aprenda-criar-um-servidor-web-menos-1-minuto/)
 - [Do Front-End ao Node.js #01: Introdução, Módulos e File System](https://codepen.io/afonsopacifer/post/do-front-end-ao-node-js-01-introducao)
