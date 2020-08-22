@@ -1,4 +1,4 @@
-# React.js
+# React
 
 ## Introdução
 
@@ -135,6 +135,7 @@
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
 - [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
 - [React Act Examples](https://github.com/threepointone/react-act-examples/blob/master/sync.md)
+- [Effective Snapshot Testing](https://kentcdodds.com/blog/effective-snapshot-testing)
 
 ## Design System
 
