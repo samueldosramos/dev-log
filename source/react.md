@@ -89,6 +89,7 @@
 - [React Hooks - Slides React Salvador Meetup](https://slides.com/lucianolima/react-hooks/fullscreen#/)
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
 - [Formik com Hooks - Simplicidade na integração — useFormik()! Parte 1](https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-potềncia-useformik-parte-1-d518fec52dae)
+- [Formik: Como criar um formulário com campos dinâmicos?](https://medium.com/reactbrasil/formik-como-criar-um-formulário-com-campos-dinâmicos-a150d60a8610)
 - [React.useMemo na prática](https://medium.com/reactbrasil/react-usememo-na-prática-692110771c01)
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
 - [React: Conheça o Poder dos Hooks](https://www.treinaweb.com.br/blog/react-conheca-o-poder-dos-hooks/)
