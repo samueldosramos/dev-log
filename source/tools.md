@@ -181,6 +181,7 @@
 - [Shade](http://jxnblk.com/shade/)
 - [CSS Gradient](https://cssgradient.io/)
 - [Easing Gradients](https://larsenwork.com/easing-gradients/)
+- [Gradient Magic](https://www.gradientmagic.com/collection/complexcircles)
 
 ## Ícones
 

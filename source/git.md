@@ -127,6 +127,8 @@
 - [Git Commit Msg](https://karma-runner.github.io/3.0/dev/git-commit-msg.html)
 - [Que tal começar a usar commits semânticos?](https://cubos.io/blog/que-tal-comecar-a-usar-commits-semanticos/)
 - [Entendendo a importância dos Commits Semânticos](https://ildaneta.dev/posts/entendo-a-importância-dos-commits-semânticos/)
+- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## SSH
 

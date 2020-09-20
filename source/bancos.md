@@ -54,6 +54,9 @@
 - [JSON: JavaScript Object Notation](https://desenvolvimentoparaweb.com/javascript/json-javascript-object-notation/)
 - [API Based JSON Storage](https://jsonbase.com)
 
+## Datomic
+- [Introdução ao Datomic: Um banco cronológico](https://www.alura.com.br/conteudo/introducao-ao-datomic)
+
 ## Para seguir
 
 - [Db4Beginners](http://db4beginners.com)

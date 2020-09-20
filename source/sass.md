@@ -13,3 +13,5 @@
 - [Gulp para iniciantes – como compilar e minificar Sass](https://devheroes.io/gulp-iniciantes-compilar-minificar-sass/)
 - [Usando Sass com create-react-app (sem eject)](https://medium.com/tableless/usando-sass-com-create-react-app-sem-eject-56686c7f4e77)
 - [Sass control directives: @if, @for, @each and @while](http://thesassway.com/intermediate/if-for-each-while)
+- [16 dicas de Sass para facilitar sua vida (parte 1)](https://desenvolvimentoparaweb.com/css/sass-dicas-parte-1/)
+- [16 dicas de Sass para facilitar sua vida (parte 2)](https://desenvolvimentoparaweb.com/css/sass-dicas-parte-2/)

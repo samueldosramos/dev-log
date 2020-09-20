@@ -97,6 +97,7 @@
 - [Contraste de cores – Acessibilidade na web](https://tableless.com.br/contraste-de-cores-acessibilidade-na-web/)
 - [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
 - [Psicologia das cores não é o que você esta pensando](https://brasil.uxdesign.cc/psicologia-das-cores-não-é-o-que-você-esta-pensando-619ca796c336)
+- [Entendendo sistema de cores semântico — especificação de cores e naming](https://brasil.uxdesign.cc/entendendo-sistema-de-cores-semântico-especificação-de-cores-e-naming-5a8a118a4d79)
 
 ## UX
 
@@ -137,6 +138,8 @@
 - [Foque na experiência, a interface deve acompanhar](https://brasil.uxdesign.cc/foque-na-experiência-a-interface-deve-acompanhar-cf73b5cf3aaa)
 - [Metas de Usabilidade — Como diagnosticar a usabilidade em seu produto](https://brasil.uxdesign.cc/metas-de-usabilidade-como-avaliar-e-garantir-a-usabilidade-do-seu-produto-6e720541feaf)
 - [Introducing Mercury OS](https://uxdesign.cc/introducing-mercury-os-f4de45a04289)
+- [Como o princípio de ancoragem pode melhorar a vida dos usuários](https://brasil.uxdesign.cc/como-o-principio-de-ancoragem-pode-melhorar-a-vida-dos-usuarios-cccdd4d5104e)
+- [Por que é importante que um UX designer conheça o básico de programação?](https://brasil.uxdesign.cc/por-que-é-importante-que-um-ux-designer-conheça-o-básico-de-programação-482231d25e6f)
 
 ## UI
 
