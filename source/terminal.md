@@ -66,14 +66,6 @@
 - [Agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 - [Color LS](https://github.com/athityakumar/colorls)
 
-## Terminais (Apps)
-
-- [Hyper](https://hyper.is/)
-- [iTerm2](https://www.iterm2.com/)
-- [Tilix](https://gnunn1.github.io/tilix-web/)
-- [Terminus](https://eugeny.github.io/terminus/)
-- [tmux](https://github.com/tmux/tmux)
-
 # Utilidades
 
 - [Bash scripting cheatsheet](https://devhints.io/bash)
