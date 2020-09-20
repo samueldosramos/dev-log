@@ -1,6 +1,6 @@
 # Bancos
 
-## Artigos
+## Guias
 
 - [Como escolher o melhor banco de dados para seu website](https://codificar.com.br/blog/como-escolher-o-melhor-banco-de-dados-para-seu-website/)
 - [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
