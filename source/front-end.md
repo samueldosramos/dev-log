@@ -2,6 +2,7 @@
 
 ## Guias
 
+- [Developers Google](https://developers.google.com/web)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
 - [O que Front-end Developers precisam saber](https://www.felipefialho.com/blog/o-que-front-end-developers-precisam-saber/)
@@ -20,8 +21,6 @@
 - [Por que um desenvolvedor front-end é importante na equipe?](https://helabs.com/artigos/2013/09/24/porque-um-desenvolvedor-frontend-e-importante-na-equipe/)
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [O kit do desenvolvedor Front-end](https://tableless.com.br/o-kit-do-desenvolvedor-front-end/)
-- [Developers Google](https://developers.google.com/web)
-- [Web Fundamentals Google](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [100 dicas sobre desenvolvimento Front-end](https://www.felipefialho.com/blog/100-dicas-sobre-desenvolvimento-front-end/)
 - [100 dicas de front-end (parte 1)](https://serfrontend.com/blog/100-dicas-de-front-end-parte-1/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
