@@ -58,6 +58,7 @@
 - [Web Applications 101](https://www.robinwieruch.de/web-applications)
 - [Ainda precisamos nos preocupar com “Pixel Perfection”?](https://desenvolvimentoparaweb.com/design/pixel-perfection/)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
+- [Iniciando com React JS #01 — Os conceitos básicos do Desenvolvimento Web](https://medium.com/@sscaetite/iniciando-com-react-js-01-os-conceitos-básicos-do-desenvolvimento-web-87ae2657cbf8)
 
 ## HTTP
 
@@ -77,6 +78,7 @@
 - [Dark Theme no DevTools](https://www.felipefialho.com/blog/2016/dark-theme-no-dev-tools)
 - [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 - [Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
+- [JavaScript – Comandos do Console](https://www.treinaweb.com.br/blog/javascript-comandos-do-console/)
 
 ## Otimização
 
@@ -95,6 +97,13 @@
 - [Fast load times](https://web.dev/fast)
 - [Priorização de recursos – Como o navegador pode ajudar você](https://developers.google.com/web/fundamentals/performance/resource-prioritization?hl=pt-br)
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
+- [Em performance Web, o que é velocidade?](https://desenvolvimentoparaweb.com/ux/performance-web-velocidade/)
+- [Testes de Performance JavaScript](https://www.treinaweb.com.br/blog/testes-de-performance-javascript/)
+
+## SPA
+
+- [Progressive Web Apps Training - Web Fundamentals](https://developers.google.com/web/ilt/pwa)
+- [Descomplicando SPA’s](https://medium.com/trainingcenter/descomplicando-spas-caa8f57bdbf3)
 
 ## Web Components
 
@@ -175,3 +184,4 @@
 - [Recursos front end para criar sites incríveis com HTML, CSS e JavaScript](https://recursosfrontend.desenvolvimentoparaweb.com)
 - [markapp - Building apps by authoring HTML](http://markapp.io)
 - [web.dev](https://web.dev)
+- [Guia Desenvolvedora Web](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)

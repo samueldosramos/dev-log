@@ -80,3 +80,4 @@
 - [Bash Functions](https://linuxize.com/post/bash-functions/)
 - [Bash Conditional Expressions](https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html)
 - [Shell Command Language](https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_02_02)
+- [Level up with Vim](https://vimforvscode.com)

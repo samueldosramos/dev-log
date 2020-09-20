@@ -30,6 +30,8 @@
 - [Melhor forma para listas com caption?](https://desenvolvimentoparaweb.com/css/listas-com-caption-label/?utm_source=newsletter&utm_medium=email&utm_campaign=maio_2020)
 - [HTML não é tão simples quanto você pensa](https://www.brunopulis.com/dev/repensando-sobre-o-html/)
 - [Building a Button Part 1: Press Events](https://react-spectrum.adobe.com/blog/building-a-button-part-1.html)
+- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
+- [KeyboardEvent Value (keyCodes, metaKey, etc)](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 
 ## DOM
 

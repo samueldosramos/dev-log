@@ -78,6 +78,7 @@
 - [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
 - [Primitive types vs objects in JavaScript](https://flaviocopes.com/difference-primitive-types-objects/)
 - [A Beginner's Guide to Javascript Conditionals](https://significa.co/blog/a-beginners-guide-to-javascript-conditionals)
+- [Eventos JavaScript: Capturing e Bubbling](https://desenvolvimentoparaweb.com/miscelanea/eventos-javascript-capturing-bubbling/)
 
 ## Dicas
 
@@ -109,6 +110,7 @@
 - [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [Plop.js – Automatize a criação de arquivos](https://www.treinaweb.com.br/blog/plop-js-automatize-a-criacao-de-arquivos/)
+- [Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
 
 ## Funcional
 
@@ -124,6 +126,13 @@
 - [Programação Funcional: código limpo e padrões de projeto](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
 - [Aventuras funcionais ocasionais em JavaScript](https://medium.com/@osuissa/aventuras-funcionais-ocasionais-em-javascript-54d3e168c4da)
 - [Na Prática: Programação Funcional com JavaScript](https://01dev.codes/na-pratica-programacao-funcional-js/)
+
+## Isomórfico
+
+- [Javascript Isomórfico](https://elo7.dev/isomorfismo/)
+- [Javascript Isomórfico - parte 2](https://elo7.dev/isomorfismo-parte-2/)
+- [E se tivéssemos o mesmo código no cliente e servidor?](https://medium.com/pensamentos-js/um-futuro-chamado-javascript-isomorfico-fa43af60d132)
+- [JavaScript e SEO: desenvolvendo páginas indexáveis](https://inside.contabilizei.com.br/javascript-seo-desenvolvendo-páginas-indexáveis-910bdb64aef5)
 
 ## Node
 
@@ -188,6 +197,7 @@
 - [Escrevendo JavaScript melhor - Parte 4](https://udgwebdev.com/escrevendo-javascript-melhor-parte-4/)
 - [Clean code em Javascript - troque seu if gigante por métodos](https://blog.da2k.com.br/2015/01/22/clean-code-em-javascript-troque-seu-if-gigante-por-metodos/)
 - [Conceitos de Código Limpo adaptados em JavaScript](https://github.com/felipe-augusto/clean-code-javascript)
+- [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Boas praticas em javascript](http://letanure.github.io/blog/2013/09/04/boas-praticas-em-javascript/)
 - [Guias de estilo para projetos JavaScript — Airbnb, Google e GitHub](https://medium.com/code-prestige/guias-de-estilo-para-projetos-javascript-airbnb-google-e-github-eec4f4ee7dc0)
 - [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)
@@ -215,6 +225,7 @@
 - [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
 - [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
+- [.NET Design Patterns](https://www.dofactory.com/net/design-patterns)
 
 ## Testes
 

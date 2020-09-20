@@ -75,6 +75,9 @@
 - [@property: variáveis CSS com superpoderes](https://desenvolvimentoparaweb.com/css/property-css/)
 - [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web )
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
+- [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
+- [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 ## Animações
 
@@ -85,6 +88,7 @@
 - [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
 - [Barra de progresso circular com CSS](https://desenvolvimentoparaweb.com/css/barra-progresso-circular-css/)
 - [Como fazer animação infinita de fundo com CSS?](https://www.treinaweb.com.br/blog/como-fazer-animacao-infinita-de-fundo-com-css/)
+- [150+ Amazing Examples of CSS Animation & Effects](https://1stwebdesigner.com/css-effects/)
 
 ## Mobile
 
@@ -205,3 +209,4 @@
 - [Transfonter - Modern and simple css @font-face generator](https://transfonter.org)
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
 - [Cube CSS](https://piccalil.li/cube-css/)
+- [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)

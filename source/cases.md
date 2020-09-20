@@ -21,3 +21,6 @@
 - [Cuide bem dos meus dados…](https://medium.com/@dobrado/segurança-na-web-d496f2eafaa0)
 - [Praticando UI Design em um redesign do aplicativo Done](https://brasil.uxdesign.cc/praticando-ui-design-em-um-redesign-do-aplicativo-done-33d1f9b741b5)
 - [Como criei a primeira loja virtual de artesanato do Amazonas](https://brasil.uxdesign.cc/como-criei-a-primeira-loja-virtual-de-artesanato-do-amazonas-c4fb54fb4c66)
+- [Como usar a telemedicina para melhorar a saúde de quem precisa de ajuda psicológica?](https://brasil.uxdesign.cc/como-usar-a-telemedicina-para-melhorar-a-saúde-de-quem-precisa-de-ajuda-psicológica-3b7460a35374)
+- [Castle: Um projeto de Design Ops e os processos no desenvolvimento de um Design System de sucesso](https://brasil.uxdesign.cc/castle-um-projeto-de-design-ops-e-os-processos-no-desenvolvimento-de-um-design-system-de-sucesso-997922ca3333)
+- [Como tornar a experiência com o Prime Video mais imersiva — Estudo de caso UX/UI](https://brasil.uxdesign.cc/amazon-prime-video-estudo-de-caso-ux-ui-d6d1e75c33be)
