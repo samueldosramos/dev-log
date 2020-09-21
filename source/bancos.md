@@ -43,6 +43,7 @@
 - [Tutorial: O Pplware ensina a trabalhar com o MySQL (Parte IV)](http://pplware.sapo.pt/tutoriais/tutorial-o-pplware-ensina-a-trabalhar-com-o-mysql-parte-iv/)
 - [MySQL Workbench: Aprenda a criar Bases de dados e tabelas](http://pplware.sapo.pt/tutoriais/mysql-workbench-aprenda-a-criar-bases-de-dados-e-tabelas/)
 - [MySQL Workbench: Aprenda a criar utilizadores na Base de Dados](http://pplware.sapo.pt/tutoriais/mysql-workbench-aprenda-a-criar-utilizadores-na-base-de-dados/)
+- [MySQL – Duplicando tabelas gigantes em instantes!](https://blog.vilourenco.com.br/mysql-duplicando-tabelas-como-duplicar-tabelas-com-muitas-linhas/)
 
 ## NoSQL
 

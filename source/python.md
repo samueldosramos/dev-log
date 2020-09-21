@@ -29,6 +29,7 @@
 - [Welcome to Python for Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/)
 - [Principais Estruturas de Dados no Python](https://www.treinaweb.com.br/blog/principais-estruturas-de-dados-no-python/)
 - [Manipulando dicionários no Python](https://www.treinaweb.com.br/blog/manipulando-dicionarios-no-python/)
+- [Pare de escrever loops for em Python](https://imasters.com.br/back-end/pare-de-escrever-loops-for-em-python)
 
 ## Django
 

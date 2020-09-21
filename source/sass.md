@@ -15,3 +15,5 @@
 - [Sass control directives: @if, @for, @each and @while](http://thesassway.com/intermediate/if-for-each-while)
 - [16 dicas de Sass para facilitar sua vida (parte 1)](https://desenvolvimentoparaweb.com/css/sass-dicas-parte-1/)
 - [16 dicas de Sass para facilitar sua vida (parte 2)](https://desenvolvimentoparaweb.com/css/sass-dicas-parte-2/)
+- [Modular Sass demo](https://codepen.io/acezard/full/qbgGbO)
+- [CodePen's CSS](https://codepen.io/chriscoyier/post/codepens-css)
