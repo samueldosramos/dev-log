@@ -29,6 +29,12 @@
 - [Algoritmos de Ordenação](https://dtidigital.com.br/blog/algoritmos-de-ordenacao/)
 - [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
 
+## Boas práticas
+- [Boas práticas de programação](https://www.devmedia.com.br/boas-praticas-de-programacao/31163)
+- [12 Passos e um código melhor](https://blog.vilourenco.com.br/12-passos-e-um-codigo-melhor/)
+- [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention)
+- [Clean Code: Softwares bem escritos são Funções bem escritas](https://medium.com/@FilipeDeschamps/clean-code-softwares-bem-escritos-são-funções-bem-escritas-702db7bb3742#.oz9xagl67)
+
 ## Utilidades
 
 - [Developer Roadmaps](https://roadmap.sh)

@@ -201,6 +201,13 @@
 - [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
 - [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
 - [EditorConfig: padronização automática de estilo de código](https://desenvolvimentoparaweb.com/indicacoes/editorconfig-padronizacao-estilo-codigo/)
+- [EditorConfig: Padronização de código para seus projetos](http://phpba.com.br/editorconfig/)
+- [Boas Práticas de programação em JavaScript](https://www.devmedia.com.br/boas-praticas-de-programacao-em-javascript/34215)
+- [7 Problemas de Estilo de Código em JavaScript](http://programadorobjetivo.co/7-problemas-de-estilo-de-codigo-em-javascript/)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Airbnb JavaScript Style Guide GitBook](http://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
+- [13 Noteworthy Points from Google’s JavaScript Style Guide](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/)
+- [Descomplicando o Google JavaScript Style Guide](https://imasters.com.br/desenvolvimento/descomplicando-google-javascript-style-guide/)
 
 ## Patterns
 
