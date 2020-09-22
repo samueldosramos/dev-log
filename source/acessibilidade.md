@@ -58,3 +58,4 @@
 - [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)
 - [Web Fundamentals - Acessibilidade](https://developers.google.com/web/fundamentals/accessibility?)
 - [a11ymatters - Accessibility Matters](https://www.a11ymatters.com)
+- [Accessibility Reviews](https://a11y.reviews/)
