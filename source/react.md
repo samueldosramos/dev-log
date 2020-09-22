@@ -79,6 +79,7 @@
 - [As armadilhas mais comuns do React](https://medium.com/@marcellguilherme/as-armadilhas-mais-comuns-do-react-1bd43269dac5)
 - [Começando com React App’s](https://medium.com/@bdmrusso/começando-com-react-apps-7c893ff3219e)
 - [How to configure HTTPS in a React app on localhost](https://flaviocopes.com/react-how-to-configure-https-localhost/)
+- [Pre-Caching Image with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
 
 ## React Hooks
 
