@@ -46,6 +46,7 @@
 - [Awesome Git](https://github.com/dictcp/awesome-git)
 - [Git para preguiçosos](https://yeppudaproductions.wordpress.com/2012/11/16/git-para-preguicosos/)
 - [Git How To](https://githowto.com/)
+- [Git Básico - Para iniciantes no mundo Git](https://medium.com/contexto-delimitado/como-usar-o-git-fa880674f1dd)
 
 ## Dicas
 
