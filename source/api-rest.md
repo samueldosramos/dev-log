@@ -25,14 +25,6 @@
 - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [Como Construir uma API RESTful: Conheça as 13 Melhores Boas Praticas](https://www.tipscode.com.br/como-construir-uma-api-restful-conheca-as-13-melhores-boas-praticas/)
 
-## JavaScript
-
-- [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
-  [Setting Up Swagger to API Test In a JavaScript Application](https://itnext.io/setting-up-swagger-in-a-node-js-application-d3c4d7aa56d4)
-- [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
-- [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
-- [How to send the authorization header using Axios](https://flaviocopes.com/axios-send-authorization-header/)
-
 ## GET e POST
 
 - [Diferença entre os métodos GET e POST](http://professortorres.com.br/diferenca-entre-os-metodos-get-e-post/)
@@ -64,6 +56,14 @@
 - [CRUD básico com Vue.js e json-server #1](https://vuejs-brasil.com.br/crud-basico-com-vue-js-e-json-server-parte-1/)
 - [My JSON Server](https://my-json-server.typicode.com)
 - [Tw Dev Server – como ele pode te ajudar a estudar programação?](https://www.treinaweb.com.br/blog/tw-dev-server-como-ele-pode-te-ajudar-a-estudar-programacao/)
+
+## JavaScript
+
+- [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
+  [Setting Up Swagger to API Test In a JavaScript Application](https://itnext.io/setting-up-swagger-in-a-node-js-application-d3c4d7aa56d4)
+- [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
+- [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
+- [How to send the authorization header using Axios](https://flaviocopes.com/axios-send-authorization-header/)
 
 ## Utilidades
 
