@@ -23,6 +23,7 @@
 - [O que é HATEOAS?](https://www.treinaweb.com.br/blog/o-que-e-hateoas/)
 - [O que é OAuth 2?](https://www.treinaweb.com.br/blog/o-que-e-oauth-2/)
 - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+- [Como Construir uma API RESTful: Conheça as 13 Melhores Boas Praticas](https://www.tipscode.com.br/como-construir-uma-api-restful-conheca-as-13-melhores-boas-praticas/)
 
 ## JavaScript
 
