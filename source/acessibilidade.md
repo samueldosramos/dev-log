@@ -33,6 +33,7 @@
 - [Primeiros passos com acessibilidade](https://brunopulis.com/drops/iniciando-em-acessibilidade/)
 - [Técnicas de acessibilidade para deixar o seu site mais inclusivo](https://www.treinaweb.com.br/blog/tecnicas-de-acessibilidade-para-deixar-o-seu-site-mais-inclusivo/)
 - [Introdução à ARIA para acessibilidade na Web](https://desenvolvimentoparaweb.com/miscelanea/aria-acessibilidade-web-a11y/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+desenvolvimentoparaweb+%28desenvolvimento+para+web%29)
+- [CSS acessível](https://desenvolvimentoparaweb.com/css/css-acessivel-a11y/)
 
 ## Utilidades
 
