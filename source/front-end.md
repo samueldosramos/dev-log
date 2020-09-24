@@ -132,7 +132,6 @@
 - [WebSockets - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/WebSockets)
 - [Apresentando WebSockets: trazendo soquetes para a web](https://www.html5rocks.com/pt/tutorials/websockets/basics/)
 - [Uso de WebSockets e HTML5](https://www.devmedia.com.br/uso-de-websockets-e-html5/32267)
-- [Via de mão dupla com WebSockets](https://www.devmedia.com.br/via-de-mao-dupla-com-websockets/28281)
 - [Como o JavaScript funciona: Aprofundando em WebSockets e HTTP/2 com SSE + como escolher o caminho certo](https://medium.com/reactbrasil/como-o-javascript-funciona-aprofundando-em-websockets-e-http-2-com-sse-como-escolher-o-caminho-d4639995ef85)
 - [webSockets.org](https://www.websocket.org)
 
