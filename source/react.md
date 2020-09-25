@@ -80,6 +80,7 @@
 - [Começando com React App’s](https://medium.com/@bdmrusso/começando-com-react-apps-7c893ff3219e)
 - [How to configure HTTPS in a React app on localhost](https://flaviocopes.com/react-how-to-configure-https-localhost/)
 - [Pre-Caching Image with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
+- [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?)
 
 ## React Hooks
 
