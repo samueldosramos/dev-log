@@ -79,6 +79,7 @@
 - [Primitive types vs objects in JavaScript](https://flaviocopes.com/difference-primitive-types-objects/)
 - [A Beginner's Guide to Javascript Conditionals](https://significa.co/blog/a-beginners-guide-to-javascript-conditionals)
 - [Eventos JavaScript: Capturing e Bubbling](https://desenvolvimentoparaweb.com/miscelanea/eventos-javascript-capturing-bubbling/)
+- [Como o JavaScript funciona: gerenciamento de memória + como lidar com 4 vazamentos comuns de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-memória-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
 
 ## Dicas
 
