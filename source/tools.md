@@ -3,7 +3,7 @@
 ## Animações
 
 - [Anime.js](http://animejs.com/)
-- [Animate.css](https://daneden.github.io/animate.css/)
+- [Animate.css](https://animate.style)
 - [AniCollection](http://anicollection.github.io/#/)
 - [All animation.css](http://all-animation.github.io/)
 - [Animista](http://animista.net/)
@@ -98,7 +98,7 @@
 
 - [Dash](https://kapeli.com/dash)
 - [Zeal](https://zealdocs.org/)
-- [DevDocs](http://devdocs.io/)
+- [DevDocs](https://devdocs.io/)
 - [DevDocs Desktop](https://devdocs.egoist.moe/)
 - [DevHints - cheatsheets](https://devhints.io/)
 
