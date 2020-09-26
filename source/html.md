@@ -32,6 +32,7 @@
 - [Building a Button Part 1: Press Events](https://react-spectrum.adobe.com/blog/building-a-button-part-1.html)
 - [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
 - [KeyboardEvent Value (keyCodes, metaKey, etc)](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
+- [HTML básico - códigos HTML](https://www.devmedia.com.br/html-basico-codigos-html/16596)
 
 ## DOM
 
@@ -51,3 +52,5 @@
 - [Canvas HTML5: do Alpha ao Z-Index](https://github.com/LuisAraujo/Livro-Canvas-HTML5-do-Alpha-ao-Z-index/blob/master/cap1-Introducao/README.md#12---a-chegada-do-canvas)
 - [HEAD - A free guide to HTML5 <head> elements](https://htmlhead.dev)
 - [HTML5 Periodical Table](https://websitesetup.org/html5-periodical-table/)
+- [Dive Into HTML5](https://diveintohtml5.com.br)
+- [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com)

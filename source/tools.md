@@ -22,6 +22,7 @@
 - [Lottie](https://airbnb.design/lottie/)
 - [ui interactions](https://raphaelfabeni.com/ui-interactions/)
 - [Popmotion](https://popmotion.io)
+- [Bounce.js](http://bouncejs.com)
 
 ## Boilerplates
 

@@ -2,6 +2,7 @@
 
 ## Guias
 
+- [Um guia para iniciantes na área web](http://tableless.github.io/iniciantes/)
 - [Developers Google](https://developers.google.com/web)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
@@ -78,6 +79,7 @@
 - [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 - [Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
 - [JavaScript – Comandos do Console](https://www.treinaweb.com.br/blog/javascript-comandos-do-console/)
+- [Firefox DevTools - Debugger](https://mozilladevelopers.github.io/playground/debugger)
 
 ## Otimização
 
@@ -103,6 +105,7 @@
 
 - [Progressive Web Apps Training - Web Fundamentals](https://developers.google.com/web/ilt/pwa)
 - [Descomplicando SPA’s](https://medium.com/trainingcenter/descomplicando-spas-caa8f57bdbf3)
+- [SPA e SSR: quais as diferenças?](https://www.treinaweb.com.br/blog/spa-e-ssr-quais-as-diferencas/)
 
 ## Web Components
 
@@ -187,3 +190,4 @@
 - [Web Style Guide](https://www.webstyleguide.com)
 - [Padrões de código e melhores práticas em Front-end](https://andrecomws.com/lab/code-standards/)
 - [Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)

@@ -38,3 +38,9 @@
 ## Utilidades
 
 - [Developer Roadmaps](https://roadmap.sh)
+- [Automatização de Teste de Software](http://napsol.icmc.usp.br/ats/)
+- [Curso de Redes Gratuito no Under-Linux](https://under-linux.org/content.php?r=1336)
+- [Curso IPv6](http://ipv6.br/pagina/curso-basico-ead)
+- [Java Fundamentos e OO](http://www.mastertraining.com.br/course/java-fundamentos-e-oo/)
+- [Curso Completo de Java para Iniciantes](https://www.javaprogressivo.net/2012/08/curso-completo.html)
+- [Elixir School](https://elixirschool.com/pt/)

@@ -57,6 +57,16 @@
 - [zsh (Z shell) - Uma alternativa ao bash](https://www.vivaolinux.com.br/artigo/zsh-Z-shell-Uma-alternativa-ao-bash/)
 - [Become A Command-Line Power User With Oh My ZSH And Z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
 
+## Vim
+
+- [Vim - Portal brasileiro do editor de textos Vim (VI)](https://aurelio.net/vim/)
+- [Introdução bem rápida sobre vim](https://tableless.com.br/introducao-bem-rapida-sobre-vim/)
+- [Vim - Blog Elias Praciano](https://elias.praciano.com/tag/vim/)
+- [VimAwesome](https://vimawesome.com)
+- [Vim para noobs](https://leanpub.com/vimparanoobs/)
+- [Level up with Vim](https://vimforvscode.com)
+- [Vim Bootstrap](http://vim-bootstrap.com)
+
 ## Temas
 
 - [Dracula](https://draculatheme.com/terminal/)
@@ -72,4 +82,3 @@
 - [Bash Functions](https://linuxize.com/post/bash-functions/)
 - [Bash Conditional Expressions](https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html)
 - [Shell Command Language](https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_02_02)
-- [Level up with Vim](https://vimforvscode.com)
