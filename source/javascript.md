@@ -73,6 +73,7 @@
 - [A Beginner's Guide to Javascript Conditionals](https://significa.co/blog/a-beginners-guide-to-javascript-conditionals)
 - [Eventos JavaScript: Capturing e Bubbling](https://desenvolvimentoparaweb.com/miscelanea/eventos-javascript-capturing-bubbling/)
 - [Como o JavaScript funciona: gerenciamento de memória + como lidar com 4 vazamentos comuns de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-memória-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
+- [Prazer, JavaScript](https://www.diegoramos.me/presentations.github.io/prazer-javascript/)
 
 ## Dicas
 
@@ -253,6 +254,15 @@
 - [ECMAScript notes](https://github.com/EricDosReis/es-notes)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Interactive JavaScript Quiz #1](https://dev.to/lydiahallie/interactive-javascript-quiz-1-1flc)
+- [JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
+- [You Don't Know JS](https://github.com/diariobackend/You-Dont-Know-JS)
+- [JavascriptInfo - The Modern JavaScript Tutorial](https://javascript.info)
+- [Programiz - Learn JavaScript Programming](https://www.programiz.com/javascript)
+- [JavaScript30 - 30 Day Vanilla JS Coding Challenge](https://javascript30.com)
+- [JavaScript.com](https://www.javascript.com)
+- [JSCasts - Aprender JavaScript agora é fácil](https://jscasts.teachable.com)
+- [Learn JS](https://www.learn-js.org)
+- [Aprender JavaScript](https://www.todoespacoonline.com/w/2014/05/aprender-javascript/)
 
 ## Utilidades
 
@@ -272,6 +282,7 @@
 - [Popular open source JavaScript frameworks for data visualisation](https://sonalake.com/latest/popular-open-source-javascript-frameworks-for-data-visualisation/)
 - [9 Bibliotecas javascript para fazer gráficos interativos](http://geracaocriativa.com/conteudos/desenvolvimento/codigo/34-9-bibliotecas-javascript-para-fazer-graficos-interativos)
 - [D3.js – Gerando gráficos em Javascript](http://hanabrasil.com.br/2015/01/12/d3-js-gerando-graficos-em-javascript/)
+- [Data Viz Project](https://datavizproject.com)
 
 ## Para seguir
 

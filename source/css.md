@@ -89,6 +89,8 @@
 - [Barra de progresso circular com CSS](https://desenvolvimentoparaweb.com/css/barra-progresso-circular-css/)
 - [Como fazer animação infinita de fundo com CSS?](https://www.treinaweb.com.br/blog/como-fazer-animacao-infinita-de-fundo-com-css/)
 - [150+ Amazing Examples of CSS Animation & Effects](https://1stwebdesigner.com/css-effects/)
+- [Using CSS3 Pseudo-Classes and Transitions to Create Interactive Links and Buttons](https://www.developerdrive.com/using-css3-pseudo-classes-and-transitions-to-create-interactive-links-and-buttons/)
+- [CSS Animations - Guia de bolso](https://daliannyvieira.gitbooks.io/css-animations-pocket-guide/content/)
 
 ## Mobile
 
@@ -186,6 +188,9 @@
 - [Como criar templates com CSS Grid](https://desenvolvimentoparaweb.com/css/css-grid-como-criar-templates/)
 - [Creating Simple Layout Templates with CSS Grid](https://teamgaslight.com/blog/creating-simple-layout-templates-with-css-grid/)
 - [CSS Grid intrinsecamente responsiva com minmax() e min()](https://desenvolvimentoparaweb.com/css/css-grid-intrinsecamente-responsiva-minmax-min/)
+- [Grid Garden](https://cssgridgarden.com)
+- [Alinhamento do grid](http://livrosdomaujor.com.br/gridlayout/demo/index.html)
+- [Firefox DevTools - Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 
 ## Pré-processadores
 
@@ -210,3 +215,7 @@
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
 - [Cube CSS](https://piccalil.li/cube-css/)
 - [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)
+- [CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [Aprenda Layout com CSS](http://pt-br.learnlayout.com)
+- [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+- [CSS Diner](https://flukeout.github.io)

@@ -22,3 +22,6 @@
 - [Sonar - App debugger](https://fbsonar.com/)
 - [React Native Example](https://reactnativeexample.com)
 - [UI Kitten 4.0](https://akveo.github.io/react-native-ui-kitten/)
+- [Guias do desenvolvedor Android](http://developer.android.com/intl/pt-br/guide/index.html)
+- [RayWenderlich Tutorials](https://www.raywenderlich.com)
+- [AndroidPro](https://www.androidpro.com.br)

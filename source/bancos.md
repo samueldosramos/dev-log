@@ -52,12 +52,28 @@
 
 ## JSON
 
+- [Introdução ao JSON](http://www.json.org/json-pt.html)
 - [JSON: JavaScript Object Notation](https://desenvolvimentoparaweb.com/javascript/json-javascript-object-notation/)
+- [JSON Tutorial](https://www.devmedia.com.br/json-tutorial/25275)
 - [API Based JSON Storage](https://jsonbase.com)
 
 ## Datomic
+
 - [Introdução ao Datomic: Um banco cronológico](https://www.alura.com.br/conteudo/introducao-ao-datomic)
+
+## Dados
+
+- [Escola de Dados](https://escoladedados.org)
+- [Data Science Academy](https://www.datascienceacademy.com.br/pages/cursos-gratuitos)
+- [Microsoft Power BI para Data Science](https://www.datascienceacademy.com.br/pages/curso-microsoft-power-bi-para-data-science)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ## Para seguir
 
 - [Db4Beginners](http://db4beginners.com)
+
+## Utilidades
+
+- [SQL Online](https://sqliteonline.com)
+- [Curso Online – Oracle SQL](http://www.mastertraining.com.br/course/oracle-sql/)
+- [Curso de SQL Completo Gratuito (BD-03)](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03)

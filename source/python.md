@@ -35,3 +35,8 @@
 
 - [How To Install Django In Mac](https://appdividend.com/2018/03/28/how-to-install-django-in-mac/)
 - [The Ultimate Visual Studio Code Setup For Django Developers](https://djangocentral.com/visual-studio-code-setup-for-django-developers/)
+
+## Cursos
+- [Python para Zumbis](http://pycursos.com/python-para-zumbis/)
+- [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+- [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)

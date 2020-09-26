@@ -89,6 +89,9 @@
 - [Textos responsivos com CSS clamp()](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/)
 - [10 Características de um bom design de logo](https://www.des1gnon.com/2020/06/10-caracteristicas-design-de-logo/)
 - [How to use Google Fonts](https://flaviocopes.com/google-fonts/)
+- [Type Terms](https://www.supremo.co.uk/typeterms/)
+- [Lettering - fundamentos básicos](https://www.saibala.com.br/lettering-fundamentos-basicos---32/rafael.costa)
+- [Better Web Typography For A Better Web](https://betterwebtype.com)
 
 ## Cores
 
@@ -256,3 +259,5 @@
 - [Meus links favoritos UX & UI](https://coletivoux.com/meus-links-favoritos-ux-ui-16bd3c036fde)
 - [Diez - The Design Language Framework](https://diez.org)
 - [Lexicon - An Experience Language for Crafting Beautiful UI](https://liferay.design/lexicon/)
+- [Creative Challenge - Build your Photoshop skills](https://www.behance.net/challenge/photoshop)
+- [Curso Online de Criação de Logomarcas](https://administrabrasil.com.br/curso/criacao-de-logomarcas/)

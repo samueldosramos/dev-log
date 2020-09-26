@@ -84,6 +84,11 @@
 - [Vim básico para trabalhar com Ruby ](http://ideia.me/vim-basico-para-ruby)
 - [Setup Ruby On Rails on macOS 10.13 High Sierra](https://gorails.com/setup/osx/10.13-high-sierra)
 - [Aprendendo Ruby como um Dev JavaScript parte 1](https://dev.to/codecasts/aprendendo-ruby-como-um-dev-javascript-parte-1-5hio)
+- [Aprenda a Programar](https://www.jmonteiro.com/aprendaaprogramar/)
+- [Learn Ruby - Ruby Koans](http://rubykoans.com)
+- [Rails Girls](https://www.maujor.com/railsgirlsguide/)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [Ruby Warrior](https://www.bloc.io/ruby-warrior/)
 
 ## IDE/Editor
 
