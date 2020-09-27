@@ -245,6 +245,13 @@
 - [Understanding Cypress’s command execution order and Chainables](https://medium.com/@arnonaxelrod/understanding-cypresss-command-execution-order-and-chainables-75079d82710a)
 - [Why I Never Use Shallow Rendering](https://kentcdodds.com/blog/why-i-never-use-shallow-rendering)
 
+## Dataviz
+
+- [Popular open source JavaScript frameworks for data visualisation](https://sonalake.com/latest/popular-open-source-javascript-frameworks-for-data-visualisation/)
+- [9 Bibliotecas javascript para fazer gráficos interativos](http://geracaocriativa.com/conteudos/desenvolvimento/codigo/34-9-bibliotecas-javascript-para-fazer-graficos-interativos)
+- [D3.js – Gerando gráficos em Javascript](http://hanabrasil.com.br/2015/01/12/d3-js-gerando-graficos-em-javascript/)
+- [Data Viz Project](https://datavizproject.com)
+
 ## Tutoriais/Livros
 
 - [JavaScriptt - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -284,12 +291,6 @@
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#open-web-platform)
 - [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks)
 
-## Dataviz
-
-- [Popular open source JavaScript frameworks for data visualisation](https://sonalake.com/latest/popular-open-source-javascript-frameworks-for-data-visualisation/)
-- [9 Bibliotecas javascript para fazer gráficos interativos](http://geracaocriativa.com/conteudos/desenvolvimento/codigo/34-9-bibliotecas-javascript-para-fazer-graficos-interativos)
-- [D3.js – Gerando gráficos em Javascript](http://hanabrasil.com.br/2015/01/12/d3-js-gerando-graficos-em-javascript/)
-- [Data Viz Project](https://datavizproject.com)
 
 ## Para seguir
 

@@ -190,9 +190,6 @@
 - [Manual do React - The React Handbook](https://github.com/ChristySchott/manual-react)
 - [useHooks - React Hook recipes](https://usehooks.com)
 - [React Express](https://www.react.express)
-
-## React Dataviz
-
 - [React-Vis](https://uber.github.io/react-vis/)
 - [Recharts](http://recharts.org/#/en-US/)
 - [Victory](https://formidable.com/open-source/victory/)
