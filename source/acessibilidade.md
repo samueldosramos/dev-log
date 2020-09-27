@@ -56,7 +56,6 @@
 - [web para todos](https://mwpt.com.br)
 - [Curso eMAG Desenvolvedor](https://www.escolavirtual.gov.br/curso/42)
 - [Curso eMAG / Desenvolvedor](http://emag.governoeletronico.gov.br/cursodesenvolvedor/)
-- [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)
 - [Web Fundamentals - Acessibilidade](https://developers.google.com/web/fundamentals/accessibility?)
 - [a11ymatters - Accessibility Matters](https://www.a11ymatters.com)
 - [Accessibility Reviews](https://a11y.reviews/)
