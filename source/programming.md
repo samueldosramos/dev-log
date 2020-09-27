@@ -38,9 +38,45 @@
 ## Utilidades
 
 - [Developer Roadmaps](https://roadmap.sh)
+- [Guias de Carreira para Programadores](https://www.devmedia.com.br/guias/)
+
+## Cursos pedagógicos
+
+- [Hora do Código](https://hourofcode.com/br)
+- [Code.org](https://code.org)
+- [Programaê!](http://programae.org.br)
+- [CodeCombat](https://br.codecombat.com)
+
+## Cursos diversos
+
+- [Programação - Comece pelo básico](https://pt.khanacademy.org/computing/computer-programming#meet-the-computing-professional-unit)
+- [Curso Express de Lógica de Programação Gratuito (LO-06)](https://www.softblue.com.br/site/curso/id/6/CURSO+LOGICA_DE_PROGRAMACAO_BASICO_ON_LINE_LO06)
+- [Nodeschool.io](https://nodeschool.io/pt-br/)
+- [Upcase by thoughtbot](https://thoughtbot.com/upcase)
+- [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)
+- [TIMTec](https://cursos.timtec.com.br)
+- [Curso em Vídeo](https://www.cursoemvideo.com)
+- [Jornada do Dev](https://jornadadodev.com.br/cursos)
+- [Torne-se um Programador](http://www.torneseumprogramador.com.br)
+- [loiane.training](https://loiane.training)
+- [Cursos Willian Justen](https://willianjusten.com.br/cursos/)
+- [freeCodeCamp.org](https://www.freecodecamp.org)
+- [Dash](https://dash.generalassemb.ly)
+- [Codewars](https://www.codewars.com)
+- [Superquadra](https://www.superquadra.co)
+- [Google Developers Codelabs](https://codelabs.developers.google.com)
 - [Automatização de Teste de Software](http://napsol.icmc.usp.br/ats/)
 - [Curso de Redes Gratuito no Under-Linux](https://under-linux.org/content.php?r=1336)
 - [Curso IPv6](http://ipv6.br/pagina/curso-basico-ead)
 - [Java Fundamentos e OO](http://www.mastertraining.com.br/course/java-fundamentos-e-oo/)
 - [Curso Completo de Java para Iniciantes](https://www.javaprogressivo.net/2012/08/curso-completo.html)
 - [Elixir School](https://elixirschool.com/pt/)
+- [Curso Tecnologia em Sistemas de Computação CECIERJ](https://www.cecierj.edu.br/videoaulas/)
+- [W3Schools](https://www.w3schools.com)
+- [DevMedia](https://www.devmedia.com.br)
+- [Coursera](https://www.coursera.org)
+- [Codecademy](https://www.codecademy.com)
+- [Udacity](https://www.udacity.com)
+- [School of Net](https://www.schoolofnet.com)
+- [Code Avengers](https://www.codeavengers.com)
+- [Pluralsight](https://www.pluralsight.com)
