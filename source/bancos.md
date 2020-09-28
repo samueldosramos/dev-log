@@ -3,7 +3,6 @@
 ## Guias
 
 - [Como escolher o melhor banco de dados para seu website](https://codificar.com.br/blog/como-escolher-o-melhor-banco-de-dados-para-seu-website/)
-- [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
 - [O que é ORM?](https://www.treinaweb.com.br/blog/o-que-e-orm/)
 - [O que é UUID? Porque usá-lo?](https://medium.com/trainingcenter/o-que-é-uuid-porque-usá-lo-ad7a66644a2b)
 - [Writing Legible SQL with Common Table Expressions](https://www.beekeeperstudio.io/blog/legible-sql)
@@ -50,16 +49,21 @@
 - [Um pouco de NoSQL com MongoDB](https://giovannireisnunes.wordpress.com/2015/09/25/um-pouco-de-nosql-com-mongodb/)
 - [O que é MongoDB?](https://www.treinaweb.com.br/blog/o-que-e-mongodb/)
 
+## Firebase
+
+- [O que é Firebase?](https://www.treinaweb.com.br/blog/o-que-e-firebase/)
+- [How to use Firebase Firestore as your database](https://flaviocopes.com/firebase-firestore/)
+
+## Datomic
+
+- [Introdução ao Datomic: Um banco cronológico](https://www.alura.com.br/conteudo/introducao-ao-datomic)
+
 ## JSON
 
 - [Introdução ao JSON](http://www.json.org/json-pt.html)
 - [JSON: JavaScript Object Notation](https://desenvolvimentoparaweb.com/javascript/json-javascript-object-notation/)
 - [JSON Tutorial](https://www.devmedia.com.br/json-tutorial/25275)
 - [API Based JSON Storage](https://jsonbase.com)
-
-## Datomic
-
-- [Introdução ao Datomic: Um banco cronológico](https://www.alura.com.br/conteudo/introducao-ao-datomic)
 
 ## Dados
 
