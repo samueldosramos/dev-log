@@ -42,6 +42,7 @@
 - [How to check if an element is a descendant of another](https://flaviocopes.com/how-to-check-element-descendant/)
 - [How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 - [The importance of timing when working with the DOM](https://flaviocopes.com/dom-timing/)
+- [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 
 ## Utilidades
 
