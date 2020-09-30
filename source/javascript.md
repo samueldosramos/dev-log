@@ -227,6 +227,7 @@
 - [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
 - [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
+- [Reactive Design Patterns](https://www.reactivedesignpatterns.com)
 - [.NET Design Patterns](https://www.dofactory.com/net/design-patterns)
 
 ## Testes
