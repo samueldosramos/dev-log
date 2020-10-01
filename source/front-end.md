@@ -40,6 +40,7 @@
 - [O Guia da automação Front-end #1 — CODIFICAÇÃO ÁGIL COM EMMET](https://medium.com/collabcode/o-guia-da-automação-front-end-1-codificação-ágil-com-emmet-4be6af93ca9e)
 - [Emmet: escreva HTML 10x mais rápido](https://desenvolvimentoparaweb.com/html/emmet/)
 - [Some Emmet Magic Frontend Devs should know](https://dev.to/devmount/some-emmet-magic-frontend-devs-should-know-2p2o)
+- [Emmet Toolkit – Seja um Web Developer mais rápido](https://www.treinaweb.com.br/blog/emmet-toolkit-seja-um-web-developer-mais-rapido/)
 - [Browser-sync, indispensável para desenvolver sites em vários dispositivos](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/)
 - [The Code Behind Our New Video Homepage](https://wistia.com/blog/fullscreen-video-homepage)
 - [Initializr – Comece Seu Projeto HTML5 Em 15 Segundos!](http://flaviosilveira.com/2011/initializr-comece-seu-projeto-html5-em-15-segundos/)
