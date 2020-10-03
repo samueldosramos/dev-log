@@ -107,6 +107,7 @@
 - [Progressive Web Apps Training - Web Fundamentals](https://developers.google.com/web/ilt/pwa)
 - [Descomplicando SPA’s](https://medium.com/trainingcenter/descomplicando-spas-caa8f57bdbf3)
 - [SPA e SSR: quais as diferenças?](https://www.treinaweb.com.br/blog/spa-e-ssr-quais-as-diferencas/)
+- [Renderização de aplicações modernas](https://gabrieluizramos.com.br/renderizacao-de-aplicacoes-modernas)
 
 ## Web Components
 
