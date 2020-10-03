@@ -128,6 +128,7 @@
 - [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
 - [O macete para unidades de viewport em mobile](https://desenvolvimentoparaweb.com/css/o-macete-para-unidades-de-viewport-em-mobile/)
 - [Lidando com responsividade em aplicações móveis utilizando o REM](https://ildaneta.dev/posts/lidando-com-responsividade-em-aplicações-móveis-utilizando-o-rem/)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 
 ## Organização
 
