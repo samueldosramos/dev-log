@@ -26,6 +26,7 @@
 - [JavaScript — O poder da negação](https://medium.com/@osuissa/javascript-o-poder-da-negacao-3a70ec369b63)
 - [10 Essential DOM Methods & Techniques for Practical JavaScript](https://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/)
 - [Entendendo módulos ES6](https://medium.com/trainingcenter/entendendo-m%C3%B3dulos-no-javascript-73bce1d64dbf)
+- [Módulos em JavaScript](https://gabrieluizramos.com.br/modulos-em-javascript)
 - [Coisas de JavaScript que eu nunca tinha ouvido falar](https://maikenegreiros.me/artigos/coisas-de-js-que-eu-nunca-tinha-ouvido-falar)
 - [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)
 - [A moderna caixa de ferramentas do desenvolvedor JavaScript](https://www.infoq.com/br/articles/modern-javascript-toolbox)
@@ -74,6 +75,10 @@
 - [Eventos JavaScript: Capturing e Bubbling](https://desenvolvimentoparaweb.com/miscelanea/eventos-javascript-capturing-bubbling/)
 - [Como o JavaScript funciona: gerenciamento de memória + como lidar com 4 vazamentos comuns de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-memória-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
 - [Prazer, JavaScript](https://www.diegoramos.me/presentations.github.io/prazer-javascript/)
+- [Entendendo o V8 peça por peça](https://gabrieluizramos.com.br/entendendo-o-v8-peca-por-peca/)
+- [Desmistificando Injeção de Dependência](https://gabrieluizramos.com.br/desmistificando-injecao-de-dependencia/)
+- [Entendendo o package.json](https://gabrieluizramos.com.br/entendendo-o-package-json)
+- [Relembrando operadores em JavaScript](https://gabrieluizramos.com.br/relembrando-operadores-em-javascript)
 
 ## Dicas
 
@@ -204,6 +209,7 @@
 - [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
 - [EditorConfig: padronização automática de estilo de código](https://desenvolvimentoparaweb.com/indicacoes/editorconfig-padronizacao-estilo-codigo/)
 - [EditorConfig: Padronização de código para seus projetos](http://phpba.com.br/editorconfig/)
+- [Customizando o ESLint](https://gabrieluizramos.com.br/customizando-o-eslint)
 - [Boas Práticas de programação em JavaScript](https://www.devmedia.com.br/boas-praticas-de-programacao-em-javascript/34215)
 - [7 Problemas de Estilo de Código em JavaScript](http://programadorobjetivo.co/7-problemas-de-estilo-de-codigo-em-javascript/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -238,6 +244,9 @@
 - [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
 - [Understanding Cypress’s command execution order and Chainables](https://medium.com/@arnonaxelrod/understanding-cypresss-command-execution-order-and-chainables-75079d82710a)
 - [Why I Never Use Shallow Rendering](https://kentcdodds.com/blog/why-i-never-use-shallow-rendering)
+- [Anatomia de um teste em JavaScript](https://gabrieluizramos.com.br/anatomia-de-um-teste-em-javascript)
+- [Fundamentando Mocks em JavaScript](https://gabrieluizramos.com.br/fundamentando-mocks-em-javascript)
+- [Testes assíncronos em JavaScript](https://gabrieluizramos.com.br/testes-assincronos-em-javascript)
 
 ## Dataviz
 

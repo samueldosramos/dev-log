@@ -55,6 +55,7 @@
 - [CSS Quickies: text-indent](https://dev.to/lampewebdev/css-quickies-text-indent-1b28)
 - [How to Use CSS Logical Properties to Control Layout](https://webdesign.tutsplus.com/tutorials/how-to-use-css-logical-properties--cms-33024)
 - [Desenhos em CSS na vida real: útil ou só diversão?](https://dev.to/giuliacardieri/desenhos-em-css-na-vida-real-util-ou-so-diversao-4pm)
+- [Desenhando com CSS](https://gabrieluizramos.com.br/desenhando-com-css)
 - [The Order of CSS Classes in HTML Doesn’t Matter](https://css-tricks.com/the-order-of-css-classes-in-html-doesnt-matter/)
 - [Pensando em CSS](https://pensando-em-css.netlify.com/#1)
 - [CSS – Altura automática proporcional à largura sem JavaScript](https://www.treinaweb.com.br/blog/css-altura-automatica-proporcional-a-largura-sem-javascript/)
@@ -79,6 +80,7 @@
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [O conceito mais importante de CSS](https://desenvolvimentoparaweb.com/miscelanea/conceito-mais-importante-css/)
+- [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
 
 ## Animações
 

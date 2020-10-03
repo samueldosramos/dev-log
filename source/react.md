@@ -81,6 +81,8 @@
 - [How to configure HTTPS in a React app on localhost](https://flaviocopes.com/react-how-to-configure-https-localhost/)
 - [Pre-Caching Image with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
 - [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?)
+- [Composição e React HoC (Higher Order Components)](https://gabrieluizramos.com.br/composicao-e-react-hoc/)
+- [Recursão com componentes React](https://gabrieluizramos.com.br/recursao-com-componentes-react)
 
 ## React Hooks
 
@@ -109,6 +111,7 @@
 - [Entendendo a Context API do React: criando um componente de loading](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7)
 - [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
 - [Tudo que você precisa saber sobre Context API no React](https://01dev.codes/tudo-sobre-context-api-react/)
+- [Context, Redux e gerenciamento de estado](https://gabrieluizramos.com.br/context-redux-e-gerenciamento-de-estado)
 
 ## React Router
 

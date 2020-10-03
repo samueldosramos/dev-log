@@ -130,6 +130,7 @@
 - [Entendendo a importância dos Commits Semânticos](https://ildaneta.dev/posts/entendo-a-importância-dos-commits-semânticos/)
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Emendando commits](https://gabrieluizramos.com.br/emendando-commits/)
 
 ## SSH
 
