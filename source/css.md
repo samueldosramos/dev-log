@@ -74,13 +74,14 @@
 - [CSS Text Effects From CodePen](https://freebiesupply.com/blog/css-text-effects-from-codepen/)
 - [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 - [@property: variáveis CSS com superpoderes](https://desenvolvimentoparaweb.com/css/property-css/)
-- [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web )
+- [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web)
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [O conceito mais importante de CSS](https://desenvolvimentoparaweb.com/miscelanea/conceito-mais-importante-css/)
 - [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
+- [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/)
 
 ## Animações
 
@@ -195,6 +196,7 @@
 - [Grid Garden](https://cssgridgarden.com)
 - [Alinhamento do grid](http://livrosdomaujor.com.br/gridlayout/demo/index.html)
 - [Firefox DevTools - Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
+- [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
 
 ## Pré-processadores
 
