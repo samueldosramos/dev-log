@@ -1,5 +1,7 @@
 # Docker
 
+## Geral
+
 - [Introdução ao Docker](https://raccoon.ninja/pt/dev-pt/introducao-ao-docker/)
 - [Comandos básicos do Docker](https://raccoon.ninja/pt/dev-pt/comandos-basicos-do-docker/)
 - [Comandos básicos do Docker, parte 2.](https://raccoon.ninja/pt/dev-pt/comandos-basicos-do-docker-parte-2/)
@@ -26,3 +28,7 @@
 - [Uma breve introdução ao Docker com Node.js](https://braziljs.org/blog/uma-breve-introducao-ao-docker-com-nodejs/)
 - [Tudo o que você precisa saber para rodar Node.js com Docker](http://walde.co/2016/08/30/tudo-que-voce-precisa-saber-para-rodar-sua-aplicacao-nodejs-com-docker/)
 - [Como rodar uma aplicação Node.js no Docker](https://medium.com/nerdzao/como-rodar-uma-aplicação-node-js-no-docker-836dc48a5d60)
+
+## Utilidades
+
+- [DockerSlim](https://dockersl.im)

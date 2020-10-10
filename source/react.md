@@ -83,6 +83,7 @@
 - [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?)
 - [Composição e React HoC (Higher Order Components)](https://gabrieluizramos.com.br/composicao-e-react-hoc/)
 - [Recursão com componentes React](https://gabrieluizramos.com.br/recursao-com-componentes-react)
+- [5 motivos para estudar React](https://www.treinaweb.com.br/blog/5-motivos-para-estudar-react/)
 
 ## React Hooks
 

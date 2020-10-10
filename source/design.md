@@ -18,6 +18,7 @@
 - [Digital Product design Principles](http://wouterdebr.es/posts/digital-product-design-principles.html)
 - [A aproximação entre Designers e Desenvolvedores (e alguns links úteis caso você esteja interessado)](https://brasil.uxdesign.cc/a-aproxima%C3%A7%C3%A3o-entre-designers-e-desenvolvedores-e-alguns-links-%C3%BAteis-caso-voc%C3%AA-esteja-interessado-b720ba829ee7)
 - [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
+- [Designer x Desenvolvedor: Ainda precisamos falar sobre isso](https://brasil.uxdesign.cc/designer-x-desenvolvedor-ainda-precisamos-falar-sobre-isso-1beb243b9cd)
 - [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
 - [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 - [Short, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/useful-ui-ux-design-tips/)
@@ -48,6 +49,7 @@
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
+- [Why Signups & Logins Should Open in a Right Form Drawer](https://uxmovement.com/forms/why-signups-logins-should-open-in-a-right-form-drawer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
 - [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
 - [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
@@ -65,6 +67,7 @@
 - [Designers deveriam ter estilo de trabalho?](https://brasil.uxdesign.cc/designers-deveriam-ter-estilo-de-trabalho-1c08e70dab70)
 - [Além do Versionamento: como escrever commits significativos no Abstract?](https://brasil.uxdesign.cc/além-do-versionamento-pt-1-como-escrever-commits-significativos-no-abstract-57f08a31fa14)
 - [As habilidades (e histórias) por trás do portfólio](https://brasil.uxdesign.cc/as-habilidades-e-histórias-por-trás-do-portfólio-79ac3e3d161e)
+- [Testes de usabilidade: o que, por quê e como](https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-por-que-e-como-1490e2059513)
 
 ## Tipografia
 
