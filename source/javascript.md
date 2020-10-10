@@ -79,6 +79,8 @@
 - [Desmistificando Injeção de Dependência](https://gabrieluizramos.com.br/desmistificando-injecao-de-dependencia/)
 - [Entendendo o package.json](https://gabrieluizramos.com.br/entendendo-o-package-json)
 - [Relembrando operadores em JavaScript](https://gabrieluizramos.com.br/relembrando-operadores-em-javascript)
+- [Qual a diferença entre ECMAScript e JavaScript?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript/)
+- [Using JavaScript to Adjust Saturation and Brightness of RGB Colors](https://css-tricks.com/using-javascript-to-adjust-saturation-and-brightness-of-rgb-colors/)
 
 ## Dicas
 
@@ -293,7 +295,6 @@
 - [Learn JavaScript](https://learnjavascript.online)
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#open-web-platform)
 - [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks)
-
 
 ## Para seguir
 

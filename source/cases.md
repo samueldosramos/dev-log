@@ -24,3 +24,5 @@
 - [Como usar a telemedicina para melhorar a saúde de quem precisa de ajuda psicológica?](https://brasil.uxdesign.cc/como-usar-a-telemedicina-para-melhorar-a-saúde-de-quem-precisa-de-ajuda-psicológica-3b7460a35374)
 - [Castle: Um projeto de Design Ops e os processos no desenvolvimento de um Design System de sucesso](https://brasil.uxdesign.cc/castle-um-projeto-de-design-ops-e-os-processos-no-desenvolvimento-de-um-design-system-de-sucesso-997922ca3333)
 - [Como tornar a experiência com o Prime Video mais imersiva — Estudo de caso UX/UI](https://brasil.uxdesign.cc/amazon-prime-video-estudo-de-caso-ux-ui-d6d1e75c33be)
+- [Restrições Alimentares — Um case de UX](https://brasil.uxdesign.cc/restrições-alimentares-um-case-de-ux-1b375a63895b)
+- [Eats for you — Um estudo de caso](https://brasil.uxdesign.cc/eats-for-you-um-estudo-de-caso-f36925e5bdaa)
