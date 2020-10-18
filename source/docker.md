@@ -22,6 +22,7 @@
 - [Docker para o ambiente de desenvolvimento](https://phpzm.rocks/docker-para-o-ambiente-de-desenvolvimento-9bcba9a02288)
 - [Saiba como configurar um ambiente de desenvolvimento Web Apache completo e seguro com Docker](https://www.linuxdescomplicado.com.br/2017/05/saiba-como-configurar-um-ambiente-de-desenvolvimento-web-apache-completo-e-seguro-com-docker.html)
 - [Docker e Docker Compose — Com Node.js, MongoDB, PostgreSQL e nodemon (bônus)](https://medium.com/@jonabf1/docker-e-docker-compose-com-node-js-mongodb-postgresql-e-nodemon-5752e42b022f)
+- [Deploy Reactjs com Docker](https://kledenai.medium.com/deploy-reactjs-com-docker-1769cf7a5f74)
 
 ## Docker e Node.js
 
