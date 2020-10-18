@@ -60,6 +60,7 @@
 - [Ainda precisamos nos preocupar com “Pixel Perfection”?](https://desenvolvimentoparaweb.com/design/pixel-perfection/)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 - [Iniciando com React JS #01 — Os conceitos básicos do Desenvolvimento Web](https://medium.com/@sscaetite/iniciando-com-react-js-01-os-conceitos-básicos-do-desenvolvimento-web-87ae2657cbf8)
+- [O que é a Jamstack? Guia completo para iniciantes](https://triangulo.dev/posts/o-que-e-jamstack)
 
 ## HTTP
 

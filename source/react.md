@@ -84,6 +84,7 @@
 - [Composição e React HoC (Higher Order Components)](https://gabrieluizramos.com.br/composicao-e-react-hoc/)
 - [Recursão com componentes React](https://gabrieluizramos.com.br/recursao-com-componentes-react)
 - [5 motivos para estudar React](https://www.treinaweb.com.br/blog/5-motivos-para-estudar-react/)
+- [Meu primeiro Higher-Order Component](https://medium.com/reactbrasil/meu-primeiro-higher-order-component-a376efc654a8)
 
 ## React Hooks
 

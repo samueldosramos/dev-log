@@ -26,3 +26,4 @@
 - [Como tornar a experiência com o Prime Video mais imersiva — Estudo de caso UX/UI](https://brasil.uxdesign.cc/amazon-prime-video-estudo-de-caso-ux-ui-d6d1e75c33be)
 - [Restrições Alimentares — Um case de UX](https://brasil.uxdesign.cc/restrições-alimentares-um-case-de-ux-1b375a63895b)
 - [Eats for you — Um estudo de caso](https://brasil.uxdesign.cc/eats-for-you-um-estudo-de-caso-f36925e5bdaa)
+- [Conectando pequenos comerciantes e prestadores de serviço a potenciais compradores e clientes — um estudo de caso de UX/UI](https://brasil.uxdesign.cc/conectando-pequenos-comerciantes-e-prestadores-de-serviço-a-potenciais-compradores-e-clientes-um-3271bf69cd8f)
