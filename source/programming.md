@@ -40,6 +40,7 @@
 
 - [Developer Roadmaps](https://roadmap.sh)
 - [Guias de Carreira para Programadores](https://www.devmedia.com.br/guias/)
+- [Dicionário Programação do Zero: entenda os termos da área de Programação](https://blog.cubos.io/dicionario-programacao-do-zero-entenda-os-termos-da-area-de-programacao/)
 
 ## Cursos pedagógicos
 

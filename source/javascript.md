@@ -120,6 +120,8 @@
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [Plop.js – Automatize a criação de arquivos](https://www.treinaweb.com.br/blog/plop-js-automatize-a-criacao-de-arquivos/)
 - [Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
+- [JavaScript: 10 dicas práticas](https://oieduardorabelo.medium.com/javascript-10-dicas-práticas-a612c616935a)
+- [5 segredos principais do JavaScript](https://oieduardorabelo.medium.com/5-segredos-principais-do-javascript-867482cd1c21)
 
 ## Funcional
 
@@ -241,6 +243,7 @@
 - [The Publish/Subscribe Pattern in JavaScript](https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/)
 - [The Power of the Observer Pattern in JavaScript](https://jsmanifest.com/observer-pattern-in-javascript/)
 - [The Power of the Module Pattern in JavaScript](https://jsmanifest.com/power-of-the-module-pattern-in-javascript/)
+- [Padrões em JS: Observer Pattern](https://oieduardorabelo.medium.com/padrões-em-js-observer-pattern-bff0ecc55d01)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 - [Reactive Design Patterns](https://www.reactivedesignpatterns.com)
 - [.NET Design Patterns](https://www.dofactory.com/net/design-patterns)
@@ -256,6 +259,7 @@
 - [Anatomia de um teste em JavaScript](https://gabrieluizramos.com.br/anatomia-de-um-teste-em-javascript)
 - [Fundamentando Mocks em JavaScript](https://gabrieluizramos.com.br/fundamentando-mocks-em-javascript)
 - [Testes assíncronos em JavaScript](https://gabrieluizramos.com.br/testes-assincronos-em-javascript)
+- [Jest, Babel e TypeScript: Configurando testes para seu projeto](https://oieduardorabelo.medium.com/jest-babel-e-typescript-configurando-testes-para-seu-projeto-201f001f45ef)
 
 ## Dataviz
 
