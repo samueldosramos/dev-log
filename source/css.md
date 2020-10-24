@@ -2,6 +2,7 @@
 
 ## Introdução
 
+- [Guia de Estudos CSS](https://triangulo.dev/guia-de-estudos-css)
 - [Guia CSS para desenvolvedores - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS)
 - [Site do Maujor - Site sobre CSS e Padrões Web](http://www.maujor.com)
 - [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
@@ -82,6 +83,7 @@
 - [O conceito mais importante de CSS](https://desenvolvimentoparaweb.com/miscelanea/conceito-mais-importante-css/)
 - [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
 - [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/)
+- [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
 
 ## Animações
 

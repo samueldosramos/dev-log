@@ -85,6 +85,9 @@
 - [Recursão com componentes React](https://gabrieluizramos.com.br/recursao-com-componentes-react)
 - [5 motivos para estudar React](https://www.treinaweb.com.br/blog/5-motivos-para-estudar-react/)
 - [Meu primeiro Higher-Order Component](https://medium.com/reactbrasil/meu-primeiro-higher-order-component-a376efc654a8)
+- [React: Guia Visual para o Modelo Mental do React](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-1d372f9335f9)
+- [React: Guia Visual para o Modelo Mental do React, Parte 2 — useState, useEffect e ciclos de vida](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-parte-2-usestate-useeffect-e-ciclos-de-vida-c6e204a0aca9)
+- [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
 
 ## React Hooks
 
@@ -104,6 +107,7 @@
 - [The Power of React Hooks](https://jsmanifest.com/build-an-app-with-just-react-hooks/)
 - [Consumindo API Através do Hook | React](https://medium.com/@dinhoescreve/transformando-chamada-get-em-hook-react-cd9a93cab8ac)
 - [Injetando código no carregamento de um componente usando Hooks](https://01dev.codes/didmount-hooks-react/)
+- [Cancelar requisições Fetch em React useEffect](https://oieduardorabelo.medium.com/cancelar-requisições-fetch-em-react-useeffect-5a81c94f506b)
 
 ## Context API
 
