@@ -88,6 +88,8 @@
 - [Relembrando operadores em JavaScript](https://gabrieluizramos.com.br/relembrando-operadores-em-javascript)
 - [Qual a diferença entre ECMAScript e JavaScript?](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript/)
 - [Using JavaScript to Adjust Saturation and Brightness of RGB Colors](https://css-tricks.com/using-javascript-to-adjust-saturation-and-brightness-of-rgb-colors/)
+- [JavaScript Closure by Example](https://www.robinwieruch.de/javascript-closure)
+- [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 
 ## Dicas
 
