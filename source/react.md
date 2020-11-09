@@ -88,6 +88,8 @@
 - [React: Guia Visual para o Modelo Mental do React](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-1d372f9335f9)
 - [React: Guia Visual para o Modelo Mental do React, Parte 2 — useState, useEffect e ciclos de vida](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-parte-2-usestate-useeffect-e-ciclos-de-vida-c6e204a0aca9)
 - [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
+- [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
+- [React 17 – Conheça o que vai mudar no JSX](https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/)
 
 ## React Hooks
 
@@ -118,6 +120,7 @@
 - [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
 - [Tudo que você precisa saber sobre Context API no React](https://01dev.codes/tudo-sobre-context-api-react/)
 - [Context, Redux e gerenciamento de estado](https://gabrieluizramos.com.br/context-redux-e-gerenciamento-de-estado)
+- [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
 
 ## React Router
 

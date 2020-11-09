@@ -36,6 +36,7 @@
 - [Design better buttons](https://uxdesign.cc/design-better-buttons-a5c90a113280)
 - [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/)
 - [Why Cancel Buttons Should Never Have a Color](https://uxmovement.com/buttons/why-cancel-buttons-should-never-have-a-color/)
+- [Color Contrast Mistakes on Buttons](https://uxmovement.com/buttons/color-contrast-mistakes-on-buttons/)
 - [UX em botões Cancelar](https://desenvolvimentoparaweb.com/ux/ux-em-botoes-cancelar/)
 - [5 Rules for Choosing the Right Words on Button Labels](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/)
 - [When You Need to Show a Button’s Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
@@ -169,6 +170,7 @@
 - [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
 - [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
 - [Um guia simplificado sobre design de ícones](https://www.designerd.com.br/guia-simplificado-design-de-icones/)
+- [Fundamentals of layout in user interface design (UI)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)
 
 ## Web Design
 
@@ -199,6 +201,7 @@
 
 ## Arquitetura de Informação
 
+- [Arquitetura da informação – um breve overview](https://www.treinaweb.com.br/blog/arquitetura-da-informacao-um-breve-overview/)
 - [Arquitetura da Informação – Planejando um Web Site](http://www.andrebuzzo.com.br/arquitetura-da-informacao-planejando-um-web-site/#.Vbc-lTZRHYA)
 - [Introdução à Arquitetura de Informação](http://www.pinceladasdaweb.com.br/blog/2010/02/18/introducao-arquitetura-de-informacao/)
 - [10 princípios heurísticos de Arquitetura de Informação](https://brasil.uxdesign.cc/10-princ%C3%ADpios-heur%C3%ADsticos-de-arquitetura-de-informa%C3%A7%C3%A3o-7c034d04e736)
@@ -265,3 +268,4 @@
 - [Lexicon - An Experience Language for Crafting Beautiful UI](https://liferay.design/lexicon/)
 - [Creative Challenge - Build your Photoshop skills](https://www.behance.net/challenge/photoshop)
 - [Curso Online de Criação de Logomarcas](https://administrabrasil.com.br/curso/criacao-de-logomarcas/)
+- [Adaptive Icons](https://adapticon.mariusclaret.com)
