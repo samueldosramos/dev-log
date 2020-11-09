@@ -15,8 +15,6 @@
 - [Entendendo o uso de escopo no JavaScript](https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba)
 - [Macros no JavaScript](https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c)
 - [Laços de repetição: for, for...in, for...of](https://woliveiras.com.br/posts/laços-de-repetição-for-for-in-for-of/)
-- [Algoritmos de ordenação e o seu JavaScript](https://medium.com/tableless/algoritmos-de-ordena%C3%A7%C3%A3o-e-o-seu-javascript-65d50723ae57)
-- [EDA #01 — Array, parte 1](https://medium.com/@Dougwan/estrutura-de-dados-e-algoritmos-javascript-b961c5feb246)
 - [Melhorando a performance do Javascript](http://letanure.github.io/javascript/2015/02/25/melhorando-a-performance-do-javascript/)
 - [Três dicas de performance javascript](https://serfrontend.com/blog/tres-dicas-de-performance-javascript/)
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
@@ -117,6 +115,14 @@
 - [Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
 - [JavaScript: 10 dicas práticas](https://oieduardorabelo.medium.com/javascript-10-dicas-práticas-a612c616935a)
 - [5 segredos principais do JavaScript](https://oieduardorabelo.medium.com/5-segredos-principais-do-javascript-867482cd1c21)
+- [Remove blank attributes from an Object in Javascript](https://stackoverflow.com/questions/286141/remove-blank-attributes-from-an-object-in-javascript)
+
+## Estrutura de dados
+- [Algoritmos de ordenação e o seu JavaScript](https://medium.com/tableless/algoritmos-de-ordena%C3%A7%C3%A3o-e-o-seu-javascript-65d50723ae57)
+- [EDA #01 — Array, parte 1](https://medium.com/@Dougwan/estrutura-de-dados-e-algoritmos-javascript-b961c5feb246)
+- [The Array JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-array/)
+- [The Stack JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-stack/)
+- [The Queue JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-queue/)
 
 ## Funcional
 
@@ -194,6 +200,9 @@
 - [Manual do Node.js](https://github.com/ChristySchott/manual-node)
 - [Typescript - Uma breve introdução](https://www.crisgon.dev/typescript-uma-breve-introdução/)
 - [Typescript - Uma breve introdução - Tuplas, Enums e Type Assertion](https://www.crisgon.dev/typescript-uma-breve-introdução-parte-2/)
+- [Typescript - Uma breve introdução - Interfaces](https://www.crisgon.dev/typescript-uma-breve-introdução-interfaces/)
+- [Typescript - Uma breve introdução - Type Aliases](https://www.crisgon.dev/typescript-uma-breve-introdução-type-aliases/)
+- [Typescript - Uma breve introdução - Classes](https://www.crisgon.dev/typescript-uma-breve-introdução-classes/)
 
 # Style/Clean code
 

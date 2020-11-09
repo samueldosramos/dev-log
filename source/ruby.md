@@ -89,6 +89,7 @@
 - [Rails Girls](https://www.maujor.com/railsgirlsguide/)
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior/)
+- [Ruby on Rails in a Week](https://www.simplethread.com/ruby-on-rails-in-a-week/)
 
 ## IDE/Editor
 

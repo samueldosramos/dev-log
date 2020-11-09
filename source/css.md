@@ -64,6 +64,7 @@
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
+- [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 - [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
 - [Entendendo especificidade em CSS](https://willianjusten.com.br/entendendo-especificidade-em-css/)
@@ -84,6 +85,7 @@
 - [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
 - [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/)
 - [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
+- [Comparing Various Ways to Hide Things in CSS](https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/)
 
 ## Animações
 
@@ -227,3 +229,4 @@
 - [Aprenda Layout com CSS](http://pt-br.learnlayout.com)
 - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
 - [CSS Diner](https://flukeout.github.io)
+- [Layoutit - CSS Grid layout generator](https://grid.layoutit.com)

@@ -83,6 +83,7 @@
 - [Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
 - [JavaScript – Comandos do Console](https://www.treinaweb.com.br/blog/javascript-comandos-do-console/)
 - [Firefox DevTools - Debugger](https://mozilladevelopers.github.io/playground/debugger)
+- [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
 
 ## Otimização
 
@@ -195,3 +196,5 @@
 - [Padrões de código e melhores práticas em Front-end](https://andrecomws.com/lab/code-standards/)
 - [Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [SonarQube](https://www.sonarqube.org)
+- [SonarLint](https://www.sonarlint.org)

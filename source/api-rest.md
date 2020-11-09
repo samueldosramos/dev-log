@@ -80,3 +80,5 @@
 - [Faker](https://github.com/faker-ruby/faker)
 - [Faker.js](https://github.com/Marak/Faker.js)
 - [react-fake-props](https://github.com/typicode/react-fake-props)
+- [JSON Server](https://github.com/typicode/json-server)
+- [Nock](https://github.com/nock/nock)
