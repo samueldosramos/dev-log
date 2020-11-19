@@ -86,6 +86,7 @@
 - [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/)
 - [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
 - [Comparing Various Ways to Hide Things in CSS](https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/)
+- [A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/)
 
 ## Animações
 
@@ -201,6 +202,7 @@
 - [Alinhamento do grid](http://livrosdomaujor.com.br/gridlayout/demo/index.html)
 - [Firefox DevTools - Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 - [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
+- [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 
 ## Pré-processadores
 

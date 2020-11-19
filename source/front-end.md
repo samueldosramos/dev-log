@@ -62,6 +62,8 @@
 - [Iniciando com React JS #01 — Os conceitos básicos do Desenvolvimento Web](https://medium.com/@sscaetite/iniciando-com-react-js-01-os-conceitos-básicos-do-desenvolvimento-web-87ae2657cbf8)
 - [O que é a Jamstack? Guia completo para iniciantes](https://triangulo.dev/posts/o-que-e-jamstack)
 - [Front-End: Arquitetura em Ilhas](https://oieduardorabelo.medium.com/front-end-arquitetura-em-ilhas-27b18bfcce19)
+- [Links to cross-origin destinations are unsafe](https://web.dev/external-anchors-use-rel-noopener/)
+- [Logical layout enhancements with flow-relative shorthands](https://web.dev/logical-property-shorthands/)
 
 ## HTTP
 
@@ -84,6 +86,7 @@
 - [JavaScript – Comandos do Console](https://www.treinaweb.com.br/blog/javascript-comandos-do-console/)
 - [Firefox DevTools - Debugger](https://mozilladevelopers.github.io/playground/debugger)
 - [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
+- [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
 
 ## Otimização
 
@@ -111,6 +114,7 @@
 - [Descomplicando SPA’s](https://medium.com/trainingcenter/descomplicando-spas-caa8f57bdbf3)
 - [SPA e SSR: quais as diferenças?](https://www.treinaweb.com.br/blog/spa-e-ssr-quais-as-diferencas/)
 - [Renderização de aplicações modernas](https://gabrieluizramos.com.br/renderizacao-de-aplicacoes-modernas)
+- [5 maiores erros de segurança em Single Page Apps](https://blog.novatics.com.br/5-maiores-erros-de-segurança-em-single-page-apps-4083044c2292)
 
 ## Web Components
 
