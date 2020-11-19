@@ -81,6 +81,14 @@
 - [Using JavaScript to Adjust Saturation and Brightness of RGB Colors](https://css-tricks.com/using-javascript-to-adjust-saturation-and-brightness-of-rgb-colors/)
 - [JavaScript Closure by Example](https://www.robinwieruch.de/javascript-closure)
 - [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
+- [JavaScript, how to export a function](https://flaviocopes.com/how-to-export-a-function-javascript/)
+- [JavaScript, how to export multiple functions](https://flaviocopes.com/how-to-export-multiple-functions-javascript/)
+- [JavaScript, how to exit a function](https://flaviocopes.com/how-to-exit-a-function-javascript/)
+- [JavaScript, how to find a character in a string](https://flaviocopes.com/how-to-find-character-string-javascript/)
+- [JavaScript, how to filter an array](https://flaviocopes.com/how-to-filter-array-javascript/)
+- [JavaScript, how to extend a class](https://flaviocopes.com/how-to-extend-class-javascript/)
+- [JavaScript, how to find duplicates in an array](https://flaviocopes.com/how-to-find-duplicates-array-javascript/)
+- [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
 
 ## Dicas
 
@@ -116,13 +124,17 @@
 - [JavaScript: 10 dicas práticas](https://oieduardorabelo.medium.com/javascript-10-dicas-práticas-a612c616935a)
 - [5 segredos principais do JavaScript](https://oieduardorabelo.medium.com/5-segredos-principais-do-javascript-867482cd1c21)
 - [Remove blank attributes from an Object in Javascript](https://stackoverflow.com/questions/286141/remove-blank-attributes-from-an-object-in-javascript)
+- [Top 3 New JavaScript ES 2021 (ES 12) Features I Am Excited About](https://dev.to/nickbulljs/top-3-new-javascript-es-2021-es-12-features-i-am-excited-about-5e8p)
+- [How to sort an array by date value in JavaScript](https://flaviocopes.com/how-to-sort-array-by-date-javascript/)
 
 ## Estrutura de dados
+
 - [Algoritmos de ordenação e o seu JavaScript](https://medium.com/tableless/algoritmos-de-ordena%C3%A7%C3%A3o-e-o-seu-javascript-65d50723ae57)
 - [EDA #01 — Array, parte 1](https://medium.com/@Dougwan/estrutura-de-dados-e-algoritmos-javascript-b961c5feb246)
 - [The Array JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-array/)
 - [The Stack JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-stack/)
 - [The Queue JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-queue/)
+- [Data structures in JavaScript: Linked lists](https://flaviocopes.com/javascript-data-structures-linked-lists/)
 
 ## Funcional
 
@@ -203,6 +215,7 @@
 - [Typescript - Uma breve introdução - Interfaces](https://www.crisgon.dev/typescript-uma-breve-introdução-interfaces/)
 - [Typescript - Uma breve introdução - Type Aliases](https://www.crisgon.dev/typescript-uma-breve-introdução-type-aliases/)
 - [Typescript - Uma breve introdução - Classes](https://www.crisgon.dev/typescript-uma-breve-introdução-classes/)
+- [Typescript - Uma breve introdução - Type utilities - Parte 1](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities/)
 
 # Style/Clean code
 
@@ -222,6 +235,7 @@
 - [Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 - [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
 - [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
+- [Como usar Prettier com ESLint e TypeScript no VSCode](https://coderarena.com.br/posts/como-usar-prettier-com-eslint-e-typescript-no-vscode/)
 - [EditorConfig: padronização automática de estilo de código](https://desenvolvimentoparaweb.com/indicacoes/editorconfig-padronizacao-estilo-codigo/)
 - [EditorConfig: Padronização de código para seus projetos](http://phpba.com.br/editorconfig/)
 - [Customizando o ESLint](https://gabrieluizramos.com.br/customizando-o-eslint)
@@ -310,6 +324,7 @@
 - [Learn JavaScript](https://learnjavascript.online)
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#open-web-platform)
 - [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks)
+- [Operator Lookup](https://joshwcomeau.com/operator-lookup/)
 
 ## Para seguir
 

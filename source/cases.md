@@ -27,3 +27,4 @@
 - [Restrições Alimentares — Um case de UX](https://brasil.uxdesign.cc/restrições-alimentares-um-case-de-ux-1b375a63895b)
 - [Eats for you — Um estudo de caso](https://brasil.uxdesign.cc/eats-for-you-um-estudo-de-caso-f36925e5bdaa)
 - [Conectando pequenos comerciantes e prestadores de serviço a potenciais compradores e clientes — um estudo de caso de UX/UI](https://brasil.uxdesign.cc/conectando-pequenos-comerciantes-e-prestadores-de-serviço-a-potenciais-compradores-e-clientes-um-3271bf69cd8f)
+- [Mahoe: conheça a trajetória do Design System do Banco PAN](https://brasil.uxdesign.cc/mahoe-conheça-a-trajetória-do-design-system-do-banco-pan-93a0f47296f9)

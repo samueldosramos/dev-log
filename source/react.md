@@ -90,6 +90,7 @@
 - [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
 - [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
 - [React 17 – Conheça o que vai mudar no JSX](https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/)
+- [Catching Asynchronous Errors in React using Error Boundaries](https://medium.com/trabe/catching-asynchronous-errors-in-react-using-error-boundaries-5e8a5fd7b971)
 
 ## React Hooks
 

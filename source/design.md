@@ -245,6 +245,7 @@
 - [Pesquisa quantitativa ou qualitativa: Qual eu devo fazer?](https://brasil.uxdesign.cc/pesquisa-quantitativa-ou-qualitativa-qual-eu-devo-fazer-e0c98757bd4)
 - [Planejando sua pesquisa (com template)](https://brasil.uxdesign.cc/planejando-sua-pesquisa-com-template-149f15810fc7)
 - [A LGPD e o UX Research](https://brasil.uxdesign.cc/a-lgpd-e-o-ux-research-a44113907d83)
+- [Nove hacks para pesquisas eficientes](https://brasil.uxdesign.cc/9-hacks-para-pesquisas-eficientes-771fab1670e4)
 
 ## UX Writing
 
