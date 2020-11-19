@@ -142,6 +142,7 @@
 - [The Stack JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-stack/)
 - [The Queue JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-queue/)
 - [Data structures in JavaScript: Linked lists](https://flaviocopes.com/javascript-data-structures-linked-lists/)
+- [Algorithm Complexity and Big O Notation](https://flaviocopes.com/complexity-big-o-notation/)
 
 ## Funcional
 
