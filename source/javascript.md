@@ -89,6 +89,7 @@
 - [JavaScript, how to extend a class](https://flaviocopes.com/how-to-extend-class-javascript/)
 - [JavaScript, how to find duplicates in an array](https://flaviocopes.com/how-to-find-duplicates-array-javascript/)
 - [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
+- [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
 
 ## Dicas
 
@@ -126,6 +127,7 @@
 - [Remove blank attributes from an Object in Javascript](https://stackoverflow.com/questions/286141/remove-blank-attributes-from-an-object-in-javascript)
 - [Top 3 New JavaScript ES 2021 (ES 12) Features I Am Excited About](https://dev.to/nickbulljs/top-3-new-javascript-es-2021-es-12-features-i-am-excited-about-5e8p)
 - [How to sort an array by date value in JavaScript](https://flaviocopes.com/how-to-sort-array-by-date-javascript/)
+- [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
 
 ## Estrutura de dados
 
@@ -136,6 +138,9 @@
 - [The Queue JavaScript Data Structure](https://flaviocopes.com/javascript-data-structures-queue/)
 - [Data structures in JavaScript: Linked lists](https://flaviocopes.com/javascript-data-structures-linked-lists/)
 - [Algorithm Complexity and Big O Notation](https://flaviocopes.com/complexity-big-o-notation/)
+- [Searching Algorithms: Linear Search](https://flaviocopes.com/linear-search-javascript/)
+- [Searching Algorithms: Binary Search](https://flaviocopes.com/binary-search-javascript/)
+- [JavaScript Algorithms: Selection Sort](https://flaviocopes.com/selection-sort-javascript/)
 
 ## Funcional
 

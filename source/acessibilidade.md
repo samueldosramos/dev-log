@@ -36,6 +36,7 @@
 - [CSS acessível](https://desenvolvimentoparaweb.com/css/css-acessivel-a11y/)
 - [A practical guide to web accessibility: Part 1: Is my website accessible?](https://dev.to/aryclenio/a-practical-guide-to-web-accessibility-part-1-is-my-website-accessible-1aib)
 - [Dia Nacional dos Surdos e acessibilidade](https://brasil.uxdesign.cc/dia-nacional-dos-surdos-e-a-acessibilidade-b70fa3e1ee34)
+- [Otimizando Acessibilidade Web com :focus-visible](https://betomuniz.com/drops/otimizando-acessibilidade-web-com-focus-visible/)
 
 ## Utilidades
 
