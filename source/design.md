@@ -70,6 +70,7 @@
 - [Além do Versionamento: como escrever commits significativos no Abstract?](https://brasil.uxdesign.cc/além-do-versionamento-pt-1-como-escrever-commits-significativos-no-abstract-57f08a31fa14)
 - [As habilidades (e histórias) por trás do portfólio](https://brasil.uxdesign.cc/as-habilidades-e-histórias-por-trás-do-portfólio-79ac3e3d161e)
 - [Testes de usabilidade: o que, por quê e como](https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-por-que-e-como-1490e2059513)
+- [A More Efficient Way to Display Data Tables](https://uxmovement.com/content/a-more-efficient-way-to-display-data-tables)
 
 ## Tipografia
 
