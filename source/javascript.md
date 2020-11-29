@@ -141,6 +141,8 @@
 - [Searching Algorithms: Linear Search](https://flaviocopes.com/linear-search-javascript/)
 - [Searching Algorithms: Binary Search](https://flaviocopes.com/binary-search-javascript/)
 - [JavaScript Algorithms: Selection Sort](https://flaviocopes.com/selection-sort-javascript/)
+- [JavaScript Algorithms: Quicksort](https://flaviocopes.com/quicksort-javascript/)
+- [JavaScript Algorithms: Merge Sort](https://flaviocopes.com/merge-sort-javascript/)
 
 ## Funcional
 
