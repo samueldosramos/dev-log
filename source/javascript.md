@@ -232,6 +232,7 @@
 - [Typescript - Uma breve introdução - Type Aliases](https://www.crisgon.dev/typescript-uma-breve-introdução-type-aliases/)
 - [Typescript - Uma breve introdução - Classes](https://www.crisgon.dev/typescript-uma-breve-introdução-classes/)
 - [Typescript - Uma breve introdução - Type utilities - Parte 1](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities/)
+- [Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 
 # Style/Clean code
 
