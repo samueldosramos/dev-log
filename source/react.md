@@ -91,6 +91,7 @@
 - [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
 - [React 17 – Conheça o que vai mudar no JSX](https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/)
 - [Catching Asynchronous Errors in React using Error Boundaries](https://medium.com/trabe/catching-asynchronous-errors-in-react-using-error-boundaries-5e8a5fd7b971)
+- [Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
 
 ## React Hooks
 
@@ -131,6 +132,7 @@
 - [Routing and Navigation in React](https://medium.com/swlh/routing-and-navigation-in-react-cffc26e8a389)
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
 - [Driving towards a universal navigation strategy in React](https://dev.to/ythecombinator/driving-towards-a-universal-navigation-strategy-in-react-j60)
+- [Animated Transitions with React Router v5](https://ui.dev/react-router-v5-animated-transitions/)
 
 ## Redux
 

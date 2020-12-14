@@ -8,6 +8,7 @@
 - [Internet Acessível - Guia de Acessibilidade para Desenvolvedores Web](https://acessibilidade-for-devs.github.io)
 - [Acessibilidade web: por que deixar seu site acessível?](https://www.treinaweb.com.br/blog/acessibilidade-web-por-que-deixar-seu-site-acessivel/)
 - [Acessibilidade na web, o que é?](https://thiagoam.com/acessbilidade-na-web-o-que-e/)
+- [Uma breve introdução à acessibilidade](https://brasil.uxdesign.cc/uma-breve-introdução-a-acessibilidade-a82d61e72e75)
 - [Precisamos falar sobre acessibilidade. Novamente. Mais alto. Mais forte.](https://brasil.uxdesign.cc/precisamos-falar-sobre-acessibilidade-novamente-mais-alto-mais-forte-89ac346d0a6d)
 - [Desenvolvendo apps compatíveis com vários dispositivos para torná-los acessíveis a mais usuários](https://brasil.uxdesign.cc/desenvolvendo-apps-compat%C3%ADveis-com-vários-dispositivos-para-torná-los-acess%C3%ADveis-a-mais-usuários-2114b055004)
 - [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
@@ -37,6 +38,7 @@
 - [A practical guide to web accessibility: Part 1: Is my website accessible?](https://dev.to/aryclenio/a-practical-guide-to-web-accessibility-part-1-is-my-website-accessible-1aib)
 - [Dia Nacional dos Surdos e acessibilidade](https://brasil.uxdesign.cc/dia-nacional-dos-surdos-e-a-acessibilidade-b70fa3e1ee34)
 - [Otimizando Acessibilidade Web com :focus-visible](https://betomuniz.com/drops/otimizando-acessibilidade-web-com-focus-visible/)
+- [ Igualdade X Equidade: Os reflexos na sociedade brasileira](https://falauniversidades.com.br/igualdade-x-equidade-os-reflexos-na-sociedade-brasileira/)
 
 ## Utilidades
 

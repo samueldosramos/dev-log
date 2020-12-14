@@ -97,6 +97,7 @@
 - [JavaScript, how to find duplicates in an array](https://flaviocopes.com/how-to-find-duplicates-array-javascript/)
 - [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
+- [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
 
 ## Dicas
 

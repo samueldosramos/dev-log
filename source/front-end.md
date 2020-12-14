@@ -202,3 +202,4 @@
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 - [SonarQube](https://www.sonarqube.org)
 - [SonarLint](https://www.sonarlint.org)
+- [Interneting is Hard](https://www.internetingishard.com)
