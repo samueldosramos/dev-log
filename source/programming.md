@@ -31,6 +31,7 @@
 - [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
 - [O que é e como funciona a Estrutura de Dados Pilha](https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-pilha/)
 - [O que é e como funciona a Estrutura de Dados Fila](https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-fila/)
+- [Algorithms: Merge Sort](https://www.patrickschadler.com/algorithms-merge-sort/)
 
 ## Boas práticas
 
