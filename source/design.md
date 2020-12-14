@@ -47,6 +47,7 @@
 - [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
 - [Why Radio Buttons and Checkboxes Can’t Co-Exist](https://uxmovement.com/forms/why-radio-buttons-and-checkboxes-cant-co-exist/)
 - [10 Usability Mistakes Most Designers Make on Checkboxes](https://uxmovement.com/forms/10-usability-mistakes-most-designers-make-on-checkboxes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
+- [4 Ways to Apply Progressive Disclosure for Better Task Focus](https://uxmovement.com/mobile/4-ways-to-apply-progressive-disclosure-for-better-task-focus/)
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
