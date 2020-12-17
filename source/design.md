@@ -52,6 +52,7 @@
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
+- [Why “Remember Me” on Logins Should Be the Default](https://uxmovement.com/forms/why-remember-me-on-logins-should-be-the-default/)
 - [Why Signups & Logins Should Open in a Right Form Drawer](https://uxmovement.com/forms/why-signups-logins-should-open-in-a-right-form-drawer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
 - [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
 - [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)

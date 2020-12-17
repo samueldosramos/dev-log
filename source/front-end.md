@@ -50,6 +50,7 @@
 - [Footer Links Should be Divided into Distinct Semantic Sections (13% of Sites Don’t)](https://baymard.com/blog/footer-links-ecommerce)
 - [Smoosh Gate – A lição que precisamos aprender](https://imasters.com.br/desenvolvimento/smoosh-gate-licao-que-precisamos-aprender)
 - [Gerando certificados SSL gratuitos com Certbot](https://www.treinaweb.com.br/blog/gerando-certificados-ssl-gratuitos-com-certbot/)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
 - [What happens when you type a URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 - [Deslocamento de Layout (Layout Shift) e Cumulative Layout Shift (CLS): guia completo](https://desenvolvimentoparaweb.com/ux/deslocamento-layout-shift-cumulative-layout-shift-cls/)
 - [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
@@ -64,6 +65,7 @@
 - [Front-End: Arquitetura em Ilhas](https://oieduardorabelo.medium.com/front-end-arquitetura-em-ilhas-27b18bfcce19)
 - [Links to cross-origin destinations are unsafe](https://web.dev/external-anchors-use-rel-noopener/)
 - [Logical layout enhancements with flow-relative shorthands](https://web.dev/logical-property-shorthands/)
+- [Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
 
 ## HTTP
 
