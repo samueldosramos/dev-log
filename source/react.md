@@ -112,6 +112,7 @@
 - [Consumindo API Através do Hook | React](https://medium.com/@dinhoescreve/transformando-chamada-get-em-hook-react-cd9a93cab8ac)
 - [Injetando código no carregamento de um componente usando Hooks](https://01dev.codes/didmount-hooks-react/)
 - [Cancelar requisições Fetch em React useEffect](https://oieduardorabelo.medium.com/cancelar-requisições-fetch-em-react-useeffect-5a81c94f506b)
+- [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/)
 
 ## Context API
 
