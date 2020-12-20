@@ -151,6 +151,7 @@
 - [Como usar GPG para criptografar e assinar mensagens via terminal](https://www.mariscotron.libertar.org/2017/05/19/como-usar-gpg-para-encriptar-e-assinar-mensagens-via-terminal/)
 - [Trabalhando com assinaturas de commits utilizando GPG](https://medium.com/@igordcsouza/trabalhando-com-assinaturas-de-commits-utilizando-gpg-fb842dea71da)
 - [Assinando commits no Git com GPG](https://coderi.com.br/2018/01/13/assinando-commits-no-git-com-gpg/)
+- [Assinando commits com uma chave GPG](https://dev.to/phpbrasil/assinando-commits-com-uma-chave-gpg-2hl3)
 - [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)
 - [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
 - [Signing your Git Commits using GPG on MacOS Sierra/High Sierra Raw](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e)
@@ -160,3 +161,4 @@
 
 - [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
 - [Shields.io](https://shields.io)
+- [Kodiak - Automate your GitHub Pull Requests](https://kodiakhq.com)

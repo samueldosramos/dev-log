@@ -41,6 +41,15 @@
 - [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention)
 - [Clean Code: Softwares bem escritos são Funções bem escritas](https://medium.com/@FilipeDeschamps/clean-code-softwares-bem-escritos-são-funções-bem-escritas-702db7bb3742#.oz9xagl67)
 
+## SRE
+
+- [Google - Site Reliability Engineering](https://sre.google)
+- [SRE: entenda sobre o Site Reliability Engineering](https://www.kalendae.com.br/blog/sre/)
+- [[SRE] O que é Site Reliability Engineering?](https://churrops.io/2017/10/09/o-que-e-sre-site-reliability-engineering/)
+- [SRE x DevOps: Quais as diferenças?](https://www.adtsys.com.br/sre-x-devops-quais-as-diferencas/)
+- [7 Hábitos de Site Reliability Engineers (SREs) altamente bem-sucedidos](https://blog.mandic.com.br/artigos/7-habitos-de-site-reliability-engineers-sres-altamente-bem-sucedidos/)
+- [School of SRE](https://linkedin.github.io/school-of-sre/)
+
 ## Utilidades
 
 - [Developer Roadmaps](https://roadmap.sh)

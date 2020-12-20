@@ -2,6 +2,7 @@
 
 ## Guias
 
+- [How to Learn Web Development in 2021 - a Web Developer Roadmap](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)
 - [Um guia para iniciantes na área web](http://tableless.github.io/iniciantes/)
 - [Developers Google](https://developers.google.com/web)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)

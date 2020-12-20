@@ -80,6 +80,7 @@
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
+- [Centering in CSS](https://web.dev/centering-in-css/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [O conceito mais importante de CSS](https://desenvolvimentoparaweb.com/miscelanea/conceito-mais-importante-css/)
 - [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
