@@ -90,6 +90,7 @@
 - [Firefox DevTools - Debugger](https://mozilladevelopers.github.io/playground/debugger)
 - [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
 - [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
+- [The Beginner's Guide to Bug Squashing: How to Use Your Debugger and other tools to find and fix bugs](https://www.freecodecamp.org/news/the-beginner-bug-squashing-guide/)
 
 ## Otimização
 

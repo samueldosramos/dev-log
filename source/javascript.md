@@ -117,6 +117,7 @@
 - [Refactoring optional chaining into a large codebase: lessons learned](https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/)
 - [Chaining method calls in JavaScript](https://flaviocopes.com/javascript-chaining/)
 - [Custom errors in JavaScript](https://flaviocopes.com/javascript-custom-errors/)
+- [How To Write Error Messages That Don’t Suck](https://www.freecodecamp.org/news/how-to-write-error-messages-that-dont-suck-f31c53b64c3e/)
 - [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
 - [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)

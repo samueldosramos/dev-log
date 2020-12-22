@@ -88,6 +88,7 @@
 - [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
 - [Comparing Various Ways to Hide Things in CSS](https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/)
 - [A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/)
+- [Navegação âncora e smooth scroll com CSS puro](https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/)
 
 ## Animações
 
