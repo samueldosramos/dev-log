@@ -62,6 +62,7 @@
 ## JavaScript
 
 - [Fetch API e o JavaScript](https://braziljs.org/blog/fetch-api-e-o-javascript/)
+- [JavaScript Fetch API Tutorial with JS Fetch Post and Header Examples](https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/)
   [Setting Up Swagger to API Test In a JavaScript Application](https://itnext.io/setting-up-swagger-in-a-node-js-application-d3c4d7aa56d4)
 - [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 - [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
