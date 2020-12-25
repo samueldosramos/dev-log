@@ -151,6 +151,7 @@
 - [Introducing Mercury OS](https://uxdesign.cc/introducing-mercury-os-f4de45a04289)
 - [Como o princípio de ancoragem pode melhorar a vida dos usuários](https://brasil.uxdesign.cc/como-o-principio-de-ancoragem-pode-melhorar-a-vida-dos-usuarios-cccdd4d5104e)
 - [Por que é importante que um UX designer conheça o básico de programação?](https://brasil.uxdesign.cc/por-que-é-importante-que-um-ux-designer-conheça-o-básico-de-programação-482231d25e6f)
+- [Framework — o coração de um produto digital](https://brasil.uxdesign.cc/framework-o-coração-de-um-produto-digital-dd4ace8b262f)
 
 ## UI
 
