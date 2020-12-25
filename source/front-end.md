@@ -13,7 +13,6 @@
 - [Um comovente guia de estudo para desenvolvedores front end](https://leandrooriente.com/guia-de-estudo-front-end/)
 - [Como se tornar um dev front-end](https://tableless.com.br/tornar-dev-front-end/)
 - [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
-- [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
 - [Desenvolvedor Front End Iniciante: Trilha/Guia de estudos](https://woliveiras.com.br/posts/guia-de-estudos-desenvolvedor-front-end-iniciante/)
 - [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 - [Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas](https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
