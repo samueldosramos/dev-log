@@ -297,7 +297,6 @@
 
 - [Fabricator](http://fbrctr.github.io/)
 - [Styleguide](http://hugeinc.github.io/styleguide/pt/)
-- [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/)
 - [Atomic Docs](http://atomicdocs.io/)
 - [Photoshop Etiquette](http://photoshopetiquette.com/)
 - [EditorConfig](http://editorconfig.org/)
