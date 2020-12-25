@@ -168,7 +168,6 @@
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [19 princípios de User Interface Design](https://desenvolvimentoparaweb.com/ux/19-principios-user-interface-design/)
 - [A Designer's Guide to Animating Icons with CSS](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations)
-- [UI Style Guide — Definindo a Abordagem Visual](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e)
 - [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
 - [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
 - [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
@@ -241,6 +240,7 @@
 - [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
 - [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
 - [Atomic Design Extended — Bósons e Quarks](https://medium.com/@osuissa/atomic-design-extended-bósons-e-quarks-550106dfbd99)
+- [Atomic Design: como criar sistemas de componentes](https://brasil.uxdesign.cc/atomic-design-como-criar-sistemas-de-componentes-8723301c5a37)
 
 ## UX Research
 

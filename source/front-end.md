@@ -189,7 +189,6 @@
 - [7 CSS Card Layouts](https://freefrontend.com/css-card-layouts/)
 - [LottaTools - Some free tools for your browser](https://lottatools.com)
 - [Conheça o DevTools: ferramentas para desenvolvedores](https://www.treinaweb.com.br/ferramentas-para-desenvolvedores)
-- [Style Guide - Manual de desenvolvimento](http://styleguide.sogo.com.br)
 - [Pingy CLI](https://pin.gy/cli/)
 - [Web Tools - An awesome list of hosted tools for web development.](https://github.com/lvwzhen/tools)
 - [Web Almanac](https://almanac.httparchive.org/en/2019/)
