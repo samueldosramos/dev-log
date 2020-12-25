@@ -39,6 +39,7 @@
 - [Dia Nacional dos Surdos e acessibilidade](https://brasil.uxdesign.cc/dia-nacional-dos-surdos-e-a-acessibilidade-b70fa3e1ee34)
 - [Otimizando Acessibilidade Web com :focus-visible](https://betomuniz.com/drops/otimizando-acessibilidade-web-com-focus-visible/)
 - [ Igualdade X Equidade: Os reflexos na sociedade brasileira](https://falauniversidades.com.br/igualdade-x-equidade-os-reflexos-na-sociedade-brasileira/)
+- [Usabilidade x Acessibilidade: quais as diferenças e relações](https://www.treinaweb.com.br/blog/usabilidade-x-acessibilidade-quais-as-diferencas-e-relacoes/)
 
 ## Utilidades
 
