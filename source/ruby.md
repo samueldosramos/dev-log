@@ -16,6 +16,8 @@
 - [Rails numa Casca de Noz](https://blog.novatics.com.br/rails-numa-casca-de-noz-95f9bf7f8612)
 - [Ruby Não é Somente Rails, Carai!](http://www.fidelis.work/ruby-nao-e-somente-rails-caraleo/)
 - [Yukihiro Matsumoto: "Ruby is designed for humans, not machines"](https://evrone.com/yukihiro-matsumoto-interview)
+- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What’s News?](https://planetruby.github.io/calendar/ruby3x3)
+- [Ruby 3.0: o que sabemos até agora?](https://blog.locaweb.com.br/desenvolvedores/ruby-3-0-o-que-sabemos-ate-agora/)
 
 ## Manuais
 
@@ -108,7 +110,6 @@
 - [Welcome to the new Ruby Toolbox!]()
 - [Ruby on Rails Brasil](https://rubyonrailsbrasil.com.br/)
 - [Ruby Toolbox](https://www.ruby-toolbox.com/)
-- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What’s News?](https://planetruby.github.io/calendar/ruby3x3)
 
 ## Comparação
 
