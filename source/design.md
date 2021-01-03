@@ -44,6 +44,7 @@
 - [The Confusing State of Toggle Switches](https://uxmovement.com/mobile/the-confusing-state-of-toggle-switches/)
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/)
 - [Why Toggle Buttons Are Confusing](https://uxmovement.com/buttons/why-toggle-buttons-are-confusing/)
+- [Why Toggle Buttons Should Never Look Like Action Buttons](https://uxmovement.com/buttons/why-toggle-buttons-should-never-look-like-action-buttons/)
 - [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
 - [Why Radio Buttons and Checkboxes Can’t Co-Exist](https://uxmovement.com/forms/why-radio-buttons-and-checkboxes-cant-co-exist/)
 - [10 Usability Mistakes Most Designers Make on Checkboxes](https://uxmovement.com/forms/10-usability-mistakes-most-designers-make-on-checkboxes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)

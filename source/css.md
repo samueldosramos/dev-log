@@ -7,6 +7,7 @@
 - [Site do Maujor - Site sobre CSS e Padrões Web](http://www.maujor.com)
 - [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [CSS-Tricks](https://css-tricks.com/)
+- [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 - [CSS Reference](http://cssreference.io/)
 - [A list of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
 - [Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS)
@@ -89,6 +90,8 @@
 - [Comparing Various Ways to Hide Things in CSS](https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/)
 - [A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/)
 - [Navegação âncora e smooth scroll com CSS puro](https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/)
+- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [overflow-anchor](https://css-tricks.com/almanac/properties/o/overflow-anchor/)
 
 ## Animações
 
