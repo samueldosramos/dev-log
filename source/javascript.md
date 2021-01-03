@@ -137,6 +137,7 @@
 - [Top 3 New JavaScript ES 2021 (ES 12) Features I Am Excited About](https://dev.to/nickbulljs/top-3-new-javascript-es-2021-es-12-features-i-am-excited-about-5e8p)
 - [How to sort an array by date value in JavaScript](https://flaviocopes.com/how-to-sort-array-by-date-javascript/)
 - [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
+- [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper?ck_subscriber_id=660792982)
 
 ## Estrutura de dados
 
@@ -234,6 +235,8 @@
 - [Typescript - Uma breve introdução - Classes](https://www.crisgon.dev/typescript-uma-breve-introdução-classes/)
 - [Typescript - Uma breve introdução - Type utilities - Parte 1](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities/)
 - [Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [Typescript - Uma breve introdução - Type utilities - Parte 2](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities-parte-2/)
+- [Typescript - Uma breve introdução - Generics](https://www.crisgon.dev/typescript-uma-breve-introdução-generics/)
 
 # Style/Clean code
 
