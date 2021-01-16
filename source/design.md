@@ -45,6 +45,7 @@
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/)
 - [Why Toggle Buttons Are Confusing](https://uxmovement.com/buttons/why-toggle-buttons-are-confusing/)
 - [Why Toggle Buttons Should Never Look Like Action Buttons](https://uxmovement.com/buttons/why-toggle-buttons-should-never-look-like-action-buttons/)
+- [Don’t Use Inverted Color Cues on Toggle Buttons](https://uxmovement.com/buttons/dont-use-inverted-color-cues-on-toggle-buttons/)
 - [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
 - [Why Radio Buttons and Checkboxes Can’t Co-Exist](https://uxmovement.com/forms/why-radio-buttons-and-checkboxes-cant-co-exist/)
 - [10 Usability Mistakes Most Designers Make on Checkboxes](https://uxmovement.com/forms/10-usability-mistakes-most-designers-make-on-checkboxes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
@@ -74,6 +75,10 @@
 - [As habilidades (e histórias) por trás do portfólio](https://brasil.uxdesign.cc/as-habilidades-e-histórias-por-trás-do-portfólio-79ac3e3d161e)
 - [Testes de usabilidade: o que, por quê e como](https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-por-que-e-como-1490e2059513)
 - [A More Efficient Way to Display Data Tables](https://uxmovement.com/content/a-more-efficient-way-to-display-data-tables)
+- [O que é Design emocional?](https://brasil.uxdesign.cc/o-que-é-design-emocional-c32d15ec8959)
+- [Como construímos um time de design de produto](https://brasil.uxdesign.cc/como-constru%C3%ADmos-um-time-de-design-de-produto-na-octadesk-37d46e26691e)
+- [#ESTUDO: 5 tipppps de como fazer um redesign alheio](https://matheusviniciusg.medium.com/estudo-5-tipppps-de-como-fazer-um-redesign-alheio-ae9977fdc133)
+- [Usando o Percurso Cognitivo para avaliar uma interface](https://brasil.uxdesign.cc/usando-o-percurso-cognitivo-para-avaliar-uma-interface-1af67ad907b3)
 
 ## Tipografia
 
@@ -236,6 +241,7 @@
 - [Adele - The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
 - [Design Systems in 2020: What’s Your Source of Truth?](https://medium.com/sketch-app-sources/what-is-your-design-system-really-c7a927d7bf92)
 - [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6)
+- [Como a consistência visual é impactada pelo Design System?](https://brasil.uxdesign.cc/como-a-consistência-visual-é-impactada-pelo-design-system-ffb857f8de9d)
 
 ## Atomic Design
 
@@ -251,6 +257,7 @@
 - [Planejando sua pesquisa (com template)](https://brasil.uxdesign.cc/planejando-sua-pesquisa-com-template-149f15810fc7)
 - [A LGPD e o UX Research](https://brasil.uxdesign.cc/a-lgpd-e-o-ux-research-a44113907d83)
 - [Nove hacks para pesquisas eficientes](https://brasil.uxdesign.cc/9-hacks-para-pesquisas-eficientes-771fab1670e4)
+- [Como criar bons questionários de pesquisa](https://brasil.uxdesign.cc/como-criar-bons-questionários-de-pesquisa-749a6b40bdb)
 
 ## UX Writing
 
@@ -275,3 +282,4 @@
 - [Creative Challenge - Build your Photoshop skills](https://www.behance.net/challenge/photoshop)
 - [Curso Online de Criação de Logomarcas](https://administrabrasil.com.br/curso/criacao-de-logomarcas/)
 - [Adaptive Icons](https://adapticon.mariusclaret.com)
+- [ Design System Repo](https://designsystemsrepo.com)

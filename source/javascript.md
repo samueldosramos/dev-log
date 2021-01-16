@@ -98,7 +98,7 @@
 - [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
 - [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
-
+- [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
 ## Dicas
 
 - [JavaScript: Dicas de bolso – parte 1](https://tableless.com.br/dicas-de-bolso-de-javascript-parte-1/)
@@ -178,6 +178,7 @@
 
 ## Node
 
+- [Apostila de NodeJS 100% Gratuita](https://blog.reativa.dev/apostila-nodejs-completa/)
 - [Node.js - Compilado de posts](https://udgwebdev.com/nodejs/)
 - [Por que aprender Node.js? 8 Casos reais!](http://www.luiztools.com.br/post/por-que-aprender-nodejs/)
 - [Por que Node.js para Web?](https://medium.com/@badskan/porque-node-js-para-web-b45afbf66c31)
@@ -285,7 +286,7 @@
 - [Padrões em JS: Observer Pattern](https://oieduardorabelo.medium.com/padrões-em-js-observer-pattern-bff0ecc55d01)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 - [Reactive Design Patterns](https://www.reactivedesignpatterns.com)
-- [.NET Design Patterns](https://www.dofactory.com/net/design-patterns)
+- [JavaScript Design Patterns](https://www.dofactory.com/javascript/design-patterns)
 
 ## Testes
 

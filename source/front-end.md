@@ -79,6 +79,7 @@
 
 ## Console / DevTools
 
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 - [Segredos do Chrome Developer Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 - [Conheça todo o poder do Console](https://showmethecode.com.br/2017/06/02/console/)
 - [Você conhece o verdadeiro poder do console do seu navegador?](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
@@ -110,6 +111,7 @@
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 - [Em performance Web, o que é velocidade?](https://desenvolvimentoparaweb.com/ux/performance-web-velocidade/)
 - [Testes de Performance JavaScript](https://www.treinaweb.com.br/blog/testes-de-performance-javascript/)
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 
 ## SPA
 

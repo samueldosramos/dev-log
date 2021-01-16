@@ -26,6 +26,8 @@
 - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [Como Construir uma API RESTful: Conheça as 13 Melhores Boas Praticas](https://www.tipscode.com.br/como-construir-uma-api-restful-conheca-as-13-melhores-boas-praticas/)
 - [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+- [O básico de APIs RESTful parte 1 - definições e restrições](https://dev.to/dev_jessi/o-basico-para-entender-apis-restful-parte-1-1apm)
+- [O básico de APIs RESTful parte 2 - o ful do RESTful , request, recurso e representação](https://dev.to/dev_jessi/o-basico-de-apis-restful-parte-2-o-ful-do-restful-request-recurso-e-representacao-30kc)
 
 ## GET e POST
 

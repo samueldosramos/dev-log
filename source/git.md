@@ -116,6 +116,7 @@
 - [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 - [Git: criando tags](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be)
 - [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+- [Subindo seu projeto Front-end gratuitamente com Github Pages](https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447)
 
 ## Commits
 
@@ -132,6 +133,7 @@
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Emendando commits](https://gabrieluizramos.com.br/emendando-commits/)
+- [Git warning: Pulling without specifying how to reconcile divergent branches is discouraged](https://www.luizcorreia.eti.br/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/)
 
 ## SSH
 
