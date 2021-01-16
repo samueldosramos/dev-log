@@ -29,6 +29,7 @@
 - [Uma breve introdução ao Docker com Node.js](https://braziljs.org/blog/uma-breve-introducao-ao-docker-com-nodejs/)
 - [Tudo o que você precisa saber para rodar Node.js com Docker](http://walde.co/2016/08/30/tudo-que-voce-precisa-saber-para-rodar-sua-aplicacao-nodejs-com-docker/)
 - [Como rodar uma aplicação Node.js no Docker](https://medium.com/nerdzao/como-rodar-uma-aplicação-node-js-no-docker-836dc48a5d60)
+- [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 
 ## Utilidades
 

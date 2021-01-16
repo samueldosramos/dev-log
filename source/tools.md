@@ -23,6 +23,7 @@
 - [ui interactions](https://raphaelfabeni.com/ui-interactions/)
 - [Popmotion](https://popmotion.io)
 - [Bounce.js](http://bouncejs.com)
+- [AnimXYZ](https://animxyz.com)
 
 ## Boilerplates
 

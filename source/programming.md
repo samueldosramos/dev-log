@@ -18,6 +18,8 @@
 - [Design Patterns Saga: The Beginning](https://medium.com/swlh/design-patterns-saga-the-beginning-17ea936472cc)
 - [As incríveis técnicas para fatiar a entrega do seu software](https://knowledge21.com.br/blog/tecnicas-fatiar-entrega-software/)
 - [Modularização: Funções e Procedimentos](https://www.treinaweb.com.br/blog/modularizacao-funcoes-e-procedimentos/)
+- [Guia Para Pessoas Desenvolvedoras Back-End 2021 - O que eu preciso saber?!](https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6)
+- [Como estudar Ciências da Computação (sem vestibular e de graça)](https://blog.reativa.dev/como-estudar-ciencias-da-computacao-de-graca/)
 
 ## Regex
 

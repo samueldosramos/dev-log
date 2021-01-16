@@ -69,6 +69,7 @@
 - [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
 - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
 - [Entendendo especificidade em CSS](https://willianjusten.com.br/entendendo-especificidade-em-css/)
+- [10 dicas para manter a Especificidade CSS baixa](https://desenvolvimentoparaweb.com/css/especificidade-css-baixa-dicas/)
 - [Utilizando CSS Counters](https://willianjusten.com.br/utilizando-css-counters/)
 - [CSS Overlay Techniques](https://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
