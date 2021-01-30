@@ -41,6 +41,7 @@
 - [ Igualdade X Equidade: Os reflexos na sociedade brasileira](https://falauniversidades.com.br/igualdade-x-equidade-os-reflexos-na-sociedade-brasileira/)
 - [Usabilidade x Acessibilidade: quais as diferenças e relações](https://www.treinaweb.com.br/blog/usabilidade-x-acessibilidade-quais-as-diferencas-e-relacoes/)
 - [Placeholders: uma ameaça à acessibilidade digital](https://brasil.uxdesign.cc/placeholders-uma-ameaça-à-acessibilidade-digital-5d4d85dd05fb)
+- [Acessibilidade digital: fator de socialização para pessoas com deficiência](https://brasil.uxdesign.cc/acessibilidade-digital-fator-de-socialização-para-pessoas-com-deficiência-499717b8b3e8)
 
 ## Utilidades
 

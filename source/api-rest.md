@@ -69,6 +69,9 @@
 - [Criando APIs incríveis usando a library node-restful](https://wharley.github.io/criando-apis-incr%C3%ADveis-usando-node-restful/)
 - [Como consumir un API en react.js](https://medium.com/@jorge.basilio.94/como-consumir-un-api-en-react-js-ba4130386a61)
 - [How to send the authorization header using Axios](https://flaviocopes.com/axios-send-authorization-header/)
+- [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper)
+- [Axios ou fetch()](https://medium.com/trainingcenter/axios-ou-fetch-765e5db9dd59)
+- [Usando FETCH para requisições ajax](https://medium.com/trainingcenter/usando-fetch-para-requisições-ajax-2178ab187a32)
 
 ## Utilidades
 

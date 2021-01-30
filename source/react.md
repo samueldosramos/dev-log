@@ -43,6 +43,7 @@
 - [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 - [PropTypes no React](https://medium.com/@fannyvieira/proptypes-in-react-eb5f9d417fb)
 - [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
+- [Reutilizando componentes React](https://medium.com/trainingcenter/reutilizando-componentes-react-3c27044ceecc)
 - [Entendendo estado de componentes com React na prática](https://imasters.com.br/front-end/entendendo-estado-de-componentes-com-react-na-pratica)
 - [React Fragments](https://getstream.io/blog/react-fragments/)
 - [O Guia Completo od React e o Seu Ecossistema](https://www.concrete.com.br/2017/07/26/o-guia-completo-do-react-e-o-seu-ecossistema/)
@@ -74,6 +75,7 @@
 - [Como criar um sistema de login usando React , Firebase e Styled-components](https://medium.com/@wilsonjunior_8378/como-criar-um-sistema-de-login-usando-react-firebase-e-styled-components-16a9542b84b)
 - [5 quick and easy fixes to improve your React app performance](https://dev.to/vaibhavkhulbe/5-quick-and-easy-fixes-to-improve-your-react-app-performance-5g43)
 - [Gerenciando formulários complexos com React](https://01dev.codes/gerenciando-formularios-complexos-com-react/)
+- [React: Formulários e Validação com React Hook Form](https://www.webdevdrops.com/react-forms-validacao-react-hook-form/)
 - [React: Usando Tabela virtual para lidar com grandes quantidades de dados](https://medium.com/@alexandreservian/react-usando-tabela-virtual-para-lidar-com-grandes-quantidades-de-dados-bade2f1c3b02)
 - [How I fixed an issue with a React login form state and Browser autofill](https://flaviocopes.com/react-form-browser-autofill/)
 - [As armadilhas mais comuns do React](https://medium.com/@marcellguilherme/as-armadilhas-mais-comuns-do-react-1bd43269dac5)
@@ -92,6 +94,7 @@
 - [React 17 – Conheça o que vai mudar no JSX](https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/)
 - [Catching Asynchronous Errors in React using Error Boundaries](https://medium.com/trabe/catching-asynchronous-errors-in-react-using-error-boundaries-5e8a5fd7b971)
 - [Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
+- [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components)
 
 ## React Hooks
 
@@ -143,6 +146,7 @@
 - [Redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)
 - [12 Things NOT To Do When Building React Apps With Redux](https://jsmanifest.com/12-things-not-to-do-when-building-react-redux-apps/)
 - [React + MobX, lições aprendidas](https://medium.com/@caiovaccaro/react-mobx-lições-aprendidas-656b5232dec)
+- [Redux com React Hooks](https://medium.com/trainingcenter/usando-useselector-e-usedispatch-8d65a41ce18a)
 
 ## React e Firebase
 
@@ -155,6 +159,7 @@
 - [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
 - [React Act Examples](https://github.com/threepointone/react-act-examples/blob/master/sync.md)
 - [Effective Snapshot Testing](https://kentcdodds.com/blog/effective-snapshot-testing)
+- [React + enzyme + jest (config)](https://medium.com/trainingcenter/react-enzyme-jest-config-6cb2a585f658)
 
 ## Design System
 

@@ -2,6 +2,7 @@
 
 ## Geral
 
+- [Guia de introdução à programação](https://www.treinaweb.com.br/blog/guia-de-introducao-a-programacao/)
 - [Saiba como ser um melhor programador!](http://pplware.sapo.pt/informacao/opiniao/saiba-como-ser-um-melhor-programador/)
 - [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
 - [Quais as diferenças entre tipagens: estática ou dinâmica e forte ou fraca](https://www.treinaweb.com.br/blog/quais-as-diferencas-entre-tipagens-estatica-ou-dinamica-e-forte-ou-fraca/)
@@ -20,6 +21,7 @@
 - [Modularização: Funções e Procedimentos](https://www.treinaweb.com.br/blog/modularizacao-funcoes-e-procedimentos/)
 - [Guia Para Pessoas Desenvolvedoras Back-End 2021 - O que eu preciso saber?!](https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6)
 - [Como estudar Ciências da Computação (sem vestibular e de graça)](https://blog.reativa.dev/como-estudar-ciencias-da-computacao-de-graca/)
+- [O que é BPMN e como ela pode te ajudar a ser um DEV melhor](https://blog.novatics.com.br/o-que-é-bpmn-e-como-ela-pode-te-ajudar-a-ser-um-dev-melhor-9d41ad55003e)
 
 ## Regex
 

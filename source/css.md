@@ -93,6 +93,9 @@
 - [Navegação âncora e smooth scroll com CSS puro](https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/)
 - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 - [overflow-anchor](https://css-tricks.com/almanac/properties/o/overflow-anchor/)
+- [Position fixed vs position sticky](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/)
+- [Técnicas CSS para elementos de cobertura](https://desenvolvimentoparaweb.com/css/elementos-cobertura-css/)
+- [O que é possível colocar em uma variável CSS?](https://desenvolvimentoparaweb.com/css/variaveis-css-valores-possiveis/)
 
 ## Animações
 
@@ -209,6 +212,7 @@
 - [Firefox DevTools - Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 - [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
+- [The Holy Grail Layout with CSS Grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
 
 ## Pré-processadores
 
@@ -238,3 +242,4 @@
 - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
 - [CSS Diner](https://flukeout.github.io)
 - [Layoutit - CSS Grid layout generator](https://grid.layoutit.com)
+- [Houdini.how - Worklet Library](https://houdini.how)

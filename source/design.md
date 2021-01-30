@@ -79,6 +79,7 @@
 - [Como construímos um time de design de produto](https://brasil.uxdesign.cc/como-constru%C3%ADmos-um-time-de-design-de-produto-na-octadesk-37d46e26691e)
 - [#ESTUDO: 5 tipppps de como fazer um redesign alheio](https://matheusviniciusg.medium.com/estudo-5-tipppps-de-como-fazer-um-redesign-alheio-ae9977fdc133)
 - [Usando o Percurso Cognitivo para avaliar uma interface](https://brasil.uxdesign.cc/usando-o-percurso-cognitivo-para-avaliar-uma-interface-1af67ad907b3)
+- [Design Centrado no Usuário: uma abordagem para conquistar melhores resultados](https://blog.novatics.com.br/design-centrado-no-usuário-uma-abordagem-para-conquistar-melhores-resultados-%EF%B8%8F-950e722b6fdb)
 
 ## Tipografia
 
@@ -207,6 +208,9 @@
 - [Noções básicas de HTML que todos os designer gráficos e da web devem saber](https://brasil.uxdesign.cc/noções-básicas-de-html-que-todos-os-designer-gráficos-e-da-web-devem-saber-59efe323d550)
 - [Coisas que você pode fazer pra ser melhor amigo do Front End](https://brasil.uxdesign.cc/coisas-que-você-pode-fazer-pra-ser-melhor-amigo-do-front-end-24096db7888b)
 - [Desenhando pra Web](https://brasil.uxdesign.cc/desenhando-pra-web-como-venho-melhorado-ao-desenhar-ui-com-specs-melhores-para-os-devs-c34c8979bbb3)
+- [Getting Started with Wireframes](https://blog.nicolesaidy.com/getting-started-with-wireframes-8aff9b92a4c0)
+- [5 Steps for a Successful Website Design](https://blog.nicolesaidy.com/5-steps-for-a-successful-website-design-90290066f326)
+- [Ferramentas essenciais para um designer web](https://medium.com/ui-lab-school/https-medium-com-carlyson-ferramentas-essenciais-para-um-designer-web-5b630add8649)
 
 ## Arquitetura de Informação
 
@@ -242,6 +246,8 @@
 - [Design Systems in 2020: What’s Your Source of Truth?](https://medium.com/sketch-app-sources/what-is-your-design-system-really-c7a927d7bf92)
 - [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6)
 - [Como a consistência visual é impactada pelo Design System?](https://brasil.uxdesign.cc/como-a-consistência-visual-é-impactada-pelo-design-system-ffb857f8de9d)
+- [O Figma variants e a construção de um guia de estilos](https://brasil.uxdesign.cc/o-figma-variants-e-a-construção-de-um-styleguide-d9008caad9bd)
+- [Como criar um guia de estilo e linguagem em 3 etapas](https://brasil.uxdesign.cc/como-criar-um-guia-de-estilo-e-linguagem-em-3-etapas-a98f1714302f)
 
 ## Atomic Design
 
@@ -258,6 +264,7 @@
 - [A LGPD e o UX Research](https://brasil.uxdesign.cc/a-lgpd-e-o-ux-research-a44113907d83)
 - [Nove hacks para pesquisas eficientes](https://brasil.uxdesign.cc/9-hacks-para-pesquisas-eficientes-771fab1670e4)
 - [Como criar bons questionários de pesquisa](https://brasil.uxdesign.cc/como-criar-bons-questionários-de-pesquisa-749a6b40bdb)
+- [Análise de dados qualitativos extraídos de pesquisa com usuários](https://brasil.uxdesign.cc/análise-de-dados-qualitativos-extra%C3%ADdos-de-pesquisa-com-usuários-a83e424884be)
 
 ## UX Writing
 
