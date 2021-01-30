@@ -66,6 +66,7 @@
 - [Vim para noobs](https://leanpub.com/vimparanoobs/)
 - [Level up with Vim](https://vimforvscode.com)
 - [Vim Bootstrap](http://vim-bootstrap.com)
+- [vim.so - Mastering Vim](https://www.vim.so)
 
 ## Temas
 

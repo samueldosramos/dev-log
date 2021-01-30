@@ -66,6 +66,8 @@
 - [Links to cross-origin destinations are unsafe](https://web.dev/external-anchors-use-rel-noopener/)
 - [Logical layout enhancements with flow-relative shorthands](https://web.dev/logical-property-shorthands/)
 - [Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
+- [5 Ferramentas de Produtividade Essenciais no Desenvolvimento Web](https://www.webdevdrops.com/5-ferramentas-produtividade-desenvolvimento-web/)
+- [Understanding Frontend Security](https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534)
 
 ## HTTP
 

@@ -43,7 +43,11 @@
 - [Operadores Spread e Rest Javascript](https://ildaneta.netlify.app/posts/operadores-spread-e-rest-javascript/)
 - [Operadores Spread e Rest Javascript](https://medium.com/@ildaneta/operadores-spread-e-rest-javascript-c90ccf6962f1)
 - [4 segredos do operador Spread em JavaScript](https://imasters.com.br/desenvolvimento/4-segredos-operador-spread-em-javascript)
+- [Spread operator vs rest parameters](https://medium.com/trainingcenter/spread-operator-vs-rest-parameters-f8688d8e1761)
 - [JavaScript: métodos de Arrays que você precisa conhecer](https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer/)
+- [Métodos para arrays em javascript — parte 01](https://medium.com/trainingcenter/métodos-para-arrays-em-javascript-parte-01-2ed415de5f5b)
+- [Métodos para arrays em javascript — parte 02](https://medium.com/trainingcenter/métodos-para-arrays-em-javascript-parte-02-461beca1a24a)
+- [Métodos para arrays em javascript — parte 03](https://medium.com/trainingcenter/métodos-para-arrays-em-javascript-parte-03-ba4bf48406c3)
 - [Funcionalidades do JavaScript Moderno](https://medium.com/collabcode/coisas-do-javascript-moderno-925144b96a7f)
 - [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 - [ES10 e o futuro do JavaScript](https://imasters.com.br/desenvolvimento/es10-e-o-futuro-javascript)
@@ -92,6 +96,7 @@
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
 - [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
 - [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
+
 ## Dicas
 
 - [JavaScript: Dicas de bolso – parte 1](https://tableless.com.br/dicas-de-bolso-de-javascript-parte-1/)
@@ -130,7 +135,8 @@
 - [Top 3 New JavaScript ES 2021 (ES 12) Features I Am Excited About](https://dev.to/nickbulljs/top-3-new-javascript-es-2021-es-12-features-i-am-excited-about-5e8p)
 - [How to sort an array by date value in JavaScript](https://flaviocopes.com/how-to-sort-array-by-date-javascript/)
 - [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
-- [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper?ck_subscriber_id=660792982)
+- [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
+- [Diferença location.href ou location.assign](https://pt.stackoverflow.com/questions/246772/diferença-location-href-ou-location-assign)
 
 ## Estrutura de dados
 
@@ -201,6 +207,9 @@
 - [How to get the names of all the files in a folder in Node](https://flaviocopes.com/how-to-get-files-names/)
 - [How to test an npm package locally](https://flaviocopes.com/npm-local-package/)
 - [Deno: conheça o suposto substituto do Node.js](https://www.treinaweb.com.br/blog/deno-conheca-o-suposto-substituto-do-node-js/amp/)
+- [Node.js: Enviando E-mails com Amazon SES](https://www.webdevdrops.com/node-js-enviando-emails-amazon-ses/)
+- [Upload de Arquivos no Node.js com Multer](https://www.webdevdrops.com/upload-arquivos-node-js-multer/)
+- [Node.js com TypeScript](https://www.webdevdrops.com/node-js-typescript/)
 
 ## TypeScript
 
@@ -326,6 +335,8 @@
 - [JSCasts - Aprender JavaScript agora é fácil](https://jscasts.teachable.com)
 - [Learn JS](https://www.learn-js.org)
 - [Aprender JavaScript](https://www.todoespacoonline.com/w/2014/05/aprender-javascript/)
+- [Full Stack com Node.js, React e GraphQL  – 1: Introdução](https://www.webdevdrops.com/fullstack-node-react-graphql-introducao-2c2f18c757c4/)
+- [Crud completo usando Node com express, React com Redux e MongoDb — Parte 01](https://medium.com/trainingcenter/crud-completo-usando-node-com-express-react-com-redux-e-mongodb-parte-01-417b186bbb7f)
 
 ## Utilidades
 
