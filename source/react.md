@@ -8,6 +8,7 @@
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
 - [#2 - Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
 - [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
+- [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
 - [Como começar a sua aplicação React em poucos minutos](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82)
 - [Criando a sua primeira aplicação web com React](https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/)
 - [Hello World com React, do rascunho até o primeiro componente](https://tableless.com.br/hello-world-com-react-do-rascunho-ate-o-primeiro-componente/)
@@ -95,6 +96,7 @@
 - [Catching Asynchronous Errors in React using Error Boundaries](https://medium.com/trabe/catching-asynchronous-errors-in-react-using-error-boundaries-5e8a5fd7b971)
 - [Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
 - [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components)
+- [React, focus an item in React when added to the DOM](https://flaviocopes.com/react-focus-input-field/)
 
 ## React Hooks
 

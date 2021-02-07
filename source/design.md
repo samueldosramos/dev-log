@@ -80,6 +80,7 @@
 - [#ESTUDO: 5 tipppps de como fazer um redesign alheio](https://matheusviniciusg.medium.com/estudo-5-tipppps-de-como-fazer-um-redesign-alheio-ae9977fdc133)
 - [Usando o Percurso Cognitivo para avaliar uma interface](https://brasil.uxdesign.cc/usando-o-percurso-cognitivo-para-avaliar-uma-interface-1af67ad907b3)
 - [Design Centrado no Usuário: uma abordagem para conquistar melhores resultados](https://blog.novatics.com.br/design-centrado-no-usuário-uma-abordagem-para-conquistar-melhores-resultados-%EF%B8%8F-950e722b6fdb)
+- [The Proper Visual Cues for Common Interface Affordances](https://uxmovement.com/buttons/the-proper-visual-cues-for-common-interface-affordances/)
 
 ## Tipografia
 
@@ -247,6 +248,7 @@
 - [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6)
 - [Como a consistência visual é impactada pelo Design System?](https://brasil.uxdesign.cc/como-a-consistência-visual-é-impactada-pelo-design-system-ffb857f8de9d)
 - [O Figma variants e a construção de um guia de estilos](https://brasil.uxdesign.cc/o-figma-variants-e-a-construção-de-um-styleguide-d9008caad9bd)
+- [Interfaces dinâmicas e otimização de processos de UI com o autolayout do Figma](https://brasil.uxdesign.cc/utilizando-o-novo-autolayout-do-figma-para-construir-interfaces-escaláveis-dinâmicas-e-responsivas-ef3c40eb6c59)
 - [Como criar um guia de estilo e linguagem em 3 etapas](https://brasil.uxdesign.cc/como-criar-um-guia-de-estilo-e-linguagem-em-3-etapas-a98f1714302f)
 
 ## Atomic Design
@@ -265,6 +267,7 @@
 - [Nove hacks para pesquisas eficientes](https://brasil.uxdesign.cc/9-hacks-para-pesquisas-eficientes-771fab1670e4)
 - [Como criar bons questionários de pesquisa](https://brasil.uxdesign.cc/como-criar-bons-questionários-de-pesquisa-749a6b40bdb)
 - [Análise de dados qualitativos extraídos de pesquisa com usuários](https://brasil.uxdesign.cc/análise-de-dados-qualitativos-extra%C3%ADdos-de-pesquisa-com-usuários-a83e424884be)
+- [UX Research — O Guia do Investigador](https://brasil.uxdesign.cc/ux-research-o-guia-do-investigador-8dc4434584e8)
 
 ## UX Writing
 
