@@ -139,6 +139,7 @@
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
 - [Driving towards a universal navigation strategy in React](https://dev.to/ythecombinator/driving-towards-a-universal-navigation-strategy-in-react-j60)
 - [Animated Transitions with React Router v5](https://ui.dev/react-router-v5-animated-transitions/)
+- [React Router, how to get data from a dynamic route](https://flaviocopes.com/react-router-data-from-route/)
 
 ## Redux
 
