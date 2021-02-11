@@ -122,6 +122,7 @@
 - [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks)
 - [JavaScript: Eliminando Dependências Circulares](https://dev.to/oieduardorabelo/javascript-eliminando-dependencias-circulares-3hcj)
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
+- [Javascript Date: Aprenda a usar Data e Hora](https://blog.betrybe.com/javascript/javascript-date/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
 - [Stop Nesting Functions! (But Not All of Them)](https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315)
 - [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
