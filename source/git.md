@@ -115,6 +115,7 @@
 - [Facilitando os Merges no Git com o Visual Studio Code](https://woliveiras.com.br/posts/facilitando-os-merges-no-git-com-o-visual-studio-code-como-merge-tool-e-editor-padrão/)
 - [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 - [Git: criando tags](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be)
+- [git tag](https://www.atlassian.com/br/git/tutorials/inspecting-a-repository/git-tag)
 - [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
 - [Subindo seu projeto Front-end gratuitamente com Github Pages](https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447)
 

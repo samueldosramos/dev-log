@@ -292,4 +292,5 @@
 - [Creative Challenge - Build your Photoshop skills](https://www.behance.net/challenge/photoshop)
 - [Curso Online de Criação de Logomarcas](https://administrabrasil.com.br/curso/criacao-de-logomarcas/)
 - [Adaptive Icons](https://adapticon.mariusclaret.com)
-- [ Design System Repo](https://designsystemsrepo.com)
+- [Design System Repo](https://designsystemsrepo.com)
+- [All the Design resources you need to create your next Digital Product](https://www.basetemplates.com/ui-ux-design-resources)

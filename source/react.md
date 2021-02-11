@@ -97,6 +97,7 @@
 - [Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
 - [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components)
 - [React, focus an item in React when added to the DOM](https://flaviocopes.com/react-focus-input-field/)
+- [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 
 ## React Hooks
 
