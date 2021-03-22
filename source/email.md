@@ -35,6 +35,7 @@
 ## Frameworks
 
 - [MJML](https://mjml.io/)
+- [Maizzle](https://maizzle.com)
 - [Foundation](https://get.foundation/emails.html)
 - [React Email Editor](https://github.com/unlayer/react-email-editor)
 - [Handlebar](https://handlebarsjs.com/)

@@ -10,6 +10,7 @@
 
 ## Dicas
 
+- [Guia da linguagem Python](https://www.treinaweb.com.br/blog/guia-da-linguagem-python/)
 - [Entendendo map, filter, reduce e lambda](https://beatrizuezu.github.io/entendendo-map-filter-reduce-lambda/)
 - [What Should I Learn As A Beginner: Python 2 Or Python 3?](https://learntocodewith.me/programming/python/python-2-vs-python-3/)
 - [The Right Way to Set Up Python on Your Mac](https://medium.com/faun/the-right-way-to-set-up-python-on-your-mac-e923ffe8cf8e)
@@ -37,6 +38,7 @@
 - [The Ultimate Visual Studio Code Setup For Django Developers](https://djangocentral.com/visual-studio-code-setup-for-django-developers/)
 
 ## Cursos
+
 - [Python para Zumbis](http://pycursos.com/python-para-zumbis/)
 - [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)

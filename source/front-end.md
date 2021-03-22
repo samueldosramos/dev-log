@@ -68,6 +68,8 @@
 - [Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
 - [5 Ferramentas de Produtividade Essenciais no Desenvolvimento Web](https://www.webdevdrops.com/5-ferramentas-produtividade-desenvolvimento-web/)
 - [Understanding Frontend Security](https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534)
+- [Building a Settings component](https://web.dev/building-a-settings-component/)
+- [Arquitetura BFF — Back-end for Front-end](https://medium.com/concretebr/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2)
 
 ## HTTP
 
@@ -82,6 +84,7 @@
 ## Console / DevTools
 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+- [Console Utilities API Reference](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
 - [Segredos do Chrome Developer Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 - [Conheça todo o poder do Console](https://showmethecode.com.br/2017/06/02/console/)
 - [Você conhece o verdadeiro poder do console do seu navegador?](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
@@ -93,6 +96,10 @@
 - [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
 - [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
 - [The Beginner's Guide to Bug Squashing: How to Use Your Debugger and other tools to find and fix bugs](https://www.freecodecamp.org/news/the-beginner-bug-squashing-guide/)
+- [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
+- [String substitution and formatting](https://developers.google.com/web/tools/chrome-devtools/console/console-write#string_substitution_and_formatting)
+- [Using string substitutions](https://developer.mozilla.org/en-US/docs/Web/API/Console#Using_string_substitutions)
+- [Formatting console.log output](https://docs.microsoft.com/en-gb/visualstudio/debugger/javascript-console-commands?view=vs-2017&viewFallbackFrom=vs-2019#ConsoleLog)
 
 ## Otimização
 
@@ -158,6 +165,7 @@
 
 - [Front End Resources](https://enboard.co/frontend/)
 - [Tools from FrontEnd Developers](http://frontendtools.com)
+- [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
 - [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
 - [Web Developer Checklist](http://webdevchecklist.com/)
 - [Can I use](https://caniuse.com/)
@@ -209,3 +217,5 @@
 - [SonarQube](https://www.sonarqube.org)
 - [SonarLint](https://www.sonarlint.org)
 - [Interneting is Hard](https://www.internetingishard.com)
+- [Places you can host your apps for free](https://markodenic.com/list-of-places-you-can-host-your-apps-for-free/)
+- [Learning Resource Roadmap - (Front-End Development)](https://learning-resource-path.gitbook.io/resources/)

@@ -212,6 +212,7 @@
 - [css.gg](https://css.gg)
 - [CoreUI](https://coreui.io/icons/)
 - [System UIcons](https://systemuicons.com)
+- [Weather Icons | HTML, CSS](https://codepen.io/collection/DKjzqY)
 
 ## Imagens/Vídeos
 

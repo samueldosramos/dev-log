@@ -72,6 +72,7 @@
 - [JavaScript — Filter — Padrão para criação de filtros genéricos para valores numéricos](https://medium.com/@osuissa/javascript-filter-padrao-para-criacao-de-filtros-genericos-para-valores-numericos-4d2376362573)
 - [Conheça as novidades do Javascript em 2020](https://devporai.com.br/conheca-as-novidades-do-javascript-em-2020/)
 - [JavaScript em 2020: O que esperar](https://imasters.com.br/javascript/javascript-em-2020-o-que-esperar)
+- [8 Novos recursos JavaScript no ES2020 que você precisa conhecer!](https://www.dextra.com.br/blog/8-novos-recursos-javascript-no-es2020-que-voce-precisa-conhecer/)
 - [Gráficos Dinâmicos com Eventos – Chart.js](http://www.mundojs.com.br/2018/07/12/graficos-dinamicos-com-eventos-chart-js/#page-content)
 - [First Class Objects, High-Order functions, Funções Anônimas e Closures no JavaScript](https://medium.com/lfdev-blog/me-explica-96651fc2c105)
 - [Entendendo This, Bind, Call e Apply no JavaScript](https://www.maiconsilva.com/entendendo-this-bind-call-e-apply-no-javascript/)
@@ -100,9 +101,12 @@
 - [JavaScript, how to extend a class](https://flaviocopes.com/how-to-extend-class-javascript/)
 - [JavaScript, how to find duplicates in an array](https://flaviocopes.com/how-to-find-duplicates-array-javascript/)
 - [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
+- [10 array methods to simplify your code](https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/)
+- [JavaScript Array Methods Explained with Emojis](https://dev.to/devmount/javascript-array-methods-explained-with-emojis-2amn)
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
 - [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
 - [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
+- [What are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
 
 ## Dicas
 
@@ -123,6 +127,8 @@
 - [JavaScript: Eliminando Dependências Circulares](https://dev.to/oieduardorabelo/javascript-eliminando-dependencias-circulares-3hcj)
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
 - [Javascript Date: Aprenda a usar Data e Hora](https://blog.betrybe.com/javascript/javascript-date/)
+- [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
+- [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
 - [Stop Nesting Functions! (But Not All of Them)](https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315)
 - [Utilizando data attributes](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes)
@@ -131,6 +137,9 @@
 - [Chaining method calls in JavaScript](https://flaviocopes.com/javascript-chaining/)
 - [Custom errors in JavaScript](https://flaviocopes.com/javascript-custom-errors/)
 - [How To Write Error Messages That Don’t Suck](https://www.freecodecamp.org/news/how-to-write-error-messages-that-dont-suck-f31c53b64c3e/)
+- [[pt-BR] ES2020: Promise.allSettled](https://dev.to/mesaquen/promise-allsettled-473)
+- [[pt-BR] ES2020: Optional chaining operator](https://dev.to/mesaquen/pt-br-es2020-optional-chaining-operator-4i3f)
+- [[pt-BR] ES2020: Nullish coalescing operator (??)](https://dev.to/mesaquen/es2020-nullish-coalescing-operator-41a0)
 - [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
 - [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
@@ -145,6 +154,8 @@
 - [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
 - [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
 - [Diferença location.href ou location.assign](https://pt.stackoverflow.com/questions/246772/diferença-location-href-ou-location-assign)
+- [JavaScript Tips](https://markodenic.com/javascript-tips/)
+- [Juntando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/juntando-arrays-e-objetos-com-spread-syntax-no-javascript/)
 
 ## Estrutura de dados
 
@@ -218,6 +229,8 @@
 - [Node.js: Enviando E-mails com Amazon SES](https://www.webdevdrops.com/node-js-enviando-emails-amazon-ses/)
 - [Upload de Arquivos no Node.js com Multer](https://www.webdevdrops.com/upload-arquivos-node-js-multer/)
 - [Node.js com TypeScript](https://www.webdevdrops.com/node-js-typescript/)
+- [O guia completo do package.json do Node.js](https://www.luiztools.com.br/post/o-guia-completo-do-package-json-do-node-js/)
+- [util.format](https://nodejs.org/api/util.html#util_util_format_format_args)
 
 ## TypeScript
 
@@ -225,7 +238,6 @@
 - [TypeScript: Vantagens, mitos, dicas e conceitos fundamentais](https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/)
 - [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
-- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
 - [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 - [Design Patterns in TypeScript PT-BR](https://refactoring.guru/pt-br/design-patterns/typescript)
@@ -235,7 +247,6 @@
 - [Diga olá ao TypeScript e adeus ao JavaScript](https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)
 - [Por que usar TypeScript no seu próximo projeto](https://01dev.codes/por-que-usar-typescript-no-seu-proximo-projeto/)
 - [TypeScript: O que são Interfaces e como usá-las](https://01dev.codes/usando-typescript-interfaces/)
-- [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
 - [Non-Nullable Types in TypeScript](https://mariusschulz.com/blog/non-nullable-types-in-typescript)
 - [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 - [Manual do Node.js](https://github.com/ChristySchott/manual-node)
@@ -248,6 +259,9 @@
 - [Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [Typescript - Uma breve introdução - Type utilities - Parte 2](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities-parte-2/)
 - [Typescript - Uma breve introdução - Generics](https://www.crisgon.dev/typescript-uma-breve-introdução-generics/)
+- [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
+- [TypeScript - Zero to Hero Series' Articles](https://dev.to/glaucia86/series/11515)
+- [Optional Chaining e null coalescing operator com TypeScript](https://imasters.com.br/javascript/optional-chaining-e-null-coalescing-operator-com-typescript)
 
 # Style/Clean code
 

@@ -5,6 +5,7 @@
 - [Introdução ao Docker](https://raccoon.ninja/pt/dev-pt/introducao-ao-docker/)
 - [Comandos básicos do Docker](https://raccoon.ninja/pt/dev-pt/comandos-basicos-do-docker/)
 - [Comandos básicos do Docker, parte 2.](https://raccoon.ninja/pt/dev-pt/comandos-basicos-do-docker-parte-2/)
+- [Comandos básicos Docker](https://medium.com/xp-inc/principais-comandos-docker-f9b02e6944cd)
 - [Um pouco sobre Docker Compose](https://raccoon.ninja/pt/dev-pt/um-pouco-sobre-docker-compose/)
 - [Controlando Docker Remotamente.](https://raccoon.ninja/pt/dev-pt/controlando-docker-remotamente/)
 - [Trabalhando com clusters no Docker Swarm](https://raccoon.ninja/pt/dev-pt/trabalhando-com-clusters-no-docker-swarm/)
@@ -23,6 +24,8 @@
 - [Saiba como configurar um ambiente de desenvolvimento Web Apache completo e seguro com Docker](https://www.linuxdescomplicado.com.br/2017/05/saiba-como-configurar-um-ambiente-de-desenvolvimento-web-apache-completo-e-seguro-com-docker.html)
 - [Docker e Docker Compose — Com Node.js, MongoDB, PostgreSQL e nodemon (bônus)](https://medium.com/@jonabf1/docker-e-docker-compose-com-node-js-mongodb-postgresql-e-nodemon-5752e42b022f)
 - [Deploy Reactjs com Docker](https://kledenai.medium.com/deploy-reactjs-com-docker-1769cf7a5f74)
+- [Desvendando o DockerFile](https://www.alura.com.br/artigos/desvendando-o-dockerfile)
+- [Dockerize Your App And Keep Hot-Reloading !](https://blog.bam.tech/developer-news/dockerize-your-app-and-keep-hot-reloading)
 
 ## Docker e Node.js
 
@@ -34,3 +37,4 @@
 ## Utilidades
 
 - [DockerSlim](https://dockersl.im)
+- [Awesome Compose](https://github.com/docker/awesome-compose)
