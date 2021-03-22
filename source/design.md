@@ -57,6 +57,9 @@
 - [Why “Remember Me” on Logins Should Be the Default](https://uxmovement.com/forms/why-remember-me-on-logins-should-be-the-default/)
 - [Why Signups & Logins Should Open in a Right Form Drawer](https://uxmovement.com/forms/why-signups-logins-should-open-in-a-right-form-drawer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
 - [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
+- [Single-Page vs. Multi-Page Forms: When to Use Which](https://uxmovement.com/forms/single-page-vs-multi-page-forms-when-to-use-which/)
+- [Optional Fields You Should Remove on Your Form](https://uxmovement.com/forms/optional-fields-you-should-remove-on-your-form/)
+- [Why Users Opt Out Forms That Mark Required Fields](https://uxmovement.com/forms/why-users-opt-out-forms-that-mark-required-fields/)
 - [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
@@ -81,6 +84,7 @@
 - [Usando o Percurso Cognitivo para avaliar uma interface](https://brasil.uxdesign.cc/usando-o-percurso-cognitivo-para-avaliar-uma-interface-1af67ad907b3)
 - [Design Centrado no Usuário: uma abordagem para conquistar melhores resultados](https://blog.novatics.com.br/design-centrado-no-usuário-uma-abordagem-para-conquistar-melhores-resultados-%EF%B8%8F-950e722b6fdb)
 - [The Proper Visual Cues for Common Interface Affordances](https://uxmovement.com/buttons/the-proper-visual-cues-for-common-interface-affordances/)
+- [Jornadas e a gestão de serviços e produtos digitais](https://brasil.uxdesign.cc/jornadas-e-a-gestao-de-servicos-e-produtos-digitais-154e2a1bfc35)
 
 ## Tipografia
 
@@ -108,6 +112,7 @@
 - [Type Terms](https://www.supremo.co.uk/typeterms/)
 - [Lettering - fundamentos básicos](https://www.saibala.com.br/lettering-fundamentos-basicos---32/rafael.costa)
 - [Better Web Typography For A Better Web](https://betterwebtype.com)
+- [Como melhorar a legibilidade de textos na Web](https://desenvolvimentoparaweb.com/css/melhorar-legibilidade-textos-web/)
 
 ## Cores
 
@@ -145,6 +150,7 @@
 - [Um link para UX Designers que estão precisando de inspiração](https://brasil.uxdesign.cc/um-link-para-ux-designers-que-est%C3%A3o-precisando-de-inspira%C3%A7%C3%A3o-8525fda38e97)
 - [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/)
 - [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+- [Stop Misusing Icon Cues on Menus](https://uxmovement.com/navigation/stop-misusing-icon-cues-on-menus/)
 - [UX Tools for every step in your design process](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 - [The steps of our UX design process](https://uxstudioteam.com/ux-blog/ux-design-process-steps/)
 - [UX e Roadmaps: do macro ao detalhe](https://brasil.uxdesign.cc/ux-e-roadmaps-do-macro-ao-detalhe-1541978d970c)
@@ -160,6 +166,7 @@
 - [Como o princípio de ancoragem pode melhorar a vida dos usuários](https://brasil.uxdesign.cc/como-o-principio-de-ancoragem-pode-melhorar-a-vida-dos-usuarios-cccdd4d5104e)
 - [Por que é importante que um UX designer conheça o básico de programação?](https://brasil.uxdesign.cc/por-que-é-importante-que-um-ux-designer-conheça-o-básico-de-programação-482231d25e6f)
 - [Framework — o coração de um produto digital](https://brasil.uxdesign.cc/framework-o-coração-de-um-produto-digital-dd4ace8b262f)
+- [Como criar uma jornada melhor para o seu usuário?](https://brasil.uxdesign.cc/como-criar-uma-jornada-melhor-para-o-seu-usuário-625f5ace4d)
 
 ## UI
 
@@ -182,6 +189,7 @@
 - [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
 - [Um guia simplificado sobre design de ícones](https://www.designerd.com.br/guia-simplificado-design-de-icones/)
 - [Fundamentals of layout in user interface design (UI)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)
+- [7 Rules for Creating Gorgeous UI (Updated for 2020)](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
 
 ## Web Design
 
@@ -212,6 +220,7 @@
 - [Getting Started with Wireframes](https://blog.nicolesaidy.com/getting-started-with-wireframes-8aff9b92a4c0)
 - [5 Steps for a Successful Website Design](https://blog.nicolesaidy.com/5-steps-for-a-successful-website-design-90290066f326)
 - [Ferramentas essenciais para um designer web](https://medium.com/ui-lab-school/https-medium-com-carlyson-ferramentas-essenciais-para-um-designer-web-5b630add8649)
+- [Tipos de navegação web: do Desktop ao Mobile](https://brasil.uxdesign.cc/tipos-de-navegação-web-do-desktop-ao-mobile-db5751c1b4cb)
 
 ## Arquitetura de Informação
 
@@ -250,6 +259,9 @@
 - [O Figma variants e a construção de um guia de estilos](https://brasil.uxdesign.cc/o-figma-variants-e-a-construção-de-um-styleguide-d9008caad9bd)
 - [Interfaces dinâmicas e otimização de processos de UI com o autolayout do Figma](https://brasil.uxdesign.cc/utilizando-o-novo-autolayout-do-figma-para-construir-interfaces-escaláveis-dinâmicas-e-responsivas-ef3c40eb6c59)
 - [Como criar um guia de estilo e linguagem em 3 etapas](https://brasil.uxdesign.cc/como-criar-um-guia-de-estilo-e-linguagem-em-3-etapas-a98f1714302f)
+- [Como as heurísticas de Nielsen podem ajudar a desenvolver um design system?](https://brasil.uxdesign.cc/como-as-heur%C3%ADsticas-de-nielsen-podem-ajudar-a-desenvolver-o-design-system-a6a943bf9d55)
+- [Style guide: porque, quando, como e onde criar um](https://brasil.uxdesign.cc/style-guide-por-que-quando-como-e-onde-criar-um-f7b173006740)
+- [Como criar uma documentação funcional e enxuta para Design System](https://brasil.uxdesign.cc/como-criar-uma-documentação-funcional-e-enxuta-para-design-system-no-zeplin-e-sketch-ou-outros-7aed3213fbc3)
 
 ## Atomic Design
 

@@ -9,6 +9,7 @@
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 - [CSS Reference](http://cssreference.io/)
+- [CSS Tips](https://markodenic.com/css-tips/)
 - [A list of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
 - [Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS)
 - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
@@ -41,6 +42,7 @@
 - [Tabela de Referência de Seletores de CSS](https://tableless.com.br/referencia-seletores-css/)
 - [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
 - [Usando styled-components no React](https://01dev.codes/usando-styled-components-react/)
+- [Criando componente de Tipografia com styled-components](https://willianjusten.com.br/criando-componente-de-tipografia-com-styled-components/)
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
 - [Combinação de seletores CSS](https://desenvolvimentoparaweb.com/css/combinacao-seletores-css/)
 - [CSS e o Contexto de Formatação de Bloco (Block Formatting Context)](https://desenvolvimentoparaweb.com/css/css-contexto-de-formatacao-de-bloco-block-formatting-context/)
@@ -80,7 +82,9 @@
 - [@property: variáveis CSS com superpoderes](https://desenvolvimentoparaweb.com/css/property-css/)
 - [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web)
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
+- [Dark Mode Stylesheet](https://soffes.blog/dark-mode-stylesheet)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
+- [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
 - [Centering in CSS](https://web.dev/centering-in-css/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
@@ -96,6 +100,14 @@
 - [Position fixed vs position sticky](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/)
 - [Técnicas CSS para elementos de cobertura](https://desenvolvimentoparaweb.com/css/elementos-cobertura-css/)
 - [O que é possível colocar em uma variável CSS?](https://desenvolvimentoparaweb.com/css/variaveis-css-valores-possiveis/)
+- [Como encontrar o elemento-pai relativo mais próximo](https://desenvolvimentoparaweb.com/css/como-encontrar-o-elemento-pai-relativo-mais-proximo/)
+- [CSS mask-image: mascaramento CSS nativo](https://desenvolvimentoparaweb.com/css/css-mask-image/)
+- [The Beauty Of Tiny Enhancements In CSS](https://ishadeed.com/article/tiny-enhancements-in-css/)\
+- [How to Stack Elements in CSS](https://css-tricks.com/how-to-stack-elements-in-css/)
+- [Understanding Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
+- [Did You Know About the :has CSS Selector?](https://css-tricks.com/did-you-know-about-the-has-css-selector/)
+- [A DRY Approach to Color Themes in CSS](https://css-tricks.com/a-dry-approach-to-color-themes-in-css/)
+- [How to display language-specific quotes in CSS](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
 
 ## Animações
 
@@ -109,6 +121,7 @@
 - [150+ Amazing Examples of CSS Animation & Effects](https://1stwebdesigner.com/css-effects/)
 - [Using CSS3 Pseudo-Classes and Transitions to Create Interactive Links and Buttons](https://www.developerdrive.com/using-css3-pseudo-classes-and-transitions-to-create-interactive-links-and-buttons/)
 - [CSS Animations - Guia de bolso](https://daliannyvieira.gitbooks.io/css-animations-pocket-guide/content/)
+- [100 underline/overlay animations | The ultimate CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
 
 ## Mobile
 
@@ -188,6 +201,7 @@
 - [CSS Flexbox – Um Guia Interativo (Parte 2 – Itens)](https://www.treinaweb.com.br/blog/css-flexbox-um-guia-interativo-parte-2-itens/)
 - [Flexbox: como passar para a próxima linha fácil](https://desenvolvimentoparaweb.com/css/flexbox-quebrar-proxima-linha-breakline/)
 - [CSS Flexbox para quem não sabe CSS: usando o Figma para entender os princípios](https://brasil.uxdesign.cc/css-flexbox-para-quem-não-sabe-css-usando-o-figma-para-entender-os-princ%C3%ADpios-3869e920a0c6)
+- [place-self](https://developer.mozilla.org/en-US/docs/Web/CSS/place-self)
 
 ## Grid Layout
 

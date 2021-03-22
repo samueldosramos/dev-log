@@ -8,6 +8,7 @@
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
 - [#2 - Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
 - [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
+- [React — Um guia em construção](https://medium.com/react-um-guia-em-construção)
 - [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
 - [Como começar a sua aplicação React em poucos minutos](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82)
 - [Criando a sua primeira aplicação web com React](https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/)
@@ -44,6 +45,7 @@
 - [React Patterns — Começando pelo Render Props](https://medium.com/collabcode/react-patterns-come%C3%A7ando-pelo-render-props-e0040ef723ce)
 - [PropTypes no React](https://medium.com/@fannyvieira/proptypes-in-react-eb5f9d417fb)
 - [Criando componentes realmente reutilizaveis com React](https://eusoudev.com.br/react-componentes-reutilizaveis/)
+- [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 - [Reutilizando componentes React](https://medium.com/trainingcenter/reutilizando-componentes-react-3c27044ceecc)
 - [Entendendo estado de componentes com React na prática](https://imasters.com.br/front-end/entendendo-estado-de-componentes-com-react-na-pratica)
 - [React Fragments](https://getstream.io/blog/react-fragments/)
@@ -60,7 +62,6 @@
 - [Como transformar sua aplicação ReactJs em um PWA (e será que você deve fazer isso?)](https://medium.com/@victorsilvamatheus.i/como-transformar-sua-aplicação-reactjs-em-um-pwa-e-será-que-você-deve-fazer-isso-567a8552c96d)
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
 - [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
-- [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 - [React State](https://www.robinwieruch.de/react-state)
 - [10 Things NOT To Do When Building React Applications](https://jsmanifest.com/10-things-not-to-do-when-building-react-apps/)
 - [8 Practices In React That Will Crash Your App In The Future](https://jsmanifest.com/8-practices-in-react-that-will-crash-your-app-in-the-future/)
@@ -90,8 +91,6 @@
 - [Meu primeiro Higher-Order Component](https://medium.com/reactbrasil/meu-primeiro-higher-order-component-a376efc654a8)
 - [React: Guia Visual para o Modelo Mental do React](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-1d372f9335f9)
 - [React: Guia Visual para o Modelo Mental do React, Parte 2 — useState, useEffect e ciclos de vida](https://oieduardorabelo.medium.com/react-guia-visual-para-o-modelo-mental-do-react-parte-2-usestate-useeffect-e-ciclos-de-vida-c6e204a0aca9)
-- [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
-- [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
 - [React 17 – Conheça o que vai mudar no JSX](https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/)
 - [Catching Asynchronous Errors in React using Error Boundaries](https://medium.com/trabe/catching-asynchronous-errors-in-react-using-error-boundaries-5e8a5fd7b971)
 - [Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
@@ -119,6 +118,8 @@
 - [Injetando código no carregamento de um componente usando Hooks](https://01dev.codes/didmount-hooks-react/)
 - [Cancelar requisições Fetch em React useEffect](https://oieduardorabelo.medium.com/cancelar-requisições-fetch-em-react-useeffect-5a81c94f506b)
 - [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/)
+- [8 helpful custom React Hooks](https://www.benmvp.com/blog/8-helpful-custom-react-hooks/)
+- [The easy-peasy React state management library](https://flaviocopes.com/react-easy-peasy/)
 
 ## Context API
 
@@ -153,6 +154,15 @@
 - [React + MobX, lições aprendidas](https://medium.com/@caiovaccaro/react-mobx-lições-aprendidas-656b5232dec)
 - [Redux com React Hooks](https://medium.com/trainingcenter/usando-useselector-e-usedispatch-8d65a41ce18a)
 
+## React e TypeScript
+
+- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
+- [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
+- [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
+- [Organize suas importações no React com Typescript](https://rmrantunes.medium.com/organize-suas-importações-no-react-com-typescript-348bfc623c60)
+- [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
+
 ## React e Firebase
 
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
@@ -165,6 +175,8 @@
 - [React Act Examples](https://github.com/threepointone/react-act-examples/blob/master/sync.md)
 - [Effective Snapshot Testing](https://kentcdodds.com/blog/effective-snapshot-testing)
 - [React + enzyme + jest (config)](https://medium.com/trainingcenter/react-enzyme-jest-config-6cb2a585f658)
+- [Debugando e agilizando testes na React Testing Library](https://willianjusten.com.br/debugando-e-agilizando-testes-na-react-testing-library/)
+- [Testes de front React com Storybook, Jest e Chromatic](https://www.luiztools.com.br/post/testes-de-front-react-com-storybook-jest-e-chromatic/)
 
 ## Design System
 
