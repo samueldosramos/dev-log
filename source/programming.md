@@ -60,6 +60,8 @@
 - [Developer Roadmaps](https://roadmap.sh)
 - [Guias de Carreira para Programadores](https://www.devmedia.com.br/guias/)
 - [Dicionário Programação do Zero: entenda os termos da área de Programação](https://blog.cubos.io/dicionario-programacao-do-zero-entenda-os-termos-da-area-de-programacao/)
+- [shortcode.dev](https://shortcode.dev)
+- [DevSamples](https://www.devsamples.com)
 
 ## Cursos pedagógicos
 
@@ -103,3 +105,4 @@
 - [Pluralsight](https://www.pluralsight.com)
 - [Low-Level Academy](https://lowlvl.org)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
+- [Edabit](https://edabit.com)

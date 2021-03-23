@@ -213,6 +213,10 @@
 - [CoreUI](https://coreui.io/icons/)
 - [System UIcons](https://systemuicons.com)
 - [Weather Icons | HTML, CSS](https://codepen.io/collection/DKjzqY)
+- [Heroicons](https://heroicons.com)
+- [Simple Icons](https://simpleicons.org)
+- [Tabler Icons](https://tabler-icons.io/)
+- [CSS.gg](https://css.gg)
 
 ## Imagens/Vídeos
 
@@ -244,8 +248,10 @@
 - [Humaaans - Mix-&-match illustrations library](https://www.humaaans.com)
 - [Ouch! - Free illustrations](https://icons8.com/ouch?)
 - [unDraw](https://undraw.co)
+- [DrawKit](https://www.drawkit.io)
 - [Woobro](https://woobro.design)
 - [nappy](https://www.nappy.co)
+- [Pxfuel](https://www.pxfuel.com)
 
 ## Lorem Ipsum/Dados
 
@@ -260,14 +266,17 @@
 - [Realistic Data Generator](https://www.mockaroo.com/)
 - [Faker - A library for generating fake data](https://github.com/stympy/faker)
 - [Data for AdobeXD Repeat Grid](https://www.repeatgrid.com/)
+- [Lorem Picsum](https://picsum.photos)
 
-## Otimizadores de mídias
+## Otimizadores/compressores
 
 - [Smart PNG and JPEG compression](https://tinypng.com/)
 - [Convert any image format into optimized JPEG](https://www.jpeg.io/)
 - [Awesome JPG PNG Image Compression](https://www.img64.com/)
 - [Optimize video files online](https://compressify.herokuapp.com/)
-- [Squoosh!](https://squoosh.app)
+- [Compressor.io](https://compressor.io)
+- [Compresspng](https://compresspng.com)
+- [Squoosh](https://squoosh.app)
 
 ## Molde para Wireframe
 
@@ -277,7 +286,7 @@
 - [Gridprint](https://gridprint.in/)
 - [Grid System Library](http://grid.kkuistore.com/)
 
-## Patterns
+## Patterns/Backgrounds
 
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Heropatterns](http://www.heropatterns.com/)
@@ -287,6 +296,7 @@
 - [Trianglify.io](https://trianglify.io/)
 - [CCBG](https://www.ccbg.io/generator)
 - [pattern.css](https://bansal.io/pattern-css)
+- [BGJar](https://bgjar.com)
 
 ## Redes de trabalhos freelancer:
 
@@ -361,6 +371,7 @@
 - [freeCodeCamp Guide](https://guide.freecodecamp.org)
 - [Remote Tools](https://remote.tools)
 - [Codacy - Automate your code quality](https://www.codacy.com)
+- [Mockuper](https://mockuper.net)
 
 ## Inspiração
 
@@ -384,3 +395,4 @@
 - [One Page Love](https://onepagelove.com)
 - [UI Movement](https://uimovement.com)
 - [Clubedodesign - Portfólio do leitor](https://clubedodesign.com/tag/portfolio-do-leitor/)
+- [UI Garage](https://uigarage.net)
