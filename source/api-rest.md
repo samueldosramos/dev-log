@@ -78,6 +78,7 @@
 - [99APIs - Maior Hub brasileiro de APIs abertas](http://99apis.com/home)
 - [Search the Largest API Directory on the Web](https://www.programmableweb.com/apis/directory)
 - [Public APIs](https://github.com/toddmotto/public-apis)
+- [Public APIs](https://public-apis.io)
 - [RapidAPI Marketplace](https://rapidapi.com/)
 - [mockAPI](https://www.mockapi.io/)
 - [Mocky](https://www.mocky.io)

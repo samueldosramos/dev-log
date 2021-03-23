@@ -61,6 +61,7 @@
 - [Optional Fields You Should Remove on Your Form](https://uxmovement.com/forms/optional-fields-you-should-remove-on-your-form/)
 - [Why Users Opt Out Forms That Mark Required Fields](https://uxmovement.com/forms/why-users-opt-out-forms-that-mark-required-fields/)
 - [Floating Labels vs. Infield Top-Aligned Labels](https://uxmovement.com/forms/floating-labels-vs-infield-top-aligned-labels/)
+- [The Optimal Way to Mark Optional Form Fields](https://uxmovement.com/forms/the-optimal-way-to-mark-optional-form-fields/)
 - [Manual da marca: sua importância e o que ele deve conter](https://www.treinaweb.com.br/blog/manual-da-marca-sua-importancia-e-o-que-ele-deve-conter/)
 - [Em dúvida ao escolher um nome para seu app, marca ou projeto?](https://www.diolinux.com.br/2019/06/o-nome-perfeito-para-seu-projeto-app-marca.html)
 - [O porquê de apps e websites precisarem de boas construções de UI/UX](https://brasil.uxdesign.cc/o-por-quê-de-apps-e-websites-precisarem-de-boas-construções-de-ui-ux-4cbea93c01bb)

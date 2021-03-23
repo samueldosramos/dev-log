@@ -227,6 +227,7 @@
 - [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [The Holy Grail Layout with CSS Grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
+- [Grid by Example](https://gridbyexample.com)
 
 ## Pré-processadores
 
@@ -257,3 +258,5 @@
 - [CSS Diner](https://flukeout.github.io)
 - [Layoutit - CSS Grid layout generator](https://grid.layoutit.com)
 - [Houdini.how - Worklet Library](https://houdini.how)
+- [Charts.css](https://chartscss.org)
+- [CSS Stats](https://cssstats.com)

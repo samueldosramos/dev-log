@@ -42,3 +42,7 @@
 - [Python para Zumbis](http://pycursos.com/python-para-zumbis/)
 - [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+
+## Utilidades
+
+- [Awesome Python](https://awesome-python.com)

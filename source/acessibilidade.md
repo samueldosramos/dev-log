@@ -68,3 +68,4 @@
 - [a11ymatters - Accessibility Matters](https://www.a11ymatters.com)
 - [Accessibility Reviews](https://a11y.reviews/)
 - [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter/)
+- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
