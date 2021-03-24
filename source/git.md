@@ -76,6 +76,7 @@
 - [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
 - [Corrija apenas conflitos com git rerere](https://www.agatetepe.com.br/corrija-apenas-conflitos-com-git-rerere/)
 - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+- [Boas práticas na criação de milestones, tarefas, pull requests e commits](https://eltonminetto.dev/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 
 ## Tutoriais
 
