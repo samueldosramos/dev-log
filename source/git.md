@@ -48,6 +48,7 @@
 - [Git How To](https://githowto.com/)
 - [Git Básico - Para iniciantes no mundo Git](https://medium.com/contexto-delimitado/como-usar-o-git-fa880674f1dd)
 - [Oh My Git!](https://ohmygit.org)
+- [Guide to Working as Team on Github](https://github.com/Zsailer/guide-to-working-as-team-on-github)
 
 ## Dicas
 
