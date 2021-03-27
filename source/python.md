@@ -36,6 +36,7 @@
 
 - [How To Install Django In Mac](https://appdividend.com/2018/03/28/how-to-install-django-in-mac/)
 - [The Ultimate Visual Studio Code Setup For Django Developers](https://djangocentral.com/visual-studio-code-setup-for-django-developers/)
+- [Minhas bibliotecas favoritas para testes no Django](https://leportella.com/pt-br/django-testes/)
 
 ## Cursos
 

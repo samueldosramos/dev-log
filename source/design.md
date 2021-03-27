@@ -86,6 +86,7 @@
 - [Design Centrado no Usuário: uma abordagem para conquistar melhores resultados](https://blog.novatics.com.br/design-centrado-no-usuário-uma-abordagem-para-conquistar-melhores-resultados-%EF%B8%8F-950e722b6fdb)
 - [The Proper Visual Cues for Common Interface Affordances](https://uxmovement.com/buttons/the-proper-visual-cues-for-common-interface-affordances/)
 - [Jornadas e a gestão de serviços e produtos digitais](https://brasil.uxdesign.cc/jornadas-e-a-gestao-de-servicos-e-produtos-digitais-154e2a1bfc35)
+- [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
 
 ## Tipografia
 
