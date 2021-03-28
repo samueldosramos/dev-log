@@ -97,6 +97,7 @@
 - [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components)
 - [React, focus an item in React when added to the DOM](https://flaviocopes.com/react-focus-input-field/)
 - [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
+- [Deploy de aplicação ReactJS na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-reactjs-na-digital-ocean/)
 
 ## React Hooks
 
