@@ -231,6 +231,8 @@
 - [Node.js com TypeScript](https://www.webdevdrops.com/node-js-typescript/)
 - [O guia completo do package.json do Node.js](https://www.luiztools.com.br/post/o-guia-completo-do-package-json-do-node-js/)
 - [util.format](https://nodejs.org/api/util.html#util_util_format_format_args)
+- [Deploy de aplicação Node.js na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean/)
+- [Deploy de aplicação Node.js na Digital Ocean – Parte 2](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean-2/)
 
 ## TypeScript
 
