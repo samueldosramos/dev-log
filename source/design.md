@@ -192,6 +192,7 @@
 - [Um guia simplificado sobre design de ícones](https://www.designerd.com.br/guia-simplificado-design-de-icones/)
 - [Fundamentals of layout in user interface design (UI)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)
 - [7 Rules for Creating Gorgeous UI (Updated for 2020)](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+- [As Leis da Gestalt aplicadas ao Design de Interfaces](https://brasil.uxdesign.cc/as-leis-da-gestalt-aplicadas-ao-design-de-interfaces-efc480dc06ec)
 
 ## Web Design
 

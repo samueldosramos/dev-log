@@ -25,6 +25,7 @@
 - [O que é BPMN e como ela pode te ajudar a ser um DEV melhor](https://blog.novatics.com.br/o-que-é-bpmn-e-como-ela-pode-te-ajudar-a-ser-um-dev-melhor-9d41ad55003e)
 - [How DNS Works](https://howdns.works)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [O que é programação reativa?](https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa/)
 
 ## Regex
 
