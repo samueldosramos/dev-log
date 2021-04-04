@@ -70,6 +70,7 @@
 - [Understanding Frontend Security](https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534)
 - [Building a Settings component](https://web.dev/building-a-settings-component/)
 - [Arquitetura BFF — Back-end for Front-end](https://medium.com/concretebr/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2)
+- [Como ocultar/revelar menu sticky ao scrollar página](https://01dev.codes/como-ocultar-revelar-menu-sticky-ao-scrollar-pagina/)
 
 ## HTTP
 
