@@ -169,6 +169,8 @@
 - [Por que é importante que um UX designer conheça o básico de programação?](https://brasil.uxdesign.cc/por-que-é-importante-que-um-ux-designer-conheça-o-básico-de-programação-482231d25e6f)
 - [Framework — o coração de um produto digital](https://brasil.uxdesign.cc/framework-o-coração-de-um-produto-digital-dd4ace8b262f)
 - [Como criar uma jornada melhor para o seu usuário?](https://brasil.uxdesign.cc/como-criar-uma-jornada-melhor-para-o-seu-usuário-625f5ace4d)
+- [Anthology of Mute Buttons in Voice Chat Apps](https://daverupert.com/2019/04/anthology-of-mute-buttons-in-chat-apps/)
+- [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
 
 ## UI
 

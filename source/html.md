@@ -34,6 +34,7 @@
 - [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
 - [KeyboardEvent Value (keyCodes, metaKey, etc)](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 - [HTML básico - códigos HTML](https://www.devmedia.com.br/html-basico-codigos-html/16596)
+- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 
 ## DOM
 

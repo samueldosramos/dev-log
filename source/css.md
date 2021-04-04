@@ -109,6 +109,7 @@
 - [A DRY Approach to Color Themes in CSS](https://css-tricks.com/a-dry-approach-to-color-themes-in-css/)
 - [How to display language-specific quotes in CSS](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
 - [Entendendo os valores ‘initial’ e ‘inherit’ do CSS](https://tableless.com.br/entendendo-os-valores-initial-e-inherit-do-css/)
+- [Sass vars, CSS vars, and semantic theme vars](https://daverupert.com/2020/10/variable-layers/)
 
 ## Animações
 
