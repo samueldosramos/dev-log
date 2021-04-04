@@ -60,6 +60,7 @@
 - [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/)
 - [Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 - [Como transformar sua aplicação ReactJs em um PWA (e será que você deve fazer isso?)](https://medium.com/@victorsilvamatheus.i/como-transformar-sua-aplicação-reactjs-em-um-pwa-e-será-que-você-deve-fazer-isso-567a8552c96d)
+- [Transforme seu site (PWA ou não) em aplicativo na Play e App Store](https://01dev.codes/transforme-seu-site-pwa-ou-nao-em-aplicativo/)
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
 - [14 Beneficial Tips to Write Cleaner Code in React Apps](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
 - [React State](https://www.robinwieruch.de/react-state)
@@ -98,6 +99,7 @@
 - [React, focus an item in React when added to the DOM](https://flaviocopes.com/react-focus-input-field/)
 - [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 - [Deploy de aplicação ReactJS na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-reactjs-na-digital-ocean/)
+- [Usando React Fast Refresh no create-react-app](https://01dev.codes/usando-react-fast-refresh-no-create-react-app/)
 
 ## React Hooks
 

@@ -100,6 +100,7 @@
 - [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
 - [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
 - [What are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
+- [Estruturando projetos JavaScript com Monorepo](https://01dev.codes/estruturando-projetos-js-com-monorepo/)
 
 ## Dicas
 
