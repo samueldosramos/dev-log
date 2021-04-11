@@ -2,6 +2,7 @@
 
 ## Geral
 
+- [The Paradox of Simplification](https://www.bram.us/2021/02/21/the-paradox-of-simplification/)
 - [Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
 - [10 maneiras de se tornar um melhor designer](https://chocoladesign.com/10-maneiras-de-se-tornar-um-melhor-designer-9784c2d991fb)
 - [Don Norman e seus princípios de design](https://uxdesign.blog.br/don-norman-e-seus-princ%C3%ADpios-de-design-fe063669184d)
@@ -48,14 +49,15 @@
 - [Don’t Use Inverted Color Cues on Toggle Buttons](https://uxmovement.com/buttons/dont-use-inverted-color-cues-on-toggle-buttons/)
 - [Why Toggle Tokens Are a Better Alternative to Checkboxes](https://uxmovement.com/forms/why-toggle-tokens-are-a-better-alternative-to-checkboxes/)
 - [Why Radio Buttons and Checkboxes Can’t Co-Exist](https://uxmovement.com/forms/why-radio-buttons-and-checkboxes-cant-co-exist/)
-- [10 Usability Mistakes Most Designers Make on Checkboxes](https://uxmovement.com/forms/10-usability-mistakes-most-designers-make-on-checkboxes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
+- [10 Usability Mistakes Most Designers Make on Checkboxes](https://uxmovement.com/forms/10-usability-mistakes-most-designers-make-on-checkboxes)
+- [“Yes or No?” — One Checkbox vs Two Radio Buttons](https://www.bram.us/2020/12/28/yes-or-no-one-checkbox-vs-two-radio-buttons/)
 - [4 Ways to Apply Progressive Disclosure for Better Task Focus](https://uxmovement.com/mobile/4-ways-to-apply-progressive-disclosure-for-better-task-focus/)
 - [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/)
 - [The “Hover Effect” for Mobile Buttons](https://uxmovement.com/mobile/the-hover-effect-for-mobile-buttons/)
 - [Where to put buttons on forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
 - [Why “Remember Me” on Logins Should Be the Default](https://uxmovement.com/forms/why-remember-me-on-logins-should-be-the-default/)
-- [Why Signups & Logins Should Open in a Right Form Drawer](https://uxmovement.com/forms/why-signups-logins-should-open-in-a-right-form-drawer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29)
+- [Why Signups & Logins Should Open in a Right Form Drawer](https://uxmovement.com/forms/why-signups-logins-should-open-in-a-right-form-drawer)
 - [Text fields & Forms design — UI components series](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
 - [Single-Page vs. Multi-Page Forms: When to Use Which](https://uxmovement.com/forms/single-page-vs-multi-page-forms-when-to-use-which/)
 - [Optional Fields You Should Remove on Your Form](https://uxmovement.com/forms/optional-fields-you-should-remove-on-your-form/)
@@ -87,6 +89,8 @@
 - [The Proper Visual Cues for Common Interface Affordances](https://uxmovement.com/buttons/the-proper-visual-cues-for-common-interface-affordances/)
 - [Jornadas e a gestão de serviços e produtos digitais](https://brasil.uxdesign.cc/jornadas-e-a-gestao-de-servicos-e-produtos-digitais-154e2a1bfc35)
 - [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
+- [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
+- [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
 
 ## Tipografia
 
@@ -115,6 +119,7 @@
 - [Lettering - fundamentos básicos](https://www.saibala.com.br/lettering-fundamentos-basicos---32/rafael.costa)
 - [Better Web Typography For A Better Web](https://betterwebtype.com)
 - [Como melhorar a legibilidade de textos na Web](https://desenvolvimentoparaweb.com/css/melhorar-legibilidade-textos-web/)
+- [CSS System Fonts](https://flaviocopes.com/css-system-fonts/)
 
 ## Cores
 
@@ -226,6 +231,7 @@
 - [5 Steps for a Successful Website Design](https://blog.nicolesaidy.com/5-steps-for-a-successful-website-design-90290066f326)
 - [Ferramentas essenciais para um designer web](https://medium.com/ui-lab-school/https-medium-com-carlyson-ferramentas-essenciais-para-um-designer-web-5b630add8649)
 - [Tipos de navegação web: do Desktop ao Mobile](https://brasil.uxdesign.cc/tipos-de-navegação-web-do-desktop-ao-mobile-db5751c1b4cb)
+- [Design Principles For The Web](https://adactio.com/articles/17733)
 
 ## Arquitetura de Informação
 

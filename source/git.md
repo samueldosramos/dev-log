@@ -79,6 +79,7 @@
 - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](https://eltonminetto.dev/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 - [Fatal: Not possible to fast-forward, aborting](https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting/43460847)
+- [Manage your DNS from GitHub with DNSControl](https://svenluijten.com/manage-your-dns-from-github-with-dnscontrol)
 
 ## Tutoriais
 
@@ -153,6 +154,7 @@
 - [Criar SSH Keys em sistemas UNIX](https://adrianorosa.com/blog/seguranca/como-criar-ssh-key-pair-unix.html)
 - [Upgrade Your SSH Key to Ed25519](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 - [SSH-keygen - Generate a new SSH key](https://www.ssh.com/ssh/keygen/)
+- [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
 
 ## GPG
 
@@ -163,6 +165,7 @@
 - [Trabalhando com OpenPGP: assinatura digital e criptografia](http://www.guicolandia.net/trabalhando-com-openpgp-assinatura-digital-e-criptografia.html)
 - [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
 - [Signing your Git Commits using GPG on MacOS Sierra/High Sierra Raw](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e)
+- [How (and why) to sign Git commits](https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html)
 - [GPG Keys Cheatsheet](https://easyengine.io/tutorials/linux/gpg-keys/)
 
 ## Utilidades

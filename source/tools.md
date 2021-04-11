@@ -24,6 +24,7 @@
 - [Popmotion](https://popmotion.io)
 - [Bounce.js](http://bouncejs.com)
 - [AnimXYZ](https://animxyz.com)
+- [transition.css](https://www.transition.style)
 
 ## Boilerplates
 
@@ -73,6 +74,7 @@
 - [ColorSpace](https://mycolor.space/)
 - [Picular - Google, but for colors](https://picular.co/)
 - [Eva Design System](https://colors.eva.design)
+- [Parametric Color Mixer](https://colormixer.web.app/)
 
 ## CSS
 
@@ -122,6 +124,7 @@
 - [Canva - Editor de foto](https://www.canva.com/photo-editor/)
 - [Pablo - Criação de imagens para redes sociais](https://pablo.buffer.com/)
 - [Photopea](https://www.photopea.com)
+- [Pixelr](https://pixelr.art)
 
 ## Fonts
 
@@ -217,6 +220,7 @@
 - [Simple Icons](https://simpleicons.org)
 - [Tabler Icons](https://tabler-icons.io/)
 - [CSS.gg](https://css.gg)
+- [Iconduck](https://iconduck.com)
 
 ## Imagens/Vídeos
 

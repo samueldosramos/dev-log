@@ -35,6 +35,8 @@
 - [KeyboardEvent Value (keyCodes, metaKey, etc)](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 - [HTML básico - códigos HTML](https://www.devmedia.com.br/html-basico-codigos-html/16596)
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+- [Implement footnotes in HTML with the <ruby> element](https://www.bram.us/2021/01/24/implement-footnotes-in-html-with-the-ruby-element/)
+- [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
 ## DOM
 
@@ -45,6 +47,7 @@
 - [How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 - [The importance of timing when working with the DOM](https://flaviocopes.com/dom-timing/)
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
+- [Observing rendered DOM nodes](https://whistlr.info/2021/observing-dom/)
 
 ## Utilidades
 
