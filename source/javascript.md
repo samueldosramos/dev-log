@@ -15,8 +15,6 @@
 - [Entendendo o uso de escopo no JavaScript](https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba)
 - [Macros no JavaScript](https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c)
 - [Laços de repetição: for, for...in, for...of](https://woliveiras.com.br/posts/laços-de-repetição-for-for-in-for-of/)
-- [Melhorando a performance do Javascript](http://letanure.github.io/javascript/2015/02/25/melhorando-a-performance-do-javascript/)
-- [Três dicas de performance javascript](https://serfrontend.com/blog/tres-dicas-de-performance-javascript/)
 - [Sobre Data Atributes e JavaScript](https://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript)
 - [4 Regras para Entender o ‘this’ no JavaScript](https://blog.dmatoso.com/javascript-this-71dd763aad52)
 - [Explorando o javascript. filter, forEach, map, reduce, every e some](http://clovisdasilvaneto.github.io/explorando-javascript-filter-reduce-map-every-some-e-foreach/)
@@ -101,6 +99,14 @@
 - [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
 - [What are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
 - [Estruturando projetos JavaScript com Monorepo](https://01dev.codes/estruturando-projetos-js-com-monorepo/)
+- [How to use window.prompt()](https://flaviocopes.com/javascript-prompt/)
+- [How to lazy load and initialize elements using an Intersection Observer](https://advancedweb.hu/how-to-lazy-load-and-initialize-elements-using-an-intersection-observer/)
+- [Asynchronous array functions in Javascript](https://advancedweb.hu/asynchronous-array-functions-in-javascript/)
+- [Comparing async Javascript functions and callbacks on AWS Lambda](https://advancedweb.hu/comparing-async-javascript-functions-and-callbacks-on-aws-lambda/)
+- [How to refactor a Promise chain to async functions](https://advancedweb.hu/how-to-refactor-a-promise-chain-to-async-functions/)
+- [How to serialize calls to an async function](https://advancedweb.hu/how-to-serialize-calls-to-an-async-function/)
+- [What is the async disposer pattern in Javascript](https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript/)
+- [Cancel JavaScript Event Listeners with AbortController](https://www.bram.us/2021/01/24/cancel-javascript-event-listeners-with-abortcontroller/)
 
 ## Dicas
 
@@ -119,8 +125,10 @@
 - [4 Dicas úteis de strings para JavaScript](https://medium.com/@crp_underground/4-dicas-úteis-de-strings-para-javascript-78cd20954cf2)
 - [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks)
 - [JavaScript: Eliminando Dependências Circulares](https://dev.to/oieduardorabelo/javascript-eliminando-dependencias-circulares-3hcj)
+- [Everything You Need to Know About Date in JavaScript](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
 - [Javascript Date: Aprenda a usar Data e Hora](https://blog.betrybe.com/javascript/javascript-date/)
+- [How to display dates in your user’s time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
@@ -146,10 +154,11 @@
 - [Top 3 New JavaScript ES 2021 (ES 12) Features I Am Excited About](https://dev.to/nickbulljs/top-3-new-javascript-es-2021-es-12-features-i-am-excited-about-5e8p)
 - [How to sort an array by date value in JavaScript](https://flaviocopes.com/how-to-sort-array-by-date-javascript/)
 - [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
-- [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
 - [Diferença location.href ou location.assign](https://pt.stackoverflow.com/questions/246772/diferença-location-href-ou-location-assign)
 - [JavaScript Tips](https://markodenic.com/javascript-tips/)
 - [Juntando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/juntando-arrays-e-objetos-com-spread-syntax-no-javascript/)
+- [Watch: JavaScript apps going Inter-Planetary](https://withblue.ink/2020/01/21/watch-javascript-apps-going-inter-planetary.html)
+- [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://www.bram.us/2021/03/02/dependency-confusion-how-i-hacked-into-apple-microsoft-and-dozens-of-other-companies/)
 
 ## Estrutura de dados
 
@@ -227,6 +236,7 @@
 - [util.format](https://nodejs.org/api/util.html#util_util_format_format_args)
 - [Deploy de aplicação Node.js na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean/)
 - [Deploy de aplicação Node.js na Digital Ocean – Parte 2](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean-2/)
+- [Secure tempfiles in NodeJS without dependencies](https://advancedweb.hu/secure-tempfiles-in-nodejs-without-dependencies/)
 
 ## TypeScript
 

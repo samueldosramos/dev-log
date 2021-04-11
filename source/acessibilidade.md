@@ -21,6 +21,7 @@
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Porque o “Como começar” com acessibilidade não deveria existir?](http://liviagabos.com/2020/05/porque-o-como-comecar-com-acessibilidade-nao-deveria-existir/)
 - [Texto alternativo o guia definitivo](https://www.brunopulis.com/acessibilidade/texto-alternativo-o-guia-definitivo/)
+- [Alt vs Figcaption](https://thoughtbot.com/blog/alt-vs-figcaption)
 - [Princípios do design inclusivo](http://www.designinclusivo.com)
 - [Top 10 Web Accessibility Standards Every Developer Should Know](https://dev.to/mlimonczenko/top-10-web-accessibility-standards-every-developer-should-know-5cih)
 - [Escrever com “x” não é linguagem neutra](https://medium.com/qg-feminista/escrever-com-x-não-é-linguagem-neutra-f40f715c0b29)
@@ -42,6 +43,7 @@
 - [Usabilidade x Acessibilidade: quais as diferenças e relações](https://www.treinaweb.com.br/blog/usabilidade-x-acessibilidade-quais-as-diferencas-e-relacoes/)
 - [Placeholders: uma ameaça à acessibilidade digital](https://brasil.uxdesign.cc/placeholders-uma-ameaça-à-acessibilidade-digital-5d4d85dd05fb)
 - [Acessibilidade digital: fator de socialização para pessoas com deficiência](https://brasil.uxdesign.cc/acessibilidade-digital-fator-de-socialização-para-pessoas-com-deficiência-499717b8b3e8)
+- [Accessible front-end components: claims vs reality](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
 
 ## Utilidades
 

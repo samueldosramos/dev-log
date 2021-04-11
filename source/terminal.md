@@ -1,5 +1,7 @@
 # Terminal
 
+## Introdução
+
 - [Dicas de Terminal](https://udgwebdev.com/dicas-de-terminal/)
 - [Qual a importância da linha de comando ou console para web designers?](http://elias.praciano.com/2015/04/qual-a-importancia-da-linha-de-comando-ou-console-para-web-designers/)
 - [Conhecendo variáveis e arquivos de configuração do Bash](https://canaltech.com.br/linux/conhecendo-variaveis-e-arquivos-de-configuracao-do-bash/)
@@ -8,6 +10,9 @@
 - [Terminals Are Sexy ](https://terminalsare.sexy/)
 - [Caixa de Ferramentas do Unix](https://github.com/gabrielscosta/caixaDeFerramentasDoUnix)
 - [Bash-it](https://terminalsare.sexy/)
+- [How to mock in Bash tests](https://advancedweb.hu/how-to-mock-in-bash-tests/)
+- [Unit testing Bash scripts](https://advancedweb.hu/unit-testing-bash-scripts/)
+- [Debugging Bash scripts](https://advancedweb.hu/debugging-bash-scripts/)
 
 ## Personalização
 

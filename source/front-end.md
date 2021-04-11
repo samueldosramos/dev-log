@@ -31,6 +31,7 @@
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 - [Preparing your website for the iPhone X](http://chrisltd.com/blog/2017/09/preparing-your-website-for-the-iphone-x)
 - [Trabalhando com a tela útil do iPhone](https://willianjusten.com.br/trabalhando-com-a-tela-util-do-iphone/)
+- [Local Testing on an iPhone](https://www.joshwcomeau.com/blog/local-testing-on-an-iphone/)
 - [Tecnologia web para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web)
 - [Como Funcionam as Comunicações Web](http://webdevacademy.com.br/artigos/como-funcionam-comunicacoes-web/)
 - [Falando de Front-end: Entendendo o processo para renderizar uma página web](https://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/)
@@ -71,6 +72,8 @@
 - [Building a Settings component](https://web.dev/building-a-settings-component/)
 - [Arquitetura BFF — Back-end for Front-end](https://medium.com/concretebr/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2)
 - [Como ocultar/revelar menu sticky ao scrollar página](https://01dev.codes/como-ocultar-revelar-menu-sticky-ao-scrollar-pagina/)
+- [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+- [The Art of Building Real-life Components](https://ishadeed.com/article/building-real-life-components/)
 
 ## HTTP
 
@@ -101,8 +104,10 @@
 - [String substitution and formatting](https://developers.google.com/web/tools/chrome-devtools/console/console-write#string_substitution_and_formatting)
 - [Using string substitutions](https://developer.mozilla.org/en-US/docs/Web/API/Console#Using_string_substitutions)
 - [Formatting console.log output](https://docs.microsoft.com/en-gb/visualstudio/debugger/javascript-console-commands?view=vs-2017&viewFallbackFrom=vs-2019#ConsoleLog)
+- [How to debug CSS by bisecting](https://flaviocopes.com/css-debugging-bisect/)
+- [Debug/Inspect z-index stacking with the “CSS Stacking Context Inspector” DevTools extension](https://www.bram.us/2021/04/01/debug-inspect-z-index-stacking-with-the-css-stacking-context-inspector-devtools-extension/)
 
-## Otimização
+## Otimização/Performance
 
 - [Por uma Web mais rápida: 26 técnicas de otimização de Sites](http://blog.caelum.com.br/por-uma-web-mais-rapida-26-tecnicas-de-otimizacao-de-sites/#l2)
 - [5 maneiras de tornar o seu site menor e mais rápido](https://imasters.com.br/front-end/css/5-maneiras-de-tornar-o-seu-site-menor-e-mais-rapido/)
@@ -122,14 +127,22 @@
 - [Em performance Web, o que é velocidade?](https://desenvolvimentoparaweb.com/ux/performance-web-velocidade/)
 - [Testes de Performance JavaScript](https://www.treinaweb.com.br/blog/testes-de-performance-javascript/)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [Site-Speed Topography](https://csswizardry.com/2020/11/site-speed-topography/)
+- [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/)
+- [Melhorando a performance do Javascript](http://letanure.github.io/javascript/2015/02/25/melhorando-a-performance-do-javascript/)
+- [Três dicas de performance javascript](https://serfrontend.com/blog/tres-dicas-de-performance-javascript/)
+- [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
+- [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
+- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 
-## SPA
+## SPA/PWA
 
 - [Progressive Web Apps Training - Web Fundamentals](https://developers.google.com/web/ilt/pwa)
 - [Descomplicando SPA’s](https://medium.com/trainingcenter/descomplicando-spas-caa8f57bdbf3)
 - [SPA e SSR: quais as diferenças?](https://www.treinaweb.com.br/blog/spa-e-ssr-quais-as-diferencas/)
 - [Renderização de aplicações modernas](https://gabrieluizramos.com.br/renderizacao-de-aplicacoes-modernas)
 - [5 maiores erros de segurança em Single Page Apps](https://blog.novatics.com.br/5-maiores-erros-de-segurança-em-single-page-apps-4083044c2292)
+- [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 
 ## Web Components
 
@@ -153,6 +166,7 @@
 - [Bem-vindo ao Polymer 3 - #01](https://larissaabreu.dev/bem-vindo-ao-polymer-03-criando-um-elemento/)
 - [Bem-vindo ao Polymer 3 - #02](https://larissaabreu.dev/bem-vindo-ao-polymer-03-adicionando-filhos/)
 - [Bem-vindo ao Polymer 3 - #03](https://larissaabreu.dev/bem-vindo-ao-polymer-03-definindo-propriedades/)
+- [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 
 ## WebSockets
 

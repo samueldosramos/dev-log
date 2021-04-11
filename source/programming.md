@@ -26,6 +26,7 @@
 - [How DNS Works](https://howdns.works)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [O que é programação reativa?](https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa/)
+- [A Visual Guide: To Sustainable Software Engineering](https://techcommunity.microsoft.com/t5/green-tech-blog/a-visual-guide-to-sustainable-software-engineering/ba-p/2130034?WT.mc_id=green-15747-ninarasi)
 
 ## Regex
 
@@ -109,3 +110,4 @@
 - [Low-Level Academy](https://lowlvl.org)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
 - [Edabit](https://edabit.com)
+- [My favorite courses to learn Software Architecture in 2021 — Best of Lot](https://medium.com/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)

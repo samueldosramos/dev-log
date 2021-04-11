@@ -100,6 +100,9 @@
 - [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 - [Deploy de aplicação ReactJS na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-reactjs-na-digital-ocean/)
 - [Usando React Fast Refresh no create-react-app](https://01dev.codes/usando-react-fast-refresh-no-create-react-app/)
+- [Animated Sparkles in React](https://www.joshwcomeau.com/react/animated-sparkles-in-react/)
+- [Accessible Animations in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
+- [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 
 ## React Hooks
 

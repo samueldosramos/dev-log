@@ -10,14 +10,20 @@
 - [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 - [CSS Reference](http://cssreference.io/)
 - [CSS Tips](https://markodenic.com/css-tips/)
+- [Introduction to CSS](https://flaviocopes.com/css-introduction/)
+- [CSS Specificity](https://flaviocopes.com/css-specificity/)
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
 - [A list of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
 - [Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS)
+- [Guide to Advanced CSS Selectors - Part One](https://moderncss.dev/guide-to-advanced-css-selectors-part-one/)
+- [Guide to Advanced CSS Selectors - Part Two](https://moderncss.dev/guide-to-advanced-css-selectors-part-two/)
 - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [70 dicas para escrever CSS](http://www.maujor.com/blog/2007/05/29/70-dicas-para-escrever-css/)
 - [30 CSS Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
 - [11 regras CSS que todo desenvolvedor web deve saber](http://wpmidia.com.br/desenvolvimento-web/11-regras-css-todo-desenvolvedor-web-deve-saber/)
 - [12 regras CSS que poucos conhecem](http://glauberramos.com/12-regras-css-poucos-conhecem.html)
 - [20 Essential CSS Tricks Every Designer Should Know](https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/)
+- [CSS Units](https://flaviocopes.com/css-units/)
 - [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
 - [CSS com unidades de medida modernas](https://coderi.com.br/2016/03/12/css-com-unidades-de-medida-modernas/)
 - [O Incrível Em & Layouts Elásticos com CSS](https://codeinbrasil.wordpress.com/2013/05/08/o-incrivel-em-layouts-elasticos-com-css/)
@@ -83,6 +89,7 @@
 - [Implementando dark mode em conteúdo web](https://nandovieira.com.br/implementando-dark-mode-em-conteudo-web)
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
 - [Dark Mode Stylesheet](https://soffes.blog/dark-mode-stylesheet)
+- [Dark mode in 5 minutes, with inverted lightness variables](https://www.bram.us/2021/04/03/dark-mode-in-5-minutes-with-inverted-lightness-variables/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
@@ -110,11 +117,22 @@
 - [How to display language-specific quotes in CSS](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
 - [Entendendo os valores ‘initial’ e ‘inherit’ do CSS](https://tableless.com.br/entendendo-os-valores-initial-e-inherit-do-css/)
 - [Sass vars, CSS vars, and semantic theme vars](https://daverupert.com/2020/10/variable-layers/)
+- [How to apply padding to multiple lines in CSS](https://flaviocopes.com/css-padding-multiple-lines/)
+- [Digging Into CSS Logical Properties](https://ishadeed.com/article/css-logical-properties/)
+- [Getting the Mouse Position using CSS](https://www.bram.us/2021/03/03/mapping-mouse-position-in-css-demo/)
+- [Diving into the ::before and ::after Pseudo-Elements](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/)
+- [Style Spelling and Grammar Errors with the ::spelling-error and ::grammar-error pseudo-elements](https://www.bram.us/2021/02/21/the-future-of-css-style-spelling-and-grammar-errors-with-pseudo-elements/)
+- [Understanding Z-Index in CSS](https://ishadeed.com/article/understanding-z-index/)
+- [:focus-visible Is Here](https://www.bram.us/2021/01/28/focus-visible-is-here/)
+- [Form Validation: You want :not(:focus):invalid, not :invalid](https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/)
+- [The future of CSS: Higher Level Custom Properties to control multiple declarations](https://www.bram.us/2020/12/30/the-future-of-css-higher-level-custom-properties-to-control-multiple-declarations/)
 
 ## Animações
 
 - [Introdução a CSS Animations](http://valdirviana.me/introducao-a-css-animations/)
 - [Introdução a Animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-introducao/)
+- [An introductory guide to CSS Transitions](https://flaviocopes.com/css-transitions/)
+- [CSS Transforms](https://flaviocopes.com/css-transforms/)
 - [Animação de loading com CSS puro](https://desenvolvimentoparaweb.com/css/animacao-loading-css/)
 - [Jumps: o novo steps() em Web Animation](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
 - [Os benefícios de performance de animações CSS](https://desenvolvimentoparaweb.com/css/animacoes-css-beneficios-performance/)
@@ -124,10 +142,16 @@
 - [Using CSS3 Pseudo-Classes and Transitions to Create Interactive Links and Buttons](https://www.developerdrive.com/using-css3-pseudo-classes-and-transitions-to-create-interactive-links-and-buttons/)
 - [CSS Animations - Guia de bolso](https://daliannyvieira.gitbooks.io/css-animations-pocket-guide/content/)
 - [100 underline/overlay animations | The ultimate CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
+- [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+- [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
+- [Animating a CSS Gradient Border](https://www.bram.us/2021/01/29/animating-a-css-gradient-border/)
+- [Using Emoji as the Mouse Cursor on a Webpage](https://www.bram.us/2021/01/17/using-emoji-as-the-mouse-cursor-on-a-webpage/)
 
-## Mobile
+## Responsividade
 
+- [Responsible Web Applications](https://responsibleweb.app)
 - [Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
+- [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 - [CSS Modular com Mobile First](https://www.felipefialho.com/blog/2014/css-modular-com-mobile-first)
 - [Componentes responsivos](http://www.raphaelfabeni.com.br/componentes-responsivos/)
 - [Introdução sobre Media Queries](https://tableless.com.br/introducao-sobre-media-queries/)
@@ -151,6 +175,7 @@
 - [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 - [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
 - [Algumas coisas que você deve saber ao trabalhar com unidades de viewport](https://desenvolvimentoparaweb.com/css/algumas-coisas-que-voce-deve-saber-ao-trabalhar-com-unidades-de-viewport/)
+- [O macete para unidades de viewport em mobile](https://desenvolvimentoparaweb.com/css/o-macete-para-unidades-de-viewport-em-mobile/)
 - [Mobile Design Best Practices](https://theblog.adobe.com/mobile-design-best-practices/)
 - [Mobile Icon Design for Faster Visual Search](https://uxmovement.com/mobile/mobile-icon-design-for-faster-visual-search/)
 - [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
@@ -158,9 +183,15 @@
 - [10 heuristic principles for mobile interfaces](https://uxdesign.cc/heuristic-principles-for-mobile-interfaces-c226fbaa1d16)
 - [9 dicas básicas de web design responsivo](https://desenvolvimentoparaweb.com/css/9-dicas-basicas-web-design-responsivo/)
 - [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
-- [O macete para unidades de viewport em mobile](https://desenvolvimentoparaweb.com/css/o-macete-para-unidades-de-viewport-em-mobile/)
 - [Lidando com responsividade em aplicações móveis utilizando o REM](https://ildaneta.dev/posts/lidando-com-responsividade-em-aplicações-móveis-utilizando-o-rem/)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [What are good CSS Breakpoint values for Responsive Design?](https://flaviocopes.com/css-breakpoints/)
+- [Making a table responsive using CSS](https://flaviocopes.com/css-responsive-table/)
+- [Responsive Components: uma solução para container queries](https://desenvolvimentoparaweb.com/css/responsive-components-container-queries/)
+- [Container Queries are coming to Chromium!](https://www.bram.us/2020/11/05/container-queries-are-coming-to-chromium/)
+- [CSS Container Queries: A First Look + Demo](https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/)
+- [Creating websites with prefers-reduced-data](https://www.bram.us/2020/12/08/creating-websites-with-prefers-reduced-data/)
+- [Nested Media Queries](https://www.bram.us/2021/01/11/nested-media-queries/)
 
 ## Organização
 
@@ -230,6 +261,7 @@
 - [CSS Grid Layout Module Level 3](https://drafts.csswg.org/css-grid-3/)
 - [The Holy Grail Layout with CSS Grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
 - [Grid by Example](https://gridbyexample.com)
+- [The Minimum Content Size In CSS Grid](https://ishadeed.com/article/min-content-size-css-grid/)
 
 ## Pré-processadores
 
@@ -262,3 +294,4 @@
 - [Houdini.how - Worklet Library](https://houdini.how)
 - [Charts.css](https://chartscss.org)
 - [CSS Stats](https://cssstats.com)
+- [](https://codepen.io/collection/AWEWzK)
