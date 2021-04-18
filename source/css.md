@@ -90,6 +90,7 @@
 - [Dark Mode com CSS: o jeito mais fácil](https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/)
 - [Dark Mode Stylesheet](https://soffes.blog/dark-mode-stylesheet)
 - [Dark mode in 5 minutes, with inverted lightness variables](https://www.bram.us/2021/04/03/dark-mode-in-5-minutes-with-inverted-lightness-variables/)
+- [Dark Mode com variáveis de luminosidade invertida](https://desenvolvimentoparaweb.com/css/dark-mode-lch/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
@@ -212,6 +213,7 @@
 
 ## Flexbox
 
+- [FLEX](https://flexbox.malven.co)
 - [Guia Flexbox Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 - [Documentação: CSS3 Flexbox: Funcionamento e propriedades](https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532)
 - [Repensando Layouts com Flexbox](http://lucasmaiaesilva.com.br/posts/repensando-layouts-com-flexbox)
@@ -238,6 +240,7 @@
 
 ## Grid Layout
 
+- [GRID](https://grid.malven.co)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Adeus Flexbox! Bem-vindo CSS Grid Layout!](https://imasters.com.br/desenvolvimento/adeus-flexbox-bem-vindo-css-grid-layout/?trace=1519021197&source=single)
 - [Conceitos básicos de Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)

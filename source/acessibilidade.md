@@ -44,6 +44,7 @@
 - [Placeholders: uma ameaça à acessibilidade digital](https://brasil.uxdesign.cc/placeholders-uma-ameaça-à-acessibilidade-digital-5d4d85dd05fb)
 - [Acessibilidade digital: fator de socialização para pessoas com deficiência](https://brasil.uxdesign.cc/acessibilidade-digital-fator-de-socialização-para-pessoas-com-deficiência-499717b8b3e8)
 - [Accessible front-end components: claims vs reality](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
+- [What will it take to create a more inclusive future for emoji?](https://blog.adobe.com/en/publish/2021/04/15/towards-diverse-inclusive-future-for-emoji.html)
 
 ## Utilidades
 

@@ -52,6 +52,7 @@
 - [O Guia Completo od React e o Seu Ecossistema](https://www.concrete.com.br/2017/07/26/o-guia-completo-do-react-e-o-seu-ecossistema/)
 - [Implementing Infinite Scroll Into a React Component](https://alligator.io/react/react-infinite-scroll/)
 - [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+- [Fundamentos JavaScript antes de aprender React](https://dev.to/willianjusten/fundamentos-javascript-antes-de-aprender-react-icl)
 - [Otimizando o desempenho de aplicações react /react-native](https://medium.com/@dellean.santos/otimizando-o-desempenho-de-aplicações-react-react-native-7b2de33e261)
 - [Métodos do ciclo de vida de componentes ReactJS — Um mergulho profundo!](https://medium.com/@edmo_/métodos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
 - [CRUD Example - Material Dashboard React](https://github.com/rafaelrend/react_materialize_crud?fbclid=IwAR3YAEpMd8iw1_CKD1IwlgBUsqQElrdXRUrlm2Prdbs7BlpQErA3t1r5-4g)
@@ -103,6 +104,7 @@
 - [Animated Sparkles in React](https://www.joshwcomeau.com/react/animated-sparkles-in-react/)
 - [Accessible Animations in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
+- [Temas dinâmicos no React com Sass](https://medium.com/reactbrasil/temas-dinâmicos-no-react-com-sass-7779a99d3c2f)
 
 ## React Hooks
 
@@ -238,6 +240,7 @@
 - [Recharts](http://recharts.org/#/en-US/)
 - [Victory](https://formidable.com/open-source/victory/)
 - [Nivo](http://nivo.rocks/#/)
+- [Guia estudos JS/React](https://gist.github.com/Marcosfsalazar/87466446693daf8bb3a2c38cc4ab5c6f)
 
 ## Para seguir
 

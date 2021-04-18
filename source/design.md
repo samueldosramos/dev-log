@@ -91,6 +91,7 @@
 - [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
 - [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
+- [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
 
 ## Tipografia
 
@@ -273,6 +274,7 @@
 - [Como as heurísticas de Nielsen podem ajudar a desenvolver um design system?](https://brasil.uxdesign.cc/como-as-heur%C3%ADsticas-de-nielsen-podem-ajudar-a-desenvolver-o-design-system-a6a943bf9d55)
 - [Style guide: porque, quando, como e onde criar um](https://brasil.uxdesign.cc/style-guide-por-que-quando-como-e-onde-criar-um-f7b173006740)
 - [Como criar uma documentação funcional e enxuta para Design System](https://brasil.uxdesign.cc/como-criar-uma-documentação-funcional-e-enxuta-para-design-system-no-zeplin-e-sketch-ou-outros-7aed3213fbc3)
+- [Reimagining Design Systems at Spotify](https://spotify.design/article/reimagining-design-systems-at-spotify)
 
 ## Atomic Design
 
