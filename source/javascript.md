@@ -114,6 +114,7 @@
 - [How to serialize calls to an async function](https://advancedweb.hu/how-to-serialize-calls-to-an-async-function/)
 - [What is the async disposer pattern in Javascript](https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript/)
 - [Cancel JavaScript Event Listeners with AbortController](https://www.bram.us/2021/01/24/cancel-javascript-event-listeners-with-abortcontroller/)
+- [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 
 ## Dicas
 
