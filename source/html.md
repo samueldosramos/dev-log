@@ -48,6 +48,7 @@
 - [The importance of timing when working with the DOM](https://flaviocopes.com/dom-timing/)
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Observing rendered DOM nodes](https://whistlr.info/2021/observing-dom/)
+- [O que é DOM?](https://www.treinaweb.com.br/blog/trabalhando-com-javascript-no-navegador/)
 
 ## Utilidades
 

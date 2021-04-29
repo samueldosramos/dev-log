@@ -7,6 +7,7 @@
 - [10 maneiras de se tornar um melhor designer](https://chocoladesign.com/10-maneiras-de-se-tornar-um-melhor-designer-9784c2d991fb)
 - [Don Norman e seus princípios de design](https://uxdesign.blog.br/don-norman-e-seus-princ%C3%ADpios-de-design-fe063669184d)
 - [Os princípios do design em User Interface](https://medium.com/ui-lab-school/os-princ%C3%ADpios-do-design-em-user-interface-80f300cb81e0)
+- [10 Princípios de um Bom Design (de Dieter Rams)](https://www.des1gnon.com/2021/04/principios-de-um-bom-design/)
 - [Design versus arte - A diferença e sua importância](http://idesigns.com.br/blog/129-design-versus-arte-a-diferenca-e-sua-importancia)
 - [Os entregáveis da Arquitetura de Informação](https://brasil.uxdesign.cc/os-entreg%C3%A1veis-da-arquitetura-de-informa%C3%A7%C3%A3o-ff03baf3ba45)
 - [Portfólio: a importância de ter e como fazer um](https://blog.wedologos.com.br/expandir-negocio/portfolio-a-importancia-de-ter-e-como-fazer-um/)
@@ -92,6 +93,7 @@
 - [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
 - [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
+- [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
 
 ## Tipografia
 
@@ -121,6 +123,7 @@
 - [Better Web Typography For A Better Web](https://betterwebtype.com)
 - [Como melhorar a legibilidade de textos na Web](https://desenvolvimentoparaweb.com/css/melhorar-legibilidade-textos-web/)
 - [CSS System Fonts](https://flaviocopes.com/css-system-fonts/)
+- [The Making (and Potential Benefits) of a CSS Font](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 
 ## Cores
 
@@ -298,6 +301,7 @@
 
 - [Manual despretensioso de sobrevivência em UX Writing](https://brasil.uxdesign.cc/manual-despretensioso-de-sobrevivência-em-ux-writing-c7cc3a1fd859)
 - [Como testar textos para produtos?](https://brasil.uxdesign.cc/como-testar-copy-para-produto-78402f919add)
+- [Tradução, não. Localização!](https://brasil.uxdesign.cc/tradução-não-localização-1d16a2366616)
 
 ## Utilidades
 

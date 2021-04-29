@@ -60,6 +60,10 @@
 - [Vulnerabilidades de segurança CSS](https://desenvolvimentoparaweb.com/css/vulnerabilidades-de-seguranca-css/)
 - [CSS element()](https://desenvolvimentoparaweb.com/css/css-element/)
 - [CSS Custom Properties Explained](https://pawelgrzybek.com/css-custom-properties-explained/)
+- [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
+- [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
+- [The future of CSS: Higher Level Custom Properties to control multiple declarations](https://www.bram.us/2020/12/30/the-future-of-css-higher-level-custom-properties-to-control-multiple-declarations/)
+- [A Complete Guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [Finally, it Will Be Easy to Change the Color of List Bullets](https://css-tricks.com/finally-it-will-be-easy-to-change-the-color-of-list-bullets/)
 - [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)
 - [CSS Quickies: text-indent](https://dev.to/lampewebdev/css-quickies-text-indent-1b28)
@@ -71,7 +75,6 @@
 - [CSS – Altura automática proporcional à largura sem JavaScript](https://www.treinaweb.com.br/blog/css-altura-automatica-proporcional-a-largura-sem-javascript/)
 - [CSS – Definindo o cálculo de dimensões com box-sizing](https://www.treinaweb.com.br/blog/css-definindo-o-calculo-de-dimensoes-com-box-sizing/)
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
-- [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [Slanted shapes (formas diagonais) com CSS](https://desenvolvimentoparaweb.com/css/slanted-shapes-formas-diagonais/)
 - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 - [Cores e variáveis CSS: box-shadow-color?!](https://desenvolvimentoparaweb.com/css/variaveis-css-box-shadow-color/)
@@ -99,7 +102,6 @@
 - [O conceito mais importante de CSS](https://desenvolvimentoparaweb.com/miscelanea/conceito-mais-importante-css/)
 - [Usando :not e :empty para exceções em CSS](https://gabrieluizramos.com.br/usando-not-e-empty-para-excecoes)
 - [Styling Complex Labels](https://cloudfour.com/thinks/styling-complex-labels/)
-- [CSS: 7 casos de uso para Custom Properties](https://oieduardorabelo.medium.com/css-7-casos-de-uso-para-custom-properties-61528bde90e3)
 - [Comparing Various Ways to Hide Things in CSS](https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/)
 - [A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/)
 - [Navegação âncora e smooth scroll com CSS puro](https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/)
@@ -126,7 +128,7 @@
 - [Understanding Z-Index in CSS](https://ishadeed.com/article/understanding-z-index/)
 - [:focus-visible Is Here](https://www.bram.us/2021/01/28/focus-visible-is-here/)
 - [Form Validation: You want :not(:focus):invalid, not :invalid](https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/)
-- [The future of CSS: Higher Level Custom Properties to control multiple declarations](https://www.bram.us/2020/12/30/the-future-of-css-higher-level-custom-properties-to-control-multiple-declarations/)
+- [Avoiding Inline Styles for CSS Design](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
 
 ## Animações
 

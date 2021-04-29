@@ -13,6 +13,7 @@
 - [Desenvolvendo apps compatíveis com vários dispositivos para torná-los acessíveis a mais usuários](https://brasil.uxdesign.cc/desenvolvendo-apps-compat%C3%ADveis-com-vários-dispositivos-para-torná-los-acess%C3%ADveis-a-mais-usuários-2114b055004)
 - [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
 - [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+- [Exploring color-contrast() for the First Time](https://css-tricks.com/exploring-color-contrast-for-the-first-time/)
 - [Guia completo para a produção de conteúdo acessivel](https://abradi.com.br/guia-completo-para-a-producao-de-conteudo-acessivel/)
 - [Accessibility drives aesthetics](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
 - [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)

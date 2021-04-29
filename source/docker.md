@@ -26,6 +26,8 @@
 - [Deploy Reactjs com Docker](https://kledenai.medium.com/deploy-reactjs-com-docker-1769cf7a5f74)
 - [Desvendando o DockerFile](https://www.alura.com.br/artigos/desvendando-o-dockerfile)
 - [Dockerize Your App And Keep Hot-Reloading !](https://blog.bam.tech/developer-news/dockerize-your-app-and-keep-hot-reloading)
+- [Using Docker for more on Apple Silicon](https://dev.to/zac_siegel/using-docker-for-more-on-apple-silicon-1gdd)
+- [Using Docker for more on Apple Silicon](https://www.zsiegel.com/2021/01/04/using-docker-for-more-on-apple-silicon)
 
 ## Docker e Node.js
 

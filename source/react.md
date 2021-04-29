@@ -105,6 +105,7 @@
 - [Accessible Animations in React](https://www.joshwcomeau.com/react/prefers-reduced-motion/)
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 - [Temas dinâmicos no React com Sass](https://medium.com/reactbrasil/temas-dinâmicos-no-react-com-sass-7779a99d3c2f)
+- [Why you shouldn’t use inline styling in production React apps](https://blog.logrocket.com/why-you-shouldnt-use-inline-styling-in-production-react-apps/)
 
 ## React Hooks
 
@@ -128,6 +129,7 @@
 - [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/)
 - [8 helpful custom React Hooks](https://www.benmvp.com/blog/8-helpful-custom-react-hooks/)
 - [The easy-peasy React state management library](https://flaviocopes.com/react-easy-peasy/)
+- [Criando um React Custom Hook com Testes](https://dev.to/willianjusten/criando-um-react-custom-hook-com-testes-1o1f)
 
 ## Context API
 
