@@ -141,6 +141,8 @@
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Emendando commits](https://gabrieluizramos.com.br/emendando-commits/)
 - [Git warning: Pulling without specifying how to reconcile divergent branches is discouraged](https://www.luizcorreia.eti.br/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/)
+- [Commit Message Guidelines](https://gist.github.com/brianclements/841ea7bffdb01346392c)
+- [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 ## SSH
 
@@ -173,3 +175,4 @@
 - [Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
 - [Shields.io](https://shields.io)
 - [Kodiak - Automate your GitHub Pull Requests](https://kodiakhq.com)
+- [commitlint](https://commitlint.js.org)

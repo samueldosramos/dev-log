@@ -27,6 +27,7 @@
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [O que é programação reativa?](https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa/)
 - [A Visual Guide: To Sustainable Software Engineering](https://techcommunity.microsoft.com/t5/green-tech-blog/a-visual-guide-to-sustainable-software-engineering/ba-p/2130034?WT.mc_id=green-15747-ninarasi)
+- [65 dicas para ser um programador melhor](https://dev.to/willianjusten/65-dicas-para-ser-um-programador-melhor-4n6l)
 
 ## Regex
 

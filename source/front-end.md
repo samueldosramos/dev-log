@@ -54,6 +54,7 @@
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
 - [What happens when you type a URL in the browser and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 - [Deslocamento de Layout (Layout Shift) e Cumulative Layout Shift (CLS): guia completo](https://desenvolvimentoparaweb.com/ux/deslocamento-layout-shift-cumulative-layout-shift-cls/)
+- [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/)
 - [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
 - [Free Intro to Web Development slides (with demos)](https://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/)
 - [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
