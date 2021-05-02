@@ -129,6 +129,8 @@
 - [:focus-visible Is Here](https://www.bram.us/2021/01/28/focus-visible-is-here/)
 - [Form Validation: You want :not(:focus):invalid, not :invalid](https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/)
 - [Avoiding Inline Styles for CSS Design](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
+- [The Layouts of Tomorrow](https://mxb.dev/blog/layouts-of-tomorrow/)
+- [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
 
 ## Animações
 
@@ -149,6 +151,7 @@
 - [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 - [Animating a CSS Gradient Border](https://www.bram.us/2021/01/29/animating-a-css-gradient-border/)
 - [Using Emoji as the Mouse Cursor on a Webpage](https://www.bram.us/2021/01/17/using-emoji-as-the-mouse-cursor-on-a-webpage/)
+- [Understanding Easing Functions For CSS Animations And Transitions](https://www.smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/)
 
 ## Responsividade
 

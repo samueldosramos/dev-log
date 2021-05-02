@@ -80,6 +80,7 @@
 - [Boas práticas na criação de milestones, tarefas, pull requests e commits](https://eltonminetto.dev/post/2017-11-13-boas-praticas-tarefas-pr-commits/)
 - [Fatal: Not possible to fast-forward, aborting](https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting/43460847)
 - [Manage your DNS from GitHub with DNSControl](https://svenluijten.com/manage-your-dns-from-github-with-dnscontrol)
+- [How to push to 2 repositories at the same time and keep them in sync](https://flaviocopes.com/how-to-push-two-repositories-sync/)
 
 ## Tutoriais
 
