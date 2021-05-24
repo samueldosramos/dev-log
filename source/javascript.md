@@ -182,6 +182,7 @@
 - [JavaScript Algorithms: Selection Sort](https://flaviocopes.com/selection-sort-javascript/)
 - [JavaScript Algorithms: Quicksort](https://flaviocopes.com/quicksort-javascript/)
 - [JavaScript Algorithms: Merge Sort](https://flaviocopes.com/merge-sort-javascript/)
+- [7 JavaScript Data Structures you must know](https://dev.to/nehasoni__/7-javascript-data-structures-you-must-know-57ah)
 
 ## Funcional
 
@@ -248,6 +249,7 @@
 
 ## TypeScript
 
+- [Getting started with TypeScript](https://sruthicodes.hashnode.dev/getting-started-with-typescript)
 - [TypeScript: O guia definitivo](https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc)
 - [TypeScript: Vantagens, mitos, dicas e conceitos fundamentais](https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/)
 - [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)

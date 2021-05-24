@@ -46,6 +46,7 @@
 - [Acessibilidade digital: fator de socialização para pessoas com deficiência](https://brasil.uxdesign.cc/acessibilidade-digital-fator-de-socialização-para-pessoas-com-deficiência-499717b8b3e8)
 - [Accessible front-end components: claims vs reality](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
 - [What will it take to create a more inclusive future for emoji?](https://blog.adobe.com/en/publish/2021/04/15/towards-diverse-inclusive-future-for-emoji.html)
+- [Acessibilidade para iniciantes](https://brunopulis.com/blog/acessibilidade-para-iniciantes/)
 
 ## Utilidades
 
@@ -73,3 +74,4 @@
 - [Accessibility Reviews](https://a11y.reviews/)
 - [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter/)
 - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+- [Acessibilidade para Todos](https://brasil.uxdesign.cc/acessibilidade-digital-ed5c7839e6c)

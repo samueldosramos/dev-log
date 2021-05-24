@@ -15,7 +15,6 @@
 - [The difference between Frontend and Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Clean Architecture : um compilado dos Princípios de Design](https://dev.to/psanrosa13/clean-architecture-um-compilado-dos-principios-de-design-2mla)
-- [Clean code: princípios e práticas que podem te levar para um próximo nível](https://devstartup.medium.com/clean-code-princ%C3%ADpios-e-práticas-que-podem-te-levar-para-um-próximo-n%C3%ADvel-f676dcab0248)
 - [Intro to deployment strategies: blue-green, canary, and more](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3)
 - [Design Patterns Saga: The Beginning](https://medium.com/swlh/design-patterns-saga-the-beginning-17ea936472cc)
 - [As incríveis técnicas para fatiar a entrega do seu software](https://knowledge21.com.br/blog/tecnicas-fatiar-entrega-software/)
@@ -50,6 +49,8 @@
 - [12 Passos e um código melhor](https://blog.vilourenco.com.br/12-passos-e-um-codigo-melhor/)
 - [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention)
 - [Clean Code: Softwares bem escritos são Funções bem escritas](https://medium.com/@FilipeDeschamps/clean-code-softwares-bem-escritos-são-funções-bem-escritas-702db7bb3742#.oz9xagl67)
+- [Clean code: princípios e práticas que podem te levar para um próximo nível](https://devstartup.medium.com/clean-code-princ%C3%ADpios-e-práticas-que-podem-te-levar-para-um-próximo-n%C3%ADvel-f676dcab0248)
+- [12 Conventions for Writing Clean Code](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
 
 ## SRE
 

@@ -75,6 +75,7 @@
 - [Como ocultar/revelar menu sticky ao scrollar página](https://01dev.codes/como-ocultar-revelar-menu-sticky-ao-scrollar-pagina/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [The Art of Building Real-life Components](https://ishadeed.com/article/building-real-life-components/)
+- [What Is Open Graph Protocol (OGP)?](https://www.popwebdesign.net/what-is-ogp.html)
 
 ## HTTP
 

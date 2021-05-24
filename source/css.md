@@ -131,6 +131,7 @@
 - [Avoiding Inline Styles for CSS Design](https://www.lifewire.com/avoid-inline-styles-for-css-3466846)
 - [The Layouts of Tomorrow](https://mxb.dev/blog/layouts-of-tomorrow/)
 - [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
+- [CSS Border inside the element](https://flaviocopes.com/css-border-inside-element/)
 
 ## Animações
 

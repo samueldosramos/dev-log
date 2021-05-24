@@ -91,3 +91,5 @@
 - [JSON Server](https://github.com/typicode/json-server)
 - [Nock](https://github.com/nock/nock)
 - [quicktype - Convert JSON into gorgeous, typesafe code in any language](https://quicktype.io)
+- [Beeceptor](https://beeceptor.com)
+- [Mock Service Worker](https://mswjs.io)
