@@ -130,6 +130,9 @@
 - [8 helpful custom React Hooks](https://www.benmvp.com/blog/8-helpful-custom-react-hooks/)
 - [The easy-peasy React state management library](https://flaviocopes.com/react-easy-peasy/)
 - [Criando um React Custom Hook com Testes](https://dev.to/willianjusten/criando-um-react-custom-hook-com-testes-1o1f)
+- [Iniciando com React Hooks - useState](https://www.crisgon.dev/iniciando-com-react-hooks-usestate/)
+- [Iniciando com React Hooks - useEffect](https://www.crisgon.dev/iniciando-com-react-hooks-useeffect/)
+- [Iniciando com React Hooks - useMemo](https://www.crisgon.dev/iniciando-com-react-hooks-usememo/)
 
 ## Context API
 
@@ -243,6 +246,7 @@
 - [Victory](https://formidable.com/open-source/victory/)
 - [Nivo](http://nivo.rocks/#/)
 - [Guia estudos JS/React](https://gist.github.com/Marcosfsalazar/87466446693daf8bb3a2c38cc4ab5c6f)
+- [SWR](https://swr.vercel.app)
 
 ## Para seguir
 

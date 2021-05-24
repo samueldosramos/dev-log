@@ -13,3 +13,4 @@
 - [Como aumentar sua produtividade pessoal com pomodoro](https://www.concrete.com.br/2018/01/10/como-aumentar-sua-produtividade-pessoal-com-pomodoro/)
 - [DesenvolvimentoAgil.com.br](http://www.desenvolvimentoagil.com.br/)
 - [Priorizando sem trauma — como ordenar seu backlog de produto](https://code.likeagirl.io/priorizando-sem-trauma-como-ordenar-seu-backlog-de-produto-d143b6037c8d)
+- [20 anos de Manifesto Ágil](https://medium.com/@flavioalves/20-anos-de-manifesto-ágil-b584434f45f8)
