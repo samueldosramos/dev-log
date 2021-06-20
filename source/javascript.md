@@ -167,6 +167,7 @@
 - [Juntando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/juntando-arrays-e-objetos-com-spread-syntax-no-javascript/)
 - [Watch: JavaScript apps going Inter-Planetary](https://withblue.ink/2020/01/21/watch-javascript-apps-going-inter-planetary.html)
 - [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://www.bram.us/2021/03/02/dependency-confusion-how-i-hacked-into-apple-microsoft-and-dozens-of-other-companies/)
+- [Top 20 JavaScript tips and tricks to increase your Speed and Efficiency](https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g)
 
 ## Estrutura de dados
 

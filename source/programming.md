@@ -51,6 +51,7 @@
 - [Clean Code: Softwares bem escritos são Funções bem escritas](https://medium.com/@FilipeDeschamps/clean-code-softwares-bem-escritos-são-funções-bem-escritas-702db7bb3742#.oz9xagl67)
 - [Clean code: princípios e práticas que podem te levar para um próximo nível](https://devstartup.medium.com/clean-code-princ%C3%ADpios-e-práticas-que-podem-te-levar-para-um-próximo-n%C3%ADvel-f676dcab0248)
 - [12 Conventions for Writing Clean Code](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## SRE
 

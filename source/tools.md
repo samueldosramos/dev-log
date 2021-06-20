@@ -221,6 +221,7 @@
 - [Tabler Icons](https://tabler-icons.io/)
 - [CSS.gg](https://css.gg)
 - [Iconduck](https://iconduck.com)
+- [Google Fonts Icons](https://fonts.google.com/icons)
 
 ## Imagens/Vídeos
 
@@ -256,6 +257,7 @@
 - [Woobro](https://woobro.design)
 - [nappy](https://www.nappy.co)
 - [Pxfuel](https://www.pxfuel.com)
+- [Glaze](https://www.glazestock.com)
 
 ## Lorem Ipsum/Dados
 
