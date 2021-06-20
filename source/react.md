@@ -106,6 +106,7 @@
 - [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 - [Temas dinâmicos no React com Sass](https://medium.com/reactbrasil/temas-dinâmicos-no-react-com-sass-7779a99d3c2f)
 - [Why you shouldn’t use inline styling in production React apps](https://blog.logrocket.com/why-you-shouldnt-use-inline-styling-in-production-react-apps/)
+- [React, how to make a checked checkbox editable](https://flaviocopes.com/react-checkbox-editable/)
 
 ## React Hooks
 
@@ -133,6 +134,7 @@
 - [Iniciando com React Hooks - useState](https://www.crisgon.dev/iniciando-com-react-hooks-usestate/)
 - [Iniciando com React Hooks - useEffect](https://www.crisgon.dev/iniciando-com-react-hooks-useeffect/)
 - [Iniciando com React Hooks - useMemo](https://www.crisgon.dev/iniciando-com-react-hooks-usememo/)
+- [Diminuindo Processamento com useMemo em React](https://blog.matheuscastiglioni.com.br/diminuindo-processamento-com-use-memo-em-react/)
 
 ## Context API
 
@@ -190,6 +192,7 @@
 - [React + enzyme + jest (config)](https://medium.com/trainingcenter/react-enzyme-jest-config-6cb2a585f658)
 - [Debugando e agilizando testes na React Testing Library](https://willianjusten.com.br/debugando-e-agilizando-testes-na-react-testing-library/)
 - [Testes de front React com Storybook, Jest e Chromatic](https://www.luiztools.com.br/post/testes-de-front-react-com-storybook-jest-e-chromatic/)
+- [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
 
 ## Design System
 

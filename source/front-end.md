@@ -26,6 +26,7 @@
 - [100 dicas de front-end (parte 1)](https://serfrontend.com/blog/100-dicas-de-front-end-parte-1/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [The Power of Serveless for Front-end Developers](https://serverless.css-tricks.com)
+- [Serverless Functions: The Secret to Ultra-Productive Front-End Teams](https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/)
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 - [Stencil JS compilador para Web Components](https://medium.com/@larymagal/stencil-js-compilador-para-web-components-cd32b472c7e1)
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
@@ -169,6 +170,7 @@
 - [Bem-vindo ao Polymer 3 - #02](https://larissaabreu.dev/bem-vindo-ao-polymer-03-adicionando-filhos/)
 - [Bem-vindo ao Polymer 3 - #03](https://larissaabreu.dev/bem-vindo-ao-polymer-03-definindo-propriedades/)
 - [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+- [Links on Web Components](https://css-tricks.com/links-on-web-components/)
 
 ## WebSockets
 

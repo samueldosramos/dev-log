@@ -39,6 +39,7 @@
 - [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com)
+- [target=blank](https://css-tricks.com/targetblank/)
 
 ## DOM
 

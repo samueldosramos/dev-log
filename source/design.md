@@ -89,11 +89,14 @@
 - [Design Centrado no Usuário: uma abordagem para conquistar melhores resultados](https://blog.novatics.com.br/design-centrado-no-usuário-uma-abordagem-para-conquistar-melhores-resultados-%EF%B8%8F-950e722b6fdb)
 - [The Proper Visual Cues for Common Interface Affordances](https://uxmovement.com/buttons/the-proper-visual-cues-for-common-interface-affordances/)
 - [Jornadas e a gestão de serviços e produtos digitais](https://brasil.uxdesign.cc/jornadas-e-a-gestao-de-servicos-e-produtos-digitais-154e2a1bfc35)
+- [5 coisas que você deveria saber para não errar ao mapear Jornadas](https://brasil.uxdesign.cc/05-coisas-que-você-deveria-saber-para-não-errar-na-jornada-84599fa58dd4)
 - [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
 - [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
 - [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
 - [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
+- [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
+- [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 
 ## Tipografia
 
@@ -211,6 +214,7 @@
 - [Tudo sobre Web Design: 50 perguntas e respostas](https://www.chiefofdesign.com.br/tudo-sobre-web-design/)
 - [Wireframes para web: guia completo de desenvolvimento](http://desenvolvimentoparaweb.com/ux/wireframe-web-guia-completo/)
 - [Crie layouts simples. SEMPRE!](https://tableless.com.br/crie-layouts-simples-sempre/)
+- [Protótipos 101](https://brasil.uxdesign.cc/prototipos-9ff88b8dae80)
 - [6 dicas essenciais para desenhar bons protótipos](http://thiagonasc.com/desenvolvimento-web/6-dicas-essenciais-para-desenhar-bons-prototipos)
 - [Porque fazer wireframe e sketch em projetos interativos](https://helabs.com/artigos/2015/03/04/porque_fazer_wireframe_e_sketch_em_projetos_mobile/)
 - [Wireframe, Protótipo e Mockup – É tudo a mesma coisa ?](https://aprendendowww.wordpress.com/2015/01/05/wireframe-prototipo-e-mockup-e-tudo-a-mesma-coisa/)
@@ -278,6 +282,9 @@
 - [Style guide: porque, quando, como e onde criar um](https://brasil.uxdesign.cc/style-guide-por-que-quando-como-e-onde-criar-um-f7b173006740)
 - [Como criar uma documentação funcional e enxuta para Design System](https://brasil.uxdesign.cc/como-criar-uma-documentação-funcional-e-enxuta-para-design-system-no-zeplin-e-sketch-ou-outros-7aed3213fbc3)
 - [Reimagining Design Systems at Spotify](https://spotify.design/article/reimagining-design-systems-at-spotify)
+- [Why a design system is the key to scaling accessibility](https://www.invisionapp.com/inside-design/design-system-scaling-accessibility-webinar/)
+- [How to document accessibility as a UX designer](https://bootcamp.uxdesign.cc/how-to-document-accessibility-as-a-ux-designer-c51476104723)
+- [Size in Design Systems](https://medium.com/eightshapes-llc/size-in-design-systems-64f234aec519)
 
 ## Atomic Design
 

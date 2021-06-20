@@ -47,6 +47,8 @@
 - [Accessible front-end components: claims vs reality](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
 - [What will it take to create a more inclusive future for emoji?](https://blog.adobe.com/en/publish/2021/04/15/towards-diverse-inclusive-future-for-emoji.html)
 - [Acessibilidade para iniciantes](https://brunopulis.com/blog/acessibilidade-para-iniciantes/)
+- [O que aprendemos sobre acessibilidade em 10 anos?](https://brasil.uxdesign.cc/o-que-aprendemos-sobre-acessibilidade-em-10-anos-469d37eeb53)
+- [Emojis and accessibility: How to use them properly](https://uxdesign.cc/emojis-in-accessibility-how-to-use-them-properly-66b73986b803)
 
 ## Utilidades
 
