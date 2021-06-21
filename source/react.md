@@ -10,6 +10,8 @@
 - [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
 - [React — Um guia em construção](https://medium.com/react-um-guia-em-construção)
 - [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
+- [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
+- [Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 - [Como começar a sua aplicação React em poucos minutos](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82)
 - [Criando a sua primeira aplicação web com React](https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/)
 - [Hello World com React, do rascunho até o primeiro componente](https://tableless.com.br/hello-world-com-react-do-rascunho-ate-o-primeiro-componente/)
@@ -59,7 +61,6 @@
 - [(React + this + bind) = só sei que é assim](https://tableless.com.br/react-this-bind-so-sei-que-assim/)
 - [How to Learn React.js, Part 1: The React Road Map for Modern Web Developers](https://dzone.com/articles/how-to-learn-react-js-the-react-roadmap-for-modern?edition=423198)
 - [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/)
-- [Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 - [Como transformar sua aplicação ReactJs em um PWA (e será que você deve fazer isso?)](https://medium.com/@victorsilvamatheus.i/como-transformar-sua-aplicação-reactjs-em-um-pwa-e-será-que-você-deve-fazer-isso-567a8552c96d)
 - [Transforme seu site (PWA ou não) em aplicativo na Play e App Store](https://01dev.codes/transforme-seu-site-pwa-ou-nao-em-aplicativo/)
 - [Configurando caminhos absolutos no React para Web sem ejetar [pt-BR]](https://dev.to/heybrunoandrade/configurando-caminhos-absolutos-no-react-para-web-sem-ejetar-pt-br-3ko0)
@@ -186,19 +187,30 @@
 ## Testes
 
 - [Exemplo de teste de alto nível com React Testing Library](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493)
-- [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
 - [React Act Examples](https://github.com/threepointone/react-act-examples/blob/master/sync.md)
 - [Effective Snapshot Testing](https://kentcdodds.com/blog/effective-snapshot-testing)
 - [React + enzyme + jest (config)](https://medium.com/trainingcenter/react-enzyme-jest-config-6cb2a585f658)
 - [Debugando e agilizando testes na React Testing Library](https://willianjusten.com.br/debugando-e-agilizando-testes-na-react-testing-library/)
 - [Testes de front React com Storybook, Jest e Chromatic](https://www.luiztools.com.br/post/testes-de-front-react-com-storybook-jest-e-chromatic/)
 - [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
+- [Test React Components with Jest and React Testing Library](https://github.com/kentcdodds/react-testing-library-course)
+- [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+- [Erros comuns com o React Testing Library](https://willianjusten.com.br/erros-comuns-com-o-react-testing-library/)
+- [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
+- [An in-depth beginner's guide to testing React applications in 2020](https://jkettmann.com/beginners-guide-to-testing-react)
+- [Inside a dev's mind - Refactoring and debugging a React test](https://jkettmann.com/refactoring-and-debugging-a-react-test)
+- [Five Things You (Probably) Didn't Know About Testing Library](https://polvara.me/posts/five-things-you-didnt-know-about-testing-library)
+- [How to Start Testing Your React Apps Using the React Testing Library and Jest](https://www.freecodecamp.org/news/8-simple-steps-to-start-testing-react-apps-using-react-testing-library-and-jest/#1-how-to-create-a-test-snapshot)
+- [Reduce boilerplate test code with Jest it.each](https://elfi-y.medium.com/reduce-boilerplate-test-code-with-jest-it-each-30a0eec9776d)
+- [Testing events in React using enzyme vs react-testing-library](https://techdoma.in/react-js-testing/testing-events-in-react-using-enzyme-vs-react-testing-library)
+- [Handling Mouse Events in Your React Component Tests](https://www.pluralsight.com/guides/handling-mouse-events-in-your-react-component-tests)
 
 ## Design System
 
 - [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 - [How to build a design system out of React components](https://uxdesign.cc/building-a-design-system-out-of-react-components-cef6014ef290)
 - [Design Systems - Biblioteca de Componentes Reutilizáveis com React](https://slides.com/marcelodapper/reusable-component-library-with-react#/)
+- [Introducing Design Systems CLI](https://medium.com/swlh/introducing-design-systems-cli-af9593cd67d6)
 - [React Components Library - Demo](https://github.com/mdapper/react-components-library)
 
 ## Utilidades
@@ -250,6 +262,7 @@
 - [Nivo](http://nivo.rocks/#/)
 - [Guia estudos JS/React](https://gist.github.com/Marcosfsalazar/87466446693daf8bb3a2c38cc4ab5c6f)
 - [SWR](https://swr.vercel.app)
+- [Epic React](https://epicreact.dev)
 
 ## Para seguir
 

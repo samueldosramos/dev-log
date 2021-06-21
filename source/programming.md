@@ -114,3 +114,4 @@
 - [Foundations of Software Engineering](https://cmu-313.github.io)
 - [Edabit](https://edabit.com)
 - [My favorite courses to learn Software Architecture in 2021 — Best of Lot](https://medium.com/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)
+- [Test Automation University](https://testautomationu.applitools.com)
