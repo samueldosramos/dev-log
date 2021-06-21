@@ -265,6 +265,7 @@
 ## Design System
 
 - [Afinal, o que é Design System?](https://brasil.uxdesign.cc/afinal-o-que-é-design-system-448c257b0021)
+- [Tudo o que você precisa saber sobre Design System](https://brasil.uxdesign.cc/tudo-o-que-você-precisa-saber-sobre-design-system-f6e3f030d640)
 - [Porque é importante pensar em documentar as decisões de UX, UI, desenvolvimento, produto, interação, etc.?](https://brasil.uxdesign.cc/design-system-documentar-pra-que-3e14f3c04625)
 - [Criando um design system](https://brasil.uxdesign.cc/criando-um-design-system-8e222f5659d0)
 - [Why design systems are a single point of failure](https://blog.hichroma.com/why-design-systems-are-a-single-point-of-failure-ec9d30c107c2)
@@ -283,8 +284,12 @@
 - [Como criar uma documentação funcional e enxuta para Design System](https://brasil.uxdesign.cc/como-criar-uma-documentação-funcional-e-enxuta-para-design-system-no-zeplin-e-sketch-ou-outros-7aed3213fbc3)
 - [Reimagining Design Systems at Spotify](https://spotify.design/article/reimagining-design-systems-at-spotify)
 - [Why a design system is the key to scaling accessibility](https://www.invisionapp.com/inside-design/design-system-scaling-accessibility-webinar/)
+- [Porquê ter um design system acessível — e como construir um](https://laboratoriobridge.medium.com/porquê-ter-um-design-system-acess%C3%ADvel-e-como-construir-um-5f85ba6bbf29)
 - [How to document accessibility as a UX designer](https://bootcamp.uxdesign.cc/how-to-document-accessibility-as-a-ux-designer-c51476104723)
 - [Size in Design Systems](https://medium.com/eightshapes-llc/size-in-design-systems-64f234aec519)
+- [Design Nativo: O conhecimento prévio do usuário a sua disposição](https://brasil.uxdesign.cc/design-nativo-o-conhecimento-prévio-do-usuário-a-sua-disposição-a121e47a8819)
+- [Documentar é design: como documentação leva a melhores resultados de design](https://brasil.uxdesign.cc/documentar-e-design-como-documentacao-leva-a-melhores-resultados-de-design-8a05d3f95ca2)
+- [Design Systems: como aumentar a colaboração, garantir a escalabilidade e tornar seus times mais ágeis](https://www.lambda3.com.br/2020/11/design-systems-como-aumentar-a-colaboracao-garantir-a-escalabilidade-e-tornar-seus-times-mais-ageis/)
 
 ## Atomic Design
 

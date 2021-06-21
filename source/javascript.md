@@ -80,6 +80,7 @@
 - [JavaScript – Entendendo as partes estranhas](https://www.treinaweb.com.br/blog/javascript-entendendo-as-partes-estranhas/)
 - [Primitive types vs objects in JavaScript](https://flaviocopes.com/difference-primitive-types-objects/)
 - [A Beginner's Guide to Javascript Conditionals](https://significa.co/blog/a-beginners-guide-to-javascript-conditionals)
+- [Eventos em Javascript](https://www.todoespacoonline.com/w/2014/04/eventos-em-javascript/)
 - [Eventos JavaScript: Capturing e Bubbling](https://desenvolvimentoparaweb.com/miscelanea/eventos-javascript-capturing-bubbling/)
 - [Como o JavaScript funciona: gerenciamento de memória + como lidar com 4 vazamentos comuns de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-memória-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
 - [Prazer, JavaScript](https://www.diegoramos.me/presentations.github.io/prazer-javascript/)
@@ -279,6 +280,7 @@
 - [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [TypeScript - Zero to Hero Series' Articles](https://dev.to/glaucia86/series/11515)
 - [Optional Chaining e null coalescing operator com TypeScript](https://imasters.com.br/javascript/optional-chaining-e-null-coalescing-operator-com-typescript)
+- [How to get the file extension in Node.js from the MIME type](https://flaviocopes.com/node-get-file-extension-mime-type/)
 
 # Style/Clean code
 
@@ -376,6 +378,7 @@
 - [Aprender JavaScript](https://www.todoespacoonline.com/w/2014/05/aprender-javascript/)
 - [Full Stack com Node.js, React e GraphQL  – 1: Introdução](https://www.webdevdrops.com/fullstack-node-react-graphql-introducao-2c2f18c757c4/)
 - [Crud completo usando Node com express, React com Redux e MongoDb — Parte 01](https://medium.com/trainingcenter/crud-completo-usando-node-com-express-react-com-redux-e-mongodb-parte-01-417b186bbb7f)
+- [Aprenda a testar Aplicações Javascript](https://javascript.tv.br)
 
 ## Utilidades
 
