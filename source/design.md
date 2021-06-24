@@ -262,6 +262,13 @@
 - [Arquitetura de informação](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/5-paradigmas-de-interacao/8-arquitetura-de-informacao/)
 - [Escalando consistência e boas práticas de arquitetura da informação](https://brasil.uxdesign.cc/escalando-consistência-e-arquitetura-da-informação-57392ba11ad0)
 
+## Atomic Design
+
+- [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
+- [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
+- [Atomic Design Extended — Bósons e Quarks](https://medium.com/@osuissa/atomic-design-extended-bósons-e-quarks-550106dfbd99)
+- [Atomic Design: como criar sistemas de componentes](https://brasil.uxdesign.cc/atomic-design-como-criar-sistemas-de-componentes-8723301c5a37)
+
 ## Design System
 
 - [Afinal, o que é Design System?](https://brasil.uxdesign.cc/afinal-o-que-é-design-system-448c257b0021)
@@ -290,16 +297,11 @@
 - [Design Nativo: O conhecimento prévio do usuário a sua disposição](https://brasil.uxdesign.cc/design-nativo-o-conhecimento-prévio-do-usuário-a-sua-disposição-a121e47a8819)
 - [Documentar é design: como documentação leva a melhores resultados de design](https://brasil.uxdesign.cc/documentar-e-design-como-documentacao-leva-a-melhores-resultados-de-design-8a05d3f95ca2)
 - [Design Systems: como aumentar a colaboração, garantir a escalabilidade e tornar seus times mais ágeis](https://www.lambda3.com.br/2020/11/design-systems-como-aumentar-a-colaboracao-garantir-a-escalabilidade-e-tornar-seus-times-mais-ageis/)
-
-## Atomic Design
-
-- [Atomic Design e a componentização de interfaces](https://chocoladesign.com/blog/designsystems/atomic-design-e-a-componentizacao-de-interfaces/)
-- [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores](https://brasil.uxdesign.cc/atomic-design-redesenhando-os-entregáveis-de-designers-e-desenvolvedores-da8886c7258d)
-- [Atomic Design Extended — Bósons e Quarks](https://medium.com/@osuissa/atomic-design-extended-bósons-e-quarks-550106dfbd99)
-- [Atomic Design: como criar sistemas de componentes](https://brasil.uxdesign.cc/atomic-design-como-criar-sistemas-de-componentes-8723301c5a37)
+- [Montando um Design System honesto](https://brasil.uxdesign.cc/montando-um-design-system-honesto-677098dd1315)
 
 ## UX Research
 
+- [UX Research: Entendendo o básico](https://brasil.uxdesign.cc/ux-research-entendendo-o-básico-5a711fb15f68)
 - [Entrevista motivacional é a ferramenta de UX Research que você nunca ouviu falar sobre](https://brasil.uxdesign.cc/entrevista-motivacional-é-a-ferramenta-de-ux-research-que-você-nunca-ouviu-falar-sobre-eb0bb7b3dd49)
 - [Pesquisa quantitativa ou qualitativa: Qual eu devo fazer?](https://brasil.uxdesign.cc/pesquisa-quantitativa-ou-qualitativa-qual-eu-devo-fazer-e0c98757bd4)
 - [Planejando sua pesquisa (com template)](https://brasil.uxdesign.cc/planejando-sua-pesquisa-com-template-149f15810fc7)
