@@ -28,6 +28,7 @@
 - [Dockerize Your App And Keep Hot-Reloading !](https://blog.bam.tech/developer-news/dockerize-your-app-and-keep-hot-reloading)
 - [Using Docker for more on Apple Silicon](https://dev.to/zac_siegel/using-docker-for-more-on-apple-silicon-1gdd)
 - [Using Docker for more on Apple Silicon](https://www.zsiegel.com/2021/01/04/using-docker-for-more-on-apple-silicon)
+- [O que é Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes)
 
 ## Docker e Node.js
 

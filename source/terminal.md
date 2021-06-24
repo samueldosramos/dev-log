@@ -21,6 +21,9 @@
 - [Debugging Bash scripts](https://advancedweb.hu/debugging-bash-scripts/)
 - [Criando funções em scripts bash (Linux/Bash)](https://raccoon.ninja/pt/dev-pt/criando-funcoes-em-scripts-bash-linux-bash/)
 - [Recuperando argumentos passados para um script shell (Linux/Bash)](https://raccoon.ninja/pt/dev-pt/recuperando-argumentos-passados-para-um-script-shell-linux-bash/)
+- [Bash Unary Operator Expected: What Does It Mean?](https://codefather.tech/blog/bash-unary-operator-expected/)
+- [Single Brackets vs Double Brackets](https://scriptingosx.com/2018/02/single-brackets-vs-double-brackets/)
+- [Difference between single and double square brackets in Bash](https://stackoverflow.com/questions/13542832/difference-between-single-and-double-square-brackets-in-bash)
 
 ## Shell
 
