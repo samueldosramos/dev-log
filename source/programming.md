@@ -17,6 +17,7 @@
 - [Clean Architecture : um compilado dos Princípios de Design](https://dev.to/psanrosa13/clean-architecture-um-compilado-dos-principios-de-design-2mla)
 - [Intro to deployment strategies: blue-green, canary, and more](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3)
 - [Design Patterns Saga: The Beginning](https://medium.com/swlh/design-patterns-saga-the-beginning-17ea936472cc)
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [As incríveis técnicas para fatiar a entrega do seu software](https://knowledge21.com.br/blog/tecnicas-fatiar-entrega-software/)
 - [Modularização: Funções e Procedimentos](https://www.treinaweb.com.br/blog/modularizacao-funcoes-e-procedimentos/)
 - [Guia Para Pessoas Desenvolvedoras Back-End 2021 - O que eu preciso saber?!](https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6)
