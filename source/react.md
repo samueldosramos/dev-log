@@ -263,6 +263,7 @@
 - [Guia estudos JS/React](https://gist.github.com/Marcosfsalazar/87466446693daf8bb3a2c38cc4ab5c6f)
 - [SWR](https://swr.vercel.app)
 - [Epic React](https://epicreact.dev)
+- [Alligator.io](https://alligator.io)
 
 ## Para seguir
 
