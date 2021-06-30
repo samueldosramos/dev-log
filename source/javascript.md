@@ -138,6 +138,7 @@
 - [Datas e horários no JavaScript com date-fns (adeus moment)](https://blog.rocketseat.com.br/datas-e-horarios-javascript-date-fns-moment/)
 - [Javascript Date: Aprenda a usar Data e Hora](https://blog.betrybe.com/javascript/javascript-date/)
 - [How to display dates in your user’s time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
+- [Temporal: getting started with JavaScript’s new date time API](https://2ality.com/2021/06/temporal-api.html)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
