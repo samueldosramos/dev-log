@@ -91,19 +91,9 @@
 ## Console / DevTools
 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-- [Console Utilities API Reference](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
 - [Segredos do Chrome Developer Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
-- [Dark Theme no DevTools](https://www.felipefialho.com/blog/2016/dark-theme-no-dev-tools)
-- [Boost your JavaScript Debugging Skills With These Console Tricks](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
-- [Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
 - [Firefox DevTools - Debugger](https://mozilladevelopers.github.io/playground/debugger)
-- [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
 - [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
-- [The Beginner's Guide to Bug Squashing: How to Use Your Debugger and other tools to find and fix bugs](https://www.freecodecamp.org/news/the-beginner-bug-squashing-guide/)
-- [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
-- [String substitution and formatting](https://developers.google.com/web/tools/chrome-devtools/console/console-write#string_substitution_and_formatting)
-- [Using string substitutions](https://developer.mozilla.org/en-US/docs/Web/API/Console#Using_string_substitutions)
-- [Formatting console.log output](https://docs.microsoft.com/en-gb/visualstudio/debugger/javascript-console-commands?view=vs-2017&viewFallbackFrom=vs-2019#ConsoleLog)
 - [How to debug CSS by bisecting](https://flaviocopes.com/css-debugging-bisect/)
 - [Debug/Inspect z-index stacking with the “CSS Stacking Context Inspector” DevTools extension](https://www.bram.us/2021/04/01/debug-inspect-z-index-stacking-with-the-css-stacking-context-inspector-devtools-extension/)
 
