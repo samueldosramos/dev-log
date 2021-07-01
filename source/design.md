@@ -183,6 +183,7 @@
 - [Como criar uma jornada melhor para o seu usuário?](https://brasil.uxdesign.cc/como-criar-uma-jornada-melhor-para-o-seu-usuário-625f5ace4d)
 - [Anthology of Mute Buttons in Voice Chat Apps](https://daverupert.com/2019/04/anthology-of-mute-buttons-in-chat-apps/)
 - [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
+- [UX Design e a Dopamina](https://brasil.uxdesign.cc/ux-design-e-a-dopamina-d0d819570e50)
 
 ## UI
 
