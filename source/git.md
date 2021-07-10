@@ -22,6 +22,7 @@
 - [Curso de Git e Github para Iniciantes](http://terminalroot.com.br/git/)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 - [Git basics](https://www.atlassian.com/git)
+- [Comandos mais utilizados no Git](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
 - [Instalando o Git e configurando Github no Windows](http://gabsferreira.com/instalando-o-git-e-configurando-github/)
 - [Forkando e clonando um repositório do Github](http://gabsferreira.com/forkando-e-clonando-um-repositorio-no-github/)
 - [Criando e enviando arquivos para seu repositório no Github](http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/)

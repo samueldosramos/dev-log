@@ -7,6 +7,7 @@
 - [Developers Google](https://developers.google.com/web)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
+- [Acronyms in Web Development](https://flaviocopes.com/acronyms-web-development/)
 - [O que Front-end Developers precisam saber](https://www.felipefialho.com/blog/o-que-front-end-developers-precisam-saber/)
 - [Do Zero a Herói Front-End (Parte I)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1)
 - [Do Zero a Herói Front-End (Parte II)](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)

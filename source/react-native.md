@@ -10,6 +10,7 @@
 - [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502)
 - [Tornando um aplicativo acessível com React Native](https://blog.novatics.com.br/tornando-um-aplicativo-acessivel-com-react-native-68524176b4bd)
 - [Dark Mode no React Native: O guia definitivo](https://medium.com/@hliojnior_34681/dark-mode-no-react-native-o-guia-definitivo-9cc1265a7693)
+- [Code Splitting in React Native Applications](https://callstack.com/blog/code-splitting-in-react-native-applications/)
 
 # Utilidades
 

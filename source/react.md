@@ -136,6 +136,9 @@
 - [Iniciando com React Hooks - useEffect](https://www.crisgon.dev/iniciando-com-react-hooks-useeffect/)
 - [Iniciando com React Hooks - useMemo](https://www.crisgon.dev/iniciando-com-react-hooks-usememo/)
 - [Diminuindo Processamento com useMemo em React](https://blog.matheuscastiglioni.com.br/diminuindo-processamento-com-use-memo-em-react/)
+- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
+- [Your Guide to React.useCallback()](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
+- [Qual é a diferença entre os hooks useMemo e useCallback do React?](https://pt.stackoverflow.com/questions/405781/qual-é-a-diferença-entre-os-hooks-usememo-e-usecallback-do-react)
 
 ## Context API
 

@@ -199,6 +199,7 @@
 - [CSS Container Queries: A First Look + Demo](https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/)
 - [Creating websites with prefers-reduced-data](https://www.bram.us/2020/12/08/creating-websites-with-prefers-reduced-data/)
 - [Nested Media Queries](https://www.bram.us/2021/01/11/nested-media-queries/)
+- [O novo web design responsivo](https://desenvolvimentoparaweb.com/css/o-novo-web-design-responsivo/)
 
 ## Organização
 
