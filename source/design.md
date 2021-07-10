@@ -152,6 +152,7 @@
 - [As funções responsáveis por projetar a Experiência do Usuário (UX)](https://www.ecommercebrasil.com.br/artigos/funcoes-responsaveis-por-projetar-experiencia-usuario-ux/)
 - [Métricas de UX, o que são e como definir](https://medium.com/skillsweb/m%C3%A9tricas-de-ux-o-que-s%C3%A3o-e-como-definir-a9fbb920411)
 - [Usando os microtextos a favor da experiência do usuário](https://brasil.uxdesign.cc/usando-os-microtextos-a-favor-da-experi%C3%AAncia-do-usu%C3%A1rio-79cf7082bf43)
+- [7 dicas para escrever microtextos acessíveis](https://brasil.uxdesign.cc/7-dicas-para-escrever-microtextos-acessiveis-aac789013837)
 - [A diferença entre Lean UX e Agile UX (e a importância dos protótipos no design)](https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-lean-ux-e-agile-ux-e-a-import%C3%A2ncia-dos-prot%C3%B3tipos-no-design-85607e43a882)
 - [Os papéis em um time de UX](https://imasters.com.br/design-ux/user-experience-design/os-papeis-em-um-time-de-ux/)
 - [Dicas de UX para o seu website](http://www.designculture.com.br/dicas-de-ux-para-o-seu-website/)
@@ -299,6 +300,7 @@
 - [Documentar é design: como documentação leva a melhores resultados de design](https://brasil.uxdesign.cc/documentar-e-design-como-documentacao-leva-a-melhores-resultados-de-design-8a05d3f95ca2)
 - [Design Systems: como aumentar a colaboração, garantir a escalabilidade e tornar seus times mais ágeis](https://www.lambda3.com.br/2020/11/design-systems-como-aumentar-a-colaboracao-garantir-a-escalabilidade-e-tornar-seus-times-mais-ageis/)
 - [Montando um Design System honesto](https://brasil.uxdesign.cc/montando-um-design-system-honesto-677098dd1315)
+- [Porque você precisa de um Styleguide](https://brasil.uxdesign.cc/por-que-você-precisa-de-um-styleguide-a89380d05c4f)
 
 ## UX Research
 

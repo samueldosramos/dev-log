@@ -31,6 +31,7 @@
 - [65 dicas para ser um programador melhor](https://dev.to/willianjusten/65-dicas-para-ser-um-programador-melhor-4n6l)
 - [Aplicações Nativas em Nuvem - Stateful x stateless](https://www.redhat.com/pt-br/topics/cloud-native-apps/stateful-vs-stateless)
 - [Design Patterns: Top 5 Techniques for Implementing Fault Tolerance in Distributed Systems](https://levelup.gitconnected.com/design-patterns-top-5-techniques-for-implementing-fault-tolerance-in-distributed-systems-81bef4408c3b)
+- [Tutorial do Diagrama de Sequência: Guia completo com exemplos](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/)
 
 ## Regex
 

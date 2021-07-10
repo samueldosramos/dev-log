@@ -40,6 +40,7 @@
 - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com)
 - [target=blank](https://css-tricks.com/targetblank/)
+- [Preserving white space and line breaks in a string in HTML](https://flaviocopes.com/html-preserve-white-space/)
 
 ## DOM
 
