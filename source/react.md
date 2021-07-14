@@ -108,6 +108,8 @@
 - [Temas dinâmicos no React com Sass](https://medium.com/reactbrasil/temas-dinâmicos-no-react-com-sass-7779a99d3c2f)
 - [Why you shouldn’t use inline styling in production React apps](https://blog.logrocket.com/why-you-shouldnt-use-inline-styling-in-production-react-apps/)
 - [React, how to make a checked checkbox editable](https://flaviocopes.com/react-checkbox-editable/)
+- [React, how to dynamically choose a component to render](https://flaviocopes.com/react-dynamically-render-component/)
+- [React, how to make responsive JSX](https://flaviocopes.com/react-responsive-jsx/)
 
 ## React Hooks
 
