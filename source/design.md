@@ -97,6 +97,7 @@
 - [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
 - [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
 - [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
+- [Princípios de psicologia que todo UX/UI Designer precisa saber](https://brasil.uxdesign.cc/principios-de-psicologia-que-todo-ux-ui-designer-precisa-saber-b10de1ff73ef)
 
 ## Tipografia
 

@@ -3,6 +3,7 @@
 ## Introdução
 
 - [Guia HTML para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Elementos Bloco e Em Linha](https://guilhermemuller.com.br/ead/html-css-na-pratica/elementos-bloco-em-linha)
 - [Recursos, dicas e técnicas sobre HTML 5 que você deve saber – pt1](https://codigosimples.net/2016/07/13/recursos-dicas-e-tecnicas-sobre-html-5-que-voce-deve-saber-pt1/)
 - [Recursos, dicas e técnicas sobre HTML 5 que você deve saber – pt2](https://codigosimples.net/2016/07/18/recursos-dicas-e-tecnicas-sobre-html-5-que-voce-deve-saber-pt2/)
@@ -41,6 +42,8 @@
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com)
 - [target=blank](https://css-tricks.com/targetblank/)
 - [Preserving white space and line breaks in a string in HTML](https://flaviocopes.com/html-preserve-white-space/)
+- [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
+- [The trouble with mailto email links and what to do instead](https://adamsilver.io/blog/the-trouble-with-mailto-email-links-and-what-to-do-instead/)
 
 ## DOM
 
