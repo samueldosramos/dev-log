@@ -314,6 +314,7 @@
 - [Como criar bons questionários de pesquisa](https://brasil.uxdesign.cc/como-criar-bons-questionários-de-pesquisa-749a6b40bdb)
 - [Análise de dados qualitativos extraídos de pesquisa com usuários](https://brasil.uxdesign.cc/análise-de-dados-qualitativos-extra%C3%ADdos-de-pesquisa-com-usuários-a83e424884be)
 - [UX Research — O Guia do Investigador](https://brasil.uxdesign.cc/ux-research-o-guia-do-investigador-8dc4434584e8)
+- [Um guia para extrair os melhores insights dos usuários em pesquisas](https://brasil.uxdesign.cc/um-guia-para-extrair-os-melhores-insights-dos-usuários-em-pesquisas-4451c7853cf6)
 
 ## UX Writing
 
