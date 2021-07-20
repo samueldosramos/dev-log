@@ -201,6 +201,7 @@
 - [Nested Media Queries](https://www.bram.us/2021/01/11/nested-media-queries/)
 - [O novo web design responsivo](https://desenvolvimentoparaweb.com/css/o-novo-web-design-responsivo/)
 - [As novas viewports: Large, Small e Dynamic](https://desenvolvimentoparaweb.com/css/viewports-large-small-dynamic/)
+- [prefers-reduced-data: como funciona a nova media query](https://desenvolvimentoparaweb.com/css/prefers-reduced-data/)
 
 ## Organização
 
