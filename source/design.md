@@ -302,6 +302,7 @@
 - [Design Systems: como aumentar a colaboração, garantir a escalabilidade e tornar seus times mais ágeis](https://www.lambda3.com.br/2020/11/design-systems-como-aumentar-a-colaboracao-garantir-a-escalabilidade-e-tornar-seus-times-mais-ageis/)
 - [Montando um Design System honesto](https://brasil.uxdesign.cc/montando-um-design-system-honesto-677098dd1315)
 - [Porque você precisa de um Styleguide](https://brasil.uxdesign.cc/por-que-você-precisa-de-um-styleguide-a89380d05c4f)
+- [The design system you don’t need](https://goiabada.blog/the-design-system-you-dont-need-301679faaba7)
 
 ## UX Research
 

@@ -6,6 +6,7 @@
 - [Um guia para iniciantes na área web](http://tableless.github.io/iniciantes/)
 - [Developers Google](https://developers.google.com/web)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=pt-br)
+- [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 - [guia front end em português](http://jlcarvalho.github.io/guia-frontend/)
 - [Acronyms in Web Development](https://flaviocopes.com/acronyms-web-development/)
 - [O que Front-end Developers precisam saber](https://www.felipefialho.com/blog/o-que-front-end-developers-precisam-saber/)
@@ -78,6 +79,8 @@
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [The Art of Building Real-life Components](https://ishadeed.com/article/building-real-life-components/)
 - [What Is Open Graph Protocol (OGP)?](https://www.popwebdesign.net/what-is-ogp.html)
+- [Introdução aos service workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
 
 ## HTTP
 

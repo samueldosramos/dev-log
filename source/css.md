@@ -132,6 +132,7 @@
 - [The Layouts of Tomorrow](https://mxb.dev/blog/layouts-of-tomorrow/)
 - [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
 - [CSS Border inside the element](https://flaviocopes.com/css-border-inside-element/)
+- [How to make an element smaller or bigger with CSS](https://flaviocopes.com/css-zoom/)
 
 ## Animações
 
@@ -202,6 +203,7 @@
 - [O novo web design responsivo](https://desenvolvimentoparaweb.com/css/o-novo-web-design-responsivo/)
 - [As novas viewports: Large, Small e Dynamic](https://desenvolvimentoparaweb.com/css/viewports-large-small-dynamic/)
 - [prefers-reduced-data: como funciona a nova media query](https://desenvolvimentoparaweb.com/css/prefers-reduced-data/)
+- [Uma nova responsividade](https://brasil.uxdesign.cc/uma-nova-responsividade-ee20472630c1)
 
 ## Organização
 
