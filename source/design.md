@@ -93,6 +93,7 @@
 - [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
 - [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
+- [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
 - [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
 - [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
 - [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
@@ -322,6 +323,7 @@
 - [Manual despretensioso de sobrevivência em UX Writing](https://brasil.uxdesign.cc/manual-despretensioso-de-sobrevivência-em-ux-writing-c7cc3a1fd859)
 - [Como testar textos para produtos?](https://brasil.uxdesign.cc/como-testar-copy-para-produto-78402f919add)
 - [Tradução, não. Localização!](https://brasil.uxdesign.cc/tradução-não-localização-1d16a2366616)
+- [Como escrever de forma inclusiva e acessível para produtos digitais](https://brasil.uxdesign.cc/como-escrever-de-forma-inclusiva-e-acessivel-para-produtos-digitais-9c0224da9455)
 
 ## Utilidades
 
