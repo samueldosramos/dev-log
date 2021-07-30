@@ -4,6 +4,7 @@
 
 - [Guia de introdução à programação](https://www.treinaweb.com.br/blog/guia-de-introducao-a-programacao/)
 - [Saiba como ser um melhor programador!](http://pplware.sapo.pt/informacao/opiniao/saiba-como-ser-um-melhor-programador/)
+- [Aquele artigo para novos desenvolvedores](https://gabrieluizramos.com.br/aquele-artigo-para-novos-desenvolvedores/)
 - [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
 - [How Developers Think: A Walkthrough of the Planning and Design Behind a Simple Web App](https://www.freecodecamp.org/news/a-walk-through-the-developer-thought-process/)
 - [Quais as diferenças entre tipagens: estática ou dinâmica e forte ou fraca](https://www.treinaweb.com.br/blog/quais-as-diferencas-entre-tipagens-estatica-ou-dinamica-e-forte-ou-fraca/)
@@ -32,6 +33,7 @@
 - [Aplicações Nativas em Nuvem - Stateful x stateless](https://www.redhat.com/pt-br/topics/cloud-native-apps/stateful-vs-stateless)
 - [Design Patterns: Top 5 Techniques for Implementing Fault Tolerance in Distributed Systems](https://levelup.gitconnected.com/design-patterns-top-5-techniques-for-implementing-fault-tolerance-in-distributed-systems-81bef4408c3b)
 - [Tutorial do Diagrama de Sequência: Guia completo com exemplos](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/)
+- [Open source e Inner source](https://gabrieluizramos.com.br/open-source-e-inner-source)
 
 ## Regex
 

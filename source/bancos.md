@@ -6,6 +6,7 @@
 - [O que é ORM?](https://www.treinaweb.com.br/blog/o-que-e-orm/)
 - [O que é UUID? Porque usá-lo?](https://medium.com/trainingcenter/o-que-é-uuid-porque-usá-lo-ad7a66644a2b)
 - [Writing Legible SQL with Common Table Expressions](https://www.beekeeperstudio.io/blog/legible-sql)
+- [Parse – Objetos na nuvem](https://gabrieluizramos.com.br/parse-objetos-na-nuvem/)
 
 ## SQL
 

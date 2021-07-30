@@ -54,6 +54,7 @@
 - [UX, deficiência e um mercado emergente](https://brasil.uxdesign.cc/ux-deficiência-e-um-mercado-emergente-7f4bbcd42795)
 - [Guia prático para aumentar a acessibilidade da sua aplicação](https://brasil.uxdesign.cc/guia-prático-para-aumentar-a-acessibilidade-da-sua-aplicação-c270dff30328)
 - [Dicas de UX/UI para interfaces mais acessíveis](https://brasil.uxdesign.cc/dicas-de-ux-ui-para-interfaces-mais-acess%C3%ADveis-91f5f4c23bd3)
+- [Como melhorar a acessibilidade de seus sites](https://miguelmachado.dev/como-melhorar-acessibilidade/)
 
 ## Utilidades
 
