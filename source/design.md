@@ -304,6 +304,7 @@
 - [Montando um Design System honesto](https://brasil.uxdesign.cc/montando-um-design-system-honesto-677098dd1315)
 - [Porque você precisa de um Styleguide](https://brasil.uxdesign.cc/por-que-você-precisa-de-um-styleguide-a89380d05c4f)
 - [The design system you don’t need](https://goiabada.blog/the-design-system-you-dont-need-301679faaba7)
+- [Greenstone — 6 meses de construção de um design system durante a pandemia](https://brasil.uxdesign.cc/greenstone-6-meses-de-construção-de-um-design-system-durante-a-pandemia-9b9df674c502)
 
 ## UX Research
 
