@@ -75,6 +75,7 @@
 - [Understanding Frontend Security](https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534)
 - [Building a Settings component](https://web.dev/building-a-settings-component/)
 - [Arquitetura BFF — Back-end for Front-end](https://medium.com/concretebr/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2)
+- [Quem é o BFF na fila do pão?](https://brasil.uxdesign.cc/quem-é-o-bff-na-fila-do-pão-ef58d87bbab0)
 - [Como ocultar/revelar menu sticky ao scrollar página](https://01dev.codes/como-ocultar-revelar-menu-sticky-ao-scrollar-pagina/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [The Art of Building Real-life Components](https://ishadeed.com/article/building-real-life-components/)
