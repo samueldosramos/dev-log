@@ -22,7 +22,6 @@
 - [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
 - [Designer x Desenvolvedor: Ainda precisamos falar sobre isso](https://brasil.uxdesign.cc/designer-x-desenvolvedor-ainda-precisamos-falar-sobre-isso-1beb243b9cd)
 - [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
-- [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 - [Short, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/useful-ui-ux-design-tips/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
@@ -35,6 +34,7 @@
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [Design Tips](https://twitter.com/i/moments/994601867987619840)
 - [Práticas Simples de Design que Podem Aumentar as Conversões de Um Site](https://medium.com/ui-lab-school/práticas-simples-de-design-que-podem-aumentar-as-conversões-de-um-site-9fb378fef2a)
+- [Você está utilizando o tipo de botão correto na sua interface?](https://brasil.uxdesign.cc/você-está-utilizando-o-tipo-de-botão-correto-na-sua-interface-722fc19d4463)
 - [Design better buttons](https://uxdesign.cc/design-better-buttons-a5c90a113280)
 - [When Cancel Buttons Should Not Say “Cancel”](https://uxmovement.com/buttons/when-cancel-buttons-should-not-say-cancel/)
 - [Why Cancel Buttons Should Never Have a Color](https://uxmovement.com/buttons/why-cancel-buttons-should-never-have-a-color/)
@@ -42,6 +42,7 @@
 - [UX em botões Cancelar](https://desenvolvimentoparaweb.com/ux/ux-em-botoes-cancelar/)
 - [5 Rules for Choosing the Right Words on Button Labels](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/)
 - [When You Need to Show a Button’s Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
+- [Frustrating Design Patterns: Disabled Buttons](https://www.smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/)
 - [Stop Misusing Toggle Switches](https://uxmovement.com/mobile/stop-misusing-toggle-switches/)
 - [The Confusing State of Toggle Switches](https://uxmovement.com/mobile/the-confusing-state-of-toggle-switches/)
 - [The Challenges with Single Toggle Buttons](https://uxmovement.com/buttons/the-challenges-with-single-toggle-buttons/)
@@ -99,6 +100,7 @@
 - [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
 - [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 - [Princípios de psicologia que todo UX/UI Designer precisa saber](https://brasil.uxdesign.cc/principios-de-psicologia-que-todo-ux-ui-designer-precisa-saber-b10de1ff73ef)
+- [Aumento da conversão com Sign Up](https://brasil.uxdesign.cc/aumento-da-conversão-com-signup-estudo-de-caso-4246fd0a5bff)
 
 ## Tipografia
 
@@ -156,6 +158,7 @@
 - [Usando os microtextos a favor da experiência do usuário](https://brasil.uxdesign.cc/usando-os-microtextos-a-favor-da-experi%C3%AAncia-do-usu%C3%A1rio-79cf7082bf43)
 - [7 dicas para escrever microtextos acessíveis](https://brasil.uxdesign.cc/7-dicas-para-escrever-microtextos-acessiveis-aac789013837)
 - [A diferença entre Lean UX e Agile UX (e a importância dos protótipos no design)](https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-lean-ux-e-agile-ux-e-a-import%C3%A2ncia-dos-prot%C3%B3tipos-no-design-85607e43a882)
+- [Como UX Design se integra no framework de Scrum?](https://brasil.uxdesign.cc/como-ux-design-se-integra-no-framework-de-scrum-b86c6dc11c47)
 - [Os papéis em um time de UX](https://imasters.com.br/design-ux/user-experience-design/os-papeis-em-um-time-de-ux/)
 - [Dicas de UX para o seu website](http://www.designculture.com.br/dicas-de-ux-para-o-seu-website/)
 - [5 detalhes de UX que a maioria dos websites se esquecem](http://www.designculture.com.br/5-detalhes-de-ux-que-a-maioria-dos-websites-se-esquecem/)
@@ -187,6 +190,7 @@
 - [Anthology of Mute Buttons in Voice Chat Apps](https://daverupert.com/2019/04/anthology-of-mute-buttons-in-chat-apps/)
 - [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
 - [UX Design e a Dopamina](https://brasil.uxdesign.cc/ux-design-e-a-dopamina-d0d819570e50)
+- [UX Design Orientado a Objetos](https://brasil.uxdesign.cc/ux-design-orientado-a-objetos-83f9974f767c)
 
 ## UI
 
@@ -305,6 +309,7 @@
 - [Porque você precisa de um Styleguide](https://brasil.uxdesign.cc/por-que-você-precisa-de-um-styleguide-a89380d05c4f)
 - [The design system you don’t need](https://goiabada.blog/the-design-system-you-dont-need-301679faaba7)
 - [Greenstone — 6 meses de construção de um design system durante a pandemia](https://brasil.uxdesign.cc/greenstone-6-meses-de-construção-de-um-design-system-durante-a-pandemia-9b9df674c502)
+- [Afinal, o que são componentes em um Design System?](https://brasil.uxdesign.cc/afinal-o-que-são-componentes-em-um-design-system-d10f72fb2384)
 
 ## UX Research
 
@@ -325,6 +330,10 @@
 - [Como testar textos para produtos?](https://brasil.uxdesign.cc/como-testar-copy-para-produto-78402f919add)
 - [Tradução, não. Localização!](https://brasil.uxdesign.cc/tradução-não-localização-1d16a2366616)
 - [Como escrever de forma inclusiva e acessível para produtos digitais](https://brasil.uxdesign.cc/como-escrever-de-forma-inclusiva-e-acessivel-para-produtos-digitais-9c0224da9455)
+- [O erro das palavras é a reviravolta do fracasso](https://brasil.uxdesign.cc/o-erro-das-palavras-é-a-reviravolta-do-fracasso-466300149acd)
+- [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
+- [Como criar textos para páginas de erro](https://brasil.uxdesign.cc/ux-writing-como-criar-textos-para-páginas-de-erro-com-foco-na-experiência-do-usuário-4c10ac9dce8c)
+- [Mensagem de erro: o terror de UX Writing](https://brasil.uxdesign.cc/mensagem-de-erro-o-terror-de-ux-writing-e3f962b59e1c)
 
 ## Utilidades
 

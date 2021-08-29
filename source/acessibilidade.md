@@ -31,6 +31,7 @@
 - [Escreva para todas as pessoas — aqui estão dicas para um texto mais neutro e inclusivo](https://medium.com/escrita-estratégica/escreva-para-todas-as-pessoas-aqui-estão-dicas-para-um-texto-mais-neutro-e-inclusivo-2fda5738ba01)
 - [Acessibilidade para Daltônicos — Casos de falha e sucesso](https://medium.com/acessibilito/acessibilidade-para-daltônicos-casos-de-falha-e-sucesso-d76bf6e4261e)
 - [Acessibilidade Digital como cultura: Daltonismo e Dislexia](https://brasil.uxdesign.cc/acessibilidade-digital-como-cultura-daltonismo-e-dislexia-16939161d517)
+- [Como criar experiências digitais acessíveis para pessoas com dislexia](https://brasil.uxdesign.cc/como-criar-experiências-digitais-acess%C3%ADveis-para-pessoas-com-dislexia-94a6fe98e5ce)
 - [13 ways to level up your site's accessibility](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6)
 - [Acessibilidade em projetos web: como pensar desde o início](https://www.treinaweb.com.br/blog/acessibilidade-em-projetos-web-como-pensar-desde-o-inicio/)
 - [Primeiros passos com acessibilidade](https://brunopulis.com/drops/iniciando-em-acessibilidade/)
@@ -55,6 +56,7 @@
 - [Guia prático para aumentar a acessibilidade da sua aplicação](https://brasil.uxdesign.cc/guia-prático-para-aumentar-a-acessibilidade-da-sua-aplicação-c270dff30328)
 - [Dicas de UX/UI para interfaces mais acessíveis](https://brasil.uxdesign.cc/dicas-de-ux-ui-para-interfaces-mais-acess%C3%ADveis-91f5f4c23bd3)
 - [Como melhorar a acessibilidade de seus sites](https://miguelmachado.dev/como-melhorar-acessibilidade/)
+- [Acessibilidade web: seu site conversa com quem?](https://brasil.uxdesign.cc/acessibilidade-web-seu-site-conversa-com-quem-a8488fdae19c)
 
 ## Utilidades
 

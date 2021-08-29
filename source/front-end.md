@@ -141,6 +141,9 @@
 - [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
 - [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
 - [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [Vocabulário do dev: O que é tree shaking](https://raisiqueira.dev/pt/blog/2020-05-17-what-is-tree-shaking)
+- [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
+- [Minimizando o tamanho do pacote](https://material-ui.com/pt/guides/minimizing-bundle-size/)
 
 ## SPA/PWA
 
