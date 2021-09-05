@@ -101,6 +101,7 @@
 - [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 - [Princípios de psicologia que todo UX/UI Designer precisa saber](https://brasil.uxdesign.cc/principios-de-psicologia-que-todo-ux-ui-designer-precisa-saber-b10de1ff73ef)
 - [Aumento da conversão com Sign Up](https://brasil.uxdesign.cc/aumento-da-conversão-com-signup-estudo-de-caso-4246fd0a5bff)
+- [Padrões de design enganosos: você os pratica?](https://brasil.uxdesign.cc/padroes-de-design-enganosos-5d98b90cac89)
 
 ## Tipografia
 
@@ -310,6 +311,7 @@
 - [The design system you don’t need](https://goiabada.blog/the-design-system-you-dont-need-301679faaba7)
 - [Greenstone — 6 meses de construção de um design system durante a pandemia](https://brasil.uxdesign.cc/greenstone-6-meses-de-construção-de-um-design-system-durante-a-pandemia-9b9df674c502)
 - [Afinal, o que são componentes em um Design System?](https://brasil.uxdesign.cc/afinal-o-que-são-componentes-em-um-design-system-d10f72fb2384)
+- [Desventuras em série de uma designer criando seu primeiro design system do zero](https://brasil.uxdesign.cc/desventuras-em-série-de-uma-designer-criando-seu-primeiro-design-system-do-zero-b65d822e15db)
 
 ## UX Research
 

@@ -89,6 +89,7 @@
 - [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
 - [HTTP Status Codes](https://httpstatuses.com)
 - [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
+- [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)

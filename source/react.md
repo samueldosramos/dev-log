@@ -210,6 +210,7 @@
 - [Reduce boilerplate test code with Jest it.each](https://elfi-y.medium.com/reduce-boilerplate-test-code-with-jest-it-each-30a0eec9776d)
 - [Testing events in React using enzyme vs react-testing-library](https://techdoma.in/react-js-testing/testing-events-in-react-using-enzyme-vs-react-testing-library)
 - [Handling Mouse Events in Your React Component Tests](https://www.pluralsight.com/guides/handling-mouse-events-in-your-react-component-tests)
+- [A Practical Guide To Testing React Applications With Jest](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
 
 ## Design System
 
