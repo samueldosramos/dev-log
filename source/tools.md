@@ -25,6 +25,7 @@
 - [Bounce.js](http://bouncejs.com)
 - [AnimXYZ](https://animxyz.com)
 - [transition.css](https://www.transition.style)
+- [useAnimations](https://useanimations.com)
 
 ## Boilerplates
 
