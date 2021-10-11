@@ -99,6 +99,7 @@
 - [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
 - [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 - [Princípios de psicologia que todo UX/UI Designer precisa saber](https://brasil.uxdesign.cc/principios-de-psicologia-que-todo-ux-ui-designer-precisa-saber-b10de1ff73ef)
+- [Designing Accordions: Best practices](https://blog.prototypr.io/designing-the-accordion-best-practices-3c1bd54bf26e)
 
 ## Tipografia
 
@@ -138,6 +139,7 @@
 - [Infográfico sobre como escolher as cores do seu logo](http://designontherocks.blog.br/infografico-sobre-como-escolher-as-cores-do-seu-logo/)
 - [Psicologia das cores não é o que você esta pensando](https://brasil.uxdesign.cc/psicologia-das-cores-não-é-o-que-você-esta-pensando-619ca796c336)
 - [Entendendo sistema de cores semântico — especificação de cores e naming](https://brasil.uxdesign.cc/entendendo-sistema-de-cores-semântico-especificação-de-cores-e-naming-5a8a118a4d79)
+- [Como construir uma paleta de cores acessíveis do zero](https://brasil.uxdesign.cc/como-construir-uma-paleta-de-cores-acessiveis-do-zero-8421c5bfbcf2)
 
 ## UX
 
@@ -187,6 +189,7 @@
 - [Anthology of Mute Buttons in Voice Chat Apps](https://daverupert.com/2019/04/anthology-of-mute-buttons-in-chat-apps/)
 - [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
 - [UX Design e a Dopamina](https://brasil.uxdesign.cc/ux-design-e-a-dopamina-d0d819570e50)
+- [Ensinamentos de Jakob Nielsen sobre interação do usuário com interfaces](https://brasil.uxdesign.cc/ensinamentos-de-jacob-nielsen-sobre-interação-do-usuário-com-interfaces-f510ac9b2a73)
 
 ## UI
 
@@ -205,6 +208,7 @@
 - [19 princípios de User Interface Design](https://desenvolvimentoparaweb.com/ux/19-principios-user-interface-design/)
 - [A Designer's Guide to Animating Icons with CSS](https://www.newmediacampaigns.com/blog/guide-to-css-icon-animations)
 - [Neumorfismo (neumorphism) em user interfaces](https://desenvolvimentoparaweb.com/design/neumorfismo-neumorphism-ui/)
+- [Neuomorphism — A passing fad or is it here to stay?](https://medium.com/@arunjangra01/neuomorphism-a-passing-fad-or-is-it-here-to-stay-1aaf2261678b)
 - [6 (more) tips to quickly improve your UIs](https://uxdesign.cc/6-more-tips-to-quickly-improve-your-uis-2130d3e89d59)
 - [All you need to know about UI design Shapes and Objects](https://uxdesign.cc/all-you-need-to-know-about-ui-design-shapes-and-objects-619c13a8523c)
 - [Um guia simplificado sobre design de ícones](https://www.designerd.com.br/guia-simplificado-design-de-icones/)
@@ -305,6 +309,7 @@
 - [Porque você precisa de um Styleguide](https://brasil.uxdesign.cc/por-que-você-precisa-de-um-styleguide-a89380d05c4f)
 - [The design system you don’t need](https://goiabada.blog/the-design-system-you-dont-need-301679faaba7)
 - [Greenstone — 6 meses de construção de um design system durante a pandemia](https://brasil.uxdesign.cc/greenstone-6-meses-de-construção-de-um-design-system-durante-a-pandemia-9b9df674c502)
+- [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
 
 ## UX Research
 
@@ -318,6 +323,7 @@
 - [Análise de dados qualitativos extraídos de pesquisa com usuários](https://brasil.uxdesign.cc/análise-de-dados-qualitativos-extra%C3%ADdos-de-pesquisa-com-usuários-a83e424884be)
 - [UX Research — O Guia do Investigador](https://brasil.uxdesign.cc/ux-research-o-guia-do-investigador-8dc4434584e8)
 - [Um guia para extrair os melhores insights dos usuários em pesquisas](https://brasil.uxdesign.cc/um-guia-para-extrair-os-melhores-insights-dos-usuários-em-pesquisas-4451c7853cf6)
+- [Da Desk à Jornada - Como aplicar Research em Estratégia de Conteúdo](https://brasil.uxdesign.cc/da-desk-à-jornada-como-aplicar-research-em-estratégia-de-conteúdo-b5251525ce1a)
 
 ## UX Writing
 

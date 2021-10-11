@@ -83,6 +83,7 @@
 - [Fatal: Not possible to fast-forward, aborting](https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting/43460847)
 - [Manage your DNS from GitHub with DNSControl](https://svenluijten.com/manage-your-dns-from-github-with-dnscontrol)
 - [How to push to 2 repositories at the same time and keep them in sync](https://flaviocopes.com/how-to-push-two-repositories-sync/)
+- [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
 
 ## Tutoriais
 
@@ -146,6 +147,7 @@
 - [Git warning: Pulling without specifying how to reconcile divergent branches is discouraged](https://www.luizcorreia.eti.br/git-warning-pulling-without-specifying-how-to-reconcile-divergent-branches-is-discouraged/)
 - [Commit Message Guidelines](https://gist.github.com/brianclements/841ea7bffdb01346392c)
 - [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+- [pr-comment-emojis](https://gist.github.com/raorao/a8f01657ef600157958180832bdc28fe)
 
 ## SSH
 

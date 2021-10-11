@@ -50,6 +50,7 @@
 - [Acessibilidade para iniciantes](https://brunopulis.com/blog/acessibilidade-para-iniciantes/)
 - [O que aprendemos sobre acessibilidade em 10 anos?](https://brasil.uxdesign.cc/o-que-aprendemos-sobre-acessibilidade-em-10-anos-469d37eeb53)
 - [Emojis and accessibility: How to use them properly](https://uxdesign.cc/emojis-in-accessibility-how-to-use-them-properly-66b73986b803)
+- [Emojis e acessibilidade: como usá-los adequadamente](https://brasil.uxdesign.cc/emojis-e-acessibilidade-como-usá-los-adequadamente-4269bcb7136d)
 - [Tecnologias assistivas e sua importância](https://brasil.uxdesign.cc/tecnologias-assistivas-por-que-conhece-las-é-tão-importante-quando-falamos-sobre-acessibilidade-39f13a325366)
 - [UX, deficiência e um mercado emergente](https://brasil.uxdesign.cc/ux-deficiência-e-um-mercado-emergente-7f4bbcd42795)
 - [Guia prático para aumentar a acessibilidade da sua aplicação](https://brasil.uxdesign.cc/guia-prático-para-aumentar-a-acessibilidade-da-sua-aplicação-c270dff30328)

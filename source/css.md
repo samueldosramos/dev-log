@@ -28,6 +28,7 @@
 - [CSS com unidades de medida modernas](https://coderi.com.br/2016/03/12/css-com-unidades-de-medida-modernas/)
 - [O Incrível Em & Layouts Elásticos com CSS](https://codeinbrasil.wordpress.com/2013/05/08/o-incrivel-em-layouts-elasticos-com-css/)
 - [Não use Placeholder no lugar da Label](https://www.felipefialho.com/blog/2014/nao-use-placeholder-no-lugar-da-label)
+- [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not)
 - [O Poder do CSS 3 — Desenhando Formas](https://medium.com/helabs/o-poder-do-css-3-desenhando-formas-ce1d3402037b)
 - [Pare de usar javascript para tudo](http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/)
@@ -154,6 +155,7 @@
 - [Animating a CSS Gradient Border](https://www.bram.us/2021/01/29/animating-a-css-gradient-border/)
 - [Using Emoji as the Mouse Cursor on a Webpage](https://www.bram.us/2021/01/17/using-emoji-as-the-mouse-cursor-on-a-webpage/)
 - [Understanding Easing Functions For CSS Animations And Transitions](https://www.smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 
 ## Responsividade
 

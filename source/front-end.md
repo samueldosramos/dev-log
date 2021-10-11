@@ -17,6 +17,7 @@
 - [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
 - [Desenvolvedor Front End Iniciante: Trilha/Guia de estudos](https://woliveiras.com.br/posts/guia-de-estudos-desenvolvedor-front-end-iniciante/)
 - [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
+- [Guia para se tornar um(a) desenvolvedor(a) Web](https://www.jesielviana.com/guia-dev-web)
 - [Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas](https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
 - [Estruturação de front-end – Parte 2: Designers e Programadores](https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
 - [Criando uma arquitetura para Micro Front End (exemplo com AWS).](https://renangarcia.com/criando-uma-arquitetura-para-micro-front-end/)
@@ -81,6 +82,8 @@
 - [What Is Open Graph Protocol (OGP)?](https://www.popwebdesign.net/what-is-ogp.html)
 - [Introdução aos service workers](https://developers.google.com/web/fundamentals/primers/service-workers)
 - [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
+- [Resources aren’t requested by CSS, but by the DOM](https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/)
+- [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
 
 ## HTTP
 
