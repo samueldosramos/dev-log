@@ -94,3 +94,4 @@
 - [quicktype - Convert JSON into gorgeous, typesafe code in any language](https://quicktype.io)
 - [Beeceptor](https://beeceptor.com)
 - [Mock Service Worker](https://mswjs.io)
+- [fakeJSON](https://fakejson.com)

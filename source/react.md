@@ -5,6 +5,9 @@
 - [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 - [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
+- [React](https://pt-br.reactjs.org)
+- [Começando com React](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [React para iniciantes](https://origamid.com/slide/youtube/#/0102-react-para-iniciantes/1)
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
 - [#2 - Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
 - [#3 - O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
@@ -111,6 +114,7 @@
 - [React, how to make a checked checkbox editable](https://flaviocopes.com/react-checkbox-editable/)
 - [React, how to dynamically choose a component to render](https://flaviocopes.com/react-dynamically-render-component/)
 - [React, how to make responsive JSX](https://flaviocopes.com/react-responsive-jsx/)
+- [Como personalizar os componentes React com props](https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt)
 
 ## React Hooks
 
@@ -210,6 +214,7 @@
 - [Reduce boilerplate test code with Jest it.each](https://elfi-y.medium.com/reduce-boilerplate-test-code-with-jest-it-each-30a0eec9776d)
 - [Testing events in React using enzyme vs react-testing-library](https://techdoma.in/react-js-testing/testing-events-in-react-using-enzyme-vs-react-testing-library)
 - [Handling Mouse Events in Your React Component Tests](https://www.pluralsight.com/guides/handling-mouse-events-in-your-react-component-tests)
+- [A Practical Guide To Testing React Applications With Jest](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
 
 ## Design System
 
@@ -221,8 +226,6 @@
 
 ## Utilidades
 
-- [React](https://pt-br.reactjs.org)
-- [React para iniciantes](https://origamid.com/slide/youtube/#/0102-react-para-iniciantes/1)
 - [Tyler Courses](https://tylermcginnis.com/courses/)
 - [React Table](https://react-table.js.org)
 - [HTML to React components](http://roman01la.github.io/html-to-react-components/)

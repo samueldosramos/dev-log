@@ -76,6 +76,7 @@
 - [Understanding Frontend Security](https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534)
 - [Building a Settings component](https://web.dev/building-a-settings-component/)
 - [Arquitetura BFF — Back-end for Front-end](https://medium.com/concretebr/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2)
+- [Quem é o BFF na fila do pão?](https://brasil.uxdesign.cc/quem-é-o-bff-na-fila-do-pão-ef58d87bbab0)
 - [Como ocultar/revelar menu sticky ao scrollar página](https://01dev.codes/como-ocultar-revelar-menu-sticky-ao-scrollar-pagina/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [The Art of Building Real-life Components](https://ishadeed.com/article/building-real-life-components/)
@@ -91,6 +92,7 @@
 - [Significado de cada status HTTP](https://codigosimples.net/2017/01/08/significado-de-cada-status-http/)
 - [HTTP Status Codes](https://httpstatuses.com)
 - [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
+- [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
@@ -144,6 +146,9 @@
 - [Como medir a performance de códigos Javascript](https://devporai.com.br/como-medir-a-performance-de-codigos-javascript/)
 - [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
 - [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [Vocabulário do dev: O que é tree shaking](https://raisiqueira.dev/pt/blog/2020-05-17-what-is-tree-shaking)
+- [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
+- [Minimizando o tamanho do pacote](https://material-ui.com/pt/guides/minimizing-bundle-size/)
 
 ## SPA/PWA
 
