@@ -274,6 +274,7 @@
 - [O que faz o Arquiteto de Informação?](http://fabricio.work/como-comecar-em-ux-design/)
 - [Arquitetura de informação](https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/5-paradigmas-de-interacao/8-arquitetura-de-informacao/)
 - [Escalando consistência e boas práticas de arquitetura da informação](https://brasil.uxdesign.cc/escalando-consistência-e-arquitetura-da-informação-57392ba11ad0)
+- [Recapitulando a Arquitetura da Informação](https://brasil.uxdesign.cc/recapitulando-a-arquitetura-da-informacao-37d2125f4848)
 
 ## Atomic Design
 

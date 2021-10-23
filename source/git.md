@@ -84,6 +84,7 @@
 - [Manage your DNS from GitHub with DNSControl](https://svenluijten.com/manage-your-dns-from-github-with-dnscontrol)
 - [How to push to 2 repositories at the same time and keep them in sync](https://flaviocopes.com/how-to-push-two-repositories-sync/)
 - [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
+- [How do I update my website using the iPad](https://flaviocopes.com/update-site-ipad/)
 
 ## Tutoriais
 

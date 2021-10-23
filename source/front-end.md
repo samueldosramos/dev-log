@@ -18,6 +18,7 @@
 - [Desenvolvedor Front End Iniciante: Trilha/Guia de estudos](https://woliveiras.com.br/posts/guia-de-estudos-desenvolvedor-front-end-iniciante/)
 - [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 - [Guia para se tornar um(a) desenvolvedor(a) Web](https://www.jesielviana.com/guia-dev-web)
+- [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas](https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
 - [Estruturação de front-end – Parte 2: Designers e Programadores](https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
 - [Criando uma arquitetura para Micro Front End (exemplo com AWS).](https://renangarcia.com/criando-uma-arquitetura-para-micro-front-end/)

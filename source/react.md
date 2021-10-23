@@ -169,6 +169,8 @@
 - [Animated Transitions with React Router v5](https://ui.dev/react-router-v5-animated-transitions/)
 - [React Router, how to get data from a dynamic route](https://flaviocopes.com/react-router-data-from-route/)
 - [React Router, why useLocation and useHistory return undefined](https://flaviocopes.com/react-router-uselocation-usehistory-undefined/)
+- [ReactJs: Manipulando rotas com react-router](https://ateliware.com/blog/react-router)
+- [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/)
 
 ## Redux
 
