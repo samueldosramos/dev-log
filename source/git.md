@@ -23,6 +23,7 @@
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 - [Git basics](https://www.atlassian.com/git)
 - [Comandos mais utilizados no Git](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
+- [git config](https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-config)
 - [Instalando o Git e configurando Github no Windows](http://gabsferreira.com/instalando-o-git-e-configurando-github/)
 - [Forkando e clonando um repositório do Github](http://gabsferreira.com/forkando-e-clonando-um-repositorio-no-github/)
 - [Criando e enviando arquivos para seu repositório no Github](http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/)
@@ -85,6 +86,9 @@
 - [How to push to 2 repositories at the same time and keep them in sync](https://flaviocopes.com/how-to-push-two-repositories-sync/)
 - [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
 - [How do I update my website using the iPad](https://flaviocopes.com/update-site-ipad/)
+- [A Simple Tweak for Making 'git rebase' Safe on OS X](https://www.git-tower.com/blog/make-git-rebase-safe-on-osx/)
+- [Why You Should Use git pull –ff-only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
+- [Difference between git pull --rebase and git pull --ff-only](https://stackoverflow.com/questions/25430600/difference-between-git-pull-rebase-and-git-pull-ff-only)
 
 ## Tutoriais
 
