@@ -134,6 +134,8 @@
 - [A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
 - [CSS Border inside the element](https://flaviocopes.com/css-border-inside-element/)
 - [How to make an element smaller or bigger with CSS](https://flaviocopes.com/css-zoom/)
+- [A First Look at `aspect-ratio`](https://css-tricks.com/a-first-look-at-aspect-ratio/)
+- [Designing An Aspect Ratio Unit For CSS](https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/)
 
 ## Animações
 

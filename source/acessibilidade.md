@@ -58,6 +58,7 @@
 - [Dicas de UX/UI para interfaces mais acessíveis](https://brasil.uxdesign.cc/dicas-de-ux-ui-para-interfaces-mais-acess%C3%ADveis-91f5f4c23bd3)
 - [Como melhorar a acessibilidade de seus sites](https://miguelmachado.dev/como-melhorar-acessibilidade/)
 - [Acessibilidade web: seu site conversa com quem?](https://brasil.uxdesign.cc/acessibilidade-web-seu-site-conversa-com-quem-a8488fdae19c)
+- [Acessibilidade e CSS](https://desenvolvimentoparaweb.com/css/acessibilidade-css/)
 
 ## Utilidades
 
