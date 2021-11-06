@@ -195,6 +195,7 @@
 - [UX Design e a Dopamina](https://brasil.uxdesign.cc/ux-design-e-a-dopamina-d0d819570e50)
 - [Ensinamentos de Jakob Nielsen sobre interação do usuário com interfaces](https://brasil.uxdesign.cc/ensinamentos-de-jacob-nielsen-sobre-interação-do-usuário-com-interfaces-f510ac9b2a73)
 - [UX Design Orientado a Objetos](https://brasil.uxdesign.cc/ux-design-orientado-a-objetos-83f9974f767c)
+- [Should I Use A Carousel?](https://shouldiuseacarousel.com)
 
 ## UI
 

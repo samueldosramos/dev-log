@@ -29,3 +29,4 @@
 - [Conectando pequenos comerciantes e prestadores de serviço a potenciais compradores e clientes — um estudo de caso de UX/UI](https://brasil.uxdesign.cc/conectando-pequenos-comerciantes-e-prestadores-de-serviço-a-potenciais-compradores-e-clientes-um-3271bf69cd8f)
 - [Mahoe: conheça a trajetória do Design System do Banco PAN](https://brasil.uxdesign.cc/mahoe-conheça-a-trajetória-do-design-system-do-banco-pan-93a0f47296f9)
 - [Windows 11: Designing the Next Generation](https://medium.com/microsoft-design/windows-11-designing-the-next-generation-of-windows-490c02fb6373)
+- [Amaar: Criação de um website para uma ONG de animais](https://brasil.uxdesign.cc/criação-de-um-website-para-uma-ong-de-animais-ef2fc81925f6)

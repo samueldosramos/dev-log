@@ -15,6 +15,7 @@
 - [JavaScript: Trabalhando com Funções](http://webdevacademy.com.br/tutoriais/javascript-funcoes/)
 - [Guia básico de ES6 (ECMAScript 2015)](https://github.com/ldaltro/guia-basico-ES6)
 - [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86)
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 - [JavaScript #2 - ECMAScript 6](http://shipit.resultadosdigitais.com.br/blog/javascript-2-ecmascript-6/)
 - [O Guia do ES6: TUDO que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
 - [As funcionalidades mais legais do ES6 através de exemplos](https://medium.com/code-prestige/as-funcionalidades-mais-legais-do-es6-atrav%C3%A9s-de-exemplos-983a330ca314)
@@ -170,6 +171,7 @@
 - [Watch: JavaScript apps going Inter-Planetary](https://withblue.ink/2020/01/21/watch-javascript-apps-going-inter-planetary.html)
 - [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://www.bram.us/2021/03/02/dependency-confusion-how-i-hacked-into-apple-microsoft-and-dozens-of-other-companies/)
 - [Top 20 JavaScript tips and tricks to increase your Speed and Efficiency](https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g)
+- [JS Tips](https://www.jstips.co)
 
 ## Estrutura de dados
 

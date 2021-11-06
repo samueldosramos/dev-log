@@ -146,6 +146,13 @@
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
 - [Qual é a diferença entre os hooks useMemo e useCallback do React?](https://pt.stackoverflow.com/questions/405781/qual-é-a-diferença-entre-os-hooks-usememo-e-usecallback-do-react)
+- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
+- [React Hooks: Como utilizar, motivações e exemplos práticos](https://blog.rocketseat.com.br/react-hooks/)
+- [Primeiros passos com React Hooks — useMemo e useCallback.](https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usememo-e-usecallback-13d54da4f9ba)
+- [Como usar useCallback para escrever um código de reação melhor](https://ichi.pro/pt/como-usar-usecallback-para-escrever-um-codigo-de-reacao-melhor-39034613221505)
+- [Quando usar useCallback, useMemo e useEffect](https://www.ti-enxame.com/pt/reactjs/quando-usar-usecallback-usememo-e-useeffect/811147736/)
+- [React Hooks: por que devemos colocar funções no array de dependências do useEffecs?](https://medium.com/rd-shipit/react-hooks-por-que-devemos-colocar-funções-no-array-de-dependências-do-useeffecs-6ba483c57ae)
+- [Qual é a diferença entre os hooks useMemo e useCallback do React?](https://pt.stackoverflow.com/questions/405781/qual-é-a-diferença-entre-os-hooks-usememo-e-usecallback-do-react)
 
 ## Context API
 
@@ -157,6 +164,8 @@
 - [Tudo que você precisa saber sobre Context API no React](https://01dev.codes/tudo-sobre-context-api-react/)
 - [Context, Redux e gerenciamento de estado](https://gabrieluizramos.com.br/context-redux-e-gerenciamento-de-estado)
 - [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
+- [Using the React Context API  -  getting started](https://scottspence.com/posts/react-context-api)
+- [Use the React Context API with Gatsby](https://scottspence.com/posts/react-context-api-with-gatsby)
 
 ## React Router
 

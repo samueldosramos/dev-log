@@ -44,6 +44,7 @@
 - [Preserving white space and line breaks in a string in HTML](https://flaviocopes.com/html-preserve-white-space/)
 - [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
 - [The trouble with mailto email links and what to do instead](https://adamsilver.io/blog/the-trouble-with-mailto-email-links-and-what-to-do-instead/)
+- [Pra que diabos servem rel=”nofollow”, rel=”noreferrer”, rel=”noopener” e rel=”external”?](https://ferramentasseo.club/rel-nofollow-noreferrer-noopener-external)
 
 ## DOM
 

@@ -50,6 +50,8 @@
 - [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
 - [Usando styled-components no React](https://01dev.codes/usando-styled-components-react/)
 - [Criando componente de Tipografia com styled-components](https://willianjusten.com.br/criando-componente-de-tipografia-com-styled-components/)
+- [styled-components getting started](https://scottspence.com/posts/styled-components)
+- [Styled Components Resources](https://scottspence.com/posts/styled-components-resources)
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
 - [Combinação de seletores CSS](https://desenvolvimentoparaweb.com/css/combinacao-seletores-css/)
 - [CSS e o Contexto de Formatação de Bloco (Block Formatting Context)](https://desenvolvimentoparaweb.com/css/css-contexto-de-formatacao-de-bloco-block-formatting-context/)
@@ -280,6 +282,7 @@
 - [The Holy Grail Layout with CSS Grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
 - [Grid by Example](https://gridbyexample.com)
 - [The Minimum Content Size In CSS Grid](https://ishadeed.com/article/min-content-size-css-grid/)
+- [CSS Grid: alinhando elementos (com exemplos)](https://triangulo.dev/posts/css-grid-alinhando-elementos-na-pratica)
 
 ## Pré-processadores
 

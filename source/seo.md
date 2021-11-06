@@ -10,3 +10,4 @@
 - [Microdata API e Schema.org: dando significado ao HTML](https://desenvolvimentoparaweb.com/seo/microdata-api-schema-org-significado-html/)
 - [Como usar o Google Trends como ferramenta de marketing para descobrir tendências de busca](https://www.designerd.com.br/usando-o-google-trends-como-ferramenta-de-marketing/)
 - [Schema.org](https://schema.org)
+- [Why Make a React SEO Component](https://scottspence.com/posts/react-seo-component)
