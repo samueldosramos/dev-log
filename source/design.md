@@ -134,6 +134,7 @@
 - [CSS System Fonts](https://flaviocopes.com/css-system-fonts/)
 - [The Making (and Potential Benefits) of a CSS Font](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 - [Fontpair](https://www.fontpair.co)
+- [Web Fonts in 2021](https://leerob.io/blog/fonts)
 
 ## Cores
 
