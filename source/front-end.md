@@ -64,6 +64,7 @@
 - [Free Intro to Web Development slides (with demos)](https://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/)
 - [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
 - [Como o uso Microfrontends melhorou a produtividade do nosso time](https://medium.com/reactbrasil/como-o-uso-microfrontends-melhorou-a-produtividade-do-nosso-time-b6b9c63dd94f)
+- [O que é micro front end?](https://dev.to/jpbrab0/o-que-e-micro-front-end-4kci)
 - [Web Applications 101](https://www.robinwieruch.de/web-applications)
 - [Ainda precisamos nos preocupar com “Pixel Perfection”?](https://desenvolvimentoparaweb.com/design/pixel-perfection/)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
@@ -86,6 +87,8 @@
 - [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
 - [Resources aren’t requested by CSS, but by the DOM](https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/)
 - [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+- [mobile input types](http://mobileinputtypes.com)
+- [One-offs and low-expectations with Safari](https://daverupert.com/2021/07/safari-one-offs/)
 
 ## HTTP
 
@@ -97,6 +100,7 @@
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+- [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/)
 
 ## Console / DevTools
 

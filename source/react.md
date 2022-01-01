@@ -180,6 +180,7 @@
 - [React Router, why useLocation and useHistory return undefined](https://flaviocopes.com/react-router-uselocation-usehistory-undefined/)
 - [ReactJs: Manipulando rotas com react-router](https://ateliware.com/blog/react-router)
 - [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/)
+- [React Router 6 Tutorial](https://www.robinwieruch.de/react-router/)
 
 ## Redux
 
@@ -199,6 +200,7 @@
 - [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 - [Organize suas importações no React com Typescript](https://rmrantunes.medium.com/organize-suas-importações-no-react-com-typescript-348bfc623c60)
 - [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
+- [TypeScript React props: interfaces vs type aliases](https://www.benmvp.com/blog/typescript-react-props-interfaces-type-aliases/)
 
 ## React e Firebase
 

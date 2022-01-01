@@ -21,7 +21,6 @@
 - [A aproximação entre Designers e Desenvolvedores (e alguns links úteis caso você esteja interessado)](https://brasil.uxdesign.cc/a-aproxima%C3%A7%C3%A3o-entre-designers-e-desenvolvedores-e-alguns-links-%C3%BAteis-caso-voc%C3%AA-esteja-interessado-b720ba829ee7)
 - [A importância da soma ‘dev + designer’](https://helabs.com/artigos/2015/05/15/a-importancia-da-soma-dev-mais-designer/)
 - [Designer x Desenvolvedor: Ainda precisamos falar sobre isso](https://brasil.uxdesign.cc/designer-x-desenvolvedor-ainda-precisamos-falar-sobre-isso-1beb243b9cd)
-- [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
 - [Short, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/useful-ui-ux-design-tips/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
@@ -103,6 +102,7 @@
 - [Designing Accordions: Best practices](https://blog.prototypr.io/designing-the-accordion-best-practices-3c1bd54bf26e)
 - [Aumento da conversão com Sign Up](https://brasil.uxdesign.cc/aumento-da-conversão-com-signup-estudo-de-caso-4246fd0a5bff)
 - [Padrões de design enganosos: você os pratica?](https://brasil.uxdesign.cc/padroes-de-design-enganosos-5d98b90cac89)
+- [Uma breve introdução a Splash Screens](https://brasil.uxdesign.cc/uma-breve-introdução-a-splash-screens-50eca59e901a)
 
 ## Tipografia
 
@@ -133,6 +133,7 @@
 - [Como melhorar a legibilidade de textos na Web](https://desenvolvimentoparaweb.com/css/melhorar-legibilidade-textos-web/)
 - [CSS System Fonts](https://flaviocopes.com/css-system-fonts/)
 - [The Making (and Potential Benefits) of a CSS Font](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
+- [Fontpair](https://www.fontpair.co)
 
 ## Cores
 
@@ -143,6 +144,7 @@
 - [Psicologia das cores não é o que você esta pensando](https://brasil.uxdesign.cc/psicologia-das-cores-não-é-o-que-você-esta-pensando-619ca796c336)
 - [Entendendo sistema de cores semântico — especificação de cores e naming](https://brasil.uxdesign.cc/entendendo-sistema-de-cores-semântico-especificação-de-cores-e-naming-5a8a118a4d79)
 - [Como construir uma paleta de cores acessíveis do zero](https://brasil.uxdesign.cc/como-construir-uma-paleta-de-cores-acessiveis-do-zero-8421c5bfbcf2)
+- [Curated colors in context](https://www.happyhues.co)
 
 ## UX
 
@@ -287,6 +289,7 @@
 ## Design System
 
 - [Afinal, o que é Design System?](https://brasil.uxdesign.cc/afinal-o-que-é-design-system-448c257b0021)
+- [O que é Design System?](https://www.alura.com.br/artigos/o-que-e-design-system)
 - [Tudo o que você precisa saber sobre Design System](https://brasil.uxdesign.cc/tudo-o-que-você-precisa-saber-sobre-design-system-f6e3f030d640)
 - [Porque é importante pensar em documentar as decisões de UX, UI, desenvolvimento, produto, interação, etc.?](https://brasil.uxdesign.cc/design-system-documentar-pra-que-3e14f3c04625)
 - [Criando um design system](https://brasil.uxdesign.cc/criando-um-design-system-8e222f5659d0)
@@ -319,6 +322,8 @@
 - [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
 - [Afinal, o que são componentes em um Design System?](https://brasil.uxdesign.cc/afinal-o-que-são-componentes-em-um-design-system-d10f72fb2384)
 - [Desventuras em série de uma designer criando seu primeiro design system do zero](https://brasil.uxdesign.cc/desventuras-em-série-de-uma-designer-criando-seu-primeiro-design-system-do-zero-b65d822e15db)
+- [10 aprendizados sobre Design System para 2022](https://brasil.uxdesign.cc/10-aprendizados-sobre-design-system-para-2022-826e246f7766)
+- [Aprendizados sobre Design System](https://brasil.uxdesign.cc/alguns-aprendizados-sobre-design-system-nos-últimos-três-meses-fe30c2907551)
 
 ## UX Research
 
@@ -344,6 +349,13 @@
 - [Transforme erros em oportunidades: inspirações de páginas 404](https://medium.com/aela/transforme-erros-em-oportunidades-inspira%C3%A7%C3%B5es-de-p%C3%A1ginas-404-6d0dec570df3?platform=hootsuite)
 - [Como criar textos para páginas de erro](https://brasil.uxdesign.cc/ux-writing-como-criar-textos-para-páginas-de-erro-com-foco-na-experiência-do-usuário-4c10ac9dce8c)
 - [Mensagem de erro: o terror de UX Writing](https://brasil.uxdesign.cc/mensagem-de-erro-o-terror-de-ux-writing-e3f962b59e1c)
+- [How Designers Can Prevent User Errors](https://uxtools.co/blog/how-designers-can-prevent-user-errors/)
+
+## Design Sprint
+
+- [Como usamos e disseminamos Design Sprints na Meus Pedidos](https://medium.com/designmp/como-usamos-e-disseminamos-design-sprints-na-meus-pedidos-300be1a2e027)
+- [Design Sprint: a Metodologia de Criação do Google de 5 dias](https://www.des1gnon.com/2018/08/design-sprint/)
+- [What design sprints do for enterprises](https://www.designbetter.co/enterprise-design-sprints/design-sprints-enterprises)
 
 ## Utilidades
 
@@ -364,4 +376,5 @@
 - [Curso Online de Criação de Logomarcas](https://administrabrasil.com.br/curso/criacao-de-logomarcas/)
 - [Adaptive Icons](https://adapticon.mariusclaret.com)
 - [Design System Repo](https://designsystemsrepo.com)
+- [The Design Systems](https://thedesign.systems)
 - [All the Design resources you need to create your next Digital Product](https://www.basetemplates.com/ui-ux-design-resources)

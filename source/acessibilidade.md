@@ -19,7 +19,6 @@
 - [Design para veteranos digitais: acessibilidade para nós mesmos](https://imasters.com.br/carreira-dev/design-para-veteranos-digitais-acessibilidade-para-nos-mesmos)
 - [Precisamos de profissionais focados em acessibilidade dentro das empresas](https://uxdesign.blog.br/precisamos-de-profissionais-focados-em-acessibilidade-dentro-das-empresas-e6f4cde69df9)
 - [Conheça os projetos de acessibilidade que o Google está desenvolvendo!](https://thiagoam.com/conheca-os-projetos-de-acessibilidade-que-o-google-esta-desenvolvendo/)
-- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Porque o “Como começar” com acessibilidade não deveria existir?](http://liviagabos.com/2020/05/porque-o-como-comecar-com-acessibilidade-nao-deveria-existir/)
 - [Texto alternativo o guia definitivo](https://www.brunopulis.com/acessibilidade/texto-alternativo-o-guia-definitivo/)
 - [Alt vs Figcaption](https://thoughtbot.com/blog/alt-vs-figcaption)
@@ -59,6 +58,7 @@
 - [Como melhorar a acessibilidade de seus sites](https://miguelmachado.dev/como-melhorar-acessibilidade/)
 - [Acessibilidade web: seu site conversa com quem?](https://brasil.uxdesign.cc/acessibilidade-web-seu-site-conversa-com-quem-a8488fdae19c)
 - [Acessibilidade e CSS](https://desenvolvimentoparaweb.com/css/acessibilidade-css/)
+- [Full accessibility tree in Chrome DevTools](https://developer.chrome.com/blog/full-accessibility-tree/)
 
 ## Utilidades
 

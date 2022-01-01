@@ -29,6 +29,8 @@
 - [Using Docker for more on Apple Silicon](https://dev.to/zac_siegel/using-docker-for-more-on-apple-silicon-1gdd)
 - [Using Docker for more on Apple Silicon](https://www.zsiegel.com/2021/01/04/using-docker-for-more-on-apple-silicon)
 - [O que é Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes)
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+- [Como emular um iOS no Linux utilizando Docker](https://dev.to/ianito/como-emular-um-ios-no-linux-utilizando-docker-3l75)
 
 ## Docker e Node.js
 

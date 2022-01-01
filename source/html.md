@@ -45,6 +45,7 @@
 - [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
 - [The trouble with mailto email links and what to do instead](https://adamsilver.io/blog/the-trouble-with-mailto-email-links-and-what-to-do-instead/)
 - [Pra que diabos servem rel=”nofollow”, rel=”noreferrer”, rel=”noopener” e rel=”external”?](https://ferramentasseo.club/rel-nofollow-noreferrer-noopener-external)
+- [Let's talk about Native HTML Tabs](https://daverupert.com/2021/10/native-html-tabs/)
 
 ## DOM
 
@@ -69,3 +70,4 @@
 - [HTML5 Periodical Table](https://websitesetup.org/html5-periodical-table/)
 - [Dive Into HTML5](https://diveintohtml5.com.br)
 - [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com)
+- [TML CheatSheet](https://htmlcheatsheet.com)

@@ -77,6 +77,7 @@
 - [Dicionário Programação do Zero: entenda os termos da área de Programação](https://blog.cubos.io/dicionario-programacao-do-zero-entenda-os-termos-da-area-de-programacao/)
 - [shortcode.dev](https://shortcode.dev)
 - [DevSamples](https://www.devsamples.com)
+- [Cheat Sheets](https://cheatsheets.xyz)
 
 ## Cursos pedagógicos
 

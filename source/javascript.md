@@ -102,7 +102,9 @@
 - [JavaScript, how to find duplicates in an array](https://flaviocopes.com/how-to-find-duplicates-array-javascript/)
 - [JavaScript, how to replace an item of an array](https://flaviocopes.com/how-to-replace-item-array-javascript/)
 - [10 array methods to simplify your code](https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/)
+- [10 Important Array Methods In JavaScript Explained](https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained)
 - [JavaScript Array Methods Explained with Emojis](https://dev.to/devmount/javascript-array-methods-explained-with-emojis-2amn)
+- [Quatro métodos de pesquisa através de arrays em JavaScript](https://www.digitalocean.com/community/tutorials/js-array-search-methods-pt)
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes](https://www.jesuisundev.com/en/understand-threejs/)
 - [How to Access Object's Keys, Values, and Entries in JavaScript](https://dmitripavlutin.com/access-object-keys-values-entries/)
 - [Dynamic, Conditional Imports](https://css-tricks.com/dynamic-conditional-imports/)
@@ -117,6 +119,7 @@
 - [What is the async disposer pattern in Javascript](https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript/)
 - [Cancel JavaScript Event Listeners with AbortController](https://www.bram.us/2021/01/24/cancel-javascript-event-listeners-with-abortcontroller/)
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [ES6 Generators estão mudando nosso modo de escrever JavaScript](https://medium.com/nossa-coletividad/es6-generators-estão-mudando-nosso-modo-de-escrever-javascript-e99f7c79bdd7)
 
 ## Dicas
 
@@ -399,6 +402,7 @@
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev#open-web-platform)
 - [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks)
 - [Operator Lookup](https://joshwcomeau.com/operator-lookup/)
+- [JS CheatSheet](https://htmlcheatsheet.com/js/)
 
 ## Para seguir
 

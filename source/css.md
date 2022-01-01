@@ -138,6 +138,9 @@
 - [How to make an element smaller or bigger with CSS](https://flaviocopes.com/css-zoom/)
 - [A First Look at `aspect-ratio`](https://css-tricks.com/a-first-look-at-aspect-ratio/)
 - [Designing An Aspect Ratio Unit For CSS](https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/)
+- [CSS numeric factory functions](https://developer.mozilla.org/en-US/docs/Web/API/CSS/factory_functions)
+- [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
+- [What is Glassmorphism? Create This New Design Effect Using Only HTML and CSS](https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/)
 
 ## Animações
 
@@ -291,6 +294,7 @@
 - [CSS menos sofrido com Sass](https://blog.caelum.com.br/css-menos-sofrido-com-sass/)
 - [Variáveis CSS são melhores que loops de Sass?](https://desenvolvimentoparaweb.com/css/variaveis-css-loops-sass/)
 - [Nem Sass, nem LESS, nem Stylus: PostCSS!](https://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/)
+- [Improving performance with Islands Architecture and PostCSS](https://blog.oliverturner.cloud/posts/mqs-in-js/)
 
 ## Utilidades
 
