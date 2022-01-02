@@ -24,6 +24,7 @@
 - [Saiba como configurar um ambiente de desenvolvimento Web Apache completo e seguro com Docker](https://www.linuxdescomplicado.com.br/2017/05/saiba-como-configurar-um-ambiente-de-desenvolvimento-web-apache-completo-e-seguro-com-docker.html)
 - [Docker e Docker Compose — Com Node.js, MongoDB, PostgreSQL e nodemon (bônus)](https://medium.com/@jonabf1/docker-e-docker-compose-com-node-js-mongodb-postgresql-e-nodemon-5752e42b022f)
 - [Deploy Reactjs com Docker](https://kledenai.medium.com/deploy-reactjs-com-docker-1769cf7a5f74)
+- [Deploy your Create React App with Docker and Nginx](https://iamsaravieira.com/deploy-your-create-react-app-with-docker-and-nginx)
 - [Desvendando o DockerFile](https://www.alura.com.br/artigos/desvendando-o-dockerfile)
 - [Dockerize Your App And Keep Hot-Reloading !](https://blog.bam.tech/developer-news/dockerize-your-app-and-keep-hot-reloading)
 - [Using Docker for more on Apple Silicon](https://dev.to/zac_siegel/using-docker-for-more-on-apple-silicon-1gdd)
