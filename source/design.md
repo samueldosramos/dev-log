@@ -351,6 +351,7 @@
 - [Como criar textos para páginas de erro](https://brasil.uxdesign.cc/ux-writing-como-criar-textos-para-páginas-de-erro-com-foco-na-experiência-do-usuário-4c10ac9dce8c)
 - [Mensagem de erro: o terror de UX Writing](https://brasil.uxdesign.cc/mensagem-de-erro-o-terror-de-ux-writing-e3f962b59e1c)
 - [How Designers Can Prevent User Errors](https://uxtools.co/blog/how-designers-can-prevent-user-errors/)
+- [How to Write Good Error Messages](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 
 ## Design Sprint
 
