@@ -60,6 +60,7 @@
 - [Fundamentos JavaScript antes de aprender React](https://dev.to/willianjusten/fundamentos-javascript-antes-de-aprender-react-icl)
 - [Otimizando o desempenho de aplicações react /react-native](https://medium.com/@dellean.santos/otimizando-o-desempenho-de-aplicações-react-react-native-7b2de33e261)
 - [Métodos do ciclo de vida de componentes ReactJS — Um mergulho profundo!](https://medium.com/@edmo_/métodos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
+- [Futuro do React e os métodos de lifecycle](https://devheroes.io/futuro-do-react-metodos-lifecycle/)
 - [CRUD Example - Material Dashboard React](https://github.com/rafaelrend/react_materialize_crud?fbclid=IwAR3YAEpMd8iw1_CKD1IwlgBUsqQElrdXRUrlm2Prdbs7BlpQErA3t1r5-4g)
 - [(React + this + bind) = só sei que é assim](https://tableless.com.br/react-this-bind-so-sei-que-assim/)
 - [How to Learn React.js, Part 1: The React Road Map for Modern Web Developers](https://dzone.com/articles/how-to-learn-react-js-the-react-roadmap-for-modern?edition=423198)
@@ -115,6 +116,7 @@
 - [React, how to dynamically choose a component to render](https://flaviocopes.com/react-dynamically-render-component/)
 - [React, how to make responsive JSX](https://flaviocopes.com/react-responsive-jsx/)
 - [Como personalizar os componentes React com props](https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt)
+- [React: Event Bubbling and Capturing](https://www.robinwieruch.de/react-event-bubbling-capturing/)
 
 ## React Hooks
 
@@ -181,6 +183,7 @@
 - [ReactJs: Manipulando rotas com react-router](https://ateliware.com/blog/react-router)
 - [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/)
 - [React Router 6 Tutorial](https://www.robinwieruch.de/react-router/)
+- [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial/)
 
 ## Redux
 
