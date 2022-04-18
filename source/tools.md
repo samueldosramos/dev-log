@@ -223,6 +223,7 @@
 - [CSS.gg](https://css.gg)
 - [Iconduck](https://iconduck.com)
 - [Google Fonts Icons](https://fonts.google.com/icons)
+- [IconBrew](https://iconbrew.com)
 
 ## Imagens/Vídeos
 
@@ -259,6 +260,7 @@
 - [nappy](https://www.nappy.co)
 - [Pxfuel](https://www.pxfuel.com)
 - [Glaze](https://www.glazestock.com)
+- [Ira Design](https://iradesign.io)
 
 ## Lorem Ipsum/Dados
 

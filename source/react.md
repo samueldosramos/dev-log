@@ -155,6 +155,8 @@
 - [Quando usar useCallback, useMemo e useEffect](https://www.ti-enxame.com/pt/reactjs/quando-usar-usecallback-usememo-e-useeffect/811147736/)
 - [React Hooks: por que devemos colocar funções no array de dependências do useEffecs?](https://medium.com/rd-shipit/react-hooks-por-que-devemos-colocar-funções-no-array-de-dependências-do-useeffecs-6ba483c57ae)
 - [Qual é a diferença entre os hooks useMemo e useCallback do React?](https://pt.stackoverflow.com/questions/405781/qual-é-a-diferença-entre-os-hooks-usememo-e-usecallback-do-react)
+- [React useRef and useLayoutEffect vs useEffect (Step-By-Step Case Study)](https://linguinecode.com/post/when-to-use-useref-and-uselayouteffect)
+- [React: Quando usar useLayoutEffect ao invés de useEffect](https://oieduardorabelo.medium.com/react-quando-usar-uselayouteffect-ao-invés-de-useeffect-9f2157396aac)
 
 ## Context API
 

@@ -35,6 +35,7 @@
 - [Design Patterns: Top 5 Techniques for Implementing Fault Tolerance in Distributed Systems](https://levelup.gitconnected.com/design-patterns-top-5-techniques-for-implementing-fault-tolerance-in-distributed-systems-81bef4408c3b)
 - [Tutorial do Diagrama de Sequência: Guia completo com exemplos](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/)
 - [Open source e Inner source](https://gabrieluizramos.com.br/open-source-e-inner-source)
+- [Conheça os detalhes dos Estilos de Indentação](https://terminalroot.com.br/2022/02/conheca-os-detalhes-dos-estilos-de-indentacao.html)
 
 ## Regex
 
@@ -79,6 +80,7 @@
 - [shortcode.dev](https://shortcode.dev)
 - [DevSamples](https://www.devsamples.com)
 - [Cheat Sheets](https://cheatsheets.xyz)
+- [web-platform-tests dashboard](https://wpt.fyi/interop-2022)
 
 ## Cursos pedagógicos
 

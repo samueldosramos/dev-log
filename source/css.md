@@ -2,6 +2,7 @@
 
 ## Introdução
 
+- [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
 - [Guia de Estudos CSS](https://triangulo.dev/guia-de-estudos-css)
 - [Guia CSS para desenvolvedores - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS)
 - [Site do Maujor - Site sobre CSS e Padrões Web](http://www.maujor.com)
@@ -99,6 +100,7 @@
 - [Dark Mode com variáveis de luminosidade invertida](https://desenvolvimentoparaweb.com/css/dark-mode-lch/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
+- [5 dicas para melhorar a performance CSS](https://desenvolvimentoparaweb.com/css/5-dicas-performance-css/)
 - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
 - [Centering in CSS](https://web.dev/centering-in-css/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
@@ -141,6 +143,7 @@
 - [CSS numeric factory functions](https://developer.mozilla.org/en-US/docs/Web/API/CSS/factory_functions)
 - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 - [What is Glassmorphism? Create This New Design Effect Using Only HTML and CSS](https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/)
+- [CSS Shorthands: Dica de Ouro](https://desenvolvimentoparaweb.com/css/css-shorthands-dica-de-ouro/Shorthands)
 
 ## Animações
 

@@ -2,6 +2,7 @@
 
 ## Guias
 
+- [Roadmap to become a Web Developer in 2022](https://flaviocopes.com/roadmap-web-developer-2022/)
 - [How to Learn Web Development in 2021 - a Web Developer Roadmap](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)
 - [Um guia para iniciantes na área web](http://tableless.github.io/iniciantes/)
 - [Developers Google](https://developers.google.com/web)
@@ -89,6 +90,7 @@
 - [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
 - [mobile input types](http://mobileinputtypes.com)
 - [One-offs and low-expectations with Safari](https://daverupert.com/2021/07/safari-one-offs/)
+- [How does UTF-8 turn “😂” into “F09F9882”?](https://sethmlarson.dev/blog/utf-8)
 
 ## HTTP
 
@@ -123,6 +125,7 @@
 - [Formatting console.log output](https://docs.microsoft.com/en-gb/visualstudio/debugger/javascript-console-commands?view=vs-2017&viewFallbackFrom=vs-2019#ConsoleLog)
 - [How to debug CSS by bisecting](https://flaviocopes.com/css-debugging-bisect/)
 - [Debug/Inspect z-index stacking with the “CSS Stacking Context Inspector” DevTools extension](https://www.bram.us/2021/04/01/debug-inspect-z-index-stacking-with-the-css-stacking-context-inspector-devtools-extension/)
+- [How to debug JavaScript code](https://flaviocopes.com/debugging/)
 
 ## Otimização/Performance
 

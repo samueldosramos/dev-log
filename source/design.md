@@ -103,6 +103,7 @@
 - [Aumento da conversão com Sign Up](https://brasil.uxdesign.cc/aumento-da-conversão-com-signup-estudo-de-caso-4246fd0a5bff)
 - [Padrões de design enganosos: você os pratica?](https://brasil.uxdesign.cc/padroes-de-design-enganosos-5d98b90cac89)
 - [Uma breve introdução a Splash Screens](https://brasil.uxdesign.cc/uma-breve-introdução-a-splash-screens-50eca59e901a)
+- [E se aportuguesássemos o design?](https://brasil.uxdesign.cc/como-seria-se-não-pegássemos-palavras-estrangeiras-em-ux-8f83cc465c9f)
 
 ## Tipografia
 
@@ -161,8 +162,6 @@
 - [Famosas leis aplicadas à Experiência do Usuário](https://ux123.wordpress.com/2013/07/18/famosas-leis-na-experiencia-do-usuario)
 - [As funções responsáveis por projetar a Experiência do Usuário (UX)](https://www.ecommercebrasil.com.br/artigos/funcoes-responsaveis-por-projetar-experiencia-usuario-ux/)
 - [Métricas de UX, o que são e como definir](https://medium.com/skillsweb/m%C3%A9tricas-de-ux-o-que-s%C3%A3o-e-como-definir-a9fbb920411)
-- [Usando os microtextos a favor da experiência do usuário](https://brasil.uxdesign.cc/usando-os-microtextos-a-favor-da-experi%C3%AAncia-do-usu%C3%A1rio-79cf7082bf43)
-- [7 dicas para escrever microtextos acessíveis](https://brasil.uxdesign.cc/7-dicas-para-escrever-microtextos-acessiveis-aac789013837)
 - [A diferença entre Lean UX e Agile UX (e a importância dos protótipos no design)](https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-lean-ux-e-agile-ux-e-a-import%C3%A2ncia-dos-prot%C3%B3tipos-no-design-85607e43a882)
 - [Como UX Design se integra no framework de Scrum?](https://brasil.uxdesign.cc/como-ux-design-se-integra-no-framework-de-scrum-b86c6dc11c47)
 - [Os papéis em um time de UX](https://imasters.com.br/design-ux/user-experience-design/os-papeis-em-um-time-de-ux/)
@@ -199,6 +198,9 @@
 - [Ensinamentos de Jakob Nielsen sobre interação do usuário com interfaces](https://brasil.uxdesign.cc/ensinamentos-de-jacob-nielsen-sobre-interação-do-usuário-com-interfaces-f510ac9b2a73)
 - [UX Design Orientado a Objetos](https://brasil.uxdesign.cc/ux-design-orientado-a-objetos-83f9974f767c)
 - [Should I Use A Carousel?](https://shouldiuseacarousel.com)
+- [Quando a intenção orienta o design](https://brasil.uxdesign.cc/quando-a-intencao-orienta-o-design-3c603728254f)
+- [Melhorando a experiência de uso dos gráficos com visualização de dados](https://brasil.uxdesign.cc/melhorando-a-experiencia-de-uso-dos-graficos-com-visualizacao-de-dados-c8f20ff324cd)
+- [Mobile UX Design: Princípios-chave para você detonar](https://brasil.uxdesign.cc/mobile-ux-design-princ%C3%ADpios-chave-para-você-detonar-9dd8df204e8f)
 
 ## UI
 
@@ -224,6 +226,7 @@
 - [Fundamentals of layout in user interface design (UI)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)
 - [7 Rules for Creating Gorgeous UI (Updated for 2020)](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
 - [As Leis da Gestalt aplicadas ao Design de Interfaces](https://brasil.uxdesign.cc/as-leis-da-gestalt-aplicadas-ao-design-de-interfaces-efc480dc06ec)
+- [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
 
 ## Web Design
 
@@ -352,6 +355,9 @@
 - [Mensagem de erro: o terror de UX Writing](https://brasil.uxdesign.cc/mensagem-de-erro-o-terror-de-ux-writing-e3f962b59e1c)
 - [How Designers Can Prevent User Errors](https://uxtools.co/blog/how-designers-can-prevent-user-errors/)
 - [How to Write Good Error Messages](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
+- [Usando os microtextos a favor da experiência do usuário](https://brasil.uxdesign.cc/usando-os-microtextos-a-favor-da-experi%C3%AAncia-do-usu%C3%A1rio-79cf7082bf43)
+- [Microcópia: O poder da palavra certa no lugar certo](https://brasil.uxdesign.cc/microcopia-o-poder-da-palavra-certa-no-lugar-certo-6fb42385f3f)
+- [7 dicas para escrever microtextos acessíveis](https://brasil.uxdesign.cc/7-dicas-para-escrever-microtextos-acessiveis-aac789013837)
 
 ## Design Sprint
 

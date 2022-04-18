@@ -31,3 +31,4 @@
 - [Windows 11: Designing the Next Generation](https://medium.com/microsoft-design/windows-11-designing-the-next-generation-of-windows-490c02fb6373)
 - [Amaar: Criação de um website para uma ONG de animais](https://brasil.uxdesign.cc/criação-de-um-website-para-uma-ong-de-animais-ef2fc81925f6)
 - [Como estruturamos o workflow de design da TAG Infraestrutura](https://brasil.uxdesign.cc/como-estruturamos-o-workflow-de-design-da-tag-infraestrutura-ad1054570161)
+- [Os porquês da experiência financeira no Brasil ser melhor que a de muitos outros países](https://brasil.uxdesign.cc/os-porquês-da-experiência-financeira-no-brasil-ser-melhor-do-que-a-de-muitos-outros-pa%C3%ADses-15acce5b4efe)

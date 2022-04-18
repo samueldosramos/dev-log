@@ -120,6 +120,7 @@
 - [Cancel JavaScript Event Listeners with AbortController](https://www.bram.us/2021/01/24/cancel-javascript-event-listeners-with-abortcontroller/)
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [ES6 Generators estão mudando nosso modo de escrever JavaScript](https://medium.com/nossa-coletividad/es6-generators-estão-mudando-nosso-modo-de-escrever-javascript-e99f7c79bdd7)
+- [A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 
 ## Dicas
 
@@ -143,6 +144,7 @@
 - [Javascript Date: Aprenda a usar Data e Hora](https://blog.betrybe.com/javascript/javascript-date/)
 - [How to display dates in your user’s time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
 - [Temporal: getting started with JavaScript’s new date time API](https://2ality.com/2021/06/temporal-api.html)
+- [How to add days to a date in JavaScript](https://flaviocopes.com/how-to-add-days-date-javascript/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
@@ -254,6 +256,8 @@
 - [Deploy de aplicação Node.js na Digital Ocean](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean/)
 - [Deploy de aplicação Node.js na Digital Ocean – Parte 2](https://www.luiztools.com.br/post/deploy-de-aplicacao-node-js-na-digital-ocean-2/)
 - [Secure tempfiles in NodeJS without dependencies](https://advancedweb.hu/secure-tempfiles-in-nodejs-without-dependencies/)
+- [Resolve NPM security vulnerabilities](https://pamit.medium.com/resolve-npm-security-vulnerabilities-160b086e8448)
+- [How to upload an image to S3 using Node.js](https://flaviocopes.com/node-aws-s3-upload-image/)
 
 ## TypeScript
 
@@ -287,6 +291,8 @@
 - [TypeScript - Zero to Hero Series' Articles](https://dev.to/glaucia86/series/11515)
 - [Optional Chaining e null coalescing operator com TypeScript](https://imasters.com.br/javascript/optional-chaining-e-null-coalescing-operator-com-typescript)
 - [How to get the file extension in Node.js from the MIME type](https://flaviocopes.com/node-get-file-extension-mime-type/)
+- [O que é o "is" no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
+- [Performance](https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections)
 
 # Style/Clean code
 
@@ -388,6 +394,7 @@
 - [Full Stack com Node.js, React e GraphQL  – 1: Introdução](https://www.webdevdrops.com/fullstack-node-react-graphql-introducao-2c2f18c757c4/)
 - [Crud completo usando Node com express, React com Redux e MongoDb — Parte 01](https://medium.com/trainingcenter/crud-completo-usando-node-com-express-react-com-redux-e-mongodb-parte-01-417b186bbb7f)
 - [Aprenda a testar Aplicações Javascript](https://javascript.tv.br)
+- [Setup a modern Jamstack project using Gatsby, TypeScript, Styled Components, and Contentful!](https://dev.to/andrews1022/setup-a-modern-jamstack-project-using-gatsby-typescript-styled-components-and-contentful-564o)
 
 ## Utilidades
 
