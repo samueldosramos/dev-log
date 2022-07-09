@@ -20,6 +20,7 @@
 - [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 - [Guia para se tornar um(a) desenvolvedor(a) Web](https://www.jesielviana.com/guia-dev-web)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
+- [O que todo desenvolvedor front-end deve saber sobre renderização de páginas web](https://desenvolvimentoparaweb.com/miscelanea/desenvolvedor-frontend-renderizacao-paginas-web/)
 - [Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas](https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
 - [Estruturação de front-end – Parte 2: Designers e Programadores](https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
 - [Criando uma arquitetura para Micro Front End (exemplo com AWS).](https://renangarcia.com/criando-uma-arquitetura-para-micro-front-end/)
@@ -91,6 +92,10 @@
 - [mobile input types](http://mobileinputtypes.com)
 - [One-offs and low-expectations with Safari](https://daverupert.com/2021/07/safari-one-offs/)
 - [How does UTF-8 turn “😂” into “F09F9882”?](https://sethmlarson.dev/blog/utf-8)
+- [What's the differences between helpers and utils?](https://github.com/erikras/react-redux-universal-hot-example/issues/808)
+- [Building a dialog component](https://web.dev/building-a-dialog-component/#the-lessformgreater-layout)
+- [Building a button component](https://web.dev/building-a-button-component/)
+- [Separador Horizontal em HTML e CSS do Jeito Certo + Exemplos](https://metring.com.br/separador-horizontal-em-html-e-css)
 
 ## HTTP
 
@@ -103,6 +108,7 @@
 - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/)
+- [Estudo sobre HTTP2 e protocolos binários](https://dev.to/marcelmfa/estudo-sobre-http2-e-protocolos-binarios-parte-1-5h9o)
 
 ## Console / DevTools
 
@@ -157,6 +163,8 @@
 - [Vocabulário do dev: O que é tree shaking](https://raisiqueira.dev/pt/blog/2020-05-17-what-is-tree-shaking)
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
 - [Minimizando o tamanho do pacote](https://material-ui.com/pt/guides/minimizing-bundle-size/)
+- [Melhore o desempenho do seu site com software livre](https://diolinux.com.br/tutoriais/seo-melhore-o-desempenho-do-seu-site.html)
+- [Pontuação de desempenho no Lighthouse](https://web.dev/performance-scoring/)
 
 ## SPA/PWA
 
@@ -199,6 +207,17 @@
 - [Uso de WebSockets e HTML5](https://www.devmedia.com.br/uso-de-websockets-e-html5/32267)
 - [Como o JavaScript funciona: Aprofundando em WebSockets e HTTP/2 com SSE + como escolher o caminho certo](https://medium.com/reactbrasil/como-o-javascript-funciona-aprofundando-em-websockets-e-http-2-com-sse-como-escolher-o-caminho-d4639995ef85)
 - [webSockets.org](https://www.websocket.org)
+
+## Cookies
+
+- [What are session cookies? Do they need consent?](https://www.cookieyes.com/blog/session-cookies/)
+- [Beginner Guide to Understand Cookies and Session Management](https://www.hackingarticles.in/beginner-guide-understand-cookies-session-management/)
+- [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
+
+## Internacionalização
+
+- [React Intl](https://testing-library.com/docs/example-react-intl/)
+- [How to set up internationalization in React using Lingui.js](https://blog.logrocket.com/how-to-set-up-internationalization-in-react-using-lingui-js/)
 
 ## Utilidades
 

@@ -19,6 +19,7 @@
 - [Guide to Advanced CSS Selectors - Part One](https://moderncss.dev/guide-to-advanced-css-selectors-part-one/)
 - [Guide to Advanced CSS Selectors - Part Two](https://moderncss.dev/guide-to-advanced-css-selectors-part-two/)
 - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [Alguns seletores css importantes para aprender](https://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender)
 - [70 dicas para escrever CSS](http://www.maujor.com/blog/2007/05/29/70-dicas-para-escrever-css/)
 - [30 CSS Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
 - [11 regras CSS que todo desenvolvedor web deve saber](http://wpmidia.com.br/desenvolvimento-web/11-regras-css-todo-desenvolvedor-web-deve-saber/)
@@ -27,6 +28,7 @@
 - [CSS Units](https://flaviocopes.com/css-units/)
 - [Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex, ch](http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
 - [CSS com unidades de medida modernas](https://coderi.com.br/2016/03/12/css-com-unidades-de-medida-modernas/)
+- [Guia de unidades CSS para espaçamento](https://desenvolvimentoparaweb.com/css/guia-unidades-css-espacamento/)
 - [O Incrível Em & Layouts Elásticos com CSS](https://codeinbrasil.wordpress.com/2013/05/08/o-incrivel-em-layouts-elasticos-com-css/)
 - [Não use Placeholder no lugar da Label](https://www.felipefialho.com/blog/2014/nao-use-placeholder-no-lugar-da-label)
 - [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
@@ -144,6 +146,11 @@
 - [A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
 - [What is Glassmorphism? Create This New Design Effect Using Only HTML and CSS](https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/)
 - [CSS Shorthands: Dica de Ouro](https://desenvolvimentoparaweb.com/css/css-shorthands-dica-de-ouro/Shorthands)
+- [Como fazer code review de CSS](https://desenvolvimentoparaweb.com/css/como-fazer-code-review-css/)
+- [State of CSS 2022](https://web.dev/state-of-css-2022/)
+- [Criando temas em interfaces com CSS e variáveis](https://brasil.uxdesign.cc/criando-temas-em-interfaces-com-css-e-variáveis-2fac09cbd67f)
+- [CSS min-content, max-content e fit-content](https://desenvolvimentoparaweb.com/css/css-min-content-max-content-fit-content/)
+- [CSS Style Queries](https://desenvolvimentoparaweb.com/css/style-queries/)
 
 ## Animações
 
@@ -260,6 +267,7 @@
 - [Flexbox: como passar para a próxima linha fácil](https://desenvolvimentoparaweb.com/css/flexbox-quebrar-proxima-linha-breakline/)
 - [CSS Flexbox para quem não sabe CSS: usando o Figma para entender os princípios](https://brasil.uxdesign.cc/css-flexbox-para-quem-não-sabe-css-usando-o-figma-para-entender-os-princ%C3%ADpios-3869e920a0c6)
 - [place-self](https://developer.mozilla.org/en-US/docs/Web/CSS/place-self)
+- [How to stick an element on the bottom of the page with flexbox](https://flaviocopes.com/css-how-to-stick-bottom-flexbox/)
 
 ## Grid Layout
 
@@ -322,4 +330,4 @@
 - [Houdini.how - Worklet Library](https://houdini.how)
 - [Charts.css](https://chartscss.org)
 - [CSS Stats](https://cssstats.com)
-- [](https://codepen.io/collection/AWEWzK)
+- [iOS Resolution](https://www.ios-resolution.com)

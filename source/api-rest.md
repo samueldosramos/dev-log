@@ -28,6 +28,7 @@
 - [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
 - [O básico de APIs RESTful parte 1 - definições e restrições](https://dev.to/dev_jessi/o-basico-para-entender-apis-restful-parte-1-1apm)
 - [O básico de APIs RESTful parte 2 - o ful do RESTful , request, recurso e representação](https://dev.to/dev_jessi/o-basico-de-apis-restful-parte-2-o-ful-do-restful-request-recurso-e-representacao-30kc)
+- [Qual a Diferença entre API e SDK?](https://metring.com.br/diferenca-entre-api-e-sdk)
 
 ## GET e POST
 
@@ -48,6 +49,12 @@
 - [Testando sua API web com Postman](https://codigosimples.net/2018/02/15/testando-sua-api-web-com-postman/)
 - [Automatizando testes de sua API com Postman](https://medium.com/assertqualityassurance/automatizando-sua-api-com-postman-64a72185e1e6)
 - [Indo além com Postman](https://medium.com/trainingcenter/indo-além-com-postman-3f95726e0bb4)
+- [Testing Web APIs with POSTMAN and Automating Bearer Token Generation](https://vmsdurano.com/automating-access-token-generation-with-postman/)
+
+## Mock
+
+- [4 ways to fake an API in frontend development](https://www.valentinog.com/blog/fake/)
+- [Configuring Mock Service Worker (MSW)](https://www.danieljcafonso.com/configuring_msw)
 
 ## JSON Server
 

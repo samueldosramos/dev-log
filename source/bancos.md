@@ -22,6 +22,7 @@
 [Gerenciando banco de dados SQLite3 com Python - Parte 2](http://pythonclub.com.br/gerenciando-banco-dados-sqlite3-python-parte2.html)
 [Tutorial PostgreSql - parte 1](http://pythonclub.com.br/tutorial-postgresql.html)
 [Gerando clausulas WHERE IN dinamicamente. (Python/Sqlite3)](https://raccoon.ninja/pt/dev-pt/resolvido-gerando-clausulas-where-in-dinamicamente-python-sqlite3/)
+[How to create a database in SQLite](https://www.beekeeperstudio.io/blog/sqlite-create-database)
 
 ## PostgreSQL
 

@@ -153,6 +153,7 @@
 - [Commit Message Guidelines](https://gist.github.com/brianclements/841ea7bffdb01346392c)
 - [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 - [pr-comment-emojis](https://gist.github.com/raorao/a8f01657ef600157958180832bdc28fe)
+- [Como automatizar o processo de versionamento de um projeto em Javascript](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
 
 ## SSH
 

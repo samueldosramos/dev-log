@@ -3,6 +3,7 @@
 ## Geral
 
 - [The Paradox of Simplification](https://www.bram.us/2021/02/21/the-paradox-of-simplification/)
+- [The Laws of Simplicity](https://fs.blog/the-laws-of-simplicity/?ref=uxcollectivebrasil)
 - [Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
 - [10 maneiras de se tornar um melhor designer](https://chocoladesign.com/10-maneiras-de-se-tornar-um-melhor-designer-9784c2d991fb)
 - [Don Norman e seus princípios de design](https://uxdesign.blog.br/don-norman-e-seus-princ%C3%ADpios-de-design-fe063669184d)
@@ -25,6 +26,7 @@
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
 - [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
 - [Como estruturar um case para portfólio de UX/UI e impressionar recrutadores](https://brasil.uxdesign.cc/como-estruturar-um-case-para-portfólio-de-ux-ui-e-impressionar-recrutadores-62266ee50839)
+- [Erros que você pode estar cometendo no seu portfólio](https://brasil.uxdesign.cc/erros-que-você-pode-estar-cometendo-no-seu-portfólio-31ee0845e146)
 - [Desenhando cards: boas práticas](https://brasil.uxdesign.cc/https-brasil-uxdesign-cc-cards-boas-praticas-6ae813acf8cf)
 - [Desenhando tabelas fáceis de usar](https://brasil.uxdesign.cc/desenhando-tabelas-fáceis-de-usar-d97f220e0b16)
 - [The Best Way to Display Text Fields](https://uxmovement.com/forms/the-best-way-to-display-text-fields/)
@@ -93,6 +95,7 @@
 - [Product Discovery: um processo investigativo](https://brasil.uxdesign.cc/product-discovery-um-processo-investigativo-55a1acd9b2d2)
 - [Design Universal: a base para todos os projetos digitais](https://brasil.uxdesign.cc/design-universal-a-base-para-todos-os-projetos-digitais-b9ea21ea5d62)
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
+- [Turbine seu Design System com Design Tokens](https://brasil.uxdesign.cc/turbine-seu-design-system-com-design-tokens-12553635b31d)
 - [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
 - [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
 - [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
@@ -104,6 +107,8 @@
 - [Padrões de design enganosos: você os pratica?](https://brasil.uxdesign.cc/padroes-de-design-enganosos-5d98b90cac89)
 - [Uma breve introdução a Splash Screens](https://brasil.uxdesign.cc/uma-breve-introdução-a-splash-screens-50eca59e901a)
 - [E se aportuguesássemos o design?](https://brasil.uxdesign.cc/como-seria-se-não-pegássemos-palavras-estrangeiras-em-ux-8f83cc465c9f)
+- [Dark mode: gosto pessoal, hype ou questão de saúde?](https://brasil.uxdesign.cc/dark-mode-gosto-pessoal-hype-ou-questão-de-saúde-db6ba7cfdc9a)
+- [The Nested Corner Case](https://carlosnuila.com/blog/nested-corners)
 
 ## Tipografia
 
@@ -128,6 +133,7 @@
 - [Textos responsivos com CSS clamp()](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/)
 - [10 Características de um bom design de logo](https://www.des1gnon.com/2020/06/10-caracteristicas-design-de-logo/)
 - [How to use Google Fonts](https://flaviocopes.com/google-fonts/)
+- [Como Utilizar o Google Fonts - Passo a Passo Ilustrado](https://metring.com.br/como-utilizar-o-google-fonts)
 - [Type Terms](https://www.supremo.co.uk/typeterms/)
 - [Lettering - fundamentos básicos](https://www.saibala.com.br/lettering-fundamentos-basicos---32/rafael.costa)
 - [Better Web Typography For A Better Web](https://betterwebtype.com)
@@ -147,6 +153,7 @@
 - [Entendendo sistema de cores semântico — especificação de cores e naming](https://brasil.uxdesign.cc/entendendo-sistema-de-cores-semântico-especificação-de-cores-e-naming-5a8a118a4d79)
 - [Como construir uma paleta de cores acessíveis do zero](https://brasil.uxdesign.cc/como-construir-uma-paleta-de-cores-acessiveis-do-zero-8421c5bfbcf2)
 - [Curated colors in context](https://www.happyhues.co)
+- [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
 
 ## UX
 
@@ -260,6 +267,8 @@
 - [Ferramentas essenciais para um designer web](https://medium.com/ui-lab-school/https-medium-com-carlyson-ferramentas-essenciais-para-um-designer-web-5b630add8649)
 - [Tipos de navegação web: do Desktop ao Mobile](https://brasil.uxdesign.cc/tipos-de-navegação-web-do-desktop-ao-mobile-db5751c1b4cb)
 - [Design Principles For The Web](https://adactio.com/articles/17733)
+- [Princípios de Design para a Web3](https://brasil.uxdesign.cc/principios-de-design-para-a-web3-a3e122cbf6a2)
+- [Date and Time Pickers for All](https://react-spectrum.adobe.com/blog/date-and-time-pickers-for-all.html)
 
 ## Arquitetura de Informação
 

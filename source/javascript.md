@@ -121,6 +121,9 @@
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [ES6 Generators estão mudando nosso modo de escrever JavaScript](https://medium.com/nossa-coletividad/es6-generators-estão-mudando-nosso-modo-de-escrever-javascript-e99f7c79bdd7)
 - [A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
+- [Trabalhando com arrays e objetos no JavaScript](https://www.treinaweb.com.br/blog/trabalhando-com-arrays-e-objetos-no-javascript)
+- [Retirar duplicados de um array em JavaScript](https://www.delftstack.com/pt/howto/javascript/javascript-remove-duplicates-from-an-array/)
+- [Como remover elementos duplicados de uma array no javascript es6/](https://igluonline.com/como-remover-elementos-duplicados-de-uma-array-no-javascript-es6/)
 
 ## Dicas
 
@@ -160,7 +163,6 @@
 - [[pt-BR] ES2020: Nullish coalescing operator (??)](https://dev.to/mesaquen/es2020-nullish-coalescing-operator-41a0)
 - [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - [Diga adeus ao switch…case](https://medium.com/@UnicornCoder/diga-adeus-ao-switch-case-3ad1a2bd0dde)
-- [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [Plop.js – Automatize a criação de arquivos](https://www.treinaweb.com.br/blog/plop-js-automatize-a-criacao-de-arquivos/)
 - [Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
@@ -258,12 +260,21 @@
 - [Secure tempfiles in NodeJS without dependencies](https://advancedweb.hu/secure-tempfiles-in-nodejs-without-dependencies/)
 - [Resolve NPM security vulnerabilities](https://pamit.medium.com/resolve-npm-security-vulnerabilities-160b086e8448)
 - [How to upload an image to S3 using Node.js](https://flaviocopes.com/node-aws-s3-upload-image/)
+- [Drops #01: Corrigindo vulnerabilidades em dependências com Yarn! (ou quase)](https://dev.to/wnqueiroz/drops-01-corrigindo-vulnerabilidades-em-dependencias-com-yarn-ou-quase-2e2p)
+- [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
+
+## NestJS
+
+- [NestJS: introdução e aplicação de CRUD usando MongoDB](https://ezdevs.com.br/nestjs-introducao-e-aplicacao-de-crud/)
+- [NestJS vs. Express.js](https://blog.logrocket.com/nestjs-vs-express-js/)
+- [NestJS v9 is now available !](https://trilon.io/blog/nestjs-9-is-now-available)
 
 ## TypeScript
 
 - [Getting started with TypeScript](https://sruthicodes.hashnode.dev/getting-started-with-typescript)
 - [TypeScript: O guia definitivo](https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc)
 - [TypeScript: Vantagens, mitos, dicas e conceitos fundamentais](https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/)
+- [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript/)
 - [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 - [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
@@ -293,6 +304,9 @@
 - [How to get the file extension in Node.js from the MIME type](https://flaviocopes.com/node-get-file-extension-mime-type/)
 - [O que é o "is" no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
 - [Performance](https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections)
+- [Interfaces vs Types in TypeScript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript/52682220#52682220)
+- [Drops #03: Usando aliases para importação de módulos em TypeScript!](https://dev.to/wnqueiroz/drops-03-usando-aliases-para-importacao-de-modulos-em-typescript-1fe9)
+- [Compartilhamento de Tipos com TypeScript](https://blog.lsantos.dev/compatilhamento-de-tipos-com-typescript/)
 
 # Style/Clean code
 
@@ -312,6 +326,7 @@
 - [Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 - [Melhorando seu workflow JavaScript com NPM Scripts, ESlint e Git Hooks!](https://medium.com/trainingcenter/melhorando-seu-workflow-javascript-com-npm-scripts-eslint-e-git-hooks-6d7c22c9161)
 - [ESLint + Prettier](https://robertoachar.dev/blog/eslint-prettier)
+- [Prettier + ESLint = ❤️](https://www.benmvp.com/blog/prettier-eslint/)
 - [Como usar Prettier com ESLint e TypeScript no VSCode](https://coderarena.com.br/posts/como-usar-prettier-com-eslint-e-typescript-no-vscode/)
 - [EditorConfig: padronização automática de estilo de código](https://desenvolvimentoparaweb.com/indicacoes/editorconfig-padronizacao-estilo-codigo/)
 - [EditorConfig: Padronização de código para seus projetos](http://phpba.com.br/editorconfig/)
@@ -325,6 +340,7 @@
 - [Descomplicando o Google JavaScript Style Guide](https://imasters.com.br/desenvolvimento/descomplicando-google-javascript-style-guide/)
 - [Na prática: TypeScript + ESLint + Prettier + EditorConfig + Jest, Supertest…](https://fabiojanio.medium.com/na-prática-typescript-eslint-prettier-editorconfig-jest-supertest-7206684ab55d)
 - [Node.js + Express + ES6 + ESLint + Sucrase Prettier de forma simples e rápida](https://fabiojanio.medium.com/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
+- [A Guide to ESLint](https://laurieontech.com/posts/eslint/)
 
 ## Patterns
 

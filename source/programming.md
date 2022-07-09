@@ -6,6 +6,8 @@
 - [Saiba como ser um melhor programador!](http://pplware.sapo.pt/informacao/opiniao/saiba-como-ser-um-melhor-programador/)
 - [Aquele artigo para novos desenvolvedores](https://gabrieluizramos.com.br/aquele-artigo-para-novos-desenvolvedores/)
 - [Introduction to Programming](https://flaviocopes.com/introduction-to-programming/)
+- [Tudo o que você precisa saber para iniciar sua carreira em Desenvolvimento](https://www.lambda3.com.br/2022/05/tudo-o-que-voce-precisa-saber-para-iniciar-sua-carreira-em-desenvolvimento/)
+- [O que é Front-end e Back-end? Quais são as Diferenças?](https://metring.com.br/o-que-e-frontend-e-backend)
 - [10 perguntas comuns em uma entrevista de programador](http://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/)
 - [How Developers Think: A Walkthrough of the Planning and Design Behind a Simple Web App](https://www.freecodecamp.org/news/a-walk-through-the-developer-thought-process/)
 - [Quais as diferenças entre tipagens: estática ou dinâmica e forte ou fraca](https://www.treinaweb.com.br/blog/quais-as-diferencas-entre-tipagens-estatica-ou-dinamica-e-forte-ou-fraca/)
@@ -36,6 +38,7 @@
 - [Tutorial do Diagrama de Sequência: Guia completo com exemplos](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/)
 - [Open source e Inner source](https://gabrieluizramos.com.br/open-source-e-inner-source)
 - [Conheça os detalhes dos Estilos de Indentação](https://terminalroot.com.br/2022/02/conheca-os-detalhes-dos-estilos-de-indentacao.html)
+- [5 dicas para pessoas desenvolvedoras criarem códigos mais seguros](https://imasters.com.br/codigo/5-dicas-para-pessoas-desenvolvedoras-criarem-codigos-mais-seguros)
 
 ## Regex
 
@@ -74,6 +77,7 @@
 
 ## Utilidades
 
+- [Trilha Info](https://www.trilha.info)
 - [Developer Roadmaps](https://roadmap.sh)
 - [Guias de Carreira para Programadores](https://www.devmedia.com.br/guias/)
 - [Dicionário Programação do Zero: entenda os termos da área de Programação](https://blog.cubos.io/dicionario-programacao-do-zero-entenda-os-termos-da-area-de-programacao/)

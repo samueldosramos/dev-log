@@ -2,10 +2,11 @@
 
 ## Introdução
 
+- [React](https://pt-br.reactjs.org)
 - [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 - [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
-- [React](https://pt-br.reactjs.org)
+- [How to learn React.js](https://www.robinwieruch.de/learn-react-js/)
 - [Começando com React](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - [React para iniciantes](https://origamid.com/slide/youtube/#/0102-react-para-iniciantes/1)
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
@@ -117,6 +118,7 @@
 - [React, how to make responsive JSX](https://flaviocopes.com/react-responsive-jsx/)
 - [Como personalizar os componentes React com props](https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt)
 - [React: Event Bubbling and Capturing](https://www.robinwieruch.de/react-event-bubbling-capturing/)
+- [O React 18 foi lançado! E agora?](https://juliocarneiro.medium.com/o-react-18-foi-lançado-e-agora-40813b1b1b9c)
 
 ## React Hooks
 
@@ -157,6 +159,7 @@
 - [Qual é a diferença entre os hooks useMemo e useCallback do React?](https://pt.stackoverflow.com/questions/405781/qual-é-a-diferença-entre-os-hooks-usememo-e-usecallback-do-react)
 - [React useRef and useLayoutEffect vs useEffect (Step-By-Step Case Study)](https://linguinecode.com/post/when-to-use-useref-and-uselayouteffect)
 - [React: Quando usar useLayoutEffect ao invés de useEffect](https://oieduardorabelo.medium.com/react-quando-usar-uselayouteffect-ao-invés-de-useeffect-9f2157396aac)
+- [How to use useEffect callback with event callbacks](https://flaviocopes.com/fix-useeffect-event-callback/)
 
 ## Context API
 
@@ -186,6 +189,7 @@
 - [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/)
 - [React Router 6 Tutorial](https://www.robinwieruch.de/react-router/)
 - [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial/)
+- [React Router v6](https://remix.run/blog/react-router-v6)
 
 ## Redux
 
@@ -200,17 +204,26 @@
 ## React e TypeScript
 
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
 - [React e TypeScript: As Partes Boas](https://oieduardorabelo.medium.com/react-e-typescript-as-partes-boas-%EF%B8%8F-afdbdd1f83e9)
 - [Use TypeScript to develop react applications](https://github.com/basarat/typescript-react)
 - [React children composition patterns with TypeScript](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 - [Organize suas importações no React com Typescript](https://rmrantunes.medium.com/organize-suas-importações-no-react-com-typescript-348bfc623c60)
 - [Template ReactJs + Typescript](https://github.com/araujooleticiaa/template-reactjs-typescript)
 - [TypeScript React props: interfaces vs type aliases](https://www.benmvp.com/blog/typescript-react-props-interfaces-type-aliases/)
+- [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
+- [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
+- [Upgrading to React 18 with TypeScript](https://blog.logrocket.com/upgrading-react-18-typescript/)
 
 ## React e Firebase
 
 - [Autenticação no ReactJS com Firebase](https://josiaspereira.com.br/2019/11/24/autenticacao-reactjs-com-firebase/)
 - [How we use Firebase instead of Redux (with React)](https://pragli.com/blog/how-we-use-firebase-instead-of-redux-with-react/)
+
+## Remix
+
+- [Remix Docs](https://remix.run/docs/en/v1#remix-docs)
+- [Data Flow in Remix](https://remix.run/blog/remix-data-flow)
 
 ## Testes
 
@@ -233,6 +246,7 @@
 - [Testing events in React using enzyme vs react-testing-library](https://techdoma.in/react-js-testing/testing-events-in-react-using-enzyme-vs-react-testing-library)
 - [Handling Mouse Events in Your React Component Tests](https://www.pluralsight.com/guides/handling-mouse-events-in-your-react-component-tests)
 - [A Practical Guide To Testing React Applications With Jest](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
+- [(React Testing library) ReactDOM.render no longer supported in React 18](https://bobbyhadz.com/blog/react-testing-library-reactdom-render-not-supported)
 
 ## Design System
 
@@ -244,6 +258,7 @@
 
 ## Utilidades
 
+- [React Docs](https://beta.reactjs.org/learn)
 - [Tyler Courses](https://tylermcginnis.com/courses/)
 - [React Table](https://react-table.js.org)
 - [HTML to React components](http://roman01la.github.io/html-to-react-components/)
@@ -299,3 +314,4 @@
 - [Aprenda React](https://www.aprendareact.com.br)
 - [Roberto Achar](https://robertoachar.dev)
 - [Good Practices - ReactJs](https://github.com/mensonones/goodpracticesreact)
+- [robinwieruch](https://www.robinwieruch.de/blog/)

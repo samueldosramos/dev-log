@@ -32,3 +32,5 @@
 - [Amaar: Criação de um website para uma ONG de animais](https://brasil.uxdesign.cc/criação-de-um-website-para-uma-ong-de-animais-ef2fc81925f6)
 - [Como estruturamos o workflow de design da TAG Infraestrutura](https://brasil.uxdesign.cc/como-estruturamos-o-workflow-de-design-da-tag-infraestrutura-ad1054570161)
 - [Os porquês da experiência financeira no Brasil ser melhor que a de muitos outros países](https://brasil.uxdesign.cc/os-porquês-da-experiência-financeira-no-brasil-ser-melhor-do-que-a-de-muitos-outros-pa%C3%ADses-15acce5b4efe)
+- [Airbnb’s Microservices Architecture Journey To Quality Engineering](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
+- [E se o Sistema de Imposto de Renda fosse pensado nas pessoas?](https://brasil.uxdesign.cc/sistema-de-imposto-de-renda-estudo-caso-ux-5e7c35b36fdd)

@@ -18,6 +18,8 @@
 - [Yukihiro Matsumoto: "Ruby is designed for humans, not machines"](https://evrone.com/yukihiro-matsumoto-interview)
 - [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What’s News?](https://planetruby.github.io/calendar/ruby3x3)
 - [Ruby 3.0: o que sabemos até agora?](https://blog.locaweb.com.br/desenvolvedores/ruby-3-0-o-que-sabemos-ate-agora/)
+- [Using Scientist to Refactor Critical Ruby on Rails Code](https://blog.appsignal.com/2022/05/18/using-scientist-to-refactor-critical-ruby-on-rails-code.html)
+- [An Introduction to Polymorphism in Ruby on Rails](https://blog.appsignal.com/2022/05/25/an-introduction-to-polymorphism-in-ruby-on-rails.html)
 
 ## Manuais
 

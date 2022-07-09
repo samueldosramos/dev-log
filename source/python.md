@@ -47,3 +47,4 @@
 ## Utilidades
 
 - [Awesome Python](https://awesome-python.com)
+- [bobbyhadz blog](https://bobbyhadz.com)
