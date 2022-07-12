@@ -149,6 +149,7 @@
 - [Temporal: getting started with JavaScript’s new date time API](https://2ality.com/2021/06/temporal-api.html)
 - [How to add days to a date in JavaScript](https://flaviocopes.com/how-to-add-days-date-javascript/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
+- [Por que você deveria repensar o uso do Date.now](https://blog.lsantos.dev/por-que-nao-usar-date-now/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
 - [Stop Nesting Functions! (But Not All of Them)](https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315)
