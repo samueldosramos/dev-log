@@ -160,6 +160,7 @@
 - [React useRef and useLayoutEffect vs useEffect (Step-By-Step Case Study)](https://linguinecode.com/post/when-to-use-useref-and-uselayouteffect)
 - [React: Quando usar useLayoutEffect ao invés de useEffect](https://oieduardorabelo.medium.com/react-quando-usar-uselayouteffect-ao-invés-de-useeffect-9f2157396aac)
 - [How to use useEffect callback with event callbacks](https://flaviocopes.com/fix-useeffect-event-callback/)
+- [React Hooks: The Deep Cuts](https://css-tricks.com/react-hooks-the-deep-cuts/)
 
 ## Context API
 

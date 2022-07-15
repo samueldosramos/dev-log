@@ -80,6 +80,7 @@
 - [Axios ou fetch()](https://medium.com/trainingcenter/axios-ou-fetch-765e5db9dd59)
 - [Usando FETCH para requisições ajax](https://medium.com/trainingcenter/usando-fetch-para-requisições-ajax-2178ab187a32)
 - [Documentação automática de APIs em Node.js com Swagger](https://davibaltar.medium.com/documentação-automática-de-apis-em-node-js-eb03041c643b)
+- [Streaming requests with the fetch API](https://developer.chrome.com/articles/fetch-streaming-requests/)
 
 ## Utilidades
 
