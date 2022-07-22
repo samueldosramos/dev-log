@@ -180,6 +180,7 @@
 - [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://www.bram.us/2021/03/02/dependency-confusion-how-i-hacked-into-apple-microsoft-and-dozens-of-other-companies/)
 - [Top 20 JavaScript tips and tricks to increase your Speed and Efficiency](https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g)
 - [JS Tips](https://www.jstips.co)
+- [Técnicas de Programação Segura em JavaScript](https://blog.convisoappsec.com/tecnicas-de-programacao-segura-em-javascript/)
 
 ## Estrutura de dados
 
@@ -211,6 +212,7 @@
 - [Programação Funcional: código limpo e padrões de projeto](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
 - [Aventuras funcionais ocasionais em JavaScript](https://medium.com/@osuissa/aventuras-funcionais-ocasionais-em-javascript-54d3e168c4da)
 - [Na Prática: Programação Funcional com JavaScript](https://01dev.codes/na-pratica-programacao-funcional-js/)
+- [Introdução a programação funcional com TypeScript e JavaScript](https://blog-grubba.vercel.app/programação-funcional-com-typescript-e-javascript/)
 
 ## Isomórfico
 
@@ -412,6 +414,7 @@
 - [Crud completo usando Node com express, React com Redux e MongoDb — Parte 01](https://medium.com/trainingcenter/crud-completo-usando-node-com-express-react-com-redux-e-mongodb-parte-01-417b186bbb7f)
 - [Aprenda a testar Aplicações Javascript](https://javascript.tv.br)
 - [Setup a modern Jamstack project using Gatsby, TypeScript, Styled Components, and Contentful!](https://dev.to/andrews1022/setup-a-modern-jamstack-project-using-gatsby-typescript-styled-components-and-contentful-564o)
+- [Gatsby Graphql schema customization for beginners](https://pixelpoint.io/blog/gatsby-graphql-schema-customization-for-beginners/)
 
 ## Utilidades
 

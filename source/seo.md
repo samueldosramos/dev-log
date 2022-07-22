@@ -12,3 +12,4 @@
 - [Schema.org](https://schema.org)
 - [Why Make a React SEO Component](https://scottspence.com/posts/react-seo-component)
 - [SEO Cheat Sheet and Checklist](https://htmlcheatsheet.com/seo/)
+- [Asking Google to index your page](https://flaviocopes.com/ask-google-index-page/)

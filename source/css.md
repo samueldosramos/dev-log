@@ -151,6 +151,7 @@
 - [Criando temas em interfaces com CSS e variáveis](https://brasil.uxdesign.cc/criando-temas-em-interfaces-com-css-e-variáveis-2fac09cbd67f)
 - [CSS min-content, max-content e fit-content](https://desenvolvimentoparaweb.com/css/css-min-content-max-content-fit-content/)
 - [CSS Style Queries](https://desenvolvimentoparaweb.com/css/style-queries/)
+- [Conditional Border Radius In CSS](https://ishadeed.com/article/conditional-border-radius/)
 
 ## Animações
 
@@ -331,3 +332,4 @@
 - [Charts.css](https://chartscss.org)
 - [CSS Stats](https://cssstats.com)
 - [iOS Resolution](https://www.ios-resolution.com)
+- [CSS { In Real Life }](https://css-irl.info)
