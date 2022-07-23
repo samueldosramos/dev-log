@@ -227,6 +227,7 @@
 - [Node.js - Compilado de posts](https://udgwebdev.com/nodejs/)
 - [Por que aprender Node.js? 8 Casos reais!](http://www.luiztools.com.br/post/por-que-aprender-nodejs/)
 - [Por que Node.js para Web?](https://medium.com/@badskan/porque-node-js-para-web-b45afbf66c31)
+- [Miniminalismo com Node](https://blog-grubba.vercel.app/miniminalismo-com-node/)
 - [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
 - [Serve an HTML page using Node.js](https://flaviocopes.com/node-serve-html-page/)
 - [API HTTP + REST – Conceito e exemplo em Node.js](https://imasters.com.br/back-end/api-http-rest-conceito-e-exemplo-em-node-js)
