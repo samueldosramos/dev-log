@@ -152,6 +152,7 @@
 - [CSS min-content, max-content e fit-content](https://desenvolvimentoparaweb.com/css/css-min-content-max-content-fit-content/)
 - [CSS Style Queries](https://desenvolvimentoparaweb.com/css/style-queries/)
 - [Conditional Border Radius In CSS](https://ishadeed.com/article/conditional-border-radius/)
+- [Entendendo Variáveis CSS](https://www.crisgon.dev/entendendo-variáveis-css/)
 
 ## Animações
 

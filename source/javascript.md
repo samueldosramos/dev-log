@@ -345,6 +345,9 @@
 - [Na prática: TypeScript + ESLint + Prettier + EditorConfig + Jest, Supertest…](https://fabiojanio.medium.com/na-prática-typescript-eslint-prettier-editorconfig-jest-supertest-7206684ab55d)
 - [Node.js + Express + ES6 + ESLint + Sucrase Prettier de forma simples e rápida](https://fabiojanio.medium.com/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
 - [A Guide to ESLint](https://laurieontech.com/posts/eslint/)
+- [Tutorial: linting em TypeScript com ESLint](https://blog.geekhunter.com.br/eslint-typescript-tutorial/)
+- [Enforcing Coding Conventions with Husky Pre-commit Hooks](https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/)
+- [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/blog/npm-precommit-scripts)
 
 ## Patterns
 

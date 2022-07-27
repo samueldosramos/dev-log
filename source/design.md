@@ -84,6 +84,7 @@
 - [As habilidades (e histórias) por trás do portfólio](https://brasil.uxdesign.cc/as-habilidades-e-histórias-por-trás-do-portfólio-79ac3e3d161e)
 - [Testes de usabilidade: o que, por quê e como](https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-por-que-e-como-1490e2059513)
 - [A More Efficient Way to Display Data Tables](https://uxmovement.com/content/a-more-efficient-way-to-display-data-tables)
+- [Linhas de tabela devem ser separadas por sombras/listras(Zebra) ou linhas?](https://brasil.uxdesign.cc/linhas-de-tabela-devem-ser-separadas-por-sombras-listras-zebra-ou-linhas-c7145bdb03be)
 - [O que é Design emocional?](https://brasil.uxdesign.cc/o-que-é-design-emocional-c32d15ec8959)
 - [Como construímos um time de design de produto](https://brasil.uxdesign.cc/como-constru%C3%ADmos-um-time-de-design-de-produto-na-octadesk-37d46e26691e)
 - [#ESTUDO: 5 tipppps de como fazer um redesign alheio](https://matheusviniciusg.medium.com/estudo-5-tipppps-de-como-fazer-um-redesign-alheio-ae9977fdc133)

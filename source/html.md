@@ -49,6 +49,7 @@
 - [Let's talk about Native HTML Tabs](https://daverupert.com/2021/10/native-html-tabs/)
 - [Some Hands-On with the HTML Dialog Element](https://css-tricks.com/some-hands-on-with-the-html-dialog-element/)
 - [What's the use of the hashtag # (number sign) in the links?](https://flaviocopes.com/html-hashtag-in-links/)
+- [<article> vs. <section>: How To Choose The Right One](https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/)
 
 ## DOM
 
