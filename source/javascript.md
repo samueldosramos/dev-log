@@ -181,6 +181,7 @@
 - [Top 20 JavaScript tips and tricks to increase your Speed and Efficiency](https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g)
 - [JS Tips](https://www.jstips.co)
 - [Técnicas de Programação Segura em JavaScript](https://blog.convisoappsec.com/tecnicas-de-programacao-segura-em-javascript/)
+- [5 package.json magic scripts that you don't use!](https://dev.to/kumareth/5-package-json-magic-scripts-that-you-don-t-use-4n3p)
 
 ## Estrutura de dados
 
@@ -266,6 +267,7 @@
 - [How to upload an image to S3 using Node.js](https://flaviocopes.com/node-aws-s3-upload-image/)
 - [Drops #01: Corrigindo vulnerabilidades em dependências com Yarn! (ou quase)](https://dev.to/wnqueiroz/drops-01-corrigindo-vulnerabilidades-em-dependencias-com-yarn-ou-quase-2e2p)
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
+- [10 Práticas Recomendadas em NodeJS: Guia para Iniciante](https://tipscode.com.br/10-praticas-recomendadas-em-nodejs-guia-para-iniciante)
 
 ## NestJS
 
@@ -348,6 +350,8 @@
 - [Tutorial: linting em TypeScript com ESLint](https://blog.geekhunter.com.br/eslint-typescript-tutorial/)
 - [Enforcing Coding Conventions with Husky Pre-commit Hooks](https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/)
 - [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/blog/npm-precommit-scripts)
+- [Lint-staged + Husky](https://valchan.com.br/lint-staged-husky/)
+- [Como configurar o Prettier e ESLint em projetos React](https://felipecesar.dev/posts/como-configurar-o-prettier-e-eslint-em-projetos-react/)
 
 ## Patterns
 
