@@ -52,6 +52,7 @@
 - [Oh My Git!](https://ohmygit.org)
 - [Guide to Working as Team on Github](https://github.com/Zsailer/guide-to-working-as-team-on-github)
 - [Versionamento e estrutura de dados](https://gabrieluizramos.com.br/versionamento-e-estrutura-de-dados)
+- [Git Cherry Pick: o que é e quando usar](https://blog.geekhunter.com.br/git-cherry-pick-o-que-e-quando-usar/)
 
 ## Dicas
 
@@ -89,6 +90,7 @@
 - [A Simple Tweak for Making 'git rebase' Safe on OS X](https://www.git-tower.com/blog/make-git-rebase-safe-on-osx/)
 - [Why You Should Use git pull –ff-only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
 - [Difference between git pull --rebase and git pull --ff-only](https://stackoverflow.com/questions/25430600/difference-between-git-pull-rebase-and-git-pull-ff-only)
+- [Como alterar seu nome e email em TODOS os commits de um repositório](https://dev.to/feministech/como-alterar-seu-nome-e-email-em-todos-os-commits-de-um-repositorio-h0i)
 
 ## Tutoriais
 

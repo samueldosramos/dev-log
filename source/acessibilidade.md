@@ -2,6 +2,7 @@
 
 ## Introdução
 
+- [Introducing Learn Accessibility](https://web.dev/introducing-learn-accessibility/)
 - [Web Accessibility For Beginners](https://scotch.io/tutorials/web-accessibility-for-beginners#toc-what-is-web-accessibility-)
 - [Acessibilidade Web para iniciantes](https://desenvolvimentoparaweb.com/miscelanea/acessibilidade-web-para-iniciantes/)
 - [Introduction to web accessibility](https://uxdesign.cc/introduction-to-web-accessibility-9ec856ec474c)
@@ -61,6 +62,7 @@
 - [Acessibilidade e CSS](https://desenvolvimentoparaweb.com/css/acessibilidade-css/)
 - [Full accessibility tree in Chrome DevTools](https://developer.chrome.com/blog/full-accessibility-tree/)
 - [Design Universal, Design Inclusivo e Design com foco na equidade](https://brasil.uxdesign.cc/acessibilidade-ux-design-universal-design-inclusivo-e-design-com-foco-na-equidade-4e5429811997)
+- [Leitores de tela, hashtags e emojis](https://reinaldoferraz.com.br/leitores-de-tela-hashtags-e-emojis/)
 
 ## Utilidades
 

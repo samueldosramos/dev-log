@@ -14,3 +14,4 @@
 - [Ícones SVG em React/Preact com webpack](https://medium.com/@oieduardorabelo/%C3%ADcones-svg-em-react-preact-com-webpack-bdcb416c7ab9)
 - [Working with SVGs in React](https://medium.com/@rossbulat/working-with-svgs-in-react-d09d1602a219)
 - [SVG Path Visualizer](https://svg-path-visualizer.netlify.app)
+- [Minimizing SVGs](https://debbie.codes/blog/minimizing-svgs/)

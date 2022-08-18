@@ -4,6 +4,7 @@
 
 - [Guia HTML para desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Learn HTML](https://web.dev/learn/html/)
 - [Elementos Bloco e Em Linha](https://guilhermemuller.com.br/ead/html-css-na-pratica/elementos-bloco-em-linha)
 - [Recursos, dicas e técnicas sobre HTML 5 que você deve saber – pt1](https://codigosimples.net/2016/07/13/recursos-dicas-e-tecnicas-sobre-html-5-que-voce-deve-saber-pt1/)
 - [Recursos, dicas e técnicas sobre HTML 5 que você deve saber – pt2](https://codigosimples.net/2016/07/18/recursos-dicas-e-tecnicas-sobre-html-5-que-voce-deve-saber-pt2/)

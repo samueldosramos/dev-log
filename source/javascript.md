@@ -149,6 +149,7 @@
 - [Temporal: getting started with JavaScript’s new date time API](https://2ality.com/2021/06/temporal-api.html)
 - [How to add days to a date in JavaScript](https://flaviocopes.com/how-to-add-days-date-javascript/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
+- [Formatting a date in JavaScript](https://debbie.codes/blog/date-formatting/)
 - [Por que você deveria repensar o uso do Date.now](https://blog.lsantos.dev/por-que-nao-usar-date-now/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Why I avoid nesting closures](https://kentcdodds.com/blog/why-i-avoid-nesting-closures)
@@ -182,6 +183,7 @@
 - [JS Tips](https://www.jstips.co)
 - [Técnicas de Programação Segura em JavaScript](https://blog.convisoappsec.com/tecnicas-de-programacao-segura-em-javascript/)
 - [5 package.json magic scripts that you don't use!](https://dev.to/kumareth/5-package-json-magic-scripts-that-you-don-t-use-4n3p)
+- [How to add leading zero to a number in JavaScript](https://flaviocopes.com/js-add-leading-zero/)
 
 ## Estrutura de dados
 
@@ -275,6 +277,10 @@
 - [NestJS vs. Express.js](https://blog.logrocket.com/nestjs-vs-express-js/)
 - [NestJS v9 is now available !](https://trilon.io/blog/nestjs-9-is-now-available)
 
+## Vite
+
+- [Migrating from Create React App (CRA) to Vite](https://cathalmacdonnacha.com/migrating-from-create-react-app-cra-to-vite)
+
 ## TypeScript
 
 - [Getting started with TypeScript](https://sruthicodes.hashnode.dev/getting-started-with-typescript)
@@ -313,6 +319,9 @@
 - [Interfaces vs Types in TypeScript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript/52682220#52682220)
 - [Drops #03: Usando aliases para importação de módulos em TypeScript!](https://dev.to/wnqueiroz/drops-03-usando-aliases-para-importacao-de-modulos-em-typescript-1fe9)
 - [Compartilhamento de Tipos com TypeScript](https://blog.lsantos.dev/compatilhamento-de-tipos-com-typescript/)
+- [How To Use Classes in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-classes-in-typescript)
+- [Understanding TypeScript](https://debbie.codes/blog/understanding-typescript/)
+- [TypeScript and Children](https://debbie.codes/blog/typescript-and-children/)
 
 # Style/Clean code
 
@@ -351,6 +360,8 @@
 - [Enforcing Coding Conventions with Husky Pre-commit Hooks](https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/)
 - [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/blog/npm-precommit-scripts)
 - [Lint-staged + Husky](https://valchan.com.br/lint-staged-husky/)
+- [Como adicionar hooks de commit ao Git com Husky para automatizar tarefas](https://www.freecodecamp.org/portuguese/news/como-adicionar-hooks-de-commit-ao-git-com-husky-para-automatizar-tarefas/)
+- [Configurando Git Hooks com Husky](https://dev.to/helendias/configurando-git-hooks-com-husky-43ne)
 - [Como configurar o Prettier e ESLint em projetos React](https://felipecesar.dev/posts/como-configurar-o-prettier-e-eslint-em-projetos-react/)
 
 ## Patterns
@@ -372,6 +383,7 @@
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 - [Reactive Design Patterns](https://www.reactivedesignpatterns.com)
 - [JavaScript Design Patterns](https://www.dofactory.com/javascript/design-patterns)
+- [JavaScript Patterns](https://stackblitz.com/@lydiahallie/collections/javascript-patterns)
 
 ## Testes
 
@@ -385,6 +397,8 @@
 - [Fundamentando Mocks em JavaScript](https://gabrieluizramos.com.br/fundamentando-mocks-em-javascript)
 - [Testes assíncronos em JavaScript](https://gabrieluizramos.com.br/testes-assincronos-em-javascript)
 - [Jest, Babel e TypeScript: Configurando testes para seu projeto](https://oieduardorabelo.medium.com/jest-babel-e-typescript-configurando-testes-para-seu-projeto-201f001f45ef)
+- [How to test a select element with React Testing Library](https://cathalmacdonnacha.com/how-to-test-a-select-element-with-react-testing-library)
+- [Setting up cypress](https://debbie.codes/blog/cypress-setup/)
 
 ## Dataviz
 
@@ -424,6 +438,7 @@
 - [Setup a modern Jamstack project using Gatsby, TypeScript, Styled Components, and Contentful!](https://dev.to/andrews1022/setup-a-modern-jamstack-project-using-gatsby-typescript-styled-components-and-contentful-564o)
 - [Gatsby Graphql schema customization for beginners](https://pixelpoint.io/blog/gatsby-graphql-schema-customization-for-beginners/)
 - [Syntax highlighting with Gatsby, MDX, Tailwind and Prism React Renderer](https://paulie.dev/posts/2022/08/syntax-highlighting-with-gatsby-mdx-and-prism-react-renderer/)
+- [How to use TanStack Query (react-query) with Gatsby](https://paulie.dev/posts/2022/09/how-to-use-tanstack-query-with-gatsby/)
 
 ## Utilidades
 

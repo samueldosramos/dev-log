@@ -7,6 +7,7 @@
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 - [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
 - [How to learn React.js](https://www.robinwieruch.de/learn-react-js/)
+- [Learning React](https://debbie.codes/blog/learning-react/)
 - [Começando com React](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - [React para iniciantes](https://origamid.com/slide/youtube/#/0102-react-para-iniciantes/1)
 - [#1 - Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)

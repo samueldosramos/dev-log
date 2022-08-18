@@ -56,6 +56,7 @@
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [Botões-fantasma (Ghost Buttons)](https://desenvolvimentoparaweb.com/design/botoes-fantasma-ghost-buttons/)
 - [Footer Links Should be Divided into Distinct Semantic Sections (13% of Sites Don’t)](https://baymard.com/blog/footer-links-ecommerce)
+- [Building an ecommerce Product details component](https://debbie.codes/blog/building-an-ecommerce-product-page/)
 - [Smoosh Gate – A lição que precisamos aprender](https://imasters.com.br/desenvolvimento/smoosh-gate-licao-que-precisamos-aprender)
 - [Gerando certificados SSL gratuitos com Certbot](https://www.treinaweb.com.br/blog/gerando-certificados-ssl-gratuitos-com-certbot/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
@@ -98,6 +99,7 @@
 - [Building a button component](https://web.dev/building-a-button-component/)
 - [Separador Horizontal em HTML e CSS do Jeito Certo + Exemplos](https://metring.com.br/separador-horizontal-em-html-e-css)
 - [Web3 Developer Roadmap ⇿ Zero To Hero](https://doc.clickup.com/2177704/d/h/22en8-40/8b6598b23fed165)
+- [Building a floating action button (FAB) component](https://web.dev/building-a-fab-component/)
 
 ## HTTP
 
@@ -179,6 +181,7 @@
 - [Renderização de aplicações modernas](https://gabrieluizramos.com.br/renderizacao-de-aplicacoes-modernas)
 - [5 maiores erros de segurança em Single Page Apps](https://blog.novatics.com.br/5-maiores-erros-de-segurança-em-single-page-apps-4083044c2292)
 - [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
+- [How Progressive Web Apps work](https://debbie.codes/blog/progressive-web-apps/)
 
 ## Web Components
 
@@ -215,9 +218,12 @@
 
 ## Cookies
 
+- [Cookies, document.cookie](https://javascript.info/cookie)
 - [What are session cookies? Do they need consent?](https://www.cookieyes.com/blog/session-cookies/)
 - [Beginner Guide to Understand Cookies and Session Management](https://www.hackingarticles.in/beginner-guide-understand-cookies-session-management/)
 - [js-cookie para cookies com JavaScript](https://desenvolvimentoparaweb.com/javascript/js-cookie-cookies-javascript/)
+- [Adding a cookie consent banner](https://debbie.codes/blog/nuxt-cookie-consent/)
+- [Understanding how Cookie and Session works in JavaScript ( Node.js )](https://medium.com/developers-tomorrow/understanding-how-cookie-and-session-in-javascript-3af858fa8112)
 
 ## Internacionalização
 

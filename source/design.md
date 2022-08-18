@@ -111,6 +111,7 @@
 - [E se aportuguesássemos o design?](https://brasil.uxdesign.cc/como-seria-se-não-pegássemos-palavras-estrangeiras-em-ux-8f83cc465c9f)
 - [Dark mode: gosto pessoal, hype ou questão de saúde?](https://brasil.uxdesign.cc/dark-mode-gosto-pessoal-hype-ou-questão-de-saúde-db6ba7cfdc9a)
 - [The Nested Corner Case](https://carlosnuila.com/blog/nested-corners)
+- [Ajuste óptico no design: Precisão vs. Percepção](https://brasil.uxdesign.cc/precisão-vs-percepção-entenda-a-importância-do-ajuste-óptico-a259fa2d3515)
 
 ## Tipografia
 
@@ -144,6 +145,7 @@
 - [The Making (and Potential Benefits) of a CSS Font](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 - [Fontpair](https://www.fontpair.co)
 - [Web Fonts in 2021](https://leerob.io/blog/fonts)
+- [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here)
 
 ## Cores
 
@@ -340,6 +342,7 @@
 - [Desventuras em série de uma designer criando seu primeiro design system do zero](https://brasil.uxdesign.cc/desventuras-em-série-de-uma-designer-criando-seu-primeiro-design-system-do-zero-b65d822e15db)
 - [10 aprendizados sobre Design System para 2022](https://brasil.uxdesign.cc/10-aprendizados-sobre-design-system-para-2022-826e246f7766)
 - [Aprendizados sobre Design System](https://brasil.uxdesign.cc/alguns-aprendizados-sobre-design-system-nos-últimos-três-meses-fe30c2907551)
+- [Design Tokens and Theming](https://debbie.codes/blog/design-tokens-and-theming/)
 
 ## UX Research
 
