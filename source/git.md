@@ -133,6 +133,7 @@
 - [git tag](https://www.atlassian.com/br/git/tutorials/inspecting-a-repository/git-tag)
 - [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
 - [Subindo seu projeto Front-end gratuitamente com Github Pages](https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447)
+- [Git Delete Remote Branch – How to Remove a Remote Branch in Git](https://www.freecodecamp.org/news/git-delete-remote-branch/)
 
 ## Commits
 

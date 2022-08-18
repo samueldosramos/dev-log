@@ -423,6 +423,7 @@
 - [Aprenda a testar Aplicações Javascript](https://javascript.tv.br)
 - [Setup a modern Jamstack project using Gatsby, TypeScript, Styled Components, and Contentful!](https://dev.to/andrews1022/setup-a-modern-jamstack-project-using-gatsby-typescript-styled-components-and-contentful-564o)
 - [Gatsby Graphql schema customization for beginners](https://pixelpoint.io/blog/gatsby-graphql-schema-customization-for-beginners/)
+- [Syntax highlighting with Gatsby, MDX, Tailwind and Prism React Renderer](https://paulie.dev/posts/2022/08/syntax-highlighting-with-gatsby-mdx-and-prism-react-renderer/)
 
 ## Utilidades
 

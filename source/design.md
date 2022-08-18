@@ -33,6 +33,7 @@
 - [Why You Should Use a Text Area for Address Form Fields](https://uxmovement.com/forms/why-you-should-use-a-text-area-for-address-form-fields/)
 - [Signifiers: os melhores amigos dos designers](https://brasil.uxdesign.cc/signifiers-os-melhores-amigos-dos-designers-25e52a73dcfc)
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- [Form Field Usability: Avoid Multi-Column Layouts (13% Make This Form Usability Mistake)](https://baymard.com/blog/avoid-multi-column-forms)
 - [Design Tips](https://twitter.com/i/moments/994601867987619840)
 - [Práticas Simples de Design que Podem Aumentar as Conversões de Um Site](https://medium.com/ui-lab-school/práticas-simples-de-design-que-podem-aumentar-as-conversões-de-um-site-9fb378fef2a)
 - [Você está utilizando o tipo de botão correto na sua interface?](https://brasil.uxdesign.cc/você-está-utilizando-o-tipo-de-botão-correto-na-sua-interface-722fc19d4463)
@@ -155,6 +156,7 @@
 - [Como construir uma paleta de cores acessíveis do zero](https://brasil.uxdesign.cc/como-construir-uma-paleta-de-cores-acessiveis-do-zero-8421c5bfbcf2)
 - [Curated colors in context](https://www.happyhues.co)
 - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
+- [41 Beautiful Color Palettes For Your Next Design Project](https://digitalsynopsis.com/design/color-palettes-combinations-schemes/)
 
 ## UX
 

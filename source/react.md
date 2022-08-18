@@ -16,6 +16,7 @@
 - [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
 - [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
 - [Getting Started with React (2019 Edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
+- [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/)
 - [Como começar a sua aplicação React em poucos minutos](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82)
 - [Criando a sua primeira aplicação web com React](https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/)
 - [Hello World com React, do rascunho até o primeiro componente](https://tableless.com.br/hello-world-com-react-do-rascunho-ate-o-primeiro-componente/)
@@ -307,6 +308,7 @@
 - [SWR](https://swr.vercel.app)
 - [Epic React](https://epicreact.dev)
 - [Alligator.io](https://alligator.io)
+- [React Tutorial](https://react-tutorial.app)
 
 ## Para seguir
 

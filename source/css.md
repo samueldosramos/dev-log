@@ -153,6 +153,7 @@
 - [CSS Style Queries](https://desenvolvimentoparaweb.com/css/style-queries/)
 - [Conditional Border Radius In CSS](https://ishadeed.com/article/conditional-border-radius/)
 - [Entendendo Variáveis CSS](https://www.crisgon.dev/entendendo-variáveis-css/)
+- [Custom properties with defaults: 3+1 strategies](https://lea.verou.me/2021/10/custom-properties-with-defaults/)
 
 ## Animações
 

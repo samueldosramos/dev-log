@@ -90,12 +90,14 @@
 - [Resources aren’t requested by CSS, but by the DOM](https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/)
 - [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
 - [mobile input types](http://mobileinputtypes.com)
+- [Tipos de teclado virtual no Mobile](https://dev.to/pedroramon/construindo-bons-formularios-com-html-12o9)
 - [One-offs and low-expectations with Safari](https://daverupert.com/2021/07/safari-one-offs/)
 - [How does UTF-8 turn “😂” into “F09F9882”?](https://sethmlarson.dev/blog/utf-8)
 - [What's the differences between helpers and utils?](https://github.com/erikras/react-redux-universal-hot-example/issues/808)
 - [Building a dialog component](https://web.dev/building-a-dialog-component/#the-lessformgreater-layout)
 - [Building a button component](https://web.dev/building-a-button-component/)
 - [Separador Horizontal em HTML e CSS do Jeito Certo + Exemplos](https://metring.com.br/separador-horizontal-em-html-e-css)
+- [Web3 Developer Roadmap ⇿ Zero To Hero](https://doc.clickup.com/2177704/d/h/22en8-40/8b6598b23fed165)
 
 ## HTTP
 
@@ -109,6 +111,9 @@
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 - [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/)
 - [Estudo sobre HTTP2 e protocolos binários](https://dev.to/marcelmfa/estudo-sobre-http2-e-protocolos-binarios-parte-1-5h9o)
+- [HTTP‘s New Method For Data APIs: HTTP QUERY](https://horovits.medium.com/http-s-new-method-for-data-apis-http-query-1ff71e6f73f3)
+- [Defining a new HTTP method: HTTP SEARCH](https://httptoolkit.tech/blog/http-search-method/)
+- [HTTP vs HTTPS – What's the Difference?](https://www.freecodecamp.org/news/http-vs-https/)
 
 ## Console / DevTools
 

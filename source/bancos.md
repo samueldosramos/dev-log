@@ -84,3 +84,4 @@
 - [Curso Online – Oracle SQL](http://www.mastertraining.com.br/course/oracle-sql/)
 - [Curso de SQL Completo Gratuito (BD-03)](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03)
 - [PostgreSQL execution plan visualizer](https://explain.dalibo.com)
+- [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com)
