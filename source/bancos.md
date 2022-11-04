@@ -35,6 +35,7 @@
 - [How to install Postgres on macOS](https://flaviocopes.com/postgres-how-to-install/)
 - [effective_cache_size: What It Means In PostgreSQL](https://www.cybertec-postgresql.com/en/effective_cache_size-what-it-means-in-postgresql/)
 - [Understanding caching in Postgres - An in-depth guide](https://madusudanan.com/blog/understanding-postgres-caching-in-depth/)
+- [Cluster: Improving PostgreSQL Performance](https://www.cybertec-postgresql.com/en/cluster-improving-postgresql-performance/)
 
 ## MySQL
 
