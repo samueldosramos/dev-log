@@ -124,6 +124,7 @@
 - [Trabalhando com arrays e objetos no JavaScript](https://www.treinaweb.com.br/blog/trabalhando-com-arrays-e-objetos-no-javascript)
 - [Retirar duplicados de um array em JavaScript](https://www.delftstack.com/pt/howto/javascript/javascript-remove-duplicates-from-an-array/)
 - [Como remover elementos duplicados de uma array no javascript es6/](https://igluonline.com/como-remover-elementos-duplicados-de-uma-array-no-javascript-es6/)
+- [Os melhores exemplos de JavaScript](https://www.freecodecamp.org/portuguese/news/os-melhores-exemplos-de-javascript/)
 
 ## Dicas
 
@@ -184,6 +185,7 @@
 - [Técnicas de Programação Segura em JavaScript](https://blog.convisoappsec.com/tecnicas-de-programacao-segura-em-javascript/)
 - [5 package.json magic scripts that you don't use!](https://dev.to/kumareth/5-package-json-magic-scripts-that-you-don-t-use-4n3p)
 - [How to add leading zero to a number in JavaScript](https://flaviocopes.com/js-add-leading-zero/)
+- [How to fix "cannot use import statement outside a module"](https://flaviocopes.com/fix-cannot-use-import-outside-module/)
 
 ## Estrutura de dados
 

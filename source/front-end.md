@@ -100,6 +100,8 @@
 - [Separador Horizontal em HTML e CSS do Jeito Certo + Exemplos](https://metring.com.br/separador-horizontal-em-html-e-css)
 - [Web3 Developer Roadmap ⇿ Zero To Hero](https://doc.clickup.com/2177704/d/h/22en8-40/8b6598b23fed165)
 - [Building a floating action button (FAB) component](https://web.dev/building-a-fab-component/)
+- [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
+- [Full Stack Components](https://www.epicweb.dev/full-stack-components)
 
 ## HTTP
 

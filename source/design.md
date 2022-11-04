@@ -239,6 +239,7 @@
 - [7 Rules for Creating Gorgeous UI (Updated for 2020)](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
 - [As Leis da Gestalt aplicadas ao Design de Interfaces](https://brasil.uxdesign.cc/as-leis-da-gestalt-aplicadas-ao-design-de-interfaces-efc480dc06ec)
 - [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
+- [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
 
 ## Web Design
 
@@ -357,6 +358,7 @@
 - [UX Research — O Guia do Investigador](https://brasil.uxdesign.cc/ux-research-o-guia-do-investigador-8dc4434584e8)
 - [Um guia para extrair os melhores insights dos usuários em pesquisas](https://brasil.uxdesign.cc/um-guia-para-extrair-os-melhores-insights-dos-usuários-em-pesquisas-4451c7853cf6)
 - [Da Desk à Jornada - Como aplicar Research em Estratégia de Conteúdo](https://brasil.uxdesign.cc/da-desk-à-jornada-como-aplicar-research-em-estratégia-de-conteúdo-b5251525ce1a)
+- [Como organizar as categorias de uma Central de Ajuda](https://brasil.uxdesign.cc/como-organizar-as-categorias-de-uma-central-de-ajuda-c45b85f3cdd8)
 
 ## UX Writing
 
