@@ -121,6 +121,7 @@
 - [Como personalizar os componentes React com props](https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props-pt)
 - [React: Event Bubbling and Capturing](https://www.robinwieruch.de/react-event-bubbling-capturing/)
 - [O React 18 foi lançado! E agora?](https://juliocarneiro.medium.com/o-react-18-foi-lançado-e-agora-40813b1b1b9c)
+- [Why React needs a key prop](https://epicreact.dev/why-react-needs-a-key-prop/)
 
 ## React Hooks
 

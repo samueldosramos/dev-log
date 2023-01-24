@@ -68,6 +68,7 @@
 - [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
 - [Como o uso Microfrontends melhorou a produtividade do nosso time](https://medium.com/reactbrasil/como-o-uso-microfrontends-melhorou-a-produtividade-do-nosso-time-b6b9c63dd94f)
 - [O que é micro front end?](https://dev.to/jpbrab0/o-que-e-micro-front-end-4kci)
+- [The Future of Micro Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Web Applications 101](https://www.robinwieruch.de/web-applications)
 - [Ainda precisamos nos preocupar com “Pixel Perfection”?](https://desenvolvimentoparaweb.com/design/pixel-perfection/)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)

@@ -272,6 +272,7 @@
 - [Drops #01: Corrigindo vulnerabilidades em dependências com Yarn! (ou quase)](https://dev.to/wnqueiroz/drops-01-corrigindo-vulnerabilidades-em-dependencias-com-yarn-ou-quase-2e2p)
 - [As novidades do Node.js 18!](https://blog.lsantos.dev/node-18/)
 - [10 Práticas Recomendadas em NodeJS: Guia para Iniciante](https://tipscode.com.br/10-praticas-recomendadas-em-nodejs-guia-para-iniciante)
+- [Fixing a Memory Leak in a Production Node.js App](https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app)
 
 ## NestJS
 
@@ -312,6 +313,7 @@
 - [Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [Typescript - Uma breve introdução - Type utilities - Parte 2](https://www.crisgon.dev/typescript-uma-breve-introdução-type-utilities-parte-2/)
 - [Typescript - Uma breve introdução - Generics](https://www.crisgon.dev/typescript-uma-breve-introdução-generics/)
+- [TypeScript — Generics](https://medium.com/xp-inc/typescript-generics-8d34c16043ee)
 - [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [TypeScript - Zero to Hero Series' Articles](https://dev.to/glaucia86/series/11515)
 - [Optional Chaining e null coalescing operator com TypeScript](https://imasters.com.br/javascript/optional-chaining-e-null-coalescing-operator-com-typescript)
@@ -401,6 +403,7 @@
 - [Jest, Babel e TypeScript: Configurando testes para seu projeto](https://oieduardorabelo.medium.com/jest-babel-e-typescript-configurando-testes-para-seu-projeto-201f001f45ef)
 - [How to test a select element with React Testing Library](https://cathalmacdonnacha.com/how-to-test-a-select-element-with-react-testing-library)
 - [Setting up cypress](https://debbie.codes/blog/cypress-setup/)
+- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/)
 
 ## Dataviz
 

@@ -146,6 +146,7 @@
 - [Fontpair](https://www.fontpair.co)
 - [Web Fonts in 2021](https://leerob.io/blog/fonts)
 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here)
+- [Taming the dragon: Accessible drag and drop](https://react-spectrum.adobe.com/blog/drag-and-drop.html)
 
 ## Cores
 

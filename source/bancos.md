@@ -14,6 +14,7 @@
 - [Principais comandos SQL](https://www.treinaweb.com.br/blog/principais-comandos-sql/)
 - [Mastery with SQL](https://www.masterywithsql.com)
 - [SQL Data Types](https://www.journaldev.com/16774/sql-data-types)
+- [Injecting metadata as comments in our SQL queries: an “interesting” story](https://www.adyen.com/blog/injecting-metadata-as-comments)
 
 ## SQLite3
 
