@@ -99,6 +99,7 @@
 - [Design tokens — What are they & how will they help you?](https://vea.re/blog/design-tokens-what-are-they-and-how-will-they-help-you)
 - [Turbine seu Design System com Design Tokens](https://brasil.uxdesign.cc/turbine-seu-design-system-com-design-tokens-12553635b31d)
 - [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
+- [Criando uma linguagem de design coesa e eficiente com design tokens](https://brasil.uxdesign.cc/criando-uma-linguagem-de-design-coesa-e-eficiente-com-design-tokens-e722a9444db2)
 - [Porque, quando e como fazer um Blueprint de Serviços](https://brasil.uxdesign.cc/porque-quando-e-como-fazer-um-blueprint-de-serviços-83f01d76a2c6)
 - [Sticky Headers: 5 Ways to Make Them Better](https://www.nngroup.com/articles/sticky-headers/)
 - [Criando uma linguagem visual](https://brasil.uxdesign.cc/criando-uma-linguagem-visual-28f90e13fb84)
@@ -112,6 +113,7 @@
 - [Dark mode: gosto pessoal, hype ou questão de saúde?](https://brasil.uxdesign.cc/dark-mode-gosto-pessoal-hype-ou-questão-de-saúde-db6ba7cfdc9a)
 - [The Nested Corner Case](https://carlosnuila.com/blog/nested-corners)
 - [Ajuste óptico no design: Precisão vs. Percepção](https://brasil.uxdesign.cc/precisão-vs-percepção-entenda-a-importância-do-ajuste-óptico-a259fa2d3515)
+- [Pixel Perfect — Boas Práticas e Gestalt](https://medium.com/@elvisoares/pixel-perfect-boas-práticas-e-gestalt-9665e4f05230)
 
 ## Tipografia
 
