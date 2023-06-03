@@ -65,6 +65,7 @@
 - [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/)
 - [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)
 - [Free Intro to Web Development slides (with demos)](https://lea.verou.me/2018/02/free-intro-to-web-development-slides-with-demos/)
+- [Micro Frontends](https://micro-frontends.org)
 - [Micro Front-End – Microserviços no seu navegador](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador/)
 - [Como o uso Microfrontends melhorou a produtividade do nosso time](https://medium.com/reactbrasil/como-o-uso-microfrontends-melhorou-a-produtividade-do-nosso-time-b6b9c63dd94f)
 - [O que é micro front end?](https://dev.to/jpbrab0/o-que-e-micro-front-end-4kci)
@@ -103,6 +104,7 @@
 - [Building a floating action button (FAB) component](https://web.dev/building-a-fab-component/)
 - [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 - [Full Stack Components](https://www.epicweb.dev/full-stack-components)
+- [The Epic Stack](https://www.epicweb.dev/epic-stack)
 
 ## HTTP
 

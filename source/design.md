@@ -243,6 +243,7 @@
 - [As Leis da Gestalt aplicadas ao Design de Interfaces](https://brasil.uxdesign.cc/as-leis-da-gestalt-aplicadas-ao-design-de-interfaces-efc480dc06ec)
 - [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
 - [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
+- [UI Design: Guia de sites para te ajudar a montar interfaces](https://brasil.uxdesign.cc/ui-design-guia-de-sites-para-te-ajudar-a-montar-interfaces-2782c31b6560)
 
 ## Web Design
 

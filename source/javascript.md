@@ -445,6 +445,7 @@
 - [Gatsby Graphql schema customization for beginners](https://pixelpoint.io/blog/gatsby-graphql-schema-customization-for-beginners/)
 - [Syntax highlighting with Gatsby, MDX, Tailwind and Prism React Renderer](https://paulie.dev/posts/2022/08/syntax-highlighting-with-gatsby-mdx-and-prism-react-renderer/)
 - [How to use TanStack Query (react-query) with Gatsby](https://paulie.dev/posts/2022/09/how-to-use-tanstack-query-with-gatsby/)
+- [2022 ExpressJS Cheatsheet](https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o)
 
 ## Utilidades
 

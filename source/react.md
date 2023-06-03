@@ -2,7 +2,8 @@
 
 ## Introdução
 
-- [React](https://pt-br.reactjs.org)
+- [React](https://react.dev/)
+- [React Legacy](https://legacy.reactjs.org)
 - [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 - [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
