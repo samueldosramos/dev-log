@@ -13,6 +13,8 @@
 - [Shell Command Language](https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_02_02)
 - [Como verificar qual shell estou usando?](https://sobrelinux.info/questions/24/how-to-check-which-shell-am-i-using)
 - [Shell](https://guialinux.uniriotec.br/shell/)
+- [Introdução ao Shell Script no Linux](https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
+- [10 Useful Chaining Operators in Linux with Practical Examples](https://www.tecmint.com/chaining-operators-in-linux-with-practical-examples/)
 
 ## ZSH
 
