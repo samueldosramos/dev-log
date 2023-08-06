@@ -156,6 +156,7 @@
 - [Custom properties with defaults: 3+1 strategies](https://lea.verou.me/2021/10/custom-properties-with-defaults/)
 - [CSS Logical Properties](https://desenvolvimentoparaweb.com/css/css-logical-properties/)
 - [A color-contrast() strategy for complimentary translucent backgrounds](https://nerdy.dev/color-from-color-contrast-result)
+- [Defensive CSS](https://defensivecss.dev)
 
 ## Animações
 
