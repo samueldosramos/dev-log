@@ -48,6 +48,7 @@
 - [LinkedIn anuncia CSS Blocks, o novo otimizador de CSS](http://desenvolvimentoparaweb.com/css/css-blocks-linkedin-otimizador-css/)
 - [CSS Blocks: introdução à API](http://desenvolvimentoparaweb.com/css/css-blocks-api-introducao/)
 - [Truques de como selecionar o n-ésimo item com CSS usando a pseudo-classe :nth-child](https://www.treinaweb.com.br/blog/truques-de-como-selecionar-o-n-esimo-item-com-css-usando-a-pseudo-classe-nth-child/)
+- [CSS Condicional com :has e :nth-last-child](https://desenvolvimentoparaweb.com/css/css-condicional-has-nth-last-child/)
 - [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
 - [Tabela de Referência de Seletores de CSS](https://tableless.com.br/referencia-seletores-css/)
 - [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
@@ -157,6 +158,7 @@
 - [CSS Logical Properties](https://desenvolvimentoparaweb.com/css/css-logical-properties/)
 - [A color-contrast() strategy for complimentary translucent backgrounds](https://nerdy.dev/color-from-color-contrast-result)
 - [Defensive CSS](https://defensivecss.dev)
+- [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
 
 ## Animações
 
