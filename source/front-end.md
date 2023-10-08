@@ -177,6 +177,7 @@
 - [Minimizando o tamanho do pacote](https://material-ui.com/pt/guides/minimizing-bundle-size/)
 - [Melhore o desempenho do seu site com software livre](https://diolinux.com.br/tutoriais/seo-melhore-o-desempenho-do-seu-site.html)
 - [Pontuação de desempenho no Lighthouse](https://web.dev/performance-scoring/)
+- [Get All That Network Activity Under Control with Priority Hints](https://www.macarthur.me/posts/priority-hints)
 
 ## SPA/PWA
 
@@ -187,6 +188,7 @@
 - [5 maiores erros de segurança em Single Page Apps](https://blog.novatics.com.br/5-maiores-erros-de-segurança-em-single-page-apps-4083044c2292)
 - [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 - [How Progressive Web Apps work](https://debbie.codes/blog/progressive-web-apps/)
+- [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
 
 ## Web Components
 
