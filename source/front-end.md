@@ -105,6 +105,7 @@
 - [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 - [Full Stack Components](https://www.epicweb.dev/full-stack-components)
 - [The Epic Stack](https://www.epicweb.dev/epic-stack)
+- [Como deixar seu rodapé no lugar certo?](https://www.freecodecamp.org/portuguese/news/como-deixar-seu-rodape-no-lugar-certo/)
 
 ## HTTP
 
