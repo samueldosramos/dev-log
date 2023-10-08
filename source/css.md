@@ -181,6 +181,7 @@
 - [Using Emoji as the Mouse Cursor on a Webpage](https://www.bram.us/2021/01/17/using-emoji-as-the-mouse-cursor-on-a-webpage/)
 - [Understanding Easing Functions For CSS Animations And Transitions](https://www.smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/)
 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+- [10 dicas para melhores animações e transições CSS](https://desenvolvimentoparaweb.com/css/10-dicas-animacoes-transicoes-css/)
 
 ## Responsividade
 
