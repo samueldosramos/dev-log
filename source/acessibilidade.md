@@ -64,6 +64,7 @@
 - [Design Universal, Design Inclusivo e Design com foco na equidade](https://brasil.uxdesign.cc/acessibilidade-ux-design-universal-design-inclusivo-e-design-com-foco-na-equidade-4e5429811997)
 - [Leitores de tela, hashtags e emojis](https://reinaldoferraz.com.br/leitores-de-tela-hashtags-e-emojis/)
 - [Ilustrações acessíveis: melhorando experiências digitais para usuários com daltonismo](https://brasil.uxdesign.cc/ilustracoes-acessiveis-melhorando-experiencias-digitais-para-usuarios-com-daltonismo-8f73e749c09e)
+- [15 checklists de acessibilidade essenciais para quem desenvolve canais digitais](https://mwpt.com.br/15-checklists-de-acessibilidade-essenciais-para-quem-desenvolve-canais-digitais/)
 
 ## Utilidades
 
