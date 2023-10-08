@@ -97,6 +97,7 @@
 - [Pre-Caching Image with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
 - [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?)
 - [Composição e React HoC (Higher Order Components)](https://gabrieluizramos.com.br/composicao-e-react-hoc/)
+- [Padrões React: Higher-Order Components](https://www.cristiano.dev/blog/2023-08-30-react-patterns-hocs-components-de-ordem-superior)
 - [Recursão com componentes React](https://gabrieluizramos.com.br/recursao-com-componentes-react)
 - [5 motivos para estudar React](https://www.treinaweb.com.br/blog/5-motivos-para-estudar-react/)
 - [Meu primeiro Higher-Order Component](https://medium.com/reactbrasil/meu-primeiro-higher-order-component-a376efc654a8)
@@ -124,6 +125,8 @@
 - [O React 18 foi lançado! E agora?](https://juliocarneiro.medium.com/o-react-18-foi-lançado-e-agora-40813b1b1b9c)
 - [Why React needs a key prop](https://epicreact.dev/why-react-needs-a-key-prop/)
 - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
+- [Padrões React: Container & Presentational](https://www.cristiano.dev/blog/2023-08-23-react-patterns-container-presentational)
+- [Padrões React: Render Props](https://www.cristiano.dev/blog/2023-09-14-react-patterns-render-props)
 
 ## React Hooks
 
