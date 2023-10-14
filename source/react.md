@@ -4,6 +4,7 @@
 
 - [React](https://react.dev/)
 - [React Legacy](https://legacy.reactjs.org)
+- [O que é React: Para que serve, como funciona e características](https://kenzie.com.br/blog/react/)
 - [React: o que é e como funciona essa ferramenta?](https://br.udacity.com/blog/post/react-o-que-e-como-funciona)
 - [Como usar React para agilizar um projeto](https://stories.ebanx.com/como-usar-react-para-agilizar-um-projeto)
 - [React: por que considerá-lo no seu projeto?](https://dtidigital.com.br/blog/considere-react-no-seu-projeto/)
@@ -169,6 +170,7 @@
 - [React: Quando usar useLayoutEffect ao invés de useEffect](https://oieduardorabelo.medium.com/react-quando-usar-uselayouteffect-ao-invés-de-useeffect-9f2157396aac)
 - [How to use useEffect callback with event callbacks](https://flaviocopes.com/fix-useeffect-event-callback/)
 - [React Hooks: The Deep Cuts](https://css-tricks.com/react-hooks-the-deep-cuts/)
+- [An Introduction To SWR: React Hooks For Remote Data Fetching](https://www.smashingmagazine.com/2020/06/introduction-swr-react-hooks-remote-data-fetching/)
 
 ## Context API
 
