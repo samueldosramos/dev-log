@@ -82,6 +82,7 @@
 - [Documentação automática de APIs em Node.js com Swagger](https://davibaltar.medium.com/documentação-automática-de-apis-em-node-js-eb03041c643b)
 - [Streaming requests with the fetch API](https://developer.chrome.com/articles/fetch-streaming-requests/)
 - [Learn CRUD Operations in JavaScript by Building TODO APP](https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/)
+- [Fetch - HTTP POST Request Examples](https://jasonwatmore.com/post/2021/09/05/fetch-http-post-request-examples)
 
 ## Utilidades
 
