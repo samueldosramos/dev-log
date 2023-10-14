@@ -114,6 +114,7 @@
 - [The Nested Corner Case](https://carlosnuila.com/blog/nested-corners)
 - [Ajuste óptico no design: Precisão vs. Percepção](https://brasil.uxdesign.cc/precisão-vs-percepção-entenda-a-importância-do-ajuste-óptico-a259fa2d3515)
 - [Pixel Perfect — Boas Práticas e Gestalt](https://medium.com/@elvisoares/pixel-perfect-boas-práticas-e-gestalt-9665e4f05230)
+- [Guia landing pages otimizadas para conversão + template grátis no Figma](https://brasil.uxdesign.cc/guia-completo-de-como-criar-landing-pages-otimizadas-para-conversão-template-grátis-no-figma-2974969a566a)
 
 ## Tipografia
 
