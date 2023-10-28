@@ -233,6 +233,7 @@
 - [prefers-reduced-data: como funciona a nova media query](https://desenvolvimentoparaweb.com/css/prefers-reduced-data/)
 - [Uma nova responsividade](https://brasil.uxdesign.cc/uma-nova-responsividade-ee20472630c1)
 - [9 regras para web design responsivo](https://desenvolvimentoparaweb.com/design/regras-web-design-responsivo/)
+- [Posicionamento ideal para botões no mobile](https://brasil.uxdesign.cc/posicionamento-ideal-para-botões-no-mobile-72ed32bda229)
 
 ## Organização
 
