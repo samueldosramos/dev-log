@@ -246,6 +246,7 @@
 - [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
 - [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
 - [UI Design: Guia de sites para te ajudar a montar interfaces](https://brasil.uxdesign.cc/ui-design-guia-de-sites-para-te-ajudar-a-montar-interfaces-2782c31b6560)
+- [Placeholders mal aplicados podem ser prejudiciais para seu formulário](https://brasil.uxdesign.cc/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formulário-bf9ba83d62ff)
 
 ## Web Design
 
