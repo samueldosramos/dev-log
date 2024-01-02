@@ -218,6 +218,7 @@
 - [Quando a intenção orienta o design](https://brasil.uxdesign.cc/quando-a-intencao-orienta-o-design-3c603728254f)
 - [Melhorando a experiência de uso dos gráficos com visualização de dados](https://brasil.uxdesign.cc/melhorando-a-experiencia-de-uso-dos-graficos-com-visualizacao-de-dados-c8f20ff324cd)
 - [Mobile UX Design: Princípios-chave para você detonar](https://brasil.uxdesign.cc/mobile-ux-design-princ%C3%ADpios-chave-para-você-detonar-9dd8df204e8f)
+- [Placeholders mal aplicados podem ser prejudiciais para seu formulário](https://brasil.uxdesign.cc/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formulário-bf9ba83d62ff)
 
 ## UI
 
@@ -246,7 +247,6 @@
 - [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
 - [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
 - [UI Design: Guia de sites para te ajudar a montar interfaces](https://brasil.uxdesign.cc/ui-design-guia-de-sites-para-te-ajudar-a-montar-interfaces-2782c31b6560)
-- [Placeholders mal aplicados podem ser prejudiciais para seu formulário](https://brasil.uxdesign.cc/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formulário-bf9ba83d62ff)
 
 ## Web Design
 
