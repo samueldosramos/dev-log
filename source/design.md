@@ -351,6 +351,7 @@
 - [10 aprendizados sobre Design System para 2022](https://brasil.uxdesign.cc/10-aprendizados-sobre-design-system-para-2022-826e246f7766)
 - [Aprendizados sobre Design System](https://brasil.uxdesign.cc/alguns-aprendizados-sobre-design-system-nos-últimos-três-meses-fe30c2907551)
 - [Design Tokens and Theming](https://debbie.codes/blog/design-tokens-and-theming/)
+- [Design System: o que você também precisa saber](https://brasil.uxdesign.cc/design-system-o-que-voce-precisa-saber-c562c163cda3)
 
 ## UX Research
 
