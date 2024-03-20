@@ -136,6 +136,7 @@
 - [Habemus React Hooks](https://willianjusten.com.br/habemus-react-hooks/)
 - [Learn React Hooks by building a game](https://react.games)
 - [React Hooks - Slides React Salvador Meetup](https://slides.com/lucianolima/react-hooks/fullscreen#/)
+- [Padrões React: Hooks](https://www.cristiano.dev/blog/2024-01-25-react-patterns-hooks)
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
 - [Formik com Hooks - Simplicidade na integração — useFormik()! Parte 1](https://medium.com/reactbrasil/formik-com-hooks-simplicidade-e-potềncia-useformik-parte-1-d518fec52dae)
 - [Formik: Como criar um formulário com campos dinâmicos?](https://medium.com/reactbrasil/formik-como-criar-um-formulário-com-campos-dinâmicos-a150d60a8610)
