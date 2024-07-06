@@ -115,6 +115,7 @@
 - [Ajuste óptico no design: Precisão vs. Percepção](https://brasil.uxdesign.cc/precisão-vs-percepção-entenda-a-importância-do-ajuste-óptico-a259fa2d3515)
 - [Pixel Perfect — Boas Práticas e Gestalt](https://medium.com/@elvisoares/pixel-perfect-boas-práticas-e-gestalt-9665e4f05230)
 - [Guia landing pages otimizadas para conversão + template grátis no Figma](https://brasil.uxdesign.cc/guia-completo-de-como-criar-landing-pages-otimizadas-para-conversão-template-grátis-no-figma-2974969a566a)
+- [Você realmente sabe usar alinhamento em interfaces?](https://brasil.uxdesign.cc/você-realmente-sabe-usar-alinhamento-em-interfaces-52ae5ce9abfb)
 
 ## Tipografia
 
@@ -352,6 +353,7 @@
 - [Aprendizados sobre Design System](https://brasil.uxdesign.cc/alguns-aprendizados-sobre-design-system-nos-últimos-três-meses-fe30c2907551)
 - [Design Tokens and Theming](https://debbie.codes/blog/design-tokens-and-theming/)
 - [Design System: o que você também precisa saber](https://brasil.uxdesign.cc/design-system-o-que-voce-precisa-saber-c562c163cda3)
+- [Criando novos componentes para um Design System](https://brasil.uxdesign.cc/criando-novos-componentes-para-um-design-system-5a8c911a1818)
 
 ## UX Research
 
