@@ -159,6 +159,7 @@
 - [A color-contrast() strategy for complimentary translucent backgrounds](https://nerdy.dev/color-from-color-contrast-result)
 - [Defensive CSS](https://defensivecss.dev)
 - [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
+- [Estilização de formulários com CSS puro (avançado)](https://desenvolvimentoparaweb.com/css/estilizar-formulario-css-puro/)
 
 ## Animações
 
