@@ -65,6 +65,7 @@
 - [Leitores de tela, hashtags e emojis](https://reinaldoferraz.com.br/leitores-de-tela-hashtags-e-emojis/)
 - [Ilustrações acessíveis: melhorando experiências digitais para usuários com daltonismo](https://brasil.uxdesign.cc/ilustracoes-acessiveis-melhorando-experiencias-digitais-para-usuarios-com-daltonismo-8f73e749c09e)
 - [15 checklists de acessibilidade essenciais para quem desenvolve canais digitais](https://mwpt.com.br/15-checklists-de-acessibilidade-essenciais-para-quem-desenvolve-canais-digitais/)
+- [Criando apps inclusivos utilizando o guia da Apple como base](https://brasil.uxdesign.cc/criando-apps-inclusivos-utilizando-o-guia-da-apple-como-base-3c8907d355aa)
 
 ## Utilidades
 
