@@ -128,7 +128,7 @@
 - [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
 - [Padrões React: Container & Presentational](https://www.cristiano.dev/blog/2023-08-23-react-patterns-container-presentational)
 - [Padrões React: Render Props](https://www.cristiano.dev/blog/2023-09-14-react-patterns-render-props)
-- [https://ranveersequeira.medium.com/two-way-data-binding-vs-one-way-data-binding-67f3f97a5a05](https://ranveersequeira.medium.com/two-way-data-binding-vs-one-way-data-binding-67f3f97a5a05)
+- [Two way Data Binding vs One way Data Binding](https://ranveersequeira.medium.com/two-way-data-binding-vs-one-way-data-binding-67f3f97a5a05)
 
 ## React Hooks
 
