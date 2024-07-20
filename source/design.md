@@ -220,6 +220,7 @@
 - [Melhorando a experiência de uso dos gráficos com visualização de dados](https://brasil.uxdesign.cc/melhorando-a-experiencia-de-uso-dos-graficos-com-visualizacao-de-dados-c8f20ff324cd)
 - [Mobile UX Design: Princípios-chave para você detonar](https://brasil.uxdesign.cc/mobile-ux-design-princ%C3%ADpios-chave-para-você-detonar-9dd8df204e8f)
 - [Placeholders mal aplicados podem ser prejudiciais para seu formulário](https://brasil.uxdesign.cc/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formulário-bf9ba83d62ff)
+- [Motion Design em UI e UX: Melhorando a experiência do usuário com animações](https://brasil.uxdesign.cc/motion-design-em-ui-e-ux-melhorando-a-experiência-do-usuário-com-animações-d98e1ec5fa19)
 
 ## UI
 
@@ -248,6 +249,7 @@
 - [Um guia básico para criar uma interface antes de abrir o Figma](https://brasil.uxdesign.cc/um-guia-básico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f)
 - [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
 - [UI Design: Guia de sites para te ajudar a montar interfaces](https://brasil.uxdesign.cc/ui-design-guia-de-sites-para-te-ajudar-a-montar-interfaces-2782c31b6560)
+- [UI Design em foco: História e tipos](https://brasil.uxdesign.cc/ui-design-em-foco-historia-e-conceitos-5b6b3371a097)
 
 ## Web Design
 
