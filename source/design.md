@@ -250,6 +250,9 @@
 - [Otimizando componentes no Figma com uso de propriedades](https://brasil.uxdesign.cc/otimizando-componentes-no-figma-com-uso-de-propriedades-c170862b3693)
 - [UI Design: Guia de sites para te ajudar a montar interfaces](https://brasil.uxdesign.cc/ui-design-guia-de-sites-para-te-ajudar-a-montar-interfaces-2782c31b6560)
 - [UI Design em foco: História e tipos](https://brasil.uxdesign.cc/ui-design-em-foco-historia-e-conceitos-5b6b3371a097)
+- [UI Design em foco: Conceitos de Interface do usuário](https://brasil.uxdesign.cc/ui-design-em-foco-conceitos-de-interface-do-usuário-ce355ac9d0a1)
+- [UI Design em foco: Balanço](https://brasil.uxdesign.cc/ui-design-em-foco-balanço-ca6d9850d4d7)
+- [A evolução do menu UI](https://brasil.uxdesign.cc/a-evolução-do-menu-ui-command-palette-k-e-sua-relevância-no-design-de-interfaces-953542e878b9)
 
 ## Web Design
 
