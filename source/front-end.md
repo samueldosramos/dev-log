@@ -106,6 +106,7 @@
 - [Full Stack Components](https://www.epicweb.dev/full-stack-components)
 - [The Epic Stack](https://www.epicweb.dev/epic-stack)
 - [Como deixar seu rodapé no lugar certo?](https://www.freecodecamp.org/portuguese/news/como-deixar-seu-rodape-no-lugar-certo/)
+- [O quanto um desenvolvedor Frontend deve conhecer sobre Backend?](https://vinniciusgomes.dev/articles/o-quanto-um-desenvolvedor-frontend-deve-conhecer-sobre-backend)
 
 ## HTTP
 
