@@ -160,6 +160,7 @@
 - [Defensive CSS](https://defensivecss.dev)
 - [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
 - [Estilização de formulários com CSS puro (avançado)](https://desenvolvimentoparaweb.com/css/estilizar-formulario-css-puro/)
+- [We Can Finally Animate height: auto; in CSS!](https://blog.webdevsimplified.com/2024-07/css-calc-size/)
 
 ## Animações
 
