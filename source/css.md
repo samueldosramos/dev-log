@@ -310,6 +310,7 @@
 - [Grid by Example](https://gridbyexample.com)
 - [The Minimum Content Size In CSS Grid](https://ishadeed.com/article/min-content-size-css-grid/)
 - [CSS Grid: alinhando elementos (com exemplos)](https://triangulo.dev/posts/css-grid-alinhando-elementos-na-pratica)
+- [Layouts com CSS Grid e minmax()](https://desenvolvimentoparaweb.com/css/layouts-com-css-grid-e-minmax/)
 
 ## Pré-processadores
 
