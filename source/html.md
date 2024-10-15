@@ -63,6 +63,7 @@
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Observing rendered DOM nodes](https://whistlr.info/2021/observing-dom/)
 - [O que é DOM?](https://www.treinaweb.com.br/blog/trabalhando-com-javascript-no-navegador/)
+- [Entendendo renderização no browser: DOM](https://www.cristiano.dev/blog/2024-09-17-processo-renderizacao-no-browser)
 
 ## Utilidades
 
