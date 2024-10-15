@@ -182,6 +182,8 @@
 - [Setup GPG for git on macOS](https://medium.com/@jma/setup-gpg-for-git-on-macos-4ad69e8d3733)
 - [Signing your Git Commits using GPG on MacOS Sierra/High Sierra Raw](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e)
 - [How (and why) to sign Git commits](https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html)
+- [Associating an email with your GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/associating-an-email-with-your-gpg-key)
+- [How to remove an email address from a GPG key](https://infertux.com/posts/2013/11/03/how-to-remove-an-email-address-from-a-gpg-key/)
 - [GPG Keys Cheatsheet](https://easyengine.io/tutorials/linux/gpg-keys/)
 
 ## Utilidades
