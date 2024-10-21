@@ -327,6 +327,7 @@
 - [How To Use Classes in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-classes-in-typescript)
 - [Understanding TypeScript](https://debbie.codes/blog/understanding-typescript/)
 - [TypeScript and Children](https://debbie.codes/blog/typescript-and-children/)
+- [TypeScript Naming Conventions: Crafting Maintainable Code](https://aykhanhuseyn.medium.com/typescript-naming-conventions-crafting-maintainable-code-7d872234fe17)
 
 # Style/Clean code
 
