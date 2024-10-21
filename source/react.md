@@ -156,7 +156,7 @@
 - [Criando um React Custom Hook com Testes](https://dev.to/willianjusten/criando-um-react-custom-hook-com-testes-1o1f)
 - [Iniciando com React Hooks - useState](https://www.crisgon.dev/iniciando-com-react-hooks-usestate/)
 - [Iniciando com React Hooks - useEffect](https://www.crisgon.dev/iniciando-com-react-hooks-useeffect/)
-- [Iniciando com React Hooks - useMemo](https://www.crisgon.dev/iniciando-com-react-hooks-usememo/)
+- [Iniciando com React Hooks - useMemo](https://www.cristiano.dev/blog/2021-04-14-iniciando-com-react-hooks-usememo)
 - [Diminuindo Processamento com useMemo em React](https://blog.matheuscastiglioni.com.br/diminuindo-processamento-com-use-memo-em-react/)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
