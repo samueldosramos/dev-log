@@ -71,6 +71,7 @@
 - [Comandos do Git que você precisa conhecer – Parte 1](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
 - [Comandos do Git que você precisa conhecer – Parte 2 – Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos/)
 - [Transfer git repositories from GitLab to GitHub](https://stackoverflow.com/questions/22265837/transfer-git-repositories-from-gitlab-to-github-can-we-how-to-and-pitfalls-i)
+- [Atlassian - Git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 - [Como utilizar a técnica do stash para manter um trabalho com modificações seguras](https://imasters.com.br/desenvolvimento/como-utilizar-a-tecnica-do-stash-para-manter-um-trabalho-com-modificacoes-seguras)
 - [Como Git Stash seu trabalho – a maneira correta](https://www.agatetepe.com.br/como-git-stash-seu-trabalho-a-maneira-correta/)
 - [Truques úteis que você pode não saber sobre o Git Stash](https://www.agatetepe.com.br/truques-uteis-que-voce-pode-nao-saber-sobre-o-git-stash/)
