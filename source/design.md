@@ -253,6 +253,7 @@
 - [UI Design em foco: Conceitos de Interface do usuário](https://brasil.uxdesign.cc/ui-design-em-foco-conceitos-de-interface-do-usuário-ce355ac9d0a1)
 - [UI Design em foco: Balanço](https://brasil.uxdesign.cc/ui-design-em-foco-balanço-ca6d9850d4d7)
 - [A evolução do menu UI](https://brasil.uxdesign.cc/a-evolução-do-menu-ui-command-palette-k-e-sua-relevância-no-design-de-interfaces-953542e878b9)
+- [A importância de Hover States no Design de interface](https://brasil.uxdesign.cc/a-importancia-de-hover-states-no-design-de-interface-6268dcb08fc2)
 
 ## Web Design
 
@@ -359,6 +360,7 @@
 - [Design Tokens and Theming](https://debbie.codes/blog/design-tokens-and-theming/)
 - [Design System: o que você também precisa saber](https://brasil.uxdesign.cc/design-system-o-que-voce-precisa-saber-c562c163cda3)
 - [Criando novos componentes para um Design System](https://brasil.uxdesign.cc/criando-novos-componentes-para-um-design-system-5a8c911a1818)
+- [A importância do HTML e CSS para quem trabalha com UI Design e Design System](https://brasil.uxdesign.cc/a-importância-do-html-e-css-para-quem-trabalha-com-ui-design-e-design-system-42ad533351c1)
 
 ## UX Research
 
