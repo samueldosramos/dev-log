@@ -161,6 +161,7 @@
 - [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
 - [Estilização de formulários com CSS puro (avançado)](https://desenvolvimentoparaweb.com/css/estilizar-formulario-css-puro/)
 - [We Can Finally Animate height: auto; in CSS!](https://blog.webdevsimplified.com/2024-07/css-calc-size/)
+- [Tier List das últimas melhores features de CSS: o que realmente vale a pena usar](https://desenvolvimentoparaweb.com/css/tier-list-css-novas-features-css-2024/)
 
 ## Animações
 
