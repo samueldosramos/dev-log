@@ -377,6 +377,7 @@
 - [Um guia para extrair os melhores insights dos usuários em pesquisas](https://brasil.uxdesign.cc/um-guia-para-extrair-os-melhores-insights-dos-usuários-em-pesquisas-4451c7853cf6)
 - [Da Desk à Jornada - Como aplicar Research em Estratégia de Conteúdo](https://brasil.uxdesign.cc/da-desk-à-jornada-como-aplicar-research-em-estratégia-de-conteúdo-b5251525ce1a)
 - [Como organizar as categorias de uma Central de Ajuda](https://brasil.uxdesign.cc/como-organizar-as-categorias-de-uma-central-de-ajuda-c45b85f3cdd8)
+- [Perplexity: Uma poderosa ferramenta de IA para pesquisas](https://brasil.uxdesign.cc/perplexity-uma-poderosa-ferramenta-de-ia-para-pesquisas-0b6bd8104971)
 
 ## UX Writing
 
