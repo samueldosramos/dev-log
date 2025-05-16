@@ -361,6 +361,7 @@
 - [Design System: o que você também precisa saber](https://brasil.uxdesign.cc/design-system-o-que-voce-precisa-saber-c562c163cda3)
 - [Criando novos componentes para um Design System](https://brasil.uxdesign.cc/criando-novos-componentes-para-um-design-system-5a8c911a1818)
 - [A importância do HTML e CSS para quem trabalha com UI Design e Design System](https://brasil.uxdesign.cc/a-importância-do-html-e-css-para-quem-trabalha-com-ui-design-e-design-system-42ad533351c1)
+- [Trabalhar com Design System é muito ingrato — ou não](https://brasil.uxdesign.cc/trabalhar-com-design-system-é-muito-ingrato-ou-não-b250666836c1)
 
 ## UX Research
 
