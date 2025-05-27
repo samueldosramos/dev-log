@@ -221,6 +221,7 @@
 - [Mobile UX Design: Princípios-chave para você detonar](https://brasil.uxdesign.cc/mobile-ux-design-princ%C3%ADpios-chave-para-você-detonar-9dd8df204e8f)
 - [Placeholders mal aplicados podem ser prejudiciais para seu formulário](https://brasil.uxdesign.cc/como-placeholders-mal-aplicados-podem-ser-prejudiciais-para-seu-formulário-bf9ba83d62ff)
 - [Motion Design em UI e UX: Melhorando a experiência do usuário com animações](https://brasil.uxdesign.cc/motion-design-em-ui-e-ux-melhorando-a-experiência-do-usuário-com-animações-d98e1ec5fa19)
+- [Vibe Coding: O superpoder que faltava para UX Designers](https://brasil.uxdesign.cc/dicas-para-ux-sobre-vibe-coding-91e24e8badf1)
 
 ## UI
 
