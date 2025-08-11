@@ -153,6 +153,7 @@
 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here)
 - [Taming the dragon: Accessible drag and drop](https://react-spectrum.adobe.com/blog/drag-and-drop.html)
 - [Fonts Knowledge](https://fonts.google.com/knowledge)
+- [Paleta tipográfica e relação hierárquica](https://brasil.uxdesign.cc/paleta-tipografica-e-relacao-hierarquica-2e68a361933f)
 
 ## Cores
 
