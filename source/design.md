@@ -117,6 +117,7 @@
 - [Guia landing pages otimizadas para conversão + template grátis no Figma](https://brasil.uxdesign.cc/guia-completo-de-como-criar-landing-pages-otimizadas-para-conversão-template-grátis-no-figma-2974969a566a)
 - [Você realmente sabe usar alinhamento em interfaces?](https://brasil.uxdesign.cc/você-realmente-sabe-usar-alinhamento-em-interfaces-52ae5ce9abfb)
 - [Parece que estão brincando com o flat design novamente](https://brasil.uxdesign.cc/parece-que-estão-brincando-com-o-flat-design-novamente-ba3b65df2a31)
+- [14 dicas de UI para interfaces mais eficientes](https://desenvolvimentoparaweb.com/ui-ux/14-dicas-ui-interfaces-eficientes/)
 
 ## Tipografia
 
