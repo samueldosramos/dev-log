@@ -328,7 +328,7 @@
 - [Understanding TypeScript](https://debbie.codes/blog/understanding-typescript/)
 - [TypeScript and Children](https://debbie.codes/blog/typescript-and-children/)
 - [TypeScript Naming Conventions: Crafting Maintainable Code](https://aykhanhuseyn.medium.com/typescript-naming-conventions-crafting-maintainable-code-7d872234fe17)
-- Zod: Type-Safe Schema Validation for TypeScript(https://thevalleyofcode.com/zod/)
+- [Zod: Type-Safe Schema Validation for TypeScript](https://thevalleyofcode.com/zod/)
 
 # Style/Clean code
 
